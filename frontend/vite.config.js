@@ -29,5 +29,9 @@ export default defineConfig({
         ]
       }
     })
-  ]
+  ],
+  define: {
+    // Domyślny URL API - zostanie nadpisany przez zmienne środowiskowe
+    'import.meta.env.VITE_API_BASE_URL': JSON.stringify(process.env.VITE_API_BASE_URL || 'http://localhost:8000')
+  }
 })
