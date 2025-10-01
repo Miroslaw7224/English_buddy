@@ -1,4 +1,4 @@
-name: english-agent
+name: English_buddy
 services:
   # Backend API
   - name: backend
