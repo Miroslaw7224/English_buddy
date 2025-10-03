@@ -42,6 +42,7 @@ class Message(BaseModel):
 class ChatRequest(BaseModel):
     message: str = Field(..., min_length=1, max_length=800)
     history: list[Message] = Field(default_factory=list, max_length=15)
+    conversation_id: str = None
 
 
 class ChatResponse(BaseModel):

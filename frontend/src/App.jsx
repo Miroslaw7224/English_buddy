@@ -1,88 +1,74 @@
-import { useState, useRef, useEffect } from 'react'
-import './App.css'
+import { useState } from "react";
+import TopBar from "./components/layout/TopBar";
+import ChatPage from "./components/pages/ChatPage";
+import { BrowserRouter, Routes, Route, Link, useNavigate } from "react-router-dom";
+import WordsPage from "./components/pages/WordsPage";
+import { AuthProvider, useAuthContext } from "./contexts/AuthContext";
+import { WordsProvider } from "./contexts/WordsContext";
+import { ToastProvider } from "./contexts/ToastContext";
+import { ErrorBoundary } from "./components/ErrorBoundary";
+import { ToastContainer } from "./components/ui/Toast";
 
-function App() {
-    const [messages, setMessages] = useState([])  // Lista wiadomości
-    const [input, setInput] = useState('')        // Tekst w polu input
-    const [loading, setLoading] = useState(false) // Czy czekamy na odpowiedź
-    const messagesEndRef = useRef(null)
-    const [error, setError] = useState(null)
 
-    const sendMessage = async () => {
-      if (!input.trim()) return  // Jeśli puste, nie rób nic
-      setError(null)  // Wyczyść poprzedni błąd
-      // Dodaj wiadomość użytkownika
-      const userMessage = { role: 'user', content: input }
-      setMessages([...messages, userMessage])
-      setInput('')  // Wyczyść pole
-      setLoading(true)  // Pokaż "Czekaj..."
-      
-      try {
-        // Wyślij do backendu
-        const response = await fetch(`${import.meta.env.VITE_API_BASE_URL}/chat`, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            message: input,
-            history: messages.slice(-10)  // Ostatnie 10 wiadomości
-          })
-        })
-        
-        const data = await response.json()
-        
-        // Dodaj odpowiedź nauczyciela
-        const assistantMessage = { role: 'assistant', content: data.response }
-        setMessages(prev => [...prev, assistantMessage])
-        
-      } catch (error) {
-        console.error('Błąd:', error)
-        setError('Nie udało się wysłać wiadomości. Sprawdź połączenie.')
-      } finally {
-        setLoading(false)
-      }
-    }
-    useEffect(() => {
-      messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' })
-    }, [messages])
+function AppContent() {
+  const [wordsOpen, setWordsOpen] = useState(false);
+  const { user, loading, error, handleLogin, handleLogout, getUsername } = useAuthContext();
+  const navigate = useNavigate();
+  return (
+    <div
+      className="min-h-screen bg-fixed bg-cover bg-center bg-no-repeat"
+      style={{ backgroundImage: "url('/bg-mountain1.jpg')" }}  // plik z /public
+    >
+      {/* przyciemnienie, żeby UI nie był na białym */}
+      <div className="min-h-screen bg-black/35">
+        <TopBar 
+          user={user}
+          loading={loading}
+          onLogin={handleLogin}
+          onLogout={() => { handleLogout(); setWordsOpen(false); }}
+          wordsOpen={wordsOpen}
+          onToggleWords={() => setWordsOpen(v => !v)}
+          getUsername={getUsername}
+        />
+        {error && <div className="mx-auto max-w-6xl px-4 py-2 bg-red-100 border border-red-400 text-red-700 rounded">{error}</div>}
+        <section className="px-4 pt-8 pb-4 text-center">
+          <div className="flex justify-center mb-0">
+            <img 
+              src="/title.png" 
+              alt="English Buddy" 
+              className="h-16 drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]"
+            />
+          </div>
+          <p style={{fontSize: '2rem', margin: 0}} className="font-bold tracking-tight 
+                        drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] flex justify-center">
+            Learn & chat in English
+          </p>
+        </section>
 
-    return (
-      <div className="app">
-        <h1>English Buddy</h1>
-        <div className="subtitle">Learn & chat in English</div>
-  
-        {error && <div className="error">{error}</div>}
-  
-        <div className="messages">
-          {messages.map((msg, index) => (
-            <div
-              key={index}
-              className={`msg ${msg.role === 'user' ? 'user' : 'assistant'}`}
-            >
-              <small>{msg.role === 'user' ? 'Ty' : 'Nick'}</small>
-              <div>{msg.content}</div>
-            </div>
-          ))}
-          <div ref={messagesEndRef} />
-        </div>
-  
-        <div className="inputRow">
-          <input
-            type="text"
-            value={input}
-            placeholder="Napisz coś..."
-            onChange={(e) => setInput(e.target.value)}
-            onKeyDown={(e) => { if (e.key === 'Enter' && !loading) sendMessage() }}
-          />
-          <button
-            className="btn"
-            onClick={sendMessage}
-            disabled={loading}
-          >
-            {loading ? 'Czekaj…' : 'Wyślij'}
-          </button>
-        </div>
+        <main className="px-4 pb-8">
+          <Routes>
+            <Route path="/" element={<ChatPage user={user} />} />
+            <Route path="/words" element={<WordsPage user={user} />} />
+          </Routes>
+        </main>
       </div>
-    )
-  }
+    </div>
+  );
+}
 
-export default App   // Eksportuj komponent
+export default function App() {
+  return (
+    <ErrorBoundary>
+      <ToastProvider>
+        <AuthProvider>
+          <WordsProvider>
+            <BrowserRouter>
+              <AppContent />
+              <ToastContainer />
+            </BrowserRouter>
+          </WordsProvider>
+        </AuthProvider>
+      </ToastProvider>
+    </ErrorBoundary>
+  );
+}

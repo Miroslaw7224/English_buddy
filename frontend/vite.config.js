@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
+import path from 'path'
 
 export default defineConfig({
   plugins: [
@@ -30,6 +31,9 @@ export default defineConfig({
       }
     })
   ],
+  resolve: { 
+    alias: { '@': path.resolve(__dirname, './src') } 
+  },
   define: {
     // Domyślny URL API - zostanie nadpisany przez zmienne środowiskowe
     'import.meta.env.VITE_API_BASE_URL': JSON.stringify(process.env.VITE_API_BASE_URL || 'http://localhost:8000')
