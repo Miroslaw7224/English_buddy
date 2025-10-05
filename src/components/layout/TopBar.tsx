@@ -2,14 +2,12 @@
 
 import { useRouter } from 'next/navigation';
 import { useAuthStore } from '@/stores/auth';
-import { useUIStore } from '@/stores/ui';
 import { Button } from '@/components/ui/button';
-import { LogIn, LogOut, BookOpen, Home } from 'lucide-react';
+import { LogIn, LogOut, Home } from 'lucide-react';
 
 export function TopBar() {
   const router = useRouter();
   const { user, loading, logout, getUsername } = useAuthStore();
-  const { openModal } = useUIStore();
 
   const handleLogout = async () => {
     try {
@@ -47,17 +45,6 @@ export function TopBar() {
 
         {/* Navigation */}
         <div className="flex items-center gap-4">
-          {/* Words Button */}
-          <Button
-            variant="outline"
-            size="sm"
-            onClick={() => openModal('words')}
-            className="bg-white/20 border-white/30 text-white hover:bg-white/30"
-          >
-            <BookOpen className="h-4 w-4 mr-2" />
-            Słówka
-          </Button>
-
           {/* Auth Section */}
           {user ? (
             <div className="flex items-center gap-2">

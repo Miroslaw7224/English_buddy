@@ -32,7 +32,8 @@ A modern Next.js application for learning English with AI-powered chat and vocab
 
 1. **Clone and install dependencies:**
 ```bash
-cd english-agent
+git clone https://github.com/Miroslaw7224/English_buddy.git
+cd English_buddy
 npm install
 ```
 
@@ -47,9 +48,15 @@ NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 ```
 
-3. **Run the development server:**
+3. **Development:**
 ```bash
 npm run dev
+```
+
+4. **Production build:**
+```bash
+npm run build
+npm run start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to see the application.
@@ -57,7 +64,7 @@ Open [http://localhost:3000](http://localhost:3000) to see the application.
 ## Project Structure
 
 ```
-english-agent/
+English_buddy/
 ├── src/
 │   ├── app/                 # Next.js App Router
 │   │   ├── auth/           # Authentication page
