@@ -24,6 +24,13 @@ export default function Home() {
         
         {/* Zakładki */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-4xl mx-auto -mt-32">
+          <Link href="/dashboard" className="group">
+            <div className="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 hover:bg-white/20 transition-all duration-300 hover:scale-105 h-32 flex flex-col justify-center">
+              <h3 className="text-xl font-bold text-white mb-2">Dashboard</h3>
+              <p className="text-gray-300">Lekcja dnia + streak</p>
+            </div>
+          </Link>
+          
           <Link href="/chat" className="group">
             <div className="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 hover:bg-white/20 transition-all duration-300 hover:scale-105 h-32 flex flex-col justify-center">
               <h3 className="text-xl font-bold text-white mb-2">Chat & Learn English</h3>
