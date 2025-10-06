@@ -1,0 +1,1 @@
+ # jak odpalać walidację/raporty

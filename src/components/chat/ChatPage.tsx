@@ -23,27 +23,37 @@ export function ChatPage() {
   const { } = useAuthStore();
   const { setLoading, setModal, modals } = useUIStore();
   
-  const [messages, setMessages] = useState<Message[]>(() => {
+  const [messages, setMessages] = useState<Message[]>([{ role: "assistant", content: "Witaj!" }]);
+  const [isHydrated, setIsHydrated] = useState(false);
+
+  // Load messages from localStorage after hydration
+  useEffect(() => {
     try {
       const saved = localStorage.getItem(LS_KEY);
-      return saved ? JSON.parse(saved) : [{ role: "assistant", content: "Witaj!" }];
-    } catch { 
-      return [{ role: "assistant", content: "Witaj!" }]; 
+      if (saved) {
+        setMessages(JSON.parse(saved));
+      }
+    } catch {
+      // Keep default message
     }
-  });
+    setIsHydrated(true);
+  }, []);
   
-  const [sid] = useState(() => {
+  const [sid, setSid] = useState<string>('');
+
+  // Initialize sid after hydration
+  useEffect(() => {
     try {
       let v = localStorage.getItem(SID_KEY);
       if (!v) { 
         v = (crypto?.randomUUID?.() ?? String(Date.now())); 
         localStorage.setItem(SID_KEY, v); 
       }
-      return v;
+      setSid(v);
     } catch { 
-      return "fallback-sid"; 
+      setSid("fallback-sid"); 
     }
-  });
+  }, []);
   
   const [input, setInput] = useState("");
   const [loading, setLoadingState] = useState(false);
@@ -203,7 +213,24 @@ export function ChatPage() {
           style={{ backgroundColor: 'rgba(var(--panel-bg))', backdropFilter: 'blur(var(--blur-amount))' }}
         >
           <div className="p-4 space-y-3" style={{ backgroundColor: 'transparent' }}>
-            {messages.map((m, i) => {
+            {!isHydrated ? (
+              <div className="flex flex-col items-start">
+                <div className="flex items-center gap-2 mb-1">
+                  <Image
+                    src="/ai-avatar.png"
+                    alt="AI"
+                    width={35}
+                    height={35}
+                    className="rounded-full"
+                  />
+                  <span className="text-sm text-gray-300">AI</span>
+                </div>
+                <div className="bg-white/10 rounded-lg p-3 max-w-[80%]">
+                  <p className="text-white">Witaj!</p>
+                </div>
+              </div>
+            ) : (
+              messages.map((m, i) => {
               const isUser = m.role === "user";
               const isLastAssistant = !isUser && i === messages.length - 1 && isStreaming;
               return (
@@ -226,7 +253,8 @@ export function ChatPage() {
                   </div>
                 </div>
               );
-            })}
+            })
+            )}
             
             {/* Streaming text display */}
             {isStreaming && streamingText && (

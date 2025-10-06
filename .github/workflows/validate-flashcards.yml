@@ -1,0 +1,48 @@
+name: Validate flashcards
+on: [push, pull_request]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm ci
+      - run: npm run qa:validate
+      - run: npm run qa:smoke
+
+  migrate-and-report:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm ci
+
+      # (opcjonalnie) zainstaluj klienta psql, jeśli nie ma:
+      - name: Install psql client
+        run: sudo apt-get update && sudo apt-get install -y postgresql-client
+
+      - name: Setup PostgreSQL
+        uses: harmon758/postgresql-action@v1
+        with:
+          postgresql version: '15'
+          postgresql db: 'test_db'
+          postgresql user: 'postgres'
+          postgresql password: 'postgres'
+
+      - name: Run migrations
+        run: npm run db:migrate:quality
+        env:
+          DATABASE_URL: postgresql://postgres:postgres@localhost:5432/test_db
+
+      - name: Generate QA reports
+        run: |
+          npm run qa:report:fields
+          npm run qa:report:dups
+          npm run qa:report:srs
+          npm run qa:report:lang
+        env:
+          DATABASE_URL: postgresql://postgres:postgres@localhost:5432/test_db

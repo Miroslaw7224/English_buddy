@@ -26,6 +26,38 @@ CREATE TYPE difficulty_level AS ENUM (
 -- 2. CORE TABLES
 -- ==============================================
 
+-- Words/Flashcards table with comprehensive language data
+CREATE TABLE words (
+  word_id UUID DEFAULT gen_random_uuid() PRIMARY KEY,
+  user_id UUID REFERENCES auth.users(id) ON DELETE CASCADE,
+  term TEXT NOT NULL CHECK (length(term) > 0 AND length(term) <= 100),
+  term_lang TEXT NOT NULL DEFAULT 'en',
+  translation TEXT NOT NULL CHECK (length(translation) > 0 AND length(translation) <= 100),
+  translation_lang TEXT NOT NULL DEFAULT 'pl',
+  definition TEXT CHECK (length(definition) <= 500),
+  part_of_speech TEXT CHECK (length(part_of_speech) <= 50),
+  ipa TEXT CHECK (length(ipa) <= 50),
+  lemma TEXT,
+  inflections JSONB DEFAULT '[]'::jsonb,
+  examples JSONB DEFAULT '[]'::jsonb,
+  difficulty difficulty_level NOT NULL DEFAULT 'beginner',
+  cefr TEXT CHECK (cefr IN ('A1', 'A2', 'B1', 'B2', 'C1', 'C2')),
+  category TEXT CHECK (length(category) <= 50),
+  deck_id UUID,
+  tags TEXT[] DEFAULT '{}' CHECK (array_length(tags, 1) <= 10 AND array_length(tags, 1) IS NULL OR (SELECT bool_and(length(tag) <= 24) FROM unnest(tags) AS tag)),
+  audio_url TEXT CHECK (audio_url IS NULL OR audio_url ~ '^https?://'),
+  image_url TEXT CHECK (image_url IS NULL OR image_url ~ '^https?://'),
+  license TEXT DEFAULT 'CC-BY-4.0',
+  media_attribution TEXT,
+  srs JSONB DEFAULT '{"interval": 1, "ease": 250, "due_at": null, "last_review_at": null, "streak": 0, "lapses": 0}'::jsonb,
+  visibility TEXT DEFAULT 'private' CHECK (visibility IN ('private', 'public', 'shared')),
+  status TEXT DEFAULT 'active' CHECK (status IN ('active', 'archived', 'deleted')),
+  source TEXT DEFAULT 'in-house',
+  created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+  updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+  deleted_at TIMESTAMP WITH TIME ZONE
+);
+
 -- Daily lessons (shared across all users)
 CREATE TABLE daily_lessons (
   id UUID DEFAULT gen_random_uuid() PRIMARY KEY,
@@ -73,6 +105,21 @@ CREATE TABLE user_daily_lessons (
 -- 3. INDEXES
 -- ==============================================
 
+-- Words indexes
+CREATE INDEX idx_words_user_id ON words(user_id);
+CREATE INDEX idx_words_term ON words(term);
+CREATE INDEX idx_words_translation ON words(translation);
+CREATE INDEX idx_words_category ON words(category);
+CREATE INDEX idx_words_difficulty ON words(difficulty);
+CREATE INDEX idx_words_cefr ON words(cefr);
+CREATE INDEX idx_words_deck_id ON words(deck_id);
+CREATE INDEX idx_words_status ON words(status);
+CREATE INDEX idx_words_visibility ON words(visibility);
+CREATE INDEX idx_words_srs_due ON words ((srs->>'due_at'));
+CREATE INDEX idx_words_tags ON words USING GIN (tags);
+CREATE INDEX idx_words_examples ON words USING GIN (examples);
+CREATE INDEX idx_words_inflections ON words USING GIN (inflections);
+
 -- User progress indexes
 CREATE INDEX idx_user_progress_user_date ON user_progress(user_id, date);
 CREATE INDEX idx_user_progress_date ON user_progress(date);
@@ -100,6 +147,10 @@ END;
 $$ language 'plpgsql';
 
 -- Triggers for updated_at
+CREATE TRIGGER update_words_updated_at 
+  BEFORE UPDATE ON words 
+  FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
+
 CREATE TRIGGER update_daily_lessons_updated_at 
   BEFORE UPDATE ON daily_lessons 
   FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
@@ -117,9 +168,23 @@ CREATE TRIGGER update_user_daily_lessons_updated_at
 -- ==============================================
 
 -- Enable RLS on all tables
+ALTER TABLE words ENABLE ROW LEVEL SECURITY;
 ALTER TABLE daily_lessons ENABLE ROW LEVEL SECURITY;
 ALTER TABLE user_progress ENABLE ROW LEVEL SECURITY;
 ALTER TABLE user_daily_lessons ENABLE ROW LEVEL SECURITY;
+
+-- Words policies
+CREATE POLICY "Users can view own words" ON words
+  FOR SELECT USING (auth.uid() = user_id);
+
+CREATE POLICY "Users can insert own words" ON words
+  FOR INSERT WITH CHECK (auth.uid() = user_id);
+
+CREATE POLICY "Users can update own words" ON words
+  FOR UPDATE USING (auth.uid() = user_id);
+
+CREATE POLICY "Users can delete own words" ON words
+  FOR DELETE USING (auth.uid() = user_id);
 
 -- Daily lessons policies (read-only for authenticated users)
 CREATE POLICY "Authenticated users can view daily lessons" ON daily_lessons
@@ -225,6 +290,7 @@ GRANT EXECUTE ON FUNCTION get_user_dashboard_data(UUID, DATE) TO authenticated;
 -- 8. COMMENTS
 -- ==============================================
 
+COMMENT ON TABLE words IS 'User flashcards with comprehensive language data including SRS';
 COMMENT ON TABLE daily_lessons IS 'Shared daily lessons available to all users';
 COMMENT ON TABLE user_progress IS 'Daily progress tracking for each user';
 COMMENT ON TABLE user_daily_lessons IS 'User-specific completion status for daily lessons';

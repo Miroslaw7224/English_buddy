@@ -1,0 +1,69 @@
+{
+    "$id": "https://example.com/flashcard.schema.json",
+    "title": "Flashcard",
+    "type": "object",
+    "required": ["word_id","user_id","term","term_lang","translation","translation_lang","definition","part_of_speech","cefr","difficulty","examples","status","visibility","created_at","updated_at"],
+    "additionalProperties": false,
+    "properties": {
+      "word_id": { "type": "string", "minLength": 1 },
+      "user_id": { "type": "string", "minLength": 1 },
+      "term": { "type": "string", "minLength": 1, "maxLength": 120 },
+      "term_lang": { "type": "string", "pattern": "^[a-z]{2}$" },
+      "translation": { "type": "string", "minLength": 1, "maxLength": 200 },
+      "translation_lang": { "type": "string", "pattern": "^[a-z]{2}$" },
+      "definition": { "type": "string", "minLength": 5, "maxLength": 300 },
+      "part_of_speech": { "type": "string", "enum": ["noun","verb","adjective","adverb","pronoun","preposition","conjunction","interjection","determiner","phrase"] },
+      "ipa": { "type": ["string","null"], "pattern": "^[ˈˌa-zæɑɐɒʌʊʉɜɛəɪɔœøɒθðŋʃʒʔɲçɡɫɾɹɽɻjhwɖɭɳɽɭʼ ːˑːː\\.\\-]*$" },
+      "lemma": { "type": ["string","null"], "maxLength": 120 },
+      "inflections": { "type": "array", "items": { "type": "string", "minLength": 1 }, "maxItems": 20 },
+      "examples": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": ["text"],
+          "properties": {
+            "text": { "type": "string", "minLength": 3, "maxLength": 200 },
+            "translation": { "type": ["string","null"], "maxLength": 220 }
+          },
+          "additionalProperties": false
+        }
+      },
+      "difficulty": { "type": "string", "enum": ["beginner","intermediate","advanced"] },
+      "cefr": { "type": "string", "enum": ["A1","A2","B1","B2","C1","C2"] },
+      "category": { "type": ["string","null"], "maxLength": 80 },
+      "deck_id": { "type": ["string","null"] },
+      "tags": { "type": "array", "maxItems": 10, "items": { "type": "string", "minLength": 1, "maxLength": 24 } },
+      "audio_url": { "type": ["string","null"], "format": "uri" },
+      "image_url": { "type": ["string","null"], "format": "uri" },
+      "license": { "type": ["string","null"], "maxLength": 40 },
+      "media_attribution": { "type": ["string","null"], "maxLength": 200 },
+      "srs": {
+        "type": "object",
+        "required": ["interval","ease","due_at","last_review_at","streak","lapses"],
+        "properties": {
+          "interval": { "type": "integer", "minimum": 0, "maximum": 36500 },
+          "ease": { "type": "integer", "minimum": 130, "maximum": 350 },
+          "due_at": { "type": "string", "format": "date-time" },
+          "last_review_at": { "type": "string", "format": "date-time" },
+          "streak": { "type": "integer", "minimum": 0 },
+          "lapses": { "type": "integer", "minimum": 0 }
+        },
+        "additionalProperties": false
+      },
+      "visibility": { "type": "string", "enum": ["private","shared"] },
+      "status": { "type": "string", "enum": ["active","archived"] },
+      "source": { "type": ["string","null"], "maxLength": 60 },
+      "created_at": { "type": "string", "format": "date-time" },
+      "updated_at": { "type": "string", "format": "date-time" },
+      "deleted_at": { "type": ["string","null"], "format": "date-time" }
+    },
+    "allOf": [
+      { "not": { "properties": { "term": { "const": "" } }, "required": ["term"] } },
+      { "not": { "properties": { "translation": { "const": "" } }, "required": ["translation"] } },
+      { "if": { "properties": { "term_lang": { "const": "en" } } },
+        "then": { "properties": { "translation_lang": { "const": "pl" } } }
+      }
+    ]
+  }
+  

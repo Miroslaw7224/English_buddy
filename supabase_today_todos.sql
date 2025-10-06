@@ -2,7 +2,7 @@
 CREATE TABLE IF NOT EXISTS reviews (
   id UUID DEFAULT gen_random_uuid() PRIMARY KEY,
   user_id UUID REFERENCES auth.users(id) ON DELETE CASCADE,
-  word_id UUID REFERENCES words(id) ON DELETE CASCADE,
+  word_id UUID REFERENCES words(word_id) ON DELETE CASCADE,
   next_review_at TIMESTAMPTZ NOT NULL,
   interval_days INTEGER DEFAULT 1,
   ease_factor DECIMAL(3,2) DEFAULT 2.5,
@@ -108,7 +108,7 @@ SELECT
   0 as points_earned,
   r.created_at
 FROM reviews r
-JOIN words w ON r.word_id = w.id
+JOIN words w ON r.word_id = w.word_id
 WHERE r.user_id = auth.uid()
   AND r.next_review_at::date <= CURRENT_DATE
   AND (r.last_reviewed_at IS NULL OR r.last_reviewed_at::date < CURRENT_DATE);

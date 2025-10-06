@@ -22,11 +22,11 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
   const queryClient = useQueryClient();
   
   const [editingId, setEditingId] = useState<string | null>(null);
-  const [editForm, setEditForm] = useState<WordForm>({ term: '', translation: '', example: '' });
+  const [editForm, setEditForm] = useState<WordForm>({ term: '', translation: '' });
 
   const form = useForm<WordForm>({
     resolver: zodResolver(wordSchema),
-    defaultValues: { term: '', translation: '', example: '' },
+    defaultValues: { term: '', translation: '' },
   });
 
   // Query for words
@@ -38,7 +38,7 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
 
   // Add word mutation with optimistic updates
   const addWordMutation = useMutation({
-    mutationFn: (word: Omit<Word, 'id'>) => addWord(word),
+    mutationFn: (word: WordForm) => addWord(word),
     onMutate: async (newWord) => {
       // Cancel outgoing refetches
       await queryClient.cancelQueries({ queryKey: ['words', user?.id] });
@@ -48,10 +48,35 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
       
       // Optimistically update
       const optimisticWord: Word = {
-        ...newWord,
-        id: crypto.randomUUID(),
-        user_id: user?.id,
+        word_id: crypto.randomUUID(),
+        user_id: user?.id || '',
+        term: newWord.term,
+        term_lang: newWord.term_lang || 'en',
+        translation: newWord.translation,
+        translation_lang: newWord.translation_lang || 'pl',
+        definition: newWord.definition,
+        part_of_speech: newWord.part_of_speech,
+        ipa: newWord.ipa,
+        inflections: [],
+        examples: newWord.examples || [],
+        difficulty: newWord.difficulty || 'beginner',
+        cefr: newWord.cefr,
+        category: newWord.category,
+        tags: newWord.tags || [],
+        license: 'CC-BY-4.0',
+        srs: {
+          interval: 1,
+          ease: 250,
+          due_at: null,
+          last_review_at: null,
+          streak: 0,
+          lapses: 0
+        },
+        visibility: 'private',
+        status: 'active',
+        source: 'in-house',
         created_at: new Date().toISOString(),
+        updated_at: new Date().toISOString(),
       };
       
       queryClient.setQueryData(['words', user?.id], (old: Word[] = []) => [...old, optimisticWord]);
@@ -70,18 +95,18 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
 
   // Update word mutation
   const updateWordMutation = useMutation({
-    mutationFn: ({ id, word }: { id: string; word: Partial<Word> }) => 
-      updateWord(id, word),
+    mutationFn: ({ word_id, word }: { word_id: string; word: Partial<WordForm> }) => 
+      updateWord(word_id, word),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['words', user?.id] });
       setEditingId(null);
-      setEditForm({ term: '', translation: '', example: '' });
+      setEditForm({ term: '', translation: '' });
     },
   });
 
   // Delete word mutation
   const deleteWordMutation = useMutation({
-    mutationFn: (id: string) => deleteWord(id),
+    mutationFn: (word_id: string) => deleteWord(word_id),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['words', user?.id] });
     },
@@ -93,23 +118,22 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
   };
 
   const handleEdit = (word: Word) => {
-    setEditingId(word.id);
+    setEditingId(word.word_id);
     setEditForm({
       term: word.term,
-      translation: word.translation || '',
-      example: word.example || '',
+      translation: word.translation,
     });
   };
 
   const handleUpdate = () => {
     if (editingId) {
-      updateWordMutation.mutate({ id: editingId, word: editForm });
+      updateWordMutation.mutate({ word_id: editingId, word: editForm });
     }
   };
 
-  const handleDelete = (id: string) => {
+  const handleDelete = (word_id: string) => {
     if (confirm('Czy na pewno chcesz usunąć to słówko?')) {
-      deleteWordMutation.mutate(id);
+      deleteWordMutation.mutate(word_id);
     }
   };
 
@@ -152,11 +176,6 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
               placeholder="Translation (np. jabłko)"
             />
             
-            <input
-              {...form.register('example')}
-              className="border rounded p-2"
-              placeholder="Example (np. I eat an apple.)"
-            />
             
             <Button
               type="submit"
@@ -188,8 +207,8 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
           ) : (
             <div className="grid gap-3">
               {words.map((word) => (
-                <div key={word.id} className="border rounded p-3">
-                  {editingId === word.id ? (
+                <div key={word.word_id} className="border rounded p-3">
+                  {editingId === word.word_id ? (
                     // Edit mode
                     <div className="space-y-2">
                       <input
@@ -203,12 +222,6 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
                         onChange={(e) => setEditForm(prev => ({ ...prev, translation: e.target.value }))}
                         className="border rounded p-2 w-full"
                         placeholder="Translation"
-                      />
-                      <input
-                        value={editForm.example}
-                        onChange={(e) => setEditForm(prev => ({ ...prev, example: e.target.value }))}
-                        className="border rounded p-2 w-full"
-                        placeholder="Example"
                       />
                       <div className="flex gap-2">
                         <Button
@@ -226,7 +239,7 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
                           variant="outline"
                           onClick={() => {
                             setEditingId(null);
-                            setEditForm({ term: '', translation: '', example: '' });
+                            setEditForm({ term: '', translation: '' });
                           }}
                           size="sm"
                         >
@@ -241,8 +254,10 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
                       {word.translation && (
                         <div className="text-sm opacity-80">{word.translation}</div>
                       )}
-                      {word.example && (
-                        <div className="text-sm italic opacity-80">{word.example}</div>
+                      {word.examples && word.examples.length > 0 && (
+                        <div className="text-sm italic opacity-80">
+                          {word.examples[0].text} - {word.examples[0].translation}
+                        </div>
                       )}
                       <div className="mt-2 flex gap-2">
                         <Button
@@ -256,7 +271,7 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
                         <Button
                           variant="outline"
                           size="sm"
-                          onClick={() => handleDelete(word.id)}
+                          onClick={() => handleDelete(word.word_id)}
                           disabled={deleteWordMutation.isPending}
                         >
                           <Trash2 className="h-4 w-4 mr-1" />

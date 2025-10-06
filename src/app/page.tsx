@@ -38,10 +38,12 @@ export default function Home() {
             </div>
           </Link>
           
-          <div className="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 hover:bg-white/20 transition-all duration-300 hover:scale-105 h-32 flex flex-col justify-center">
-            <h3 className="text-xl font-bold text-white mb-2">FISZKI</h3>
-            <p className="text-gray-300">Mini zadania</p>
-          </div>
+          <Link href="/flashcards" className="group">
+            <div className="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 hover:bg-white/20 transition-all duration-300 hover:scale-105 h-32 flex flex-col justify-center">
+              <h3 className="text-xl font-bold text-white mb-2">FISZKI</h3>
+              <p className="text-gray-300">Mini zadania</p>
+            </div>
+          </Link>
           
           <div className="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 hover:bg-white/20 transition-all duration-300 hover:scale-105 h-32 flex flex-col justify-center">
             <h3 className="text-xl font-bold text-white mb-2">ZADANIA</h3>
