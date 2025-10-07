@@ -7,10 +7,12 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Badge } from '@/components/ui/badge';
-import { Settings, User, Target, Volume2, BookOpen, Save } from 'lucide-react';
+import { Settings, User, Target, Volume2, BookOpen, Save, ClipboardCheck } from 'lucide-react';
+import { useRouter } from 'next/navigation';
 
 export default function ProfilePage() {
   const { user } = useAuthStore();
+  const router = useRouter();
   
   // Mock user settings - w przyszłości z API
   const [settings, setSettings] = useState({
@@ -101,6 +103,15 @@ export default function ProfilePage() {
                     </Button>
                   ))}
                 </div>
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={() => router.push('/placement-test')}
+                  className="mt-3 bg-gradient-to-r from-purple-600/20 to-blue-600/20 border-purple-400/30 text-white hover:bg-purple-600/30"
+                >
+                  <ClipboardCheck className="h-4 w-4 mr-2" />
+                  Sprawdź swój poziom
+                </Button>
               </div>
 
               <div>

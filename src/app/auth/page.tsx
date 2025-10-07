@@ -6,7 +6,6 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { useAuthStore } from '@/stores/auth';
-import { supabase } from '@/lib/supabase';
 import { TopBar } from '@/components/layout/TopBar';
 
 export default function AuthPage() {
@@ -16,7 +15,7 @@ export default function AuthPage() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
   const router = useRouter();
-  const { setUser } = useAuthStore();
+  const { login, signup } = useAuthStore();
 
   const handleAuth = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -24,47 +23,16 @@ export default function AuthPage() {
     setError('');
 
     try {
+      // If it's not an email, treat as username and add @eb.local
+      const emailToUse = email.includes('@') ? email : `${email}@eb.local`;
+      
       if (isLogin) {
-        // If it's not an email, treat as username and add @eb.local
-        const emailToUse = email.includes('@') ? email : `${email}@eb.local`;
-        
-        const { data, error } = await supabase.auth.signInWithPassword({
-          email: emailToUse,
-          password,
-        });
-        
-        if (error) throw error;
-        
-        if (data.user && data.user.email) {
-          setUser({
-            id: data.user.id,
-            email: data.user.email,
-            created_at: data.user.created_at,
-            updated_at: data.user.updated_at,
-          });
-          router.push('/');
-        }
+        await login(emailToUse, password);
       } else {
-        // If it's not an email, treat as username and add @eb.local
-        const emailToUse = email.includes('@') ? email : `${email}@eb.local`;
-        
-        const { data, error } = await supabase.auth.signUp({
-          email: emailToUse,
-          password,
-        });
-        
-        if (error) throw error;
-        
-        if (data.user && data.user.email) {
-          setUser({
-            id: data.user.id,
-            email: data.user.email,
-            created_at: data.user.created_at,
-            updated_at: data.user.updated_at,
-          });
-          router.push('/');
-        }
+        await signup(emailToUse, password);
       }
+      
+      router.push('/');
     } catch (err: unknown) {
       const errorMessage = err instanceof Error ? err.message : 'An error occurred';
       setError(errorMessage);

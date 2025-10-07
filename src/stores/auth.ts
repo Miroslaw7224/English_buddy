@@ -20,6 +20,7 @@ export const useAuthStore = create<AuthStore>((set, get) => ({
 
       if (error) throw error;
 
+      // AuthProvider will handle profile fetching via onAuthStateChange
       set({
         user: data.user as User,
         loading: false,
@@ -65,6 +66,7 @@ export const useAuthStore = create<AuthStore>((set, get) => ({
 
       if (error) throw error;
 
+      // AuthProvider will handle profile fetching via onAuthStateChange
       set({
         user: data.user as User,
         loading: false,
@@ -88,20 +90,82 @@ export const useAuthStore = create<AuthStore>((set, get) => ({
   setUser: (user: User | null) => {
     set({ user });
   },
+
+  updateCefrLevel: async (level: 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2') => {
+    const { user } = get();
+    if (!user) throw new Error('User not authenticated');
+
+    try {
+      const { error } = await supabase
+        .from('user_profil')
+        .upsert({
+          user_id: user.id,
+          cefr_level: level,
+          updated_at: new Date().toISOString()
+        });
+
+      if (error) throw error;
+
+      set({
+        user: { ...user, cefr_level: level },
+        error: null
+      });
+    } catch (error: unknown) {
+      set({
+        error: error instanceof Error ? error.message : 'Failed to update CEFR level',
+      });
+      throw error;
+    }
+  },
+
+  updatePlacementResults: async (score: number, answers: any[], mode: 'adaptive' | 'linear', source: 'ai' | 'static') => {
+    const { user } = get();
+    if (!user) throw new Error('User not authenticated');
+
+    // Calculate CEFR level based on score
+    const cefrLevel = score >= 80 ? 'C2' : 
+                     score >= 60 ? 'C1' : 
+                     score >= 40 ? 'B2' : 
+                     score >= 20 ? 'B1' : 
+                     score > 0 ? 'A2' : 'A1';
+
+    try {
+      const { error } = await supabase
+        .from('user_profil')
+        .upsert({
+          user_id: user.id,
+          cefr_level: cefrLevel,
+          placement_score: score,
+          placement_taken_at: new Date().toISOString(),
+          placement_mode: mode,
+          placement_source: source,
+          answers: answers,
+          updated_at: new Date().toISOString()
+        });
+
+      if (error) throw error;
+
+      set({
+        user: { 
+          ...user, 
+          cefr_level: cefrLevel,
+          placement_score: score,
+          placement_taken_at: new Date().toISOString(),
+          placement_mode: mode,
+          placement_source: source
+        },
+        error: null
+      });
+    } catch (error: unknown) {
+      set({
+        error: error instanceof Error ? error.message : 'Failed to update placement results',
+      });
+      throw error;
+    }
+  },
 }));
 
-// Initialize auth state on app start
-if (typeof window !== 'undefined') {
-  getCurrentUser().then((user) => {
-  if (user) {
-    useAuthStore.setState({ user: user as User });
-  }
-  });
+// Helper functions moved to AuthProvider
 
-  // Listen for auth changes
-  supabase.auth.onAuthStateChange((event, session) => {
-    useAuthStore.setState({
-        user: session?.user as User || null,
-    });
-  });
-}
+// Auth state is now managed by AuthProvider
+// No need for onAuthStateChange here anymore

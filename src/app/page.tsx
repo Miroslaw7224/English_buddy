@@ -1,10 +1,12 @@
 import { TopBar } from '@/components/layout/TopBar';
+import { LevelRedirect } from '@/components/LevelRedirect';
 import Image from 'next/image';
 import Link from 'next/link';
 
 export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-900 via-purple-900 to-indigo-900">
+      <LevelRedirect />
       <TopBar />
       <section className="px-4 -mt-40 pb-4 text-center">
         <div className="flex justify-center mb-1">

@@ -21,11 +21,8 @@ export default function ChatVoicePage() {
   const [isHydrated, setIsHydrated] = useState(false);
   
   const [isRecording, setIsRecording] = useState(false);
-  const [selectedVoice, setSelectedVoice] = useState('alloy');
+  // Voice is now taken from user profile, default 'alloy'
   const selectedVoiceRef = useRef('alloy');
-  
-  // Initialize ref with current state
-  selectedVoiceRef.current = selectedVoice;
   
   // Load messages from localStorage after hydration
   useEffect(() => {
@@ -42,12 +39,6 @@ export default function ChatVoicePage() {
     setIsHydrated(true);
   }, []);
 
-  // Debug selectedVoice changes
-  useEffect(() => {
-    console.log('selectedVoice state changed to:', selectedVoice);
-    selectedVoiceRef.current = selectedVoice;
-    console.log('selectedVoiceRef.current updated to:', selectedVoiceRef.current);
-  }, [selectedVoice]);
   const [detectedLanguage, setDetectedLanguage] = useState<'pl' | 'en'>('en');
   const [aiResponseLanguage, setAiResponseLanguage] = useState<'pl' | 'en'>('en');
   const [isProcessing, setIsProcessing] = useState(false);
@@ -94,16 +85,6 @@ export default function ChatVoicePage() {
     }
   }, []);
 
-  // OpenAI voices are predefined
-  const openaiVoices = [
-    { value: 'alloy', label: 'Alloy (Neutral)' },
-    { value: 'echo', label: 'Echo (Male)' },
-    { value: 'fable', label: 'Fable (British)' },
-    { value: 'nova', label: 'Nova (Female)' },
-    { value: 'onyx', label: 'Onyx (Deep Male)' },
-    { value: 'shimmer', label: 'Shimmer (Soft Female)' },
-  ];
-
   // Simple language detection function
   const detectLanguage = (text: string): 'pl' | 'en' => {
     const polishWords = ['jest', 'nie', 'tak', 'ale', 'lub', 'czy', 'jak', 'gdzie', 'kiedy', 'dlaczego', 'co', 'kto', 'który', 'która', 'które', 'mój', 'moja', 'moje', 'twój', 'twoja', 'twoje', 'nasz', 'nasza', 'nasze', 'wasz', 'wasza', 'wasze', 'ich', 'jej', 'jego', 'ich', 'jej', 'jego'];
@@ -132,7 +113,6 @@ export default function ChatVoicePage() {
 
   const speakText = useCallback(async (text: string, voiceOverride?: string) => {
     const actualVoice = voiceOverride ?? selectedVoiceRef.current;
-    console.log('speakText called with voice:', actualVoice, 'selectedVoiceRef.current:', selectedVoiceRef.current);
     // Try OpenAI TTS first
     try {
       await openaiTts.speakText(text, actualVoice);
@@ -230,7 +210,6 @@ export default function ChatVoicePage() {
       setIsProcessing(false);
       
       // Speak the response
-      console.log('AI Response - using voice:', selectedVoiceRef.current, 'selectedVoice state:', selectedVoice);
       speakText(aiResponse.content, selectedVoiceRef.current);
     } catch (error) {
       console.error('AI response error:', error);
@@ -248,7 +227,6 @@ export default function ChatVoicePage() {
       setIsProcessing(false);
       
       // Speak the response
-      console.log('AI Fallback Response - using voice:', selectedVoiceRef.current);
       speakText(aiResponse.content, selectedVoiceRef.current);
     }
   }, [messages, aiResponseLanguage, speakText]);
@@ -334,40 +312,18 @@ export default function ChatVoicePage() {
               </div>
             </div>
             
-            {/* Status języka i wybór głosu */}
-            <div className="mt-6 mx-3 grid grid-cols-1 md:grid-cols-2 gap-4">
-              <div>
-                <label className="block text-white text-sm font-medium mb-2">
-                  Wykryty język:
-                </label>
-                <div className="w-full bg-gray-800/90 backdrop-blur-sm border border-gray-600/50 rounded-lg px-3 py-2 text-white flex items-center gap-2">
-                  <span className={`w-3 h-3 rounded-full ${detectedLanguage === 'pl' ? 'bg-red-500' : 'bg-blue-500'}`}></span>
-                  <span>{detectedLanguage === 'pl' ? 'Polski' : 'English'}</span>
-                </div>
+            {/* Status języka */}
+            <div className="mt-6 mx-3">
+              <label className="block text-white text-sm font-medium mb-2">
+                Wykryty język:
+              </label>
+              <div className="w-full bg-gray-800/90 backdrop-blur-sm border border-gray-600/50 rounded-lg px-3 py-2 text-white flex items-center gap-2">
+                <span className={`w-3 h-3 rounded-full ${detectedLanguage === 'pl' ? 'bg-red-500' : 'bg-blue-500'}`}></span>
+                <span>{detectedLanguage === 'pl' ? 'Polski' : 'English'}</span>
               </div>
-              
-              <div>
-                <label className="block text-white text-sm font-medium mb-2">
-                  Głos AI:
-                </label>
-                       <select 
-                         value={selectedVoice}
-                         onChange={(e) => {
-                           console.log('Voice dropdown changed from', selectedVoice, 'to', e.target.value);
-                           setSelectedVoice(e.target.value);
-                         }}
-                  className="w-full bg-gray-800/90 backdrop-blur-sm border border-gray-600/50 rounded-lg px-3 py-2 text-white focus:outline-none focus:ring-2 focus:ring-blue-500/50"
-                  style={{
-                    colorScheme: 'dark'
-                  }}
-                >
-                  {openaiVoices.map((voice) => (
-                    <option key={voice.value} value={voice.value}>
-                      {voice.label}
-                    </option>
-                  ))}
-                </select>
-              </div>
+              <p className="text-gray-400 text-xs mt-2">
+                Zmień głos AI w Profilu użytkownika
+              </p>
             </div>
             {/* Język odpowiedzi AI */}
             <div className="mt-4 mx-3">
