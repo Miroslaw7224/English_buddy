@@ -11,10 +11,15 @@ import { getWords } from '@/lib/api';
 import { TopBar } from '@/components/layout/TopBar';
 import { useAuthStore } from '@/stores/auth';
 import { useMutation, useQueryClient } from '@tanstack/react-query';
+import { ErrorBanner } from '@/components/ui/error-banner';
+import { EmptyState } from '@/components/EmptyState';
+import { useToast } from '@/components/ui/use-toast';
+import { Skeleton } from '@/components/ui/skeleton';
 
 export default function WordsPage() {
   const { modals, setModal } = useUIStore();
   const { user } = useAuthStore();
+  const { toast } = useToast();
   const [searchTerm, setSearchTerm] = useState('');
   const [editingWord, setEditingWord] = useState(null);
   const queryClient = useQueryClient();
@@ -37,6 +42,10 @@ export default function WordsPage() {
     },
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['words', user?.id] });
+      toast({
+        title: "🗑️ Usunięto słówko",
+        duration: 3000,
+      });
     },
   });
 
@@ -51,24 +60,12 @@ export default function WordsPage() {
     }
   };
 
-  if (error) {
-    return (
-      <div className="flex items-center justify-center min-h-[400px]">
-        <Card className="w-full max-w-md">
-          <CardContent className="pt-6">
-            <p className="text-center text-red-500">
-              Error loading words. Please try again.
-            </p>
-          </CardContent>
-        </Card>
-      </div>
-    );
-  }
-
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-900 via-purple-900 to-indigo-900">
       <TopBar />
       <div className="container mx-auto px-4 py-8 max-w-4xl">
+      {error && <ErrorBanner message={(error as any)?.message || 'Failed to load words'} />}
+      
       <div className="flex items-center justify-between mb-8">
         <div>
           <h1 className="text-3xl font-bold text-white">My Words</h1>
@@ -94,34 +91,26 @@ export default function WordsPage() {
       </div>
 
       {isLoading ? (
-        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-          {Array.from({ length: 6 }).map((_, i) => (
-            <Card key={i} className="bg-white/10 backdrop-blur-sm border-white/20">
-              <CardContent className="p-4">
-                <div className="animate-pulse">
-                  <div className="h-4 bg-white/20 rounded mb-2"></div>
-                  <div className="h-3 bg-white/10 rounded w-3/4"></div>
-                </div>
-              </CardContent>
-            </Card>
-          ))}
+        <div className="bg-gray-800/40 backdrop-blur-sm border border-gray-600/30 rounded-lg overflow-hidden">
+          <div className="p-4 space-y-3">
+            {Array.from({ length: 5 }).map((_, i) => (
+              <div key={i} className="flex items-center gap-4">
+                <Skeleton className="h-10 w-32" />
+                <Skeleton className="h-10 w-24" />
+                <Skeleton className="h-10 flex-1" />
+                <Skeleton className="h-10 w-20" />
+              </div>
+            ))}
+          </div>
         </div>
       ) : filteredWords.length === 0 ? (
-        <Card className="bg-white/10 backdrop-blur-sm border-white/20">
-          <CardContent className="p-8 text-center">
-            <p className="text-gray-300 mb-4">
-              {searchTerm ? 'No words found matching your search.' : 'No words added yet.'}
-            </p>
-            {!searchTerm && (
-              <Button
-                onClick={() => setModal('words', true)}
-                className="bg-blue-600 hover:bg-blue-700"
-              >
-                Add Your First Word
-              </Button>
-            )}
-          </CardContent>
-        </Card>
+        <EmptyState
+          icon={searchTerm ? "🔍" : "📚"}
+          title={searchTerm ? "No words found" : "No words added yet"}
+          description={searchTerm ? "Try a different search term" : "Start building your vocabulary by adding your first word"}
+          actionLabel={!searchTerm ? "Add Your First Word" : undefined}
+          onAction={!searchTerm ? () => setModal('words', true) : undefined}
+        />
       ) : (
         <div className="bg-gray-800/40 backdrop-blur-sm border border-gray-600/30 rounded-lg overflow-hidden">
           <table className="w-full">
@@ -135,11 +124,11 @@ export default function WordsPage() {
             </thead>
             <tbody>
               {filteredWords.map((word) => (
-                <tr key={word.id} className="border-b border-gray-600/20 hover:bg-gray-700/30 transition-colors">
+                <tr key={word.word_id} className="border-b border-gray-600/20 hover:bg-gray-700/30 transition-colors">
                   <td className="p-4 text-white font-medium">{word.term}</td>
                   <td className="p-4 text-gray-300">{word.translation || '-'}</td>
                   <td className="p-4 text-gray-400 italic text-sm">
-                    {word.example ? `"${word.example}"` : '-'}
+                    {word.examples?.[0]?.text ? `"${word.examples[0].text}"` : '-'}
                   </td>
                   <td className="p-4">
                     <div className="flex gap-2">
@@ -155,7 +144,7 @@ export default function WordsPage() {
                         variant="outline"
                         size="sm"
                         className="bg-red-500/20 border-red-500/30 text-red-300 hover:bg-red-500/30"
-                        onClick={() => handleDelete(word.id)}
+                        onClick={() => handleDelete(word.word_id)}
                         disabled={deleteWordMutation.isPending}
                       >
                         {deleteWordMutation.isPending ? 'Deleting...' : 'Delete'}

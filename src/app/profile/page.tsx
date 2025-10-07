@@ -9,10 +9,12 @@ import { Input } from '@/components/ui/input';
 import { Badge } from '@/components/ui/badge';
 import { Settings, User, Target, Volume2, BookOpen, Save, ClipboardCheck } from 'lucide-react';
 import { useRouter } from 'next/navigation';
+import { useToast } from '@/components/ui/use-toast';
 
 export default function ProfilePage() {
   const { user } = useAuthStore();
   const router = useRouter();
+  const { toast } = useToast();
   
   // Mock user settings - w przyszłości z API
   const [settings, setSettings] = useState({
@@ -26,7 +28,10 @@ export default function ProfilePage() {
   const handleSave = () => {
     // TODO: Save to API
     console.log('Saving settings:', settings);
-    alert('Ustawienia zapisane!');
+    toast({
+      title: "✅ Ustawienia zapisane",
+      duration: 3000,
+    });
   };
 
   const cefrLevels = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];

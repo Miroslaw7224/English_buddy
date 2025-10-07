@@ -15,26 +15,24 @@ import {
   CheckCircle2,
 } from "lucide-react";
 
-/**
- * Reusable "Today's Plan" widget (desktop-first)
- *
- * Props:
- *  - items: Array<{
- *      id: string,
- *      kind: "lesson" | "srs",
- *      title: string,
- *      subtitle?: string,
- *      durationMin: number,
- *      points: number,
- *      difficulty?: "beginner" | "intermediate" | "advanced",
- *      status: "todo" | "done",
- *      cta?: "Start" | "Review",
- *    }>
- *  - onItemClick?: (item) => void    // navigate to the right screen
- *
- * Example data at the bottom of this file.
- */
-export default function TodayPlan({ items = [], onItemClick }) {
+interface TodayPlanItem {
+  id: string;
+  kind: "lesson" | "srs";
+  title: string;
+  subtitle?: string;
+  durationMin: number;
+  points: number;
+  difficulty?: "beginner" | "intermediate" | "advanced";
+  status: "todo" | "done";
+  cta?: "Start" | "Review";
+}
+
+interface TodayPlanProps {
+  items?: TodayPlanItem[];
+  onItemClick?: (item: TodayPlanItem) => void;
+}
+
+export default function TodayPlan({ items = [], onItemClick }: TodayPlanProps) {
   const { done, total, minutes, points, lessons, srs } = useMemo(() => {
     const total = items.length;
     const done = items.filter((i) => i.status === "done").length;
@@ -115,7 +113,7 @@ export default function TodayPlan({ items = [], onItemClick }) {
   );
 }
 
-function Section({ title, children }) {
+function Section({ title, children }: { title: string; children: React.ReactNode }) {
   return (
     <div>
       <div className="mb-2 text-sm font-medium text-white">{title}</div>
@@ -124,7 +122,7 @@ function Section({ title, children }) {
   );
 }
 
-function PlanRow({ item, onClick }) {
+function PlanRow({ item, onClick }: { item: TodayPlanItem; onClick?: (item: TodayPlanItem) => void }) {
   const isDone = item.status === "done";
   const Icon = pickIcon(item);
 
@@ -175,7 +173,7 @@ function PlanRow({ item, onClick }) {
   );
 }
 
-function pickIcon(item) {
+function pickIcon(item: TodayPlanItem) {
   if (item.kind === "srs") return RotateCw;
   // crude mapping by title keywords; replace with explicit type if you prefer
   const t = item.title.toLowerCase();

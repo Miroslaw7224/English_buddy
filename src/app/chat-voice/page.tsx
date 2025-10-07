@@ -43,7 +43,7 @@ export default function ChatVoicePage() {
   const [aiResponseLanguage, setAiResponseLanguage] = useState<'pl' | 'en'>('en');
   const [isProcessing, setIsProcessing] = useState(false);
   const endRef = useRef<HTMLDivElement>(null);
-  const recognitionRef = useRef<SpeechRecognition | null>(null);
+  const recognitionRef = useRef<any>(null);
   const synthesisRef = useRef<SpeechSynthesisUtterance | null>(null);
 
   // Save messages to localStorage
@@ -282,11 +282,8 @@ export default function ChatVoicePage() {
             {/* Chat Container */}
             <div className="m-3 rounded-3xl overflow-hidden bg-transparent border border-white/30 shadow-lg">
               {/* Messages Area */}
-              <div 
-                className="h-[60vh] overflow-y-auto panel"
-                style={{ backgroundColor: 'rgba(var(--panel-bg))', backdropFilter: 'blur(var(--blur-amount))' }}
-              >
-                <div className="p-4 space-y-3" style={{ backgroundColor: 'transparent' }}>
+              <div className="h-[60vh] overflow-y-auto panel">
+                <div className="p-4 space-y-3">
                   {messages.map((m, i) => {
                     const isUser = m.role === "user";
                     return (

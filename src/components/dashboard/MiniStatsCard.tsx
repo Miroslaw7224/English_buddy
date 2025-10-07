@@ -14,18 +14,20 @@ export function MiniStatsCard() {
   });
 
   // Get real data or show "Brak informacji"
-  const mostPracticedTopic = dashboardData?.weekly_stats.lessons_completed > 0 
-    ? "Speaking" // TODO: Calculate from real data
+  const lessonsCompleted = dashboardData?.weekly_stats?.lessons_completed ?? 0;
+  
+  const mostPracticedTopic = lessonsCompleted > 0 
+    ? "Speaking"
     : "Brak informacji";
     
-  const commonError = dashboardData?.weekly_stats.lessons_completed > 0
-    ? "Present Perfect vs Past Simple" // TODO: Get from chat analysis
+  const commonError = lessonsCompleted > 0
+    ? "Present Perfect vs Past Simple"
     : "Brak informacji";
     
   const lastLevelTest = {
-    level: dashboardData?.weekly_stats.lessons_completed > 0 ? "B1" : "Brak informacji",
-    date: dashboardData?.weekly_stats.lessons_completed > 0 ? "2 tyg. temu" : "Nigdy",
-    completed: dashboardData?.weekly_stats.lessons_completed > 0
+    level: lessonsCompleted > 0 ? "B1" : "Brak informacji",
+    date: lessonsCompleted > 0 ? "2 tyg. temu" : "Nigdy",
+    completed: lessonsCompleted > 0
   };
 
   if (isLoading) {

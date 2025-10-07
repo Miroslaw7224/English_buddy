@@ -208,11 +208,8 @@ export function ChatPage() {
       {/* Chat Container */}
       <div className="m-3 rounded-3xl overflow-hidden bg-transparent border border-white/30 shadow-lg">
         {/* Messages Area */}
-        <div 
-          className="h-[60vh] overflow-y-auto panel"
-          style={{ backgroundColor: 'rgba(var(--panel-bg))', backdropFilter: 'blur(var(--blur-amount))' }}
-        >
-          <div className="p-4 space-y-3" style={{ backgroundColor: 'transparent' }}>
+        <div className="h-[60vh] overflow-y-auto panel">
+          <div className="p-4 space-y-3">
             {!isHydrated ? (
               <div className="flex flex-col items-start">
                 <div className="flex items-center gap-2 mb-1">

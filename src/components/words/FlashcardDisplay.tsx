@@ -305,8 +305,8 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
                       </div>
                     )}
                     
-                    {/* Tags */}
-                    {currentCard.tags && currentCard.tags.length > 0 && (
+                    {/* Tags - commented out until added to Flashcard type */}
+                    {/* {currentCard.tags && currentCard.tags.length > 0 && (
                       <div className="flex flex-wrap gap-1 justify-center">
                         {currentCard.tags.map((tag, index) => (
                           <Badge key={index} className="bg-gray-600 text-white text-xs">
@@ -314,7 +314,7 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
                           </Badge>
                         ))}
                       </div>
-                    )}
+                    )} */}
                     
                     {showResult && (
                       <div className={`text-lg font-semibold ${

@@ -9,6 +9,7 @@ import { Button } from '@/components/ui/button';
 import { wordSchema, WordForm } from '@/shared/validation/schemas';
 import { Word } from '@/types/words';
 import { X, Plus, Edit, Trash2, Loader2 } from 'lucide-react';
+import { useToast } from '@/components/ui/use-toast';
 
 import { getWords, addWord, updateWord, deleteWord } from '@/lib/api';
 
@@ -20,6 +21,7 @@ interface WordsModalProps {
 export function WordsModal({ isOpen, onClose }: WordsModalProps) {
   const { user } = useAuthStore();
   const queryClient = useQueryClient();
+  const { toast } = useToast();
   
   const [editingId, setEditingId] = useState<string | null>(null);
   const [editForm, setEditForm] = useState<WordForm>({ term: '', translation: '' });
@@ -87,6 +89,12 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
       // Rollback on error
       queryClient.setQueryData(['words', user?.id], context?.previousWords);
     },
+    onSuccess: (data, variables) => {
+      toast({
+        title: `✅ Dodano "${variables.term}"`,
+        duration: 3000,
+      });
+    },
     onSettled: () => {
       // Refetch after mutation
       queryClient.invalidateQueries({ queryKey: ['words', user?.id] });
@@ -97,10 +105,14 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
   const updateWordMutation = useMutation({
     mutationFn: ({ word_id, word }: { word_id: string; word: Partial<WordForm> }) => 
       updateWord(word_id, word),
-    onSuccess: () => {
+    onSuccess: (data, variables) => {
       queryClient.invalidateQueries({ queryKey: ['words', user?.id] });
       setEditingId(null);
       setEditForm({ term: '', translation: '' });
+      toast({
+        title: `✅ Zaktualizowano "${variables.word.term}"`,
+        duration: 3000,
+      });
     },
   });
 
@@ -109,6 +121,10 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
     mutationFn: (word_id: string) => deleteWord(word_id),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['words', user?.id] });
+      toast({
+        title: "🗑️ Usunięto słówko",
+        duration: 3000,
+      });
     },
   });
 

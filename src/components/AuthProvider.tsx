@@ -60,6 +60,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
           
           const userWithProfile: User = {
             ...session.user,
+            email: session.user.email || '',
             cefr_level: profile?.cefr_level || null,
             placement_score: profile?.placement_score || null,
             placement_taken_at: profile?.placement_taken_at || null,
