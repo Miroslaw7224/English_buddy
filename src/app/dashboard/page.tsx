@@ -94,15 +94,15 @@ export default function DashboardPage() {
         {/* Header */}
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-white mb-2">
-            Welcome back, {user?.email?.split('@')[0] || 'Student'}! 👋
+            Witaj z powrotem, {user?.email?.split('@')[0] || 'Uczniu'}! 👋
           </h1>
           <p className="text-gray-300">
-            Ready to continue your English learning journey?
+            Gotowy na kontynuację nauki angielskiego?
           </p>
         </div>
 
         {/* Error handling */}
-        {error && <ErrorBanner message={(error as any)?.message || 'Failed to load dashboard data'} />}
+        {error && <ErrorBanner message={(error as any)?.message || 'Nie udało się załadować danych dashboard'} />}
 
         {/* Today's Plan Section - Top Priority */}
         <div className="mb-8">
@@ -124,8 +124,8 @@ export default function DashboardPage() {
           ) : todaysPlanItems.length === 0 ? (
             <EmptyState
               icon="📅"
-              title="No tasks for today"
-              description="All done! Check back tomorrow for new lessons"
+              title="Brak zadań na dziś"
+              description="Wszystko zrobione! Wróć jutro po nowe lekcje"
             />
           ) : (
             <TodaysPlan 

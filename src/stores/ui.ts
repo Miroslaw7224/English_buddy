@@ -6,6 +6,7 @@ interface UIState {
   modals: {
     words: boolean;
     settings: boolean;
+    feedback: boolean;
   };
   
   // Theme
@@ -42,6 +43,7 @@ export const useUIStore = create<UIState>()(
       modals: {
         words: false,
         settings: false,
+        feedback: false,
       },
       
       theme: 'system',

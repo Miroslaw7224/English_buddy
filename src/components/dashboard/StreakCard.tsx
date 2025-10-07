@@ -16,11 +16,11 @@ export function StreakCard() {
   const bestStreak = dashboardData?.best_streak || 0;
 
   const getStreakMessage = () => {
-    if (streak === 0) return "Start your streak today!";
-    if (streak < 3) return "Keep it up!";
-    if (streak < 7) return "Great progress!";
-    if (streak < 14) return "Amazing dedication!";
-    return "You're on fire! 🔥";
+    if (streak === 0) return "Zacznij dziś swoją passę!";
+    if (streak < 3) return "Tak trzymaj!";
+    if (streak < 7) return "Świetny postęp!";
+    if (streak < 14) return "Niesamowite zaangażowanie!";
+    return "Jesteś w ogniu! 🔥";
   };
 
   const getStreakColor = () => {
@@ -49,7 +49,7 @@ export function StreakCard() {
       <CardHeader>
         <CardTitle className="text-white flex items-center gap-2">
           <Flame className="h-5 w-5" />
-          🔥 Current Streak
+          🔥 Aktualna passa
         </CardTitle>
       </CardHeader>
       <CardContent className="space-y-4">
@@ -57,7 +57,7 @@ export function StreakCard() {
           <div className={`text-4xl font-bold ${getStreakColor()}`}>
             {streak}
           </div>
-          <p className="text-gray-300 text-sm">days in a row</p>
+          <p className="text-gray-300 text-sm">dni z rzędu</p>
         </div>
 
         <div className="space-y-2">
@@ -68,7 +68,7 @@ export function StreakCard() {
           <div className="flex justify-center">
             <Badge variant="secondary" className="bg-orange-500/20 text-orange-300">
               <Calendar className="h-3 w-3 mr-1" />
-              Best: {bestStreak} days
+              Najlepsza: {bestStreak} dni
             </Badge>
           </div>
         </div>

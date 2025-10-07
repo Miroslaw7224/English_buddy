@@ -16,8 +16,8 @@ export function LessonOfTheDayCard() {
   // Get the first incomplete lesson or default lesson
   const lesson = dashboardData?.daily_lessons?.find(l => !l.completed) || {
     id: 1,
-    title: "Daily Conversation Practice",
-    description: "Practice everyday English conversations",
+    title: "Codzienna praktyka konwersacji",
+    description: "Ćwicz codzienne rozmowy po angielsku",
     type: "chat" as const,
     duration: 15,
     difficulty: "beginner" as const,
@@ -55,7 +55,7 @@ export function LessonOfTheDayCard() {
       <CardHeader>
         <CardTitle className="text-white flex items-center gap-2">
           <BookOpen className="h-5 w-5" />
-          🧭 Lesson of the Day
+          🧭 Lekcja dnia
         </CardTitle>
       </CardHeader>
       <CardContent className="space-y-4">
@@ -69,10 +69,10 @@ export function LessonOfTheDayCard() {
             {lesson.duration} min
           </Badge>
           <Badge variant="secondary" className="bg-green-500/20 text-green-300">
-            {lesson.difficulty}
+            {lesson.difficulty === 'beginner' ? 'początkujący' : lesson.difficulty === 'intermediate' ? 'średniozaawansowany' : 'zaawansowany'}
           </Badge>
           <Badge variant="secondary" className="bg-purple-500/20 text-purple-300">
-            +{lesson.points} pts
+            +{lesson.points} pkt
           </Badge>
         </div>
 
@@ -80,7 +80,7 @@ export function LessonOfTheDayCard() {
           {lesson.completed ? (
             <div className="flex items-center gap-2 text-green-400">
               <CheckCircle className="h-5 w-5" />
-              <span className="text-sm">Completed!</span>
+              <span className="text-sm">Ukończono!</span>
             </div>
           ) : (
             <Button
@@ -88,7 +88,7 @@ export function LessonOfTheDayCard() {
               className="w-full bg-blue-600 hover:bg-blue-700"
             >
               <Play className="h-4 w-4 mr-2" />
-              Start Lesson
+              Rozpocznij lekcję
             </Button>
           )}
         </div>

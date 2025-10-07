@@ -3,11 +3,13 @@
 import { useState, useEffect, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 import { useAuthStore } from '@/stores/auth';
+import { supabase } from '@/lib/supabase';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { ScrollArea } from '@/components/ui/scroll-area';
-import { Loader2, Send } from 'lucide-react';
+import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/components/ui/collapsible';
+import { Loader2, Send, ChevronDown, ChevronRight } from 'lucide-react';
 
 interface Message {
   role: 'agent' | 'user';
@@ -45,6 +47,8 @@ export default function PlacementTestPage() {
   
   const [userInput, setUserInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
+  const [feedback, setFeedback] = useState<string[]>([]);
+  const [isFeedbackOpen, setIsFeedbackOpen] = useState(false);
 
   // Start test on mount
   useEffect(() => {
@@ -61,12 +65,31 @@ export default function PlacementTestPage() {
     }
   }, [testState.messages]);
 
+  // Auto-focus input after agent response
+  useEffect(() => {
+    if (!isLoading && testState.messages.length > 0) {
+      const lastMessage = testState.messages[testState.messages.length - 1];
+      if (lastMessage.role === 'agent') {
+        // Small delay to ensure UI is updated
+        setTimeout(() => {
+          inputRef.current?.focus();
+        }, 100);
+      }
+    }
+  }, [isLoading, testState.messages]);
+
   const startTest = async () => {
     setIsLoading(true);
     try {
+      // Get auth token from supabase
+      const { data: { session } } = await supabase.auth.getSession();
+      
       const response = await fetch('/api/placement-agent/start', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' }
+        headers: { 
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${session?.access_token}`
+        }
       });
       
       const data = await response.json();
@@ -114,9 +137,15 @@ export default function PlacementTestPage() {
     setIsLoading(true);
 
     try {
+      // Get auth token from supabase
+      const { data: { session } } = await supabase.auth.getSession();
+      
       const response = await fetch('/api/placement-agent/next', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${session?.access_token}`
+        },
         body: JSON.stringify({
           session_id: testState.session_id,
           user_message: message,
@@ -159,21 +188,31 @@ export default function PlacementTestPage() {
       console.error('Error processing response:', error);
     } finally {
       setIsLoading(false);
-      inputRef.current?.focus();
     }
   };
 
   const finalizeTest = async (sessionId: string, finalCefr: string) => {
     try {
-      await fetch('/api/placement-agent/finalize', {
+      // Get auth token from supabase
+      const { data: { session } } = await supabase.auth.getSession();
+      
+      const response = await fetch('/api/placement-agent/finalize', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${session?.access_token}`
+        },
         body: JSON.stringify({
           session_id: sessionId,
           final_cefr: finalCefr,
           confidence: 0.8
         })
       });
+      
+      const data = await response.json();
+      if (data.feedback) {
+        setFeedback(data.feedback);
+      }
     } catch (error) {
       console.error('Error finalizing test:', error);
     }
@@ -191,9 +230,9 @@ export default function PlacementTestPage() {
           <div className="max-w-2xl mx-auto">
             <Card className="bg-white/10 backdrop-blur-sm border-white/20">
               <CardHeader className="text-center">
-                <CardTitle className="text-white text-3xl mb-4">Test Completed!</CardTitle>
+                <CardTitle className="text-white text-3xl mb-4">Test zakończony!</CardTitle>
                 <CardDescription className="text-gray-300 text-lg">
-                  Your English level has been assessed
+                  Twój poziom języka angielskiego został oceniony
                 </CardDescription>
               </CardHeader>
               <CardContent className="space-y-6">
@@ -201,30 +240,66 @@ export default function PlacementTestPage() {
                   <Badge className="text-3xl px-8 py-4 bg-green-600">
                     {testState.final_cefr}
                   </Badge>
-                  <p className="text-white text-xl mt-4">Your English Level</p>
+                  <p className="text-white text-xl mt-4">Twój poziom języka angielskiego</p>
                 </div>
                 
                 <div className="p-4 bg-white/10 rounded-lg space-y-2">
                   <p className="text-gray-300 text-center">
-                    {testState.final_cefr === 'A1' && "You understand basic phrases and can introduce yourself."}
-                    {testState.final_cefr === 'A2' && "You can communicate in simple tasks and describe your background."}
-                    {testState.final_cefr === 'B1' && "You can express opinions on familiar topics and handle most situations."}
-                    {testState.final_cefr === 'B2' && "You can express yourself clearly and handle abstract discussions."}
-                    {testState.final_cefr === 'C1' && "You can use language flexibly for social, academic, and professional purposes."}
-                    {testState.final_cefr === 'C2' && "You can express yourself spontaneously and precisely in complex situations."}
+                    {testState.final_cefr === 'A1' && "Rozumiesz podstawowe zwroty i potrafisz się przedstawić."}
+                    {testState.final_cefr === 'A2' && "Potrafisz komunikować się w prostych zadaniach i opisać swoje pochodzenie."}
+                    {testState.final_cefr === 'B1' && "Potrafisz wyrażać opinie na znane tematy i radzić sobie w większości sytuacji."}
+                    {testState.final_cefr === 'B2' && "Potrafisz wyrażać się jasno i prowadzić abstrakcyjne dyskusje."}
+                    {testState.final_cefr === 'C1' && "Potrafisz elastycznie używać języka w celach społecznych, akademickich i zawodowych."}
+                    {testState.final_cefr === 'C2' && "Potrafisz wyrażać się spontanicznie i precyzyjnie w złożonych sytuacjach."}
                   </p>
                   <p className="text-gray-400 text-sm text-center">
-                    {testState.final_cefr <= 'B1' && "Next step: practice grammar and expand your vocabulary."}
-                    {testState.final_cefr === 'B2' && "Next step: practice complex grammar and idioms to reach C1."}
-                    {testState.final_cefr >= 'C1' && "Continue practicing to maintain and enhance your fluency."}
+                    {testState.final_cefr <= 'B1' && "Następny krok: ćwicz gramatykę i rozszerzaj słownictwo."}
+                    {testState.final_cefr === 'B2' && "Następny krok: ćwicz złożoną gramatykę i idiomy, aby osiągnąć C1."}
+                    {testState.final_cefr >= 'C1' && "Kontynuuj ćwiczenia, aby utrzymać i poprawić płynność."}
                   </p>
                 </div>
 
+                {/* Feedback Section - Always show for debugging */}
+                <div className="mt-6">
+                  <Collapsible open={isFeedbackOpen} onOpenChange={setIsFeedbackOpen}>
+                    <CollapsibleTrigger asChild>
+                      <Button
+                        variant="outline"
+                        className="w-full bg-white/10 border-white/30 text-white hover:bg-white/20"
+                      >
+                        <span className="flex items-center gap-2">
+                          {isFeedbackOpen ? (
+                            <ChevronDown className="h-4 w-4" />
+                          ) : (
+                            <ChevronRight className="h-4 w-4" />
+                          )}
+                          Sprawdź swoje błędy ({feedback.length})
+                        </span>
+                      </Button>
+                    </CollapsibleTrigger>
+                    <CollapsibleContent className="mt-4">
+                      <div className="bg-white/5 rounded-lg p-4 space-y-3">
+                        {feedback.length > 0 ? (
+                          feedback.map((item, index) => (
+                            <div key={index} className="text-gray-300 text-sm">
+                              • {item}
+                            </div>
+                          ))
+                        ) : (
+                          <div className="text-gray-400 text-sm">
+                            Brak feedback do wyświetlenia
+                          </div>
+                        )}
+                      </div>
+                    </CollapsibleContent>
+                  </Collapsible>
+                </div>
+
                 <Button 
-                  className="w-full bg-gradient-to-r from-blue-600 to-purple-600"
+                  className="w-full bg-gradient-to-r from-blue-600 to-purple-600 mt-4"
                   onClick={() => router.push('/dashboard')}
                 >
-                  Continue to Dashboard
+                  Przejdź do Dashboard
                 </Button>
               </CardContent>
             </Card>

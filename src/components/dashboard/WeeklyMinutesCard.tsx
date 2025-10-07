@@ -48,7 +48,7 @@ export function WeeklyMinutesCard() {
       <CardHeader>
         <CardTitle className="text-white flex items-center gap-2">
           <Clock className="h-5 w-5" />
-          ⏱️ Weekly Study Time
+          ⏱️ Czas nauki w tym tygodniu
         </CardTitle>
       </CardHeader>
       <CardContent className="space-y-4">
@@ -56,13 +56,13 @@ export function WeeklyMinutesCard() {
           <div className="text-3xl font-bold text-blue-400">
             {formatTime(weeklyMinutes)}
           </div>
-          <p className="text-gray-300 text-sm">this week</p>
+          <p className="text-gray-300 text-sm">w tym tygodniu</p>
         </div>
 
         {/* Weekly Progress Bar */}
         <div className="space-y-2">
           <div className="flex justify-between text-sm">
-            <span className="text-gray-300">Weekly Goal</span>
+            <span className="text-gray-300">Cel tygodniowy</span>
             <span className="text-gray-300">{formatTime(weeklyGoal)}</span>
           </div>
           <div className="w-full bg-gray-700 rounded-full h-2">
@@ -76,7 +76,7 @@ export function WeeklyMinutesCard() {
         {/* Today's Progress */}
         <div className="space-y-2">
           <div className="flex justify-between text-sm">
-            <span className="text-gray-300">Today</span>
+            <span className="text-gray-300">Dzisiaj</span>
             <span className="text-gray-300">{formatTime(todayMinutes)}/{formatTime(dailyGoal)}</span>
           </div>
           <div className="w-full bg-gray-700 rounded-full h-2">
@@ -90,7 +90,7 @@ export function WeeklyMinutesCard() {
         <div className="flex justify-center">
           <Badge variant="secondary" className="bg-blue-500/20 text-blue-300">
             <TrendingUp className="h-3 w-3 mr-1" />
-            {Math.round(progressPercentage)}% of weekly goal
+            {Math.round(progressPercentage)}% celu tygodniowego
           </Badge>
         </div>
       </CardContent>

@@ -50,11 +50,11 @@ export default function TodayPlan({ items = [], onItemClick }: TodayPlanProps) {
       <CardHeader>
         <CardTitle className="text-white flex items-center gap-2">
           <Target className="h-5 w-5" />
-          📋 Today's Plan
+          📋 Plan na dziś
         </CardTitle>
         <div className="flex items-center justify-between">
           <p className="text-gray-300 text-sm">
-            Progress: {done} / {total} completed
+            Postęp: {done} / {total} ukończono
           </p>
           <Badge variant="secondary" className="bg-blue-500/20 text-blue-300">
             {percent}%
@@ -74,7 +74,7 @@ export default function TodayPlan({ items = [], onItemClick }: TodayPlanProps) {
         <div className="space-y-4">
           {/* Lessons */}
           {lessons.length > 0 && (
-            <Section title={`Lessons (${lessons.length})`}>
+            <Section title={`Lekcje (${lessons.length})`}>
               <div className="space-y-3">
                 {lessons.map((i) => (
                   <PlanRow key={i.id} item={i} onClick={onItemClick} />
@@ -85,7 +85,7 @@ export default function TodayPlan({ items = [], onItemClick }: TodayPlanProps) {
 
           {/* SRS */}
           {srs.length > 0 && (
-            <Section title={`SRS reviews (${srs.length})`}>
+            <Section title={`Powtórki SRS (${srs.length})`}>
               <div className="space-y-3">
                 {srs.map((i) => (
                   <PlanRow key={i.id} item={i} onClick={onItemClick} />
@@ -100,11 +100,11 @@ export default function TodayPlan({ items = [], onItemClick }: TodayPlanProps) {
           <div className="flex justify-between text-sm">
             <div className="flex items-center gap-1 text-gray-300">
               <span>⏱️</span>
-              <span>Total time: {minutes} min</span>
+              <span>Czas: {minutes} min</span>
             </div>
             <div className="flex items-center gap-1 text-gray-300">
               <span>🏅</span>
-              <span>Points: {items.filter(i=>i.status==='done').reduce((s,i)=>s+i.points,0)} / {points}</span>
+              <span>Punkty: {items.filter(i=>i.status==='done').reduce((s,i)=>s+i.points,0)} / {points}</span>
             </div>
           </div>
         </div>
@@ -149,14 +149,14 @@ function PlanRow({ item, onClick }: { item: TodayPlanItem; onClick?: (item: Toda
       <div className="flex items-center gap-2 shrink-0">
         {item.difficulty && (
           <Badge variant="secondary" className="bg-blue-500/20 text-blue-300">
-            {item.difficulty}
+            {item.difficulty === 'beginner' ? 'początkujący' : item.difficulty === 'intermediate' ? 'średniozaawansowany' : 'zaawansowany'}
           </Badge>
         )}
         <Badge variant="secondary" className="bg-blue-500/20 text-blue-300">{item.durationMin} min</Badge>
-        <Badge variant="secondary" className="bg-purple-500/20 text-purple-300">+{item.points} pts</Badge>
+        <Badge variant="secondary" className="bg-purple-500/20 text-purple-300">+{item.points} pkt</Badge>
         {isDone ? (
           <Badge variant="secondary" className="bg-green-500/20 text-green-300 text-xs">
-            Done
+            Zrobione
           </Badge>
         ) : (
           <Button
@@ -165,7 +165,7 @@ function PlanRow({ item, onClick }: { item: TodayPlanItem; onClick?: (item: Toda
             onClick={() => onClick?.(item)}
             className="bg-blue-500/20 border-blue-500/30 text-blue-300 hover:bg-blue-500/30 gap-1"
           >
-            <Play className="h-3 w-3" /> {item.cta || (item.kind === 'srs' ? 'Review' : 'Start')}
+            <Play className="h-3 w-3" /> {item.cta === 'Review' ? 'Powtórz' : 'Start'}
           </Button>
         )}
       </div>

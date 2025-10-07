@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useAuthStore } from '@/stores/auth';
 import { TopBar } from '@/components/layout/TopBar';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -10,28 +10,103 @@ import { Badge } from '@/components/ui/badge';
 import { Settings, User, Target, Volume2, BookOpen, Save, ClipboardCheck } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 import { useToast } from '@/components/ui/use-toast';
+import { supabase } from '@/lib/supabase';
 
 export default function ProfilePage() {
-  const { user } = useAuthStore();
+  const { user, setUser } = useAuthStore();
   const router = useRouter();
   const { toast } = useToast();
   
-  // Mock user settings - w przyszłości z API
   const [settings, setSettings] = useState({
-    cefrLevel: 'B1',
+    cefrLevel: user?.cefr_level || 'B1',
     dailyGoal: 30, // minutes
     ttsEnabled: true,
     ttsVoice: 'alloy',
     notifications: true
   });
 
-  const handleSave = () => {
-    // TODO: Save to API
-    console.log('Saving settings:', settings);
-    toast({
-      title: "✅ Ustawienia zapisane",
-      duration: 3000,
-    });
+  // Load user profile data on mount
+  useEffect(() => {
+    const loadProfile = async () => {
+      if (!user?.id) return;
+      
+      const { data: profile } = await supabase
+        .from('user_profil')
+        .select('*')
+        .eq('user_id', user.id)
+        .single();
+      
+      if (profile) {
+        setSettings({
+          cefrLevel: profile.cefr_level || 'B1',
+          dailyGoal: profile.settings?.dailyGoal || 30,
+          ttsEnabled: profile.settings?.ttsEnabled !== false,
+          ttsVoice: profile.settings?.ttsVoice || 'alloy',
+          notifications: profile.settings?.notifications !== false
+        });
+      }
+    };
+    
+    loadProfile();
+  }, [user?.id]);
+
+  const handleSave = async () => {
+    if (!user?.id) return;
+    
+    try {
+      // Save to database with explicit type casting
+      const { error } = await supabase
+        .from('user_profil')
+        .upsert({
+          user_id: user.id,
+          cefr_level: settings.cefrLevel as 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2',
+          settings: {
+            dailyGoal: settings.dailyGoal,
+            ttsEnabled: settings.ttsEnabled,
+            ttsVoice: settings.ttsVoice,
+            notifications: settings.notifications
+          }
+        }, {
+          onConflict: 'user_id'
+        });
+
+      if (error) throw error;
+
+      // Reload profile from database to sync
+      const { data: profile } = await supabase
+        .from('user_profil')
+        .select('*')
+        .eq('user_id', user.id)
+        .single();
+
+      console.log('Profile saved successfully:', profile);
+
+      // Update user in store with fresh data
+      if (profile) {
+        setUser({ 
+          ...user, 
+          cefr_level: profile.cefr_level,
+          placement_score: profile.placement_score,
+          placement_taken_at: profile.placement_taken_at,
+          placement_mode: profile.placement_mode,
+          placement_source: profile.placement_source
+        });
+      }
+
+      toast({
+        title: "✅ Ustawienia zapisane",
+        description: `Poziom CEFR: ${settings.cefrLevel}`,
+        duration: 3000,
+      });
+    } catch (error) {
+      console.error('Error saving settings:', error);
+      toast({
+        title: "❌ Błąd zapisu",
+        description: "Nie udało się zapisać ustawień",
+        variant: "destructive",
+        duration: 3000,
+      });
+    }
   };
 
   const cefrLevels = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];

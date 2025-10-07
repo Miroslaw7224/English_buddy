@@ -179,7 +179,7 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
             <input
               {...form.register('term')}
               className="border rounded p-2"
-              placeholder="Term (np. apple)"
+              placeholder="Słowo (np. apple)"
               required
             />
             {form.formState.errors.term && (
@@ -189,7 +189,7 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
             <input
               {...form.register('translation')}
               className="border rounded p-2"
-              placeholder="Translation (np. jabłko)"
+              placeholder="Tłumaczenie (np. jabłko)"
             />
             
             
@@ -231,13 +231,13 @@ export function WordsModal({ isOpen, onClose }: WordsModalProps) {
                         value={editForm.term}
                         onChange={(e) => setEditForm(prev => ({ ...prev, term: e.target.value }))}
                         className="border rounded p-2 w-full"
-                        placeholder="Term"
+                        placeholder="Słowo"
                       />
                       <input
                         value={editForm.translation}
                         onChange={(e) => setEditForm(prev => ({ ...prev, translation: e.target.value }))}
                         className="border rounded p-2 w-full"
-                        placeholder="Translation"
+                        placeholder="Tłumaczenie"
                       />
                       <div className="flex gap-2">
                         <Button

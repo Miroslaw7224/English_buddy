@@ -64,26 +64,26 @@ export default function WordsPage() {
     <div className="min-h-screen bg-gradient-to-br from-blue-900 via-purple-900 to-indigo-900">
       <TopBar />
       <div className="container mx-auto px-4 py-8 max-w-4xl">
-      {error && <ErrorBanner message={(error as any)?.message || 'Failed to load words'} />}
+      {error && <ErrorBanner message={(error as any)?.message || 'Nie udało się załadować słówek'} />}
       
       <div className="flex items-center justify-between mb-8">
         <div>
-          <h1 className="text-3xl font-bold text-white">My Words</h1>
+          <h1 className="text-3xl font-bold text-white">Moje słówka</h1>
           <p className="text-gray-300 mt-2">
-            Manage your English vocabulary
+            Zarządzaj swoim słownictwem angielskim
           </p>
         </div>
         <Button
           onClick={() => setModal('words', true)}
           className="bg-blue-600 hover:bg-blue-700"
         >
-          Add New Word
+          Dodaj nowe słówko
         </Button>
       </div>
 
       <div className="mb-6">
         <Input
-          placeholder="Search words..."
+          placeholder="Szukaj słówek..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
           className="max-w-md"
@@ -106,9 +106,9 @@ export default function WordsPage() {
       ) : filteredWords.length === 0 ? (
         <EmptyState
           icon={searchTerm ? "🔍" : "📚"}
-          title={searchTerm ? "No words found" : "No words added yet"}
-          description={searchTerm ? "Try a different search term" : "Start building your vocabulary by adding your first word"}
-          actionLabel={!searchTerm ? "Add Your First Word" : undefined}
+          title={searchTerm ? "Nie znaleziono słówek" : "Nie dodano jeszcze żadnych słówek"}
+          description={searchTerm ? "Spróbuj innej frazy wyszukiwania" : "Zacznij budować swoje słownictwo dodając pierwsze słówko"}
+          actionLabel={!searchTerm ? "Dodaj pierwsze słówko" : undefined}
           onAction={!searchTerm ? () => setModal('words', true) : undefined}
         />
       ) : (
@@ -116,10 +116,10 @@ export default function WordsPage() {
           <table className="w-full">
             <thead className="bg-gray-700/50 border-b border-gray-600/30">
               <tr>
-                <th className="text-left p-4 text-white font-semibold">Term</th>
-                <th className="text-left p-4 text-white font-semibold">Translation</th>
-                <th className="text-left p-4 text-white font-semibold">Example</th>
-                <th className="text-left p-4 text-white font-semibold">Actions</th>
+                <th className="text-left p-4 text-white font-semibold">Słowo</th>
+                <th className="text-left p-4 text-white font-semibold">Tłumaczenie</th>
+                <th className="text-left p-4 text-white font-semibold">Przykład</th>
+                <th className="text-left p-4 text-white font-semibold">Akcje</th>
               </tr>
             </thead>
             <tbody>
@@ -138,7 +138,7 @@ export default function WordsPage() {
                         className="bg-white/20 border-white/30 text-white hover:bg-white/30"
                         onClick={() => handleEdit(word)}
                       >
-                        Edit
+                        Edytuj
                       </Button>
                       <Button
                         variant="outline"
@@ -147,7 +147,7 @@ export default function WordsPage() {
                         onClick={() => handleDelete(word.word_id)}
                         disabled={deleteWordMutation.isPending}
                       >
-                        {deleteWordMutation.isPending ? 'Deleting...' : 'Delete'}
+                        {deleteWordMutation.isPending ? 'Usuwanie...' : 'Usuń'}
                       </Button>
                     </div>
                   </td>

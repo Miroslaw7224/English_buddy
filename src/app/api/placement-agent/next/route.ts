@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { supabase } from '@/lib/supabase';
+import { createClient } from '@supabase/supabase-js';
 
 const SYSTEM_PROMPT = `You are a certified CEFR examiner (A1–C2). 
 Conduct an 8-turn English placement interview through text chat.
@@ -34,7 +34,7 @@ interface ScoreResult {
   lexical_range: number; // 0-5
   fluency_coherence: number; // 0-5
   cefr_guess: string; // A1, A2, B1, B2, C1, C2
-  feedback: string;
+  corrected_answer: string;
 }
 
 export async function POST(request: NextRequest) {
@@ -45,6 +45,42 @@ export async function POST(request: NextRequest) {
       return NextResponse.json(
         { error: 'Missing required fields' },
         { status: 400 }
+      );
+    }
+
+    // Get auth token from request headers
+    const authHeader = request.headers.get('authorization');
+    
+    if (!authHeader) {
+      console.error('No authorization header in next request');
+      return NextResponse.json(
+        { error: 'Unauthorized - no auth header' },
+        { status: 401 }
+      );
+    }
+
+    const supabase = createClient(
+      process.env.NEXT_PUBLIC_SUPABASE_URL!,
+      process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
+      {
+        global: {
+          headers: {
+            Authorization: authHeader,
+          },
+        },
+      }
+    );
+
+    // Check authentication
+    const { data: { user }, error: authError } = await supabase.auth.getUser();
+    
+    console.log('Next API - Auth check:', { user: user?.id, authError });
+    
+    if (!user) {
+      console.error('No user found in next API', authError);
+      return NextResponse.json(
+        { error: 'Unauthorized - invalid token' },
+        { status: 401 }
       );
     }
 
@@ -62,7 +98,7 @@ export async function POST(request: NextRequest) {
     const newEstimate = calculateNewEstimate(estimate, weightedScore, scoreResult.grammar_accuracy, scoreResult.lexical_range);
     
     // Log to database
-    await logToDatabase(session_id, state, history[history.length - 1], user_message, scoreResult);
+    await logToDatabase(supabase, session_id, state, history[history.length - 1], user_message, scoreResult);
 
     // Determine next state
     const stateConfig = STATES[state as keyof typeof STATES];
@@ -127,7 +163,7 @@ Rate each dimension (0-5):
 - lexical_range: Vocabulary richness, idioms, register (2× weight)
 - fluency_coherence: Cohesion, linking, naturalness
 
-Provide a CEFR guess (A1, A2, B1, B2, C1, C2) and brief feedback.
+Provide a CEFR guess (A1, A2, B1, B2, C1, C2) and corrected version of user's answer (fix grammar, vocabulary, fluency errors while keeping the original meaning).
 
 Respond ONLY with valid JSON:
 {
@@ -137,7 +173,7 @@ Respond ONLY with valid JSON:
   "lexical_range": 0-5,
   "fluency_coherence": 0-5,
   "cefr_guess": "B1",
-  "feedback": "Brief feedback (max 30 words)"
+  "corrected_answer": "Corrected version of user's answer in English"
 }`;
 
   try {
@@ -170,7 +206,7 @@ Respond ONLY with valid JSON:
       lexical_range: 3,
       fluency_coherence: 3,
       cefr_guess: cefrFromEstimate(estimate),
-      feedback: 'Evaluation unavailable'
+      corrected_answer: userMessage
     };
   }
 }
@@ -278,6 +314,7 @@ Respond ONLY with valid JSON:
 }
 
 async function logToDatabase(
+  supabase: any,
   sessionId: string,
   state: string,
   agentMessage: string,
@@ -295,7 +332,8 @@ async function logToDatabase(
       gram: scoreResult.grammar_accuracy,
       lex: scoreResult.lexical_range,
       flu: scoreResult.fluency_coherence,
-      cefr_guess: scoreResult.cefr_guess
+      cefr_guess: scoreResult.cefr_guess,
+      corrected: scoreResult.corrected_answer
     };
 
     await supabase.from('agent_logs').insert({
