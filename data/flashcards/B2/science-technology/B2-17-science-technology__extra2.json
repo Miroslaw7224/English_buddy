@@ -1,0 +1,869 @@
+{
+  "pack_id": "b2_17_science_technology_extra2",
+  "title": "B2 17 Science Technology — Extra 2",
+  "level": "B2",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "bb65c3df-4e8b-4f98-9d50-505909e8b189",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "due diligence",
+      "back": "należyta staranność",
+      "hint": "Careful investigation.",
+      "examples": [
+        [
+          "Do due diligence.",
+          "Zrób należytą staranność."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'due diligence'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "należyta staranność",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'należyta staranność'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7029ab50-8562-4f94-b965-1bdfb2de0c9d",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "benchmark results",
+      "back": "wyniki porównawcze",
+      "hint": "Compare performance.",
+      "examples": [
+        [
+          "Publish benchmark results.",
+          "Opublikuj wyniki porównawcze."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'benchmark results'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "wyniki porównawcze"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wyniki porównawcze'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2adcf9dd-a76b-4d0c-81d8-a965918dca1a",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "stakeholder engagement",
+      "back": "zaangażowanie interesariuszy",
+      "hint": "Work with stakeholders.",
+      "examples": [
+        [
+          "Improve stakeholder engagement.",
+          "Popraw zaangażowanie interesariuszy."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'stakeholder engagement'?",
+            "options": [
+              "zaangażowanie interesariuszy",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zaangażowanie interesariuszy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3c9c43a6-b6e0-4777-a185-76913783eabc",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "knowledge transfer",
+      "back": "transfer wiedzy",
+      "hint": "Share expertise.",
+      "examples": [
+        [
+          "Ensure knowledge transfer.",
+          "Zapewnij transfer wiedzy."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'knowledge transfer'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "transfer wiedzy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'transfer wiedzy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "36d14c04-6c29-4da3-a2c1-4e88126e37e4",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "regulatory compliance",
+      "back": "zgodność z przepisami",
+      "hint": "Follow regulations.",
+      "examples": [
+        [
+          "Maintain regulatory compliance.",
+          "Utrzymuj zgodność z przepisami."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'regulatory compliance'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zgodność z przepisami",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zgodność z przepisami'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3f40131d-9e3e-4af8-9d26-ad09c1898ffa",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "resource allocation",
+      "back": "alokacja zasobów",
+      "hint": "Assign resources.",
+      "examples": [
+        [
+          "Plan resource allocation.",
+          "Planuj alokację zasobów."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'resource allocation'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "alokacja zasobów"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'alokacja zasobów'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ed761a20-b8c1-4503-9976-ed3c8a204c57",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "contingency plan",
+      "back": "plan awaryjny",
+      "hint": "Plan for risks.",
+      "examples": [
+        [
+          "Prepare a contingency plan.",
+          "Przygotuj plan awaryjny."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'contingency plan'?",
+            "options": [
+              "plan awaryjny",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'plan awaryjny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "93b47260-a3b1-423a-998e-56a4f1d8f4b9",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "holistic approach",
+      "back": "podejście holistyczne",
+      "hint": "Overall perspective.",
+      "examples": [
+        [
+          "Take a holistic approach.",
+          "Zastosuj podejście holistyczne."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'holistic approach'?",
+            "options": [
+              "podejście holistyczne",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'podejście holistyczne'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2ea4ccb5-5b09-4011-8322-6875eafcfe18",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "scalable solution",
+      "back": "skalowalne rozwiązanie",
+      "hint": "Grows with demand.",
+      "examples": [
+        [
+          "Build a scalable solution.",
+          "Zbuduj skalowalne rozwiązanie."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'scalable solution'?",
+            "options": [
+              "tak",
+              "skalowalne rozwiązanie",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'skalowalne rozwiązanie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "58b6bcda-7931-4ceb-a043-8372bed02827",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "actionable insights",
+      "back": "przydatne wnioski",
+      "hint": "Insights you can act on.",
+      "examples": [
+        [
+          "Get actionable insights.",
+          "Uzyskaj przydatne wnioski."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'actionable insights'?",
+            "options": [
+              "tak",
+              "przydatne wnioski",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przydatne wnioski'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2439b199-d60e-4e5c-93e7-3f6b778eca0a",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "fall behind schedule",
+      "back": "opóźniać się względem planu",
+      "hint": "Be late vs plan.",
+      "examples": [
+        [
+          "We fell behind schedule.",
+          "Opóźniliśmy się względem planu."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fall behind schedule'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "opóźniać się względem planu",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'opóźniać się względem planu'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a2a13956-fa2a-4513-970e-0150889d8a94",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "gain traction",
+      "back": "zyskiwać na popularności",
+      "hint": "Become popular.",
+      "examples": [
+        [
+          "The idea gained traction.",
+          "Pomysł zyskał na popularności."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'gain traction'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "zyskiwać na popularności"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zyskiwać na popularności'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c5909744-4630-42f6-8146-e8ce331a445a",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "roll out",
+      "back": "wdrażać (stopniowo)",
+      "hint": "Launch gradually.",
+      "examples": [
+        [
+          "Roll out the update.",
+          "Wdrażaj aktualizację."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'roll out'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "wdrażać (stopniowo)"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wdrażać (stopniowo)'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4bd56034-6367-4533-bd72-b7ae815dfa7d",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "iron out",
+      "back": "wygładzić/wyprostować",
+      "hint": "Remove problems.",
+      "examples": [
+        [
+          "Iron out the issues.",
+          "Wygładź problemy."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'iron out'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "wygładzić/wyprostować"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wygładzić/wyprostować'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "68f17fbb-f187-4761-b6fb-449cc357aa15",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "zero in on",
+      "back": "skupić się na",
+      "hint": "Focus on.",
+      "examples": [
+        [
+          "Zero in on the goal.",
+          "Skup się na celu."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'zero in on'?",
+            "options": [
+              "skupić się na",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'skupić się na'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a3c39c39-c16d-485c-aeb4-1a1d6cdd7aed",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "stem from",
+      "back": "wynikać z",
+      "hint": "Originate from.",
+      "examples": [
+        [
+          "The error stems from a typo.",
+          "Błąd wynika z literówki."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'stem from'?",
+            "options": [
+              "wynikać z",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wynikać z'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "50c9df43-8a79-475e-a01a-d4c0c4d3eac8",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "boil down to",
+      "back": "sprowadzać się do",
+      "hint": "Be essentially.",
+      "examples": [
+        [
+          "It boils down to time.",
+          "To sprowadza się do czasu."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'boil down to'?",
+            "options": [
+              "tak",
+              "sprowadzać się do",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'sprowadzać się do'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "02adcf6b-88e3-4ab6-af3f-0ec710e31b60",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "double down on",
+      "back": "podwoić wysiłki w",
+      "hint": "Increase effort.",
+      "examples": [
+        [
+          "Double down on marketing.",
+          "Podwój wysiłki w marketingu."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'double down on'?",
+            "options": [
+              "tak",
+              "podwoić wysiłki w",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'podwoić wysiłki w'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "702254b7-0878-415a-a55f-81797241bad4",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "phase out",
+      "back": "wycofywać stopniowo",
+      "hint": "Remove gradually.",
+      "examples": [
+        [
+          "Phase out old systems.",
+          "Stopniowo wycofaj stare systemy."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'phase out'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "wycofywać stopniowo"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wycofywać stopniowo'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "88b8e9bf-9618-4873-9d4c-b1428f8d7477",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 17 Science Technology",
+      "front": "good evening",
+      "back": "dobry wieczór",
+      "hint": "Evening greeting.",
+      "examples": [
+        [
+          "Good evening, everyone.",
+          "Dobry wieczór, wszyscy."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good evening'?",
+            "options": [
+              "tak",
+              "dobry wieczór",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dobry wieczór'."
+          }
+        ]
+      }
+    }
+  ]
+}

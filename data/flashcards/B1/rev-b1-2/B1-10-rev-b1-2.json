@@ -1,0 +1,677 @@
+[
+  {
+    "word_id": "9281dabd-502d-482f-ad0b-e840bd1ca25c",
+    "user_id": null,
+    "term": "meet a deadline",
+    "term_lang": "en",
+    "translation": "dotrzymać terminu",
+    "translation_lang": "pl",
+    "definition": "to finish work by the agreed time",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We must meet the deadline for the report.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f39263b0-e444-438a-9398-3690320c30e8",
+    "user_id": null,
+    "term": "hand in an assignment",
+    "term_lang": "en",
+    "translation": "oddawać zadanie",
+    "translation_lang": "pl",
+    "definition": "to give your work to a teacher",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please hand in your assignment by Friday.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f153cda8-58b7-44eb-8339-ad6211298c1e",
+    "user_id": null,
+    "term": "get by",
+    "term_lang": "en",
+    "translation": "radzić sobie (finansowo)",
+    "translation_lang": "pl",
+    "definition": "to manage to live or do something with difficulty",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It's hard to get by on a low salary.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9a5fae0e-f08b-486f-ba0e-ed1fe5e11133",
+    "user_id": null,
+    "term": "put off",
+    "term_lang": "en",
+    "translation": "odkładać, odwlekać",
+    "translation_lang": "pl",
+    "definition": "to delay doing something",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Don't put off your homework until Sunday.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "03c3cd77-5c95-4654-a900-766a6fcfba70",
+    "user_id": null,
+    "term": "take up",
+    "term_lang": "en",
+    "translation": "zająć się (nowym hobby)",
+    "translation_lang": "pl",
+    "definition": "to start doing a new activity",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I took up jogging last year.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f578d527-f695-4469-963a-b1aea8e55c87",
+    "user_id": null,
+    "term": "look after",
+    "term_lang": "en",
+    "translation": "opiekować się",
+    "translation_lang": "pl",
+    "definition": "to take care of someone/something",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Can you look after my dog this weekend?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5dd80cbe-1247-4c55-87a7-5d69871b7fb4",
+    "user_id": null,
+    "term": "cut down on sugar",
+    "term_lang": "en",
+    "translation": "ograniczyć cukier",
+    "translation_lang": "pl",
+    "definition": "to eat less sugar",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should cut down on sugar.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9bf172d0-a461-4552-96b4-240996b0ddfb",
+    "user_id": null,
+    "term": "get enough sleep",
+    "term_lang": "en",
+    "translation": "wysypiać się",
+    "translation_lang": "pl",
+    "definition": "to sleep the right amount",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should get enough sleep every night.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "72bce1f2-179e-472f-a18b-3ed83f073924",
+    "user_id": null,
+    "term": "see a doctor",
+    "term_lang": "en",
+    "translation": "iść do lekarza",
+    "translation_lang": "pl",
+    "definition": "to visit a medical professional",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should see a doctor if the pain continues.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1d35c008-0a6d-43d4-9be8-4655cfd5010e",
+    "user_id": null,
+    "term": "eat a balanced diet",
+    "term_lang": "en",
+    "translation": "jeść zbilansowaną dietę",
+    "translation_lang": "pl",
+    "definition": "to eat healthy food in the right amounts",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You ought to eat a balanced diet.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d004872d-5ed8-4127-9839-fac51b8aa4c2",
+    "user_id": null,
+    "term": "Dear Mr/Ms [Name],",
+    "term_lang": "en",
+    "translation": "Szanowny Panie / Szanowna Pani [Nazwisko],",
+    "translation_lang": "pl",
+    "definition": "a formal opening when you know the surname",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Dear Ms Nowak, thank you for your message.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ff985ab6-be26-4c9f-b174-529d3b1f852d",
+    "user_id": null,
+    "term": "Hi [Name],",
+    "term_lang": "en",
+    "translation": "Cześć [Imię],",
+    "translation_lang": "pl",
+    "definition": "a neutral opening for colleagues and friends",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Hi Anna, could you check the file?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ad34d5e3-9aa0-4650-815e-55db9040ad25",
+    "user_id": null,
+    "term": "Please find attached...",
+    "term_lang": "en",
+    "translation": "W załączniku przesyłam...",
+    "translation_lang": "pl",
+    "definition": "used to mention an attachment",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please find attached the signed contract.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "623f51b6-f1ef-49fe-a208-acdd59ece467",
+    "user_id": null,
+    "term": "Looking forward to your reply.",
+    "term_lang": "en",
+    "translation": "Czekam na odpowiedź.",
+    "translation_lang": "pl",
+    "definition": "a neutral closing sentence",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Looking forward to your reply.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7f6a0dc2-56e2-4d94-aab3-bffd364a6fa3",
+    "user_id": null,
+    "term": "Best regards,",
+    "term_lang": "en",
+    "translation": "Z poważaniem / Pozdrawiam,",
+    "translation_lang": "pl",
+    "definition": "a common closing",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Best regards,\n[Your Name]",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "10_rev-b1-2",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  }
+]

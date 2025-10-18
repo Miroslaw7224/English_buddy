@@ -1,0 +1,869 @@
+{
+  "pack_id": "c2_15_rev3_extra2",
+  "title": "C2 15 Rev3 — Extra 2",
+  "level": "C2",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "0186cabc-e9ca-48c7-a9ac-622a923f00cf",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "perspicacious",
+      "back": "wnikliwy",
+      "hint": "Having keen understanding.",
+      "examples": [
+        [
+          "A perspicacious critic.",
+          "Wnikliwy krytyk."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'perspicacious'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wnikliwy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wnikliwy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "f7aee084-3ba5-4104-8233-373546776314",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "pellucid",
+      "back": "przejrzysty",
+      "hint": "Clear, easy to understand.",
+      "examples": [
+        [
+          "Pellucid prose.",
+          "Przejrzysta proza."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'pellucid'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "przejrzysty"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przejrzysty'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8f3d3304-0495-4df6-bb1d-c1a1bc5e5efa",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "abstruse",
+      "back": "zawiły",
+      "hint": "Hard to understand.",
+      "examples": [
+        [
+          "An abstruse theory.",
+          "Zawiła teoria."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'abstruse'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "zawiły"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zawiły'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fcb617eb-8e7c-4557-8a8b-e6447632f2fb",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "antediluvian",
+      "back": "przedpotopowy",
+      "hint": "Ridiculously old-fashioned.",
+      "examples": [
+        [
+          "Antediluvian ideas.",
+          "Przedpotopowe pomysły."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'antediluvian'?",
+            "options": [
+              "tak",
+              "przedpotopowy",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przedpotopowy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fd189766-3916-4a07-9af7-728e51da5030",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "inscrutable",
+      "back": "nieprzenikniony",
+      "hint": "Impossible to understand.",
+      "examples": [
+        [
+          "An inscrutable smile.",
+          "Nieprzenikniony uśmiech."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'inscrutable'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "nieprzenikniony"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'nieprzenikniony'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bd4356a3-3e50-4e8f-bad3-5bd03e26feb5",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "truculent",
+      "back": "zadziorny",
+      "hint": "Eager to fight.",
+      "examples": [
+        [
+          "A truculent reply.",
+          "Zadziorna odpowiedź."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'truculent'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zadziorny",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zadziorny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4e53499f-aca6-4944-9475-26a9f4fb0878",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "enervate",
+      "back": "osłabiać",
+      "hint": "Weaken.",
+      "examples": [
+        [
+          "It enervates the body.",
+          "To osłabia organizm."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'enervate'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "osłabiać",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'osłabiać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "10dbd51c-2a24-41fb-b21b-829cb7f90c81",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "obdurate",
+      "back": "nieustępliwy",
+      "hint": "Stubbornly refusing change.",
+      "examples": [
+        [
+          "An obdurate stance.",
+          "Nieustępliwe stanowisko."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'obdurate'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "nieustępliwy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'nieustępliwy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "dd2f573d-dbed-433f-80e6-998721cf2469",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "recalcitrant",
+      "back": "krnąbrny",
+      "hint": "Resisting authority.",
+      "examples": [
+        [
+          "A recalcitrant child.",
+          "Krnąbrne dziecko."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'recalcitrant'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "krnąbrny"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'krnąbrny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a2f823db-f2df-4be1-abdb-ac5dbce507b4",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "apotheosis",
+      "back": "apoteoza",
+      "hint": "Highest point.",
+      "examples": [
+        [
+          "The apotheosis of art.",
+          "Apoteoza sztuki."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'apotheosis'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "apoteoza",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'apoteoza'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bf359bbd-7072-45d0-b182-f63c75d5910a",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "impecunious",
+      "back": "ubogi",
+      "hint": "Having little money.",
+      "examples": [
+        [
+          "An impecunious student.",
+          "Ubogi student."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'impecunious'?",
+            "options": [
+              "tak",
+              "ubogi",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ubogi'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fc9601be-fc51-43a0-a92c-65fc6d1906db",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "quotidian",
+      "back": "codzienny",
+      "hint": "Everyday, ordinary.",
+      "examples": [
+        [
+          "Quotidian tasks.",
+          "Codzienne zadania."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'quotidian'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "codzienny"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'codzienny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "0f53369d-1bd1-4c78-bcf3-30974b414c73",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "vociferous",
+      "back": "hałaśliwy",
+      "hint": "Vehement, loud.",
+      "examples": [
+        [
+          "Vociferous protests.",
+          "Hałaśliwe protesty."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'vociferous'?",
+            "options": [
+              "tak",
+              "hałaśliwy",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'hałaśliwy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e87c889b-96df-4e17-a372-28e1a9db43a6",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "apocryphal",
+      "back": "apokryficzny",
+      "hint": "Of doubtful authenticity.",
+      "examples": [
+        [
+          "An apocryphal story.",
+          "Apokryficzna historia."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'apocryphal'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "apokryficzny",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'apokryficzny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "478c0c63-958c-4913-bafc-ebd996370d39",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "pell-mell",
+      "back": "na łeb, na szyję",
+      "hint": "In a confused rush.",
+      "examples": [
+        [
+          "They ran pell-mell.",
+          "Pobiegli na łeb, na szyję."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adverb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'pell-mell'?",
+            "options": [
+              "na łeb, na szyję",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'na łeb, na szyję'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8d7177be-dc3b-478d-a6d9-50a9f0785859",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "inchoate",
+      "back": "zalążkowy",
+      "hint": "Just begun.",
+      "examples": [
+        [
+          "An inchoate idea.",
+          "Zalążkowy pomysł."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'inchoate'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zalążkowy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zalążkowy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "0e08d87a-ef4c-4f02-8411-4ed004294721",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "storied",
+      "back": "sławny, osławiony",
+      "hint": "Having an interesting history.",
+      "examples": [
+        [
+          "A storied past.",
+          "Sławna przeszłość."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'storied'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "sławny, osławiony"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'sławny, osławiony'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "5e90baa5-3c64-4a6f-b695-b5a7aeefcbd5",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "recondite",
+      "back": "trudny do zrozumienia",
+      "hint": "Little known, abstruse.",
+      "examples": [
+        [
+          "Recondite facts.",
+          "Trudne do zrozumienia fakty."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'recondite'?",
+            "options": [
+              "tak",
+              "trudny do zrozumienia",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'trudny do zrozumienia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e1f1372a-d4d1-4998-87e1-3f8f8c96600a",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "sycophant",
+      "back": "pochlebca",
+      "hint": "Person who flatters.",
+      "examples": [
+        [
+          "A sycophant at court.",
+          "Pochlebca na dworze."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'sycophant'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "pochlebca",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'pochlebca'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "28cccd4e-4b0d-46c1-b882-4998d62a9689",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 15 Rev3",
+      "front": "good evening",
+      "back": "dobry wieczór",
+      "hint": "Evening greeting.",
+      "examples": [
+        [
+          "Good evening, everyone.",
+          "Dobry wieczór, wszyscy."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good evening'?",
+            "options": [
+              "tak",
+              "dobry wieczór",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dobry wieczór'."
+          }
+        ]
+      }
+    }
+  ]
+}

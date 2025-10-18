@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "f0449e54-9d5b-4b80-8af1-d35fdbba9532",
+    "user_id": null,
+    "term": "make a compelling case",
+    "term_lang": "en",
+    "translation": "przedstawić przekonujący argument",
+    "translation_lang": "pl",
+    "definition": "argue strongly for something",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She made a compelling case for reform.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b8e76475-144f-455d-b974-3c1a5a1a625a",
+    "user_id": null,
+    "term": "be deeply rooted in",
+    "term_lang": "en",
+    "translation": "być głęboko zakorzenionym w",
+    "translation_lang": "pl",
+    "definition": "have origins in",
+    "part_of_speech": "verb_phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The custom is deeply rooted in local history.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "14384df9-0c33-42d4-b9dc-ca72cce33149",
+    "user_id": null,
+    "term": "walk a fine line",
+    "term_lang": "en",
+    "translation": "poruszać się po cienkiej granicy",
+    "translation_lang": "pl",
+    "definition": "balance between two dangers",
+    "part_of_speech": "idiom",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Editors walk a fine line between clarity and nuance.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "37ff14ad-cefa-4e0a-9d17-b48277956ab0",
+    "user_id": null,
+    "term": "open to interpretation",
+    "term_lang": "en",
+    "translation": "otwarty na interpretacje",
+    "translation_lang": "pl",
+    "definition": "can be understood in different ways",
+    "part_of_speech": "adjective_phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The ending is open to interpretation.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "332649ac-83fd-4907-878c-2d156c088636",
+    "user_id": null,
+    "term": "err on the side of caution",
+    "term_lang": "en",
+    "translation": "dmuchać na zimne",
+    "translation_lang": "pl",
+    "definition": "choose the safer option",
+    "part_of_speech": "idiom",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We err on the side of caution with privacy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "64a7af98-7e2b-4739-b995-e01ba9e2dc8f",
+    "user_id": null,
+    "term": "paint with a broad brush",
+    "term_lang": "en",
+    "translation": "uogólniać zbyt mocno",
+    "translation_lang": "pl",
+    "definition": "describe without precision",
+    "part_of_speech": "idiom",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The report paints with too broad a brush.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c8c8a890-918c-4c01-b37c-53d08e737b7f",
+    "user_id": null,
+    "term": "strike a balance",
+    "term_lang": "en",
+    "translation": "znaleźć równowagę",
+    "translation_lang": "pl",
+    "definition": "find a compromise",
+    "part_of_speech": "idiom",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We must strike a balance between speed and quality.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "492e95a9-f127-4fa1-9c66-574748c8ef79",
+    "user_id": null,
+    "term": "call into question",
+    "term_lang": "en",
+    "translation": "podawać w wątpliwość",
+    "translation_lang": "pl",
+    "definition": "challenge the validity",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The audit calls the figures into question.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cf925d70-ac2c-480b-9d10-6c4ca7ff8f9d",
+    "user_id": null,
+    "term": "lend credence to",
+    "term_lang": "en",
+    "translation": "u wiarygadniać",
+    "translation_lang": "pl",
+    "definition": "make something seem more believable",
+    "part_of_speech": "verb_phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Independent tests lend credence to the claim.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "50651388-b5c2-43ba-8c0d-6e3b938d53fe",
+    "user_id": null,
+    "term": "bear in mind",
+    "term_lang": "en",
+    "translation": "mieć na uwadze",
+    "translation_lang": "pl",
+    "definition": "remember when considering",
+    "part_of_speech": "idiom",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Bear in mind the small sample size.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "778520ce-538a-4c16-ba0f-f64b0bb01cd9",
+    "user_id": null,
+    "term": "be of little consequence",
+    "term_lang": "en",
+    "translation": "mieć niewielkie znaczenie",
+    "translation_lang": "pl",
+    "definition": "not very important",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Minor bugs are of little consequence.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "745c1c6c-e365-4f50-bb59-a56beb6a6b35",
+    "user_id": null,
+    "term": "leave much to be desired",
+    "term_lang": "en",
+    "translation": "pozostawiać wiele do życzenia",
+    "translation_lang": "pl",
+    "definition": "be unsatisfactory",
+    "part_of_speech": "idiom",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The documentation leaves much to be desired.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a5a5f443-5ee2-41a1-82af-fcd9ae2cecf4",
+    "user_id": null,
+    "term": "cast doubt on",
+    "term_lang": "en",
+    "translation": "rzucać cień wątpliwości na",
+    "translation_lang": "pl",
+    "definition": "make something seem less certain",
+    "part_of_speech": "verb_phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The error rate casts doubt on the results.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "57811939-e346-4d33-a841-ba6c38309fa1",
+    "user_id": null,
+    "term": "stand to benefit",
+    "term_lang": "en",
+    "translation": "mieć szansę skorzystać",
+    "translation_lang": "pl",
+    "definition": "be likely to gain",
+    "part_of_speech": "verb_phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Small firms stand to benefit most.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e1e6cc87-bc15-4ba7-9100-ef207ff44255",
+    "user_id": null,
+    "term": "be at odds with",
+    "term_lang": "en",
+    "translation": "być w sprzeczności z",
+    "translation_lang": "pl",
+    "definition": "disagree with",
+    "part_of_speech": "verb_phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The claim is at odds with prior studies.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "idiomatic-paraphrase",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  }
+]

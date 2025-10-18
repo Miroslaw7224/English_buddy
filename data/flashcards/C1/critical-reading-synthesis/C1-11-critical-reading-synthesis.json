@@ -1,0 +1,667 @@
+[
+  {
+    "word_id": "682ed7dd-7402-4e99-ab47-226e567b6b31",
+    "user_id": null,
+    "term": "synthesise sources",
+    "term_lang": "en",
+    "translation": "syntezować źródła",
+    "translation_lang": "pl",
+    "definition": "combine ideas from multiple texts",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Synthesise sources to build your argument.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-3",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c61f23dd-d150-4b70-b379-87173fe40058",
+    "user_id": null,
+    "term": "evaluate credibility",
+    "term_lang": "en",
+    "translation": "ocenić wiarygodność",
+    "translation_lang": "pl",
+    "definition": "assess trustworthiness of a text",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Evaluate credibility before citing.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-3",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0a99b2d1-47bd-423e-af69-0a988280d305",
+    "user_id": null,
+    "term": "authorial stance",
+    "term_lang": "en",
+    "translation": "postawa autora",
+    "translation_lang": "pl",
+    "definition": "writer's position towards the topic",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Identify the authorial stance.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-3",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a2a56222-8f43-43b4-b244-e7d81159e8c3",
+    "user_id": null,
+    "term": "implicit assumption",
+    "term_lang": "en",
+    "translation": "ukryte założenie",
+    "translation_lang": "pl",
+    "definition": "unstated premise underlying a claim",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Expose implicit assumptions in the policy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-3",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c3047552-1344-49e9-9b61-37c520cba103",
+    "user_id": null,
+    "term": "rhetorical question",
+    "term_lang": "en",
+    "translation": "pytanie retoryczne",
+    "translation_lang": "pl",
+    "definition": "question asked for effect, not answer",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The speaker used rhetorical questions effectively.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-3",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5f5a8159-3eaa-46ec-ab55-13cac4f3b35f",
+    "user_id": null,
+    "term": "tone analysis",
+    "term_lang": "en",
+    "translation": "analiza tonu",
+    "translation_lang": "pl",
+    "definition": "study of attitude and emotion in text",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Do a tone analysis of the editorial.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "critical-reading-synthesis",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "30e6dfd7-8cd7-49fb-9cfb-2896f688f406",
+    "user_id": null,
+    "term": "bias detection",
+    "term_lang": "en",
+    "translation": "wykrywanie stronniczości",
+    "translation_lang": "pl",
+    "definition": "spotting unfair leaning or prejudice",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Teach bias detection in media literacy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "critical-reading-synthesis",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ff14facd-ad1e-4862-9d5d-24c957f8f765",
+    "user_id": null,
+    "term": "triangulation",
+    "term_lang": "en",
+    "translation": "triangulacja",
+    "translation_lang": "pl",
+    "definition": "using multiple methods/sources for validity",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We used triangulation: surveys, logs, interviews.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "critical-reading-synthesis",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "79c9a695-02bc-48f4-8032-e09ad70adbba",
+    "user_id": null,
+    "term": "quote–paraphrase–summarise",
+    "term_lang": "en",
+    "translation": "cytat–parafraza–streszczenie",
+    "translation_lang": "pl",
+    "definition": "three ways to integrate sources",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Decide when to quote, paraphrase, or summarise.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "critical-reading-synthesis",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9d0b3f0b-0d86-4a97-954b-d38461206d3e",
+    "user_id": null,
+    "term": "fair representation",
+    "term_lang": "en",
+    "translation": "uczciwe przedstawienie",
+    "translation_lang": "pl",
+    "definition": "presenting others' views accurately",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Aim for fair representation of opposing views.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "critical-reading-synthesis",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f5ae4b16-4e24-4244-ad7d-1fdf65391651",
+    "user_id": null,
+    "term": "nuanced summary",
+    "term_lang": "en",
+    "translation": "niuansowane streszczenie",
+    "translation_lang": "pl",
+    "definition": "captures subtleties without distortion",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Write a nuanced summary in 120 words.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "critical-reading-synthesis",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "459dd96e-4e19-4ebd-9b70-16b91bb34a3f",
+    "user_id": null,
+    "term": "synthesis matrix",
+    "term_lang": "en",
+    "translation": "macierz syntezy",
+    "translation_lang": "pl",
+    "definition": "table mapping themes across sources",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Build a synthesis matrix before writing.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "critical-reading-synthesis",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cee7a608-72ce-40a1-8547-5df556905ebb",
+    "user_id": null,
+    "term": "counterevidence",
+    "term_lang": "en",
+    "translation": "dowody przeciwne",
+    "translation_lang": "pl",
+    "definition": "evidence that challenges a claim",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Address counterevidence explicitly.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "critical-reading-synthesis",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7028a23c-793a-47d3-9e47-9da17d955af5",
+    "user_id": null,
+    "term": "salient point",
+    "term_lang": "en",
+    "translation": "najistotniejszy punkt",
+    "translation_lang": "pl",
+    "definition": "most noticeable or important idea",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Extract the salient points from each source.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "critical-reading-synthesis",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "455ea5b7-71ba-49aa-898e-6c7d4800be30",
+    "user_id": null,
+    "term": "takeaway",
+    "term_lang": "en",
+    "translation": "wniosek / to, co najważniejsze",
+    "translation_lang": "pl",
+    "definition": "key message readers should remember",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "State clear takeaways at the end.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "critical-reading-synthesis",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  }
+]

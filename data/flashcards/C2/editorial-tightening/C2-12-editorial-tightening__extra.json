@@ -1,0 +1,869 @@
+{
+  "pack_id": "c2_12_editorial_tightening_extra",
+  "title": "C2 12 Editorial Tightening — Extra",
+  "level": "C2",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "734f2b2c-290c-48c6-a22c-b389630e4fc6",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "ephemeral",
+      "back": "ulotny",
+      "hint": "Lasting a very short time.",
+      "examples": [
+        [
+          "An ephemeral trend.",
+          "Ulotny trend."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'ephemeral'?",
+            "options": [
+              "ulotny",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ulotny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "70b05556-512a-4c7c-8e9a-4124f4d0bfa1",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "parsimonious",
+      "back": "skąpy",
+      "hint": "Unwilling to spend money.",
+      "examples": [
+        [
+          "A parsimonious donor.",
+          "Skąpy darczyńca."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'parsimonious'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "skąpy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'skąpy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7d7e8569-d282-4d9f-a17e-47d2f4ec7823",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "obfuscate",
+      "back": "zaciemniać",
+      "hint": "Make unclear.",
+      "examples": [
+        [
+          "Do not obfuscate the facts.",
+          "Nie zaciemniaj faktów."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'obfuscate'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zaciemniać",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zaciemniać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "84d3152d-f4cd-48a3-8204-f5fc99db5385",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "conundrum",
+      "back": "zagadnienie problemowe",
+      "hint": "A difficult problem.",
+      "examples": [
+        [
+          "A policy conundrum.",
+          "Zagadnienie problemowe polityki."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'conundrum'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zagadnienie problemowe",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zagadnienie problemowe'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2d3e6371-04e4-4690-989d-bdfd093a3066",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "ameliorate",
+      "back": "ulepszać",
+      "hint": "Make better.",
+      "examples": [
+        [
+          "Ameliorate living conditions.",
+          "Ulepszać warunki życia."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'ameliorate'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "ulepszać"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ulepszać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "44942727-1681-4d95-bd7a-b43e246074ac",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "perfunctory",
+      "back": "pobieżny",
+      "hint": "Done with little effort.",
+      "examples": [
+        [
+          "A perfunctory check.",
+          "Pobieżna kontrola."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'perfunctory'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "pobieżny"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'pobieżny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8400ea88-995e-4c58-bdbb-8a2b115bc658",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "equivocal",
+      "back": "dwuznaczny",
+      "hint": "Open to more than one meaning.",
+      "examples": [
+        [
+          "An equivocal answer.",
+          "Dwuznaczna odpowiedź."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'equivocal'?",
+            "options": [
+              "tak",
+              "dwuznaczny",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dwuznaczny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "63a3ed11-c476-48a5-b300-09c2b52f710e",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "idiosyncratic",
+      "back": "idiosynkratyczny",
+      "hint": "Peculiar, individual.",
+      "examples": [
+        [
+          "Idiosyncratic style.",
+          "Idiosynkratyczny styl."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'idiosyncratic'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "idiosynkratyczny"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'idiosynkratyczny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "84b23f48-7b85-4664-8091-c38cd62b9b75",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "anachronism",
+      "back": "anachronizm",
+      "hint": "Something out of time.",
+      "examples": [
+        [
+          "A modern anachronism.",
+          "Współczesny anachronizm."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'anachronism'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "anachronizm"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'anachronizm'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e50ddbec-d4f7-47b1-9df7-791eedbdf57d",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "panacea",
+      "back": "panaceum",
+      "hint": "A solution for all problems.",
+      "examples": [
+        [
+          "No panacea exists.",
+          "Nie istnieje panaceum."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'panacea'?",
+            "options": [
+              "tak",
+              "panaceum",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'panaceum'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "0ed264be-903b-41f2-97f5-edd7fe68aa9c",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "obsequious",
+      "back": "służalczy",
+      "hint": "Overly obedient.",
+      "examples": [
+        [
+          "An obsequious assistant.",
+          "Służalczy asystent."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'obsequious'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "służalczy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'służalczy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fbe54d9a-a5df-4e64-b4a3-8ee9d55913f1",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "circumvent",
+      "back": "obejść",
+      "hint": "Find a way around.",
+      "examples": [
+        [
+          "Circumvent regulations.",
+          "Obejść przepisy."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'circumvent'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "obejść"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'obejść'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b95ae653-cca2-4fe2-82f0-eb74b3c2ee30",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "intransigent",
+      "back": "nieustępliwy",
+      "hint": "Unwilling to change views.",
+      "examples": [
+        [
+          "An intransigent stance.",
+          "Nieustępliwe stanowisko."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'intransigent'?",
+            "options": [
+              "tak",
+              "nieustępliwy",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'nieustępliwy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "5dd852f1-2b41-4e5b-a708-5e214f447cf1",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "disparate",
+      "back": "odmienny",
+      "hint": "Essentially different.",
+      "examples": [
+        [
+          "Disparate data sources.",
+          "Odmienne źródła danych."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'disparate'?",
+            "options": [
+              "tak",
+              "odmienny",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'odmienny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a4f4cd90-0c0c-4531-bc6e-fff2aaaf2478",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "salient",
+      "back": "najistotniejszy",
+      "hint": "Most noticeable.",
+      "examples": [
+        [
+          "The salient point.",
+          "Najistotniejszy punkt."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'salient'?",
+            "options": [
+              "najistotniejszy",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'najistotniejszy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6d581276-4b3b-4475-8341-17d6b004a12f",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "esoteric",
+      "back": "ezoteryczny",
+      "hint": "Intended for a small group.",
+      "examples": [
+        [
+          "Esoteric knowledge.",
+          "Wiedza ezoteryczna."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'esoteric'?",
+            "options": [
+              "tak",
+              "ezoteryczny",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ezoteryczny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "29d8acc8-64f0-4c5d-aa3b-1adea5ee976b",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "cogent",
+      "back": "przekonujący",
+      "hint": "Clear and convincing.",
+      "examples": [
+        [
+          "A cogent argument.",
+          "Przekonujący argument."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'cogent'?",
+            "options": [
+              "przekonujący",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przekonujący'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "1a0eaf7c-b9f4-481a-a6c7-ee0297fb3f04",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "onerous",
+      "back": "uciążliwy",
+      "hint": "Involving great effort.",
+      "examples": [
+        [
+          "An onerous task.",
+          "Uciążliwe zadanie."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'onerous'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "uciążliwy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'uciążliwy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "f4d3a934-debd-4067-ae5b-4eebbd54bcf2",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "plausible deniability",
+      "back": "wiarygodne zaprzeczenie",
+      "hint": "Ability to deny convincingly.",
+      "examples": [
+        [
+          "They sought plausible deniability.",
+          "Szukali wiarygodnego zaprzeczenia."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'plausible deniability'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wiarygodne zaprzeczenie",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wiarygodne zaprzeczenie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "25b2b5d4-c252-4bbb-aab3-369fd98f5b77",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 12 Editorial Tightening",
+      "front": "zeitgeist",
+      "back": "duch czasu",
+      "hint": "Defining spirit of an era.",
+      "examples": [
+        [
+          "Capture the zeitgeist.",
+          "Uchwycić ducha czasu."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'zeitgeist'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "duch czasu"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'duch czasu'."
+          }
+        ]
+      }
+    }
+  ]
+}

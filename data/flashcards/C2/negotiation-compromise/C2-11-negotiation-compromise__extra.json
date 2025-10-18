@@ -1,0 +1,869 @@
+{
+  "pack_id": "c2_11_negotiation_compromise_extra",
+  "title": "C2 11 Negotiation Compromise — Extra",
+  "level": "C2",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "493ba504-3328-4234-9c43-065836809cd2",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "ephemeral",
+      "back": "ulotny",
+      "hint": "Lasting a very short time.",
+      "examples": [
+        [
+          "An ephemeral trend.",
+          "Ulotny trend."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'ephemeral'?",
+            "options": [
+              "ulotny",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ulotny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cd75c664-6918-4b75-a49a-863e602626a1",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "parsimonious",
+      "back": "skąpy",
+      "hint": "Unwilling to spend money.",
+      "examples": [
+        [
+          "A parsimonious donor.",
+          "Skąpy darczyńca."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'parsimonious'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "skąpy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'skąpy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "192d30be-59b8-42b6-a5c9-33ebbb0f0f06",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "obfuscate",
+      "back": "zaciemniać",
+      "hint": "Make unclear.",
+      "examples": [
+        [
+          "Do not obfuscate the facts.",
+          "Nie zaciemniaj faktów."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'obfuscate'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zaciemniać",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zaciemniać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "78441137-43d8-4c3c-b118-f5910c7815d3",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "conundrum",
+      "back": "zagadnienie problemowe",
+      "hint": "A difficult problem.",
+      "examples": [
+        [
+          "A policy conundrum.",
+          "Zagadnienie problemowe polityki."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'conundrum'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zagadnienie problemowe",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zagadnienie problemowe'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "0e4ba87c-09eb-4b45-8e61-1a9ee6d285c2",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "ameliorate",
+      "back": "ulepszać",
+      "hint": "Make better.",
+      "examples": [
+        [
+          "Ameliorate living conditions.",
+          "Ulepszać warunki życia."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'ameliorate'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "ulepszać"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ulepszać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2057c540-afec-4ba6-82f4-f66b7f0ded73",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "perfunctory",
+      "back": "pobieżny",
+      "hint": "Done with little effort.",
+      "examples": [
+        [
+          "A perfunctory check.",
+          "Pobieżna kontrola."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'perfunctory'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "pobieżny"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'pobieżny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c334beb8-1789-4a47-b694-84e2a5785f4a",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "equivocal",
+      "back": "dwuznaczny",
+      "hint": "Open to more than one meaning.",
+      "examples": [
+        [
+          "An equivocal answer.",
+          "Dwuznaczna odpowiedź."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'equivocal'?",
+            "options": [
+              "tak",
+              "dwuznaczny",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dwuznaczny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "f60c7bf9-883f-4c54-ad1a-4fd06237337b",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "idiosyncratic",
+      "back": "idiosynkratyczny",
+      "hint": "Peculiar, individual.",
+      "examples": [
+        [
+          "Idiosyncratic style.",
+          "Idiosynkratyczny styl."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'idiosyncratic'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "idiosynkratyczny"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'idiosynkratyczny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8f125438-480b-4977-bc30-44670ca96b3e",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "anachronism",
+      "back": "anachronizm",
+      "hint": "Something out of time.",
+      "examples": [
+        [
+          "A modern anachronism.",
+          "Współczesny anachronizm."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'anachronism'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "anachronizm"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'anachronizm'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "381635ba-7d29-4231-a71d-8bdddf5cca47",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "panacea",
+      "back": "panaceum",
+      "hint": "A solution for all problems.",
+      "examples": [
+        [
+          "No panacea exists.",
+          "Nie istnieje panaceum."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'panacea'?",
+            "options": [
+              "tak",
+              "panaceum",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'panaceum'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "dfeb625b-ee13-4c9d-9676-bf61357eca2a",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "obsequious",
+      "back": "służalczy",
+      "hint": "Overly obedient.",
+      "examples": [
+        [
+          "An obsequious assistant.",
+          "Służalczy asystent."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'obsequious'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "służalczy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'służalczy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3cb66649-4307-4116-9ff4-7abdded5ee78",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "circumvent",
+      "back": "obejść",
+      "hint": "Find a way around.",
+      "examples": [
+        [
+          "Circumvent regulations.",
+          "Obejść przepisy."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'circumvent'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "obejść"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'obejść'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cc58e052-4cfd-4c5e-99f7-de5fd1c1b2f2",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "intransigent",
+      "back": "nieustępliwy",
+      "hint": "Unwilling to change views.",
+      "examples": [
+        [
+          "An intransigent stance.",
+          "Nieustępliwe stanowisko."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'intransigent'?",
+            "options": [
+              "tak",
+              "nieustępliwy",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'nieustępliwy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "015b8b81-9500-49b8-9b1a-ac981a89fd49",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "disparate",
+      "back": "odmienny",
+      "hint": "Essentially different.",
+      "examples": [
+        [
+          "Disparate data sources.",
+          "Odmienne źródła danych."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'disparate'?",
+            "options": [
+              "tak",
+              "odmienny",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'odmienny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3851f984-53ed-4390-a16f-9215383c8d9c",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "salient",
+      "back": "najistotniejszy",
+      "hint": "Most noticeable.",
+      "examples": [
+        [
+          "The salient point.",
+          "Najistotniejszy punkt."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'salient'?",
+            "options": [
+              "najistotniejszy",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'najistotniejszy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "992d5cf3-b99b-424a-9037-6b57c13d2f53",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "esoteric",
+      "back": "ezoteryczny",
+      "hint": "Intended for a small group.",
+      "examples": [
+        [
+          "Esoteric knowledge.",
+          "Wiedza ezoteryczna."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'esoteric'?",
+            "options": [
+              "tak",
+              "ezoteryczny",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ezoteryczny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "d1e5372d-1e12-47ec-92df-c6b3ff7d8a75",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "cogent",
+      "back": "przekonujący",
+      "hint": "Clear and convincing.",
+      "examples": [
+        [
+          "A cogent argument.",
+          "Przekonujący argument."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'cogent'?",
+            "options": [
+              "przekonujący",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przekonujący'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "26453304-7f66-420c-845e-f716336f3a0b",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "onerous",
+      "back": "uciążliwy",
+      "hint": "Involving great effort.",
+      "examples": [
+        [
+          "An onerous task.",
+          "Uciążliwe zadanie."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'onerous'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "uciążliwy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'uciążliwy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "010a8c16-2cd1-4ec3-b82d-17c04c131cbc",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "plausible deniability",
+      "back": "wiarygodne zaprzeczenie",
+      "hint": "Ability to deny convincingly.",
+      "examples": [
+        [
+          "They sought plausible deniability.",
+          "Szukali wiarygodnego zaprzeczenia."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'plausible deniability'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wiarygodne zaprzeczenie",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wiarygodne zaprzeczenie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "71e3a261-6200-4f6d-a973-64e58945cc29",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 11 Negotiation Compromise",
+      "front": "zeitgeist",
+      "back": "duch czasu",
+      "hint": "Defining spirit of an era.",
+      "examples": [
+        [
+          "Capture the zeitgeist.",
+          "Uchwycić ducha czasu."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'zeitgeist'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "duch czasu"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'duch czasu'."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "94fed515-259b-4c91-abcc-503616f5d229",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "If + Present, will + base",
+    "term_lang": "en",
+    "translation": "Jeśli + czas teraźniejszy, will + bezokolicznik",
+    "translation_lang": "pl",
+    "definition": "Form for real future conditions.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "If it rains, we will stay at home.",
+        "translation": "Jeśli będzie padać, zostaniemy w domu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:00:00Z",
+      "last_review_at": "2025-10-06T11:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:00:00Z",
+    "updated_at": "2025-10-06T11:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5c75f1ff-9b59-4b32-918f-6918603e8213",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "unless",
+    "term_lang": "en",
+    "translation": "chyba że",
+    "translation_lang": "pl",
+    "definition": "If not.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Unless you hurry, you will miss the bus.",
+        "translation": "Chyba że się pospieszysz, spóźnisz się na autobus."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:01:00Z",
+      "last_review_at": "2025-10-06T11:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:01:00Z",
+    "updated_at": "2025-10-06T11:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "64acff6a-b0e7-4170-ac24-cfb55de987c0",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "as long as",
+    "term_lang": "en",
+    "translation": "o ile",
+    "translation_lang": "pl",
+    "definition": "Only if; on condition that.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You can go out as long as you finish homework.",
+        "translation": "Możesz wyjść, o ile skończysz pracę domową."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:02:00Z",
+      "last_review_at": "2025-10-06T11:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:02:00Z",
+    "updated_at": "2025-10-06T11:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3e9a8de9-3ad5-4d73-8723-796c162884df",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "in case",
+    "term_lang": "en",
+    "translation": "na wypadek gdyby",
+    "translation_lang": "pl",
+    "definition": "For prevention; take action now for a possible future.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Take an umbrella in case it rains.",
+        "translation": "Weź parasol na wypadek deszczu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:03:00Z",
+      "last_review_at": "2025-10-06T11:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:03:00Z",
+    "updated_at": "2025-10-06T11:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "32d4473c-4153-48cf-a880-931814b7fbd4",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "by (time)",
+    "term_lang": "en",
+    "translation": "do (czasu)",
+    "translation_lang": "pl",
+    "definition": "No later than a specific time.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We will finish by Friday.",
+        "translation": "Skończymy do piątku."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:04:00Z",
+      "last_review_at": "2025-10-06T11:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:04:00Z",
+    "updated_at": "2025-10-06T11:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f270a9fc-a302-4b36-974a-eb33ac63e197",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "as soon as",
+    "term_lang": "en",
+    "translation": "jak tylko",
+    "translation_lang": "pl",
+    "definition": "Immediately after.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Call me as soon as you arrive.",
+        "translation": "Zadzwoń do mnie, jak tylko przyjedziesz."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:05:00Z",
+      "last_review_at": "2025-10-06T11:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:05:00Z",
+    "updated_at": "2025-10-06T11:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "89abe173-9735-4749-831d-090adb3d0fc4",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "provided (that)",
+    "term_lang": "en",
+    "translation": "pod warunkiem że",
+    "translation_lang": "pl",
+    "definition": "Only if the condition is met.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You can borrow the car provided you refill it.",
+        "translation": "Możesz pożyczyć auto pod warunkiem, że je zatankujesz."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:06:00Z",
+      "last_review_at": "2025-10-06T11:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:06:00Z",
+    "updated_at": "2025-10-06T11:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "65ce7b02-79f4-492e-bb7e-8ff510b3d5fd",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "promise",
+    "term_lang": "en",
+    "translation": "obietnica",
+    "translation_lang": "pl",
+    "definition": "Commitment to do something.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I promise I will help you if you need.",
+        "translation": "Obiecuję, że pomogę, jeśli będziesz potrzebować."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:07:00Z",
+      "last_review_at": "2025-10-06T11:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:07:00Z",
+    "updated_at": "2025-10-06T11:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c509113a-b6bb-4c00-ae31-456dd4eb6012",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "probably",
+    "term_lang": "en",
+    "translation": "prawdopodobnie",
+    "translation_lang": "pl",
+    "definition": "Shows that something is likely.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "If we leave now, we will probably be on time.",
+        "translation": "Jeśli wyjdziemy teraz, prawdopodobnie będziemy na czas."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:08:00Z",
+      "last_review_at": "2025-10-06T11:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:08:00Z",
+    "updated_at": "2025-10-06T11:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b50c3419-805c-4109-a240-637e9c0b4cd3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "won’t (will not)",
+    "term_lang": "en",
+    "translation": "nie będzie/nie zrobi",
+    "translation_lang": "pl",
+    "definition": "Negative of 'will'.",
+    "part_of_speech": "auxiliary",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "If you don’t study, you won’t pass.",
+        "translation": "Jeśli nie będziesz się uczyć, nie zdasz."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:09:00Z",
+      "last_review_at": "2025-10-06T11:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:09:00Z",
+    "updated_at": "2025-10-06T11:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e1d45a6d-47aa-44cf-a2f3-edd0971008f5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "unless you…",
+    "term_lang": "en",
+    "translation": "jeśli nie…",
+    "translation_lang": "pl",
+    "definition": "Pattern for negative condition.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Unless you call, I won’t know.",
+        "translation": "Jeśli nie zadzwonisz, nie będę wiedział."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:10:00Z",
+      "last_review_at": "2025-10-06T11:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:10:00Z",
+    "updated_at": "2025-10-06T11:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e64d690b-bc40-449b-b585-9753e5010340",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "weather permitting",
+    "term_lang": "en",
+    "translation": "jeśli pogoda pozwoli",
+    "translation_lang": "pl",
+    "definition": "Depending on the weather.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We will have a picnic, weather permitting.",
+        "translation": "Zrobimy piknik, jeśli pogoda pozwoli."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:11:00Z",
+      "last_review_at": "2025-10-06T11:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:11:00Z",
+    "updated_at": "2025-10-06T11:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4d094be5-62b6-454c-b0bf-743fcb4d2135",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "if I were you (A2+)",
+    "term_lang": "en",
+    "translation": "na twoim miejscu",
+    "translation_lang": "pl",
+    "definition": "Polite advice expression (borderline A2/B1).",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "If I were you, I would rest.",
+        "translation": "Na twoim miejscu odpocząłbym."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:12:00Z",
+      "last_review_at": "2025-10-06T11:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:12:00Z",
+    "updated_at": "2025-10-06T11:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7297c96d-37db-4f41-b936-7cc96b4d7a57",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "risk",
+    "term_lang": "en",
+    "translation": "ryzyko",
+    "translation_lang": "pl",
+    "definition": "Possibility of something bad happening.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "If there is a risk, we will cancel.",
+        "translation": "Jeśli jest ryzyko, odwołamy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:13:00Z",
+      "last_review_at": "2025-10-06T11:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:13:00Z",
+    "updated_at": "2025-10-06T11:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7df9249f-9677-40b6-8619-3bcfe150b10b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "condition",
+    "term_lang": "en",
+    "translation": "warunek",
+    "translation_lang": "pl",
+    "definition": "Something that must happen first.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "What is the condition for a refund?",
+        "translation": "Jaki jest warunek zwrotu?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-12-first-conditional",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:14:00Z",
+      "last_review_at": "2025-10-06T11:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:14:00Z",
+    "updated_at": "2025-10-06T11:14:00Z",
+    "deleted_at": null
+  }
+]

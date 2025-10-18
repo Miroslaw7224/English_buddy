@@ -1,0 +1,667 @@
+[
+  {
+    "word_id": "098f2f58-eead-49d2-9559-9019d23f8d62",
+    "user_id": null,
+    "term": "arguably",
+    "term_lang": "en",
+    "translation": "można argumentować, że",
+    "translation_lang": "pl",
+    "definition": "used to present a debatable claim",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Arguably, the policy benefits small firms most.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e00c959a-6a5e-44c0-8611-74ea7545d5e1",
+    "user_id": null,
+    "term": "to some extent",
+    "term_lang": "en",
+    "translation": "do pewnego stopnia",
+    "translation_lang": "pl",
+    "definition": "limits agreement",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "To some extent, the data support the hypothesis.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "21f11646-1b13-417e-ad15-b4a3191151d7",
+    "user_id": null,
+    "term": "appears to",
+    "term_lang": "en",
+    "translation": "wydaje się, że",
+    "translation_lang": "pl",
+    "definition": "suggests without asserting strongly",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It appears to correlate with age.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "623b4b58-c27c-4f36-9e17-07c5103aa373",
+    "user_id": null,
+    "term": "tends to",
+    "term_lang": "en",
+    "translation": "ma tendencję do",
+    "translation_lang": "pl",
+    "definition": "describes a general tendency",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The system tends to overfit on small data.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "726cf2f6-f685-40ad-ae38-e912e382bb4f",
+    "user_id": null,
+    "term": "is likely to",
+    "term_lang": "en",
+    "translation": "prawdopodobnie",
+    "translation_lang": "pl",
+    "definition": "probability hedging",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Demand is likely to increase next quarter.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "afae6f8a-1a09-4616-8e5b-dc5349597ca8",
+    "user_id": null,
+    "term": "plausible",
+    "term_lang": "en",
+    "translation": "wiarygodny / możliwy",
+    "translation_lang": "pl",
+    "definition": "seems reasonable or probable",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A plausible explanation is sampling bias.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "hedging-stance",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1f61889e-6c14-4b4a-a978-eebb9a94f646",
+    "user_id": null,
+    "term": "putatively",
+    "term_lang": "en",
+    "translation": "rzekomo",
+    "translation_lang": "pl",
+    "definition": "supposedly, by reputation",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A putatively safer option proved slower.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "hedging-stance",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ac61bb10-a3e5-4576-a3b6-8d20d1fef5a7",
+    "user_id": null,
+    "term": "it would seem that",
+    "term_lang": "en",
+    "translation": "wydawałoby się, że",
+    "translation_lang": "pl",
+    "definition": "polite distancing",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It would seem that the outage was local.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "hedging-stance",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1d33956d-54a9-4335-a2ea-90c3680924e2",
+    "user_id": null,
+    "term": "allegedly",
+    "term_lang": "en",
+    "translation": "rzekomo",
+    "translation_lang": "pl",
+    "definition": "reported but not confirmed",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He allegedly leaked the memo.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "hedging-stance",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "effb4e42-abf0-479c-9706-c204855f440e",
+    "user_id": null,
+    "term": "purported",
+    "term_lang": "en",
+    "translation": "domniemany",
+    "translation_lang": "pl",
+    "definition": "claimed but not proven",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The purported benefits were overstated.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "hedging-stance",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "09ef1f4c-b36e-4d45-bc19-dbcb6e03fc5f",
+    "user_id": null,
+    "term": "on balance",
+    "term_lang": "en",
+    "translation": "ogólnie rzecz biorąc",
+    "translation_lang": "pl",
+    "definition": "weighing pros and cons",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "On balance, the risks are acceptable.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "hedging-stance",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "721ae854-19e0-481d-85f0-5c1de31e986a",
+    "user_id": null,
+    "term": "tentative",
+    "term_lang": "en",
+    "translation": "wstępny / ostrożny",
+    "translation_lang": "pl",
+    "definition": "not certain or fixed",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "These are tentative conclusions.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "hedging-stance",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e656fed1-07f2-439d-8ea7-38fd5e44292f",
+    "user_id": null,
+    "term": "it stands to reason that",
+    "term_lang": "en",
+    "translation": "wydaje się logiczne, że",
+    "translation_lang": "pl",
+    "definition": "strong but reasoned inference",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It stands to reason that better data help.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "hedging-stance",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "af9d06e5-ca6b-4c68-9386-cfbc924444b8",
+    "user_id": null,
+    "term": "at face value",
+    "term_lang": "en",
+    "translation": "na pierwszy rzut oka",
+    "translation_lang": "pl",
+    "definition": "without deeper analysis",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Taken at face value, the numbers look good.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "hedging-stance",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "86e0ddd3-228b-4edc-90f8-65301afdfa6a",
+    "user_id": null,
+    "term": "to all intents and purposes",
+    "term_lang": "en",
+    "translation": "praktycznie rzecz biorąc",
+    "translation_lang": "pl",
+    "definition": "for all practical purposes",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The trial is, to all intents and purposes, complete.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "hedging-stance",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "48871485-3b78-4c98-8d84-5d159c0aa508",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "living room",
+    "term_lang": "en",
+    "translation": "salon",
+    "translation_lang": "pl",
+    "definition": "A room for relaxing with family.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We sit in the living room.",
+        "translation": "Siedzimy w salonie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:00:00Z",
+      "last_review_at": "2025-10-06T09:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:00:00Z",
+    "updated_at": "2025-10-06T09:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1a06de3d-5a9a-441d-960d-d8f62d315d67",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "hall",
+    "term_lang": "en",
+    "translation": "przedpokój",
+    "translation_lang": "pl",
+    "definition": "The space at the entrance of a home.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Shoes are in the hall.",
+        "translation": "Buty są w przedpokoju."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:01:00Z",
+      "last_review_at": "2025-10-06T09:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:01:00Z",
+    "updated_at": "2025-10-06T09:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d90d26e3-320f-4172-b84d-90fe93538b5a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "balcony",
+    "term_lang": "en",
+    "translation": "balkon",
+    "translation_lang": "pl",
+    "definition": "An open space outside a room.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The balcony is small.",
+        "translation": "Balkon jest mały."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:02:00Z",
+      "last_review_at": "2025-10-06T09:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:02:00Z",
+    "updated_at": "2025-10-06T09:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ce4018e0-9cdd-49ce-b396-12a621087505",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "garden",
+    "term_lang": "en",
+    "translation": "ogród",
+    "translation_lang": "pl",
+    "definition": "An area with plants next to a house.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We have a small garden.",
+        "translation": "Mamy mały ogród."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:03:00Z",
+      "last_review_at": "2025-10-06T09:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:03:00Z",
+    "updated_at": "2025-10-06T09:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2d7608f9-9dcb-4696-b1ff-61444c4b9e1a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "floor",
+    "term_lang": "en",
+    "translation": "podłoga/piętro",
+    "translation_lang": "pl",
+    "definition": "The surface you walk on or a building level.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The floor is clean.",
+        "translation": "Podłoga jest czysta."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:04:00Z",
+      "last_review_at": "2025-10-06T09:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:04:00Z",
+    "updated_at": "2025-10-06T09:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1ff5d3cb-9086-4dab-90a0-7e3d36fde5c4",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "ceiling",
+    "term_lang": "en",
+    "translation": "sufit",
+    "translation_lang": "pl",
+    "definition": "The top inside surface of a room.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The ceiling is white.",
+        "translation": "Sufit jest biały."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:05:00Z",
+      "last_review_at": "2025-10-06T09:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:05:00Z",
+    "updated_at": "2025-10-06T09:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3f6a504f-6504-47b9-b611-1af71e49d965",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "wall",
+    "term_lang": "en",
+    "translation": "ściana",
+    "translation_lang": "pl",
+    "definition": "A vertical part of a room.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A picture is on the wall.",
+        "translation": "Obraz jest na ścianie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:06:00Z",
+      "last_review_at": "2025-10-06T09:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:06:00Z",
+    "updated_at": "2025-10-06T09:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "eb121618-7faa-43a4-b1a3-f10025003944",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "carpet",
+    "term_lang": "en",
+    "translation": "dywan",
+    "translation_lang": "pl",
+    "definition": "A soft floor cover.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The carpet is red.",
+        "translation": "Dywan jest czerwony."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:07:00Z",
+      "last_review_at": "2025-10-06T09:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:07:00Z",
+    "updated_at": "2025-10-06T09:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "699abaea-3234-4997-9efe-e8a69533a8a7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "shelf",
+    "term_lang": "en",
+    "translation": "półka",
+    "translation_lang": "pl",
+    "definition": "A flat board to put things on.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Books are on the shelf.",
+        "translation": "Książki są na półce."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:08:00Z",
+      "last_review_at": "2025-10-06T09:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:08:00Z",
+    "updated_at": "2025-10-06T09:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f283ffe8-cf60-45f9-9c9b-aff9c7f609f3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "mirror",
+    "term_lang": "en",
+    "translation": "lustro",
+    "translation_lang": "pl",
+    "definition": "Glass that shows your face and body.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The mirror is in the hall.",
+        "translation": "Lustro jest w przedpokoju."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:09:00Z",
+      "last_review_at": "2025-10-06T09:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:09:00Z",
+    "updated_at": "2025-10-06T09:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "47a67ccb-00dc-42fd-9ee2-05204c24ac40",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "wardrobe",
+    "term_lang": "en",
+    "translation": "szafa",
+    "translation_lang": "pl",
+    "definition": "A tall piece of furniture for clothes.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Clothes are in the wardrobe.",
+        "translation": "Ubrania są w szafie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:10:00Z",
+      "last_review_at": "2025-10-06T09:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:10:00Z",
+    "updated_at": "2025-10-06T09:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6a95c69d-202b-4d5d-8b3b-8ec47e064cf5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "drawer",
+    "term_lang": "en",
+    "translation": "szuflada",
+    "translation_lang": "pl",
+    "definition": "A box that slides in furniture.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Keys are in the drawer.",
+        "translation": "Klucze są w szufladzie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:11:00Z",
+      "last_review_at": "2025-10-06T09:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:11:00Z",
+    "updated_at": "2025-10-06T09:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "800bcc82-dd4b-4242-8098-1457a26ad306",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "cushion",
+    "term_lang": "en",
+    "translation": "poduszka (dekoracyjna)",
+    "translation_lang": "pl",
+    "definition": "A soft bag for comfort on a sofa.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A cushion is on the sofa.",
+        "translation": "Poduszka jest na sofie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:12:00Z",
+      "last_review_at": "2025-10-06T09:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:12:00Z",
+    "updated_at": "2025-10-06T09:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "719091b3-183d-4c9f-9e19-84e504ac1ba2",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "blanket",
+    "term_lang": "en",
+    "translation": "koc",
+    "translation_lang": "pl",
+    "definition": "A warm cover on a bed or sofa.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I need a blanket.",
+        "translation": "Potrzebuję koca."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:13:00Z",
+      "last_review_at": "2025-10-06T09:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:13:00Z",
+    "updated_at": "2025-10-06T09:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9b59b92a-9e04-433a-b3c6-2fe6fdcac6c8",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "curtain",
+    "term_lang": "en",
+    "translation": "zasłona",
+    "translation_lang": "pl",
+    "definition": "Cloth that covers a window.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Close the curtain.",
+        "translation": "Zasłoń zasłonę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-17-rooms-furniture",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:14:00Z",
+      "last_review_at": "2025-10-06T09:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:14:00Z",
+    "updated_at": "2025-10-06T09:14:00Z",
+    "deleted_at": null
+  }
+]

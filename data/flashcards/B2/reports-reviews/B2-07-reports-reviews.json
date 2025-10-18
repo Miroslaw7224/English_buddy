@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "8faf9cfd-6f65-4ae3-8533-4f04888b183b",
+    "user_id": null,
+    "term": "executive summary",
+    "term_lang": "en",
+    "translation": "streszczenie zarządcze",
+    "translation_lang": "pl",
+    "definition": "a short overview of key points",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The executive summary highlights the main findings.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ab12f589-66b6-473f-867d-12337f93f401",
+    "user_id": null,
+    "term": "scope",
+    "term_lang": "en",
+    "translation": "zakres",
+    "translation_lang": "pl",
+    "definition": "what the report includes and excludes",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The scope covers Q1 sales only.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "faf030cd-db51-4fcc-904b-68a2125011fe",
+    "user_id": null,
+    "term": "methodology",
+    "term_lang": "en",
+    "translation": "metodologia",
+    "translation_lang": "pl",
+    "definition": "how the data was collected and analysed",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Our methodology combined surveys and interviews.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6ae350bf-3d83-4d8d-a880-0f56a6522996",
+    "user_id": null,
+    "term": "findings",
+    "term_lang": "en",
+    "translation": "wyniki/ustalenia",
+    "translation_lang": "pl",
+    "definition": "important results in a report",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The findings indicate strong growth.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0cd06394-c2d1-43ce-b3dc-ba5d2970a9f6",
+    "user_id": null,
+    "term": "recommendations",
+    "term_lang": "en",
+    "translation": "rekomendacje",
+    "translation_lang": "pl",
+    "definition": "suggested actions based on findings",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We offer three recommendations at the end.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4bbfb095-0f96-44b9-831e-1b2b044da6c2",
+    "user_id": null,
+    "term": "limitations",
+    "term_lang": "en",
+    "translation": "ograniczenia",
+    "translation_lang": "pl",
+    "definition": "factors that weaken the conclusions",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A small sample size is a key limitation.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "65bfd6bc-2bdd-4bc7-a8e6-3f8d825cd8ea",
+    "user_id": null,
+    "term": "on balance",
+    "term_lang": "en",
+    "translation": "ogólnie rzecz biorąc",
+    "translation_lang": "pl",
+    "definition": "phrase used to weigh pros and cons",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "On balance, the product is worth the price.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "26a70782-f59f-446f-a1ce-6b74989a10ab",
+    "user_id": null,
+    "term": "well-structured",
+    "term_lang": "en",
+    "translation": "dobrze uporządkowany",
+    "translation_lang": "pl",
+    "definition": "logically organised and easy to follow",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The report is well-structured and concise.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f7b0676e-f2b5-41b1-814e-b6925b50a18f",
+    "user_id": null,
+    "term": "target audience",
+    "term_lang": "en",
+    "translation": "grupa docelowa",
+    "translation_lang": "pl",
+    "definition": "the people a text is aimed at",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The review explains the target audience clearly.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "17016e24-08ff-4c7d-b379-a9edf15144f6",
+    "user_id": null,
+    "term": "strengths and weaknesses",
+    "term_lang": "en",
+    "translation": "mocne i słabe strony",
+    "translation_lang": "pl",
+    "definition": "positive and negative aspects",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We list the strengths and weaknesses of each option.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3feb0b18-413d-40ef-80e6-8441ff867bc2",
+    "user_id": null,
+    "term": "highly recommended",
+    "term_lang": "en",
+    "translation": "gorąco polecany",
+    "translation_lang": "pl",
+    "definition": "very positive evaluation",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This book is highly recommended for beginners.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "29cccae0-04b1-4e0e-86f6-de85a860e92e",
+    "user_id": null,
+    "term": "in need of improvement",
+    "term_lang": "en",
+    "translation": "wymagający poprawy",
+    "translation_lang": "pl",
+    "definition": "polite way to say something is weak",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The interface is in need of improvement.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "725ec5a5-12f4-4853-b0f6-69c9b15a454b",
+    "user_id": null,
+    "term": "objective vs subjective",
+    "term_lang": "en",
+    "translation": "obiektywny vs subiektywny",
+    "translation_lang": "pl",
+    "definition": "factual versus personal evaluation",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Keep the tone objective; avoid subjective claims.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "72939b9b-e85c-4a9d-8d89-591626a269f7",
+    "user_id": null,
+    "term": "conclusion",
+    "term_lang": "en",
+    "translation": "wniosek/podsumowanie",
+    "translation_lang": "pl",
+    "definition": "final part that summarises the message",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The conclusion reiterates the main point.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ddba91c1-ebe7-43b2-b9ae-6c50d948c6ff",
+    "user_id": null,
+    "term": "overall rating",
+    "term_lang": "en",
+    "translation": "ocena ogólna",
+    "translation_lang": "pl",
+    "definition": "final score or judgement",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My overall rating is four stars out of five.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "reports-reviews",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  }
+]

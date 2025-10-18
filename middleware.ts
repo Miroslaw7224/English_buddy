@@ -59,16 +59,14 @@ export async function middleware(request: NextRequest) {
     data: { session },
   } = await supabase.auth.getSession();
 
-  // Protect /words and /api routes
-  if (
-    request.nextUrl.pathname.startsWith('/words') ||
-    request.nextUrl.pathname.startsWith('/api')
-  ) {
+  // Protect /words routes - redirect if not authenticated
+  if (request.nextUrl.pathname.startsWith('/words')) {
     if (!session) {
-      // Redirect to home page if not authenticated
       return NextResponse.redirect(new URL('/', request.url));
     }
   }
+
+  // Note: /api/flashcard-progress is public (returns empty for non-authenticated users)
 
   return response;
 }
@@ -77,11 +75,12 @@ export const config = {
   matcher: [
     /*
      * Match all request paths except for the ones starting with:
+     * - api (API routes handle auth themselves)
      * - _next/static (static files)
      * - _next/image (image optimization files)
      * - favicon.ico (favicon file)
      * - public folder
      */
-    '/((?!_next/static|_next/image|favicon.ico|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)',
+    '/((?!api|_next/static|_next/image|favicon.ico|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)',
   ],
 };

@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "89de2e82-66f0-4b8a-845b-bf20cbc9610e",
+    "user_id": null,
+    "term": "rent an apartment",
+    "term_lang": "en",
+    "translation": "wynająć mieszkanie",
+    "translation_lang": "pl",
+    "definition": "to pay regularly to live in a place",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We're looking to rent an apartment near the center.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1228b504-3326-46ae-82f2-8d2ac961ac44",
+    "user_id": null,
+    "term": "landlord / landlady",
+    "term_lang": "en",
+    "translation": "właściciel / właścicielka mieszkania",
+    "translation_lang": "pl",
+    "definition": "the person who owns the property you rent",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The landlord asked for a deposit.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "df7f759b-6799-43ef-b1b3-bbdf6d5b6012",
+    "user_id": null,
+    "term": "tenant",
+    "term_lang": "en",
+    "translation": "najemca",
+    "translation_lang": "pl",
+    "definition": "a person who rents a place to live",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Each tenant must sign the contract.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8b5f3178-895b-46c2-a9af-b3b4ea657603",
+    "user_id": null,
+    "term": "security deposit",
+    "term_lang": "en",
+    "translation": "kaucja",
+    "translation_lang": "pl",
+    "definition": "money paid in case of damage",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You'll get your security deposit back if there's no damage.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e81d6642-65a0-494e-9414-f2227e4c13c3",
+    "user_id": null,
+    "term": "utilities included",
+    "term_lang": "en",
+    "translation": "media w cenie",
+    "translation_lang": "pl",
+    "definition": "water, electricity, etc. are part of the rent",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Are the utilities included in the rent?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8b71f7a4-56f1-4cd8-81b6-057fd3522e37",
+    "user_id": null,
+    "term": "furnished / unfurnished",
+    "term_lang": "en",
+    "translation": "umeblowane / nieumeblowane",
+    "translation_lang": "pl",
+    "definition": "with/without furniture",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The flat is partially furnished.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "409cc068-d911-43ce-b023-3df1b94025c0",
+    "user_id": null,
+    "term": "neighbourhood",
+    "term_lang": "en",
+    "translation": "okolica",
+    "translation_lang": "pl",
+    "definition": "the area around a home",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It's a quiet neighbourhood with parks.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "29436057-b364-4bc0-96f7-09dc06c6f173",
+    "user_id": null,
+    "term": "commute",
+    "term_lang": "en",
+    "translation": "dojazd do pracy",
+    "translation_lang": "pl",
+    "definition": "the journey from home to work",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Her commute takes 30 minutes by tram.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "445c27a9-65dc-45ed-883a-ebff46730bc5",
+    "user_id": null,
+    "term": "lease agreement",
+    "term_lang": "en",
+    "translation": "umowa najmu",
+    "translation_lang": "pl",
+    "definition": "a contract for renting property",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please read the lease agreement carefully.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "af598fd6-c7a8-408c-8d9e-27552a9716bc",
+    "user_id": null,
+    "term": "notice period",
+    "term_lang": "en",
+    "translation": "okres wypowiedzenia",
+    "translation_lang": "pl",
+    "definition": "time between giving notice and leaving",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The notice period is one month.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "64da969b-aa08-4a2c-b0bc-2c8af9adb1e8",
+    "user_id": null,
+    "term": "repair request",
+    "term_lang": "en",
+    "translation": "zgłoszenie naprawy",
+    "translation_lang": "pl",
+    "definition": "asking to fix something at home",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I sent a repair request for the boiler.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "62460352-fe30-45a3-a25c-bb493bd28af5",
+    "user_id": null,
+    "term": "move in / move out",
+    "term_lang": "en",
+    "translation": "wprowadzić się / wyprowadzić się",
+    "translation_lang": "pl",
+    "definition": "to start/stop living in a place",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We move in next weekend.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "415331bb-412c-4758-9513-c6d22fee0071",
+    "user_id": null,
+    "term": "household appliances",
+    "term_lang": "en",
+    "translation": "sprzęty AGD",
+    "translation_lang": "pl",
+    "definition": "machines used at home",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The kitchen has modern household appliances.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0fe8fd52-56ef-498b-915f-b7363eeadfb6",
+    "user_id": null,
+    "term": "shared flat",
+    "term_lang": "en",
+    "translation": "mieszkanie współdzielone",
+    "translation_lang": "pl",
+    "definition": "a flat where you live with others",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I'm looking for a room in a shared flat.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "793f712f-4c15-412f-9a1c-ebb15d95a979",
+    "user_id": null,
+    "term": "viewing",
+    "term_lang": "en",
+    "translation": "oglądanie mieszkania",
+    "translation_lang": "pl",
+    "definition": "a visit to see a property before renting",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We have a viewing on Thursday.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "17_housing-renting",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  }
+]

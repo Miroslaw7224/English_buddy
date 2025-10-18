@@ -1,0 +1,869 @@
+{
+  "pack_id": "a1_03_family_people_extra",
+  "title": "A1 03 Family People — Extra",
+  "level": "A1",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "48237629-cfcc-467a-96db-8e6948572556",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "grandmother",
+      "back": "babcia",
+      "hint": "Mother of your parent.",
+      "examples": [
+        [
+          "My grandmother cooks well.",
+          "Moja babcia dobrze gotuje."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'grandmother'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "babcia",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'babcia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3f18cc1f-0397-4602-910e-936f80ab74af",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "grandfather",
+      "back": "dziadek",
+      "hint": "Father of your parent.",
+      "examples": [
+        [
+          "My grandfather reads a lot.",
+          "Mój dziadek dużo czyta."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'grandfather'?",
+            "options": [
+              "tak",
+              "dziadek",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dziadek'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b667c95f-2f90-42a7-a4c7-2176a2f8e705",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "grandparents",
+      "back": "dziadkowie",
+      "hint": "Grandmother and grandfather.",
+      "examples": [
+        [
+          "I visit my grandparents.",
+          "Odwiedzam dziadków."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'grandparents'?",
+            "options": [
+              "dziadkowie",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dziadkowie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "0d559dd1-f5b3-45c7-8dac-019a03144def",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "aunt",
+      "back": "ciocia",
+      "hint": "Sister of your parent.",
+      "examples": [
+        [
+          "My aunt lives nearby.",
+          "Moja ciocia mieszka blisko."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'aunt'?",
+            "options": [
+              "ciocia",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ciocia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "602c6070-4800-45a2-b2c9-f7599dcc79f2",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "uncle",
+      "back": "wujek",
+      "hint": "Brother of your parent.",
+      "examples": [
+        [
+          "My uncle is funny.",
+          "Mój wujek jest zabawny."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'uncle'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "wujek"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wujek'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "65f769d3-6fb2-444d-aebc-64ee82447853",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "cousin",
+      "back": "kuzyn/kuzynka",
+      "hint": "Child of your aunt or uncle.",
+      "examples": [
+        [
+          "My cousin is my age.",
+          "Mój kuzyn jest w moim wieku."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'cousin'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "kuzyn/kuzynka",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'kuzyn/kuzynka'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7fadaf75-7b1d-41d3-9271-cfe42c452e19",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "wife",
+      "back": "żona",
+      "hint": "Married woman partner.",
+      "examples": [
+        [
+          "His wife is a teacher.",
+          "Jego żona jest nauczycielką."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'wife'?",
+            "options": [
+              "żona",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'żona'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "256b420d-e5fe-49e1-a7f2-61362e3b2ac5",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "husband",
+      "back": "mąż",
+      "hint": "Married man partner.",
+      "examples": [
+        [
+          "Her husband is a doctor.",
+          "Jej mąż jest lekarzem."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'husband'?",
+            "options": [
+              "mąż",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'mąż'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2e95d0d5-929c-4848-bfd9-59e3fcec758d",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "child",
+      "back": "dziecko",
+      "hint": "Young person.",
+      "examples": [
+        [
+          "The child is sleeping.",
+          "Dziecko śpi."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'child'?",
+            "options": [
+              "tak",
+              "dziecko",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dziecko'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7305352a-2061-4386-a979-718a34508d74",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "children",
+      "back": "dzieci",
+      "hint": "Plural of child.",
+      "examples": [
+        [
+          "Children play outside.",
+          "Dzieci bawią się na dworze."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'children'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "dzieci"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dzieci'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cc1cece5-ea5d-42e8-961b-5b5b66eadb3e",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "married",
+      "back": "żonaty/zamężna",
+      "hint": "Having a husband or wife.",
+      "examples": [
+        [
+          "They are married.",
+          "Oni są małżeństwem."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'married'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "żonaty/zamężna"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'żonaty/zamężna'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c1fa2a97-214c-490d-a38c-2fdfeaffe682",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "single",
+      "back": "singiel/singielka",
+      "hint": "Not married.",
+      "examples": [
+        [
+          "She is single.",
+          "Ona jest singielką."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'single'?",
+            "options": [
+              "tak",
+              "singiel/singielka",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'singiel/singielka'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "5b3c9cf4-8fe5-4f7a-94a1-339227f1dc0b",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "how are you",
+      "back": "jak się masz",
+      "hint": "Casual question about wellbeing.",
+      "examples": [
+        [
+          "How are you today?",
+          "Jak się masz dziś?"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'how are you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "jak się masz",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jak się masz'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8c619c54-a84d-4ce3-9d06-2bc77ac602be",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "nice to see you",
+      "back": "miło cię widzieć",
+      "hint": "Friendly greeting when meeting again.",
+      "examples": [
+        [
+          "Nice to see you again!",
+          "Miło cię znów widzieć!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'nice to see you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "miło cię widzieć"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię widzieć'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cdc66edf-5b78-4700-90ee-163d6d6ed21b",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "good night",
+      "back": "dobranoc",
+      "hint": "Said at night when parting or before sleep.",
+      "examples": [
+        [
+          "Good night! See you tomorrow.",
+          "Dobranoc! Do zobaczenia jutro."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good night'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "dobranoc",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dobranoc'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6767ed60-7847-4228-a45e-a8f0cfa9069d",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "see you soon",
+      "back": "do zobaczenia wkrótce",
+      "hint": "You expect to meet again soon.",
+      "examples": [
+        [
+          "See you soon!",
+          "Do zobaczenia wkrótce!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'see you soon'?",
+            "options": [
+              "do zobaczenia wkrótce",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'do zobaczenia wkrótce'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a4b819d6-d1ca-406b-b39b-2e56a2f5b30d",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "see you tomorrow",
+      "back": "do zobaczenia jutro",
+      "hint": "Farewell when meeting next day.",
+      "examples": [
+        [
+          "See you tomorrow!",
+          "Do zobaczenia jutro!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'see you tomorrow'?",
+            "options": [
+              "do zobaczenia jutro",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'do zobaczenia jutro'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "37a48711-c14d-4c0d-bab8-cdb4fc8bbf2a",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "good to meet you",
+      "back": "miło cię poznać",
+      "hint": "Alternative to 'nice to meet you'.",
+      "examples": [
+        [
+          "Good to meet you, Anna.",
+          "Miło cię poznać, Anno."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good to meet you'?",
+            "options": [
+              "miło cię poznać",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię poznać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "559fb399-31ec-4864-b9a9-46aaec7036bb",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "how do you do",
+      "back": "jak się masz (formalnie)",
+      "hint": "Very formal, in introductions (less common).",
+      "examples": [
+        [
+          "How do you do, Mr Brown?",
+          "Jak się masz, panie Brown?"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'how do you do'?",
+            "options": [
+              "tak",
+              "jak się masz (formalnie)",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jak się masz (formalnie)'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7d667e5-d460-4018-b28a-a0005613ffbf",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 03 Family People",
+      "front": "long time no see",
+      "back": "dawno się nie widzieliśmy",
+      "hint": "Informal greeting after a long time.",
+      "examples": [
+        [
+          "Long time no see!",
+          "Dawno się nie widzieliśmy!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "family"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'long time no see'?",
+            "options": [
+              "dawno się nie widzieliśmy",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dawno się nie widzieliśmy'."
+          }
+        ]
+      }
+    }
+  ]
+}

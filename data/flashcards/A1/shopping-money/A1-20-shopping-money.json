@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "f6a909bb-6f8d-4722-91bd-31f0ba54029b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "buy",
+    "term_lang": "en",
+    "translation": "kupować",
+    "translation_lang": "pl",
+    "definition": "To get something by paying money.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I buy bread every day.",
+        "translation": "Kupuję chleb codziennie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:00:00Z",
+      "last_review_at": "2025-10-06T09:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:00:00Z",
+    "updated_at": "2025-10-06T09:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "41b9db5f-404f-447b-af9d-9a5514738a98",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "sell",
+    "term_lang": "en",
+    "translation": "sprzedawać",
+    "translation_lang": "pl",
+    "definition": "To give something for money.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They sell fresh fruit.",
+        "translation": "Oni sprzedają świeże owoce."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:01:00Z",
+      "last_review_at": "2025-10-06T09:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:01:00Z",
+    "updated_at": "2025-10-06T09:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "25a83d74-4a8f-4276-950a-fdd05d762c31",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "price",
+    "term_lang": "en",
+    "translation": "cena",
+    "translation_lang": "pl",
+    "definition": "The amount of money something costs.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "What is the price?",
+        "translation": "Jaka jest cena?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:02:00Z",
+      "last_review_at": "2025-10-06T09:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:02:00Z",
+    "updated_at": "2025-10-06T09:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "abfd1e9e-a7e3-4acf-ac22-c9a67491e2f0",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "cheap",
+    "term_lang": "en",
+    "translation": "tani",
+    "translation_lang": "pl",
+    "definition": "Not expensive.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This shop is cheap.",
+        "translation": "Ten sklep jest tani."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:03:00Z",
+      "last_review_at": "2025-10-06T09:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:03:00Z",
+    "updated_at": "2025-10-06T09:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b4a3bd16-fc0c-4f46-a90f-c3f545fa8bc5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "expensive",
+    "term_lang": "en",
+    "translation": "drogi",
+    "translation_lang": "pl",
+    "definition": "Costing a lot of money.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "That phone is expensive.",
+        "translation": "Tamten telefon jest drogi."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:04:00Z",
+      "last_review_at": "2025-10-06T09:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:04:00Z",
+    "updated_at": "2025-10-06T09:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a41f17b2-1dc1-494b-8b85-352a133b47a9",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "cash",
+    "term_lang": "en",
+    "translation": "gotówka",
+    "translation_lang": "pl",
+    "definition": "Money in notes and coins.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I pay in cash.",
+        "translation": "Płacę gotówką."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:05:00Z",
+      "last_review_at": "2025-10-06T09:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:05:00Z",
+    "updated_at": "2025-10-06T09:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7dc3e32b-3eac-44b3-ad2e-1286b00c2b3f",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "card",
+    "term_lang": "en",
+    "translation": "karta",
+    "translation_lang": "pl",
+    "definition": "A plastic card for paying.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I pay by card.",
+        "translation": "Płacę kartą."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:06:00Z",
+      "last_review_at": "2025-10-06T09:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:06:00Z",
+    "updated_at": "2025-10-06T09:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "59ab3f6d-84c9-4b09-ba85-ff047bb77caa",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "receipt",
+    "term_lang": "en",
+    "translation": "paragon",
+    "translation_lang": "pl",
+    "definition": "A paper that shows what you paid.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Keep the receipt.",
+        "translation": "Zachowaj paragon."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:07:00Z",
+      "last_review_at": "2025-10-06T09:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:07:00Z",
+    "updated_at": "2025-10-06T09:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c7f4afa9-c6d2-4be9-842f-d207b879a345",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "change",
+    "term_lang": "en",
+    "translation": "reszta",
+    "translation_lang": "pl",
+    "definition": "Money you get back after paying.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Here is your change.",
+        "translation": "Oto twoja reszta."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:08:00Z",
+      "last_review_at": "2025-10-06T09:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:08:00Z",
+    "updated_at": "2025-10-06T09:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e546b2f6-bfe3-4567-9fdf-14afc025f984",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "basket",
+    "term_lang": "en",
+    "translation": "koszyk",
+    "translation_lang": "pl",
+    "definition": "A container to carry things in a shop.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Take a basket, please.",
+        "translation": "Weź koszyk, proszę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:09:00Z",
+      "last_review_at": "2025-10-06T09:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:09:00Z",
+    "updated_at": "2025-10-06T09:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1a5b6275-19b4-4402-b410-2e7d0772432e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "bag",
+    "term_lang": "en",
+    "translation": "torba",
+    "translation_lang": "pl",
+    "definition": "Something to carry your shopping.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I need a bag.",
+        "translation": "Potrzebuję torby."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:10:00Z",
+      "last_review_at": "2025-10-06T09:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:10:00Z",
+    "updated_at": "2025-10-06T09:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "866c2a7c-9973-4905-86b6-66fd195dc394",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "open",
+    "term_lang": "en",
+    "translation": "otwarty",
+    "translation_lang": "pl",
+    "definition": "Not closed; ready for customers.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The shop is open now.",
+        "translation": "Sklep jest teraz otwarty."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:11:00Z",
+      "last_review_at": "2025-10-06T09:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:11:00Z",
+    "updated_at": "2025-10-06T09:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "547a47ac-585f-4227-ac36-2b07b8c632f2",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "closed",
+    "term_lang": "en",
+    "translation": "zamknięty",
+    "translation_lang": "pl",
+    "definition": "Not open.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The shop is closed on Sunday.",
+        "translation": "Sklep jest zamknięty w niedzielę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:12:00Z",
+      "last_review_at": "2025-10-06T09:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:12:00Z",
+    "updated_at": "2025-10-06T09:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a01ed834-ccb4-4588-b3a9-da0c2d25d650",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "discount",
+    "term_lang": "en",
+    "translation": "zniżka",
+    "translation_lang": "pl",
+    "definition": "A lower price than usual.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There is a discount today.",
+        "translation": "Dziś jest zniżka."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:13:00Z",
+      "last_review_at": "2025-10-06T09:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:13:00Z",
+    "updated_at": "2025-10-06T09:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e66a3100-be54-4d8e-a8da-dc5ea76434a7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "cost",
+    "term_lang": "en",
+    "translation": "kosztować",
+    "translation_lang": "pl",
+    "definition": "To have a price.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "How much does it cost?",
+        "translation": "Ile to kosztuje?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-20-shopping-money",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:14:00Z",
+      "last_review_at": "2025-10-06T09:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:14:00Z",
+    "updated_at": "2025-10-06T09:14:00Z",
+    "deleted_at": null
+  }
+]

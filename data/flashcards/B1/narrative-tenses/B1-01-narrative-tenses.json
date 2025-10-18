@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "749e2b94-6877-4ef6-838e-75f45f3dacb4",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "set the scene",
+    "term_lang": "en",
+    "translation": "zarysować tło (scenę)",
+    "translation_lang": "pl",
+    "definition": "To describe background details before the main events.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We were driving home and it was raining when we saw the accident.",
+        "translation": "Wracaliśmy do domu i padało, kiedy zobaczyliśmy wypadek."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:00:00Z",
+      "last_review_at": "2025-10-06T12:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:00:00Z",
+    "updated_at": "2025-10-06T12:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "606c033c-c658-43be-8edf-f2b99bde57ec",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "main event",
+    "term_lang": "en",
+    "translation": "główne zdarzenie",
+    "translation_lang": "pl",
+    "definition": "The most important action in a story.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Suddenly, the lights went out and everyone screamed.",
+        "translation": "Nagle zgasły światła i wszyscy krzyknęli."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:01:00Z",
+      "last_review_at": "2025-10-06T12:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:01:00Z",
+    "updated_at": "2025-10-06T12:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9c698fe6-5e44-4b89-b9c1-d736440ae70f",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "background action",
+    "term_lang": "en",
+    "translation": "akcja w tle",
+    "translation_lang": "pl",
+    "definition": "An action in progress around another event.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I was cooking when the phone rang.",
+        "translation": "Gotowałem, kiedy zadzwonił telefon."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:02:00Z",
+      "last_review_at": "2025-10-06T12:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:02:00Z",
+    "updated_at": "2025-10-06T12:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6ed24871-8b36-443a-b98f-cf21d407deec",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "sequence markers",
+    "term_lang": "en",
+    "translation": "markery kolejności",
+    "translation_lang": "pl",
+    "definition": "Words that show order of events.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "First we arrived, then we checked in, and finally we had dinner.",
+        "translation": "Najpierw przyjechaliśmy, potem się zameldowaliśmy, a na końcu zjedliśmy kolację."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:03:00Z",
+      "last_review_at": "2025-10-06T12:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:03:00Z",
+    "updated_at": "2025-10-06T12:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a6d66b53-c7da-41a0-9020-0f0712a779bf",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "while",
+    "term_lang": "en",
+    "translation": "podczas gdy",
+    "translation_lang": "pl",
+    "definition": "Linker for two longer actions in progress.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "While I was waiting, I read the news.",
+        "translation": "Kiedy czekałem, czytałem wiadomości."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:04:00Z",
+      "last_review_at": "2025-10-06T12:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:04:00Z",
+    "updated_at": "2025-10-06T12:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1bf1e13b-226f-4e41-9cc8-fd8091de8c02",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "when",
+    "term_lang": "en",
+    "translation": "kiedy",
+    "translation_lang": "pl",
+    "definition": "Linker for a short action interrupting a longer one.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I was walking home when it started to snow.",
+        "translation": "Szedłem do domu, kiedy zaczęło padać śniegiem."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:05:00Z",
+      "last_review_at": "2025-10-06T12:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:05:00Z",
+    "updated_at": "2025-10-06T12:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5ba7aa3b-7e6a-41f0-9fcf-1ac865ebe0a3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "just as",
+    "term_lang": "en",
+    "translation": "dokładnie gdy",
+    "translation_lang": "pl",
+    "definition": "At the exact moment something happens.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Just as I opened the door, the cat ran out.",
+        "translation": "Dokładnie gdy otworzyłem drzwi, kot wybiegł."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:06:00Z",
+      "last_review_at": "2025-10-06T12:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:06:00Z",
+    "updated_at": "2025-10-06T12:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d5a137f0-7d61-49f2-b619-fedd92d9c7a3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "by the time",
+    "term_lang": "en",
+    "translation": "zanim / do czasu gdy",
+    "translation_lang": "pl",
+    "definition": "Before another past moment.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "By the time we arrived, the film had started.",
+        "translation": "Zanim przyjechaliśmy, film już się zaczął."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:07:00Z",
+      "last_review_at": "2025-10-06T12:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:07:00Z",
+    "updated_at": "2025-10-06T12:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6fa43a35-16f1-42a2-a13b-e1a9e201a3fd",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "suddenly",
+    "term_lang": "en",
+    "translation": "nagle",
+    "translation_lang": "pl",
+    "definition": "Quick and unexpected.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Suddenly, the bus stopped.",
+        "translation": "Nagle autobus się zatrzymał."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:08:00Z",
+      "last_review_at": "2025-10-06T12:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:08:00Z",
+    "updated_at": "2025-10-06T12:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "64d62d03-cdec-42b0-930d-bba347e020c7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "meanwhile",
+    "term_lang": "en",
+    "translation": "tymczasem",
+    "translation_lang": "pl",
+    "definition": "At the same time, in another place.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Meanwhile, my brother was fixing the car.",
+        "translation": "Tymczasem mój brat naprawiał samochód."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:09:00Z",
+      "last_review_at": "2025-10-06T12:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:09:00Z",
+    "updated_at": "2025-10-06T12:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "17215d21-6112-4e04-ba2e-b7b995a94176",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "had left",
+    "term_lang": "en",
+    "translation": "wyszedł / opuścił (wcześniej)",
+    "translation_lang": "pl",
+    "definition": "Past Perfect to show an earlier past action.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She had left before the meeting started.",
+        "translation": "Wyszła, zanim zaczęło się spotkanie."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:10:00Z",
+      "last_review_at": "2025-10-06T12:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:10:00Z",
+    "updated_at": "2025-10-06T12:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ef43d761-9f24-4dea-bb8c-c7c291a0ccb4",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "was raining",
+    "term_lang": "en",
+    "translation": "padało (w trakcie)",
+    "translation_lang": "pl",
+    "definition": "Past Continuous weather/background form.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It was raining all evening.",
+        "translation": "Padało cały wieczór."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:11:00Z",
+      "last_review_at": "2025-10-06T12:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:11:00Z",
+    "updated_at": "2025-10-06T12:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "061efd5e-c252-4b8c-866d-6ea4da7d45e1",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "went",
+    "term_lang": "en",
+    "translation": "poszedł / pojechał",
+    "translation_lang": "pl",
+    "definition": "Past Simple finished action.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We went to a small café near the station.",
+        "translation": "Poszliśmy do małej kawiarni przy dworcu."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:12:00Z",
+      "last_review_at": "2025-10-06T12:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:12:00Z",
+    "updated_at": "2025-10-06T12:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bf8170cb-59db-4715-86bd-cf5e1699a90b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "because of",
+    "term_lang": "en",
+    "translation": "z powodu",
+    "translation_lang": "pl",
+    "definition": "Shows reason/cause.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The road was closed because of an accident.",
+        "translation": "Droga była zamknięta z powodu wypadku."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:13:00Z",
+      "last_review_at": "2025-10-06T12:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:13:00Z",
+    "updated_at": "2025-10-06T12:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "59598749-5126-4fad-850e-36f6f0b60cb5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "as a result",
+    "term_lang": "en",
+    "translation": "w rezultacie",
+    "translation_lang": "pl",
+    "definition": "Shows result/consequence.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The train was late; as a result, we missed our bus.",
+        "translation": "Pociąg się spóźnił; w rezultacie spóźniliśmy się na autobus."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-01-narrative-tenses",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:14:00Z",
+      "last_review_at": "2025-10-06T12:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:14:00Z",
+    "updated_at": "2025-10-06T12:14:00Z",
+    "deleted_at": null
+  }
+]

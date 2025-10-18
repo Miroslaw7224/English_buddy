@@ -1,0 +1,869 @@
+{
+  "pack_id": "b1_13_trends_and_data_extra2",
+  "title": "B1 13 Trends And Data — Extra 2",
+  "level": "B1",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "be37f96b-5bba-4646-a9dd-dd277778f53a",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "job interview",
+      "back": "rozmowa kwalifikacyjna",
+      "hint": "Meeting to get a job.",
+      "examples": [
+        [
+          "I have a job interview.",
+          "Mam rozmowę kwalifikacyjną."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'job interview'?",
+            "options": [
+              "rozmowa kwalifikacyjna",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'rozmowa kwalifikacyjna'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2b6ad222-356d-4852-a82c-77c77148ea1b",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "career path",
+      "back": "ścieżka kariery",
+      "hint": "Your professional route.",
+      "examples": [
+        [
+          "Choose a career path.",
+          "Wybierz ścieżkę kariery."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'career path'?",
+            "options": [
+              "ścieżka kariery",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ścieżka kariery'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "5f399fa8-4760-40ad-8242-f360961295eb",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "hands-on experience",
+      "back": "praktyczne doświadczenie",
+      "hint": "Experience by doing.",
+      "examples": [
+        [
+          "Gain hands-on experience.",
+          "Zdobądź praktyczne doświadczenie."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'hands-on experience'?",
+            "options": [
+              "praktyczne doświadczenie",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'praktyczne doświadczenie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2b6ea624-e1ba-4d10-96db-77f841509a7b",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "time management",
+      "back": "zarządzanie czasem",
+      "hint": "Using time well.",
+      "examples": [
+        [
+          "Good time management is important.",
+          "Dobre zarządzanie czasem jest ważne."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'time management'?",
+            "options": [
+              "tak",
+              "zarządzanie czasem",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zarządzanie czasem'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cfb4175a-a50b-47d7-b892-5e670ca7745d",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "budget planning",
+      "back": "planowanie budżetu",
+      "hint": "Plan spending.",
+      "examples": [
+        [
+          "Budget planning helps a lot.",
+          "Planowanie budżetu bardzo pomaga."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'budget planning'?",
+            "options": [
+              "planowanie budżetu",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'planowanie budżetu'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2c6fe7cb-85d6-43ba-8b87-66556dafc368",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "cost-effective",
+      "back": "opłacalny",
+      "hint": "Cheaper and effective.",
+      "examples": [
+        [
+          "A cost-effective solution.",
+          "Opłacalne rozwiązanie."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'cost-effective'?",
+            "options": [
+              "opłacalny",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'opłacalny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "60ea75d3-00fe-45e7-affb-6b309c24df5d",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "data analysis",
+      "back": "analiza danych",
+      "hint": "Study of data.",
+      "examples": [
+        [
+          "We focus on data analysis.",
+          "Skupiamy się na analizie danych."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'data analysis'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "analiza danych",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'analiza danych'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "28f05c4f-d902-4ea7-988b-96147baf7fd7",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "user feedback",
+      "back": "opinie użytkowników",
+      "hint": "Comments from users.",
+      "examples": [
+        [
+          "We collect user feedback.",
+          "Zbieramy opinie użytkowników."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'user feedback'?",
+            "options": [
+              "tak",
+              "opinie użytkowników",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'opinie użytkowników'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "74a70bf9-4a9c-41a1-874e-88e3cdf42e36",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "problem-solving",
+      "back": "rozwiązywanie problemów",
+      "hint": "Finding solutions.",
+      "examples": [
+        [
+          "Problem-solving is key.",
+          "Rozwiązywanie problemów jest kluczowe."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'problem-solving'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "rozwiązywanie problemów",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'rozwiązywanie problemów'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "9cd4ba80-281c-4bce-8a06-badb21b51c32",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "lead a team",
+      "back": "prowadzić zespół",
+      "hint": "Guide a team.",
+      "examples": [
+        [
+          "She leads a small team.",
+          "Prowadzi mały zespół."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'lead a team'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "prowadzić zespół"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'prowadzić zespół'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "33051b12-26b6-4ad5-b380-e89fdd001109",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "meet expectations",
+      "back": "spełnić oczekiwania",
+      "hint": "Achieve what is expected.",
+      "examples": [
+        [
+          "We must meet expectations.",
+          "Musimy spełnić oczekiwania."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'meet expectations'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "spełnić oczekiwania"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'spełnić oczekiwania'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b823f616-1f1f-4faa-a71a-fa934266877b",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "share knowledge",
+      "back": "dzielić się wiedzą",
+      "hint": "Teach others.",
+      "examples": [
+        [
+          "Share knowledge with peers.",
+          "Dziel się wiedzą z innymi."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'share knowledge'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "dzielić się wiedzą",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dzielić się wiedzą'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "96419429-fa90-4935-b102-00e068f27111",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "raise funds",
+      "back": "zbierać fundusze",
+      "hint": "Collect money.",
+      "examples": [
+        [
+          "They raised funds for charity.",
+          "Zebrali fundusze na cele charytatywne."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'raise funds'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zbierać fundusze",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zbierać fundusze'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e019089c-0612-4f33-b018-c4616ed86ad1",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "set priorities",
+      "back": "ustalać priorytety",
+      "hint": "Choose most important tasks.",
+      "examples": [
+        [
+          "Set your priorities.",
+          "Ustal priorytety."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'set priorities'?",
+            "options": [
+              "ustalać priorytety",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ustalać priorytety'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ebadb3af-9894-4e32-b228-b1e3d88e1d43",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "evaluate options",
+      "back": "ocenić opcje",
+      "hint": "Compare choices.",
+      "examples": [
+        [
+          "Evaluate all options.",
+          "Oceń wszystkie opcje."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'evaluate options'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "ocenić opcje",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ocenić opcje'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "1d3169d7-1429-4919-ad89-df759b3ccc14",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "multitasking",
+      "back": "wielozadaniowość",
+      "hint": "Doing many tasks at once.",
+      "examples": [
+        [
+          "Multitasking is difficult.",
+          "Wielozadaniowość jest trudna."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'multitasking'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "wielozadaniowość"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wielozadaniowość'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8eed4660-35b1-4cfb-b285-4686e340d43e",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "attention to detail",
+      "back": "dbałość o szczegóły",
+      "hint": "Careful with details.",
+      "examples": [
+        [
+          "Attention to detail matters.",
+          "Dbałość o szczegóły ma znaczenie."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'attention to detail'?",
+            "options": [
+              "dbałość o szczegóły",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dbałość o szczegóły'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ed099cdf-866a-4d41-be30-7da401e2288f",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "competitive advantage",
+      "back": "przewaga konkurencyjna",
+      "hint": "Edge over others.",
+      "examples": [
+        [
+          "Keep a competitive advantage.",
+          "Utrzymuj przewagę konkurencyjną."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'competitive advantage'?",
+            "options": [
+              "tak",
+              "przewaga konkurencyjna",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przewaga konkurencyjna'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "f96ec702-8dae-4d5e-a9d5-f0b862cfaa6e",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "business trip",
+      "back": "podróż służbowa",
+      "hint": "Trip for work.",
+      "examples": [
+        [
+          "Go on a business trip.",
+          "Jedź w podróż służbową."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'business trip'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "podróż służbowa"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'podróż służbowa'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "148ba804-0dab-4676-9efa-5db6da9f8786",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 13 Trends And Data",
+      "front": "training session",
+      "back": "sesja szkoleniowa",
+      "hint": "Time for training.",
+      "examples": [
+        [
+          "A training session tomorrow.",
+          "Jutro sesja szkoleniowa."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'training session'?",
+            "options": [
+              "sesja szkoleniowa",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'sesja szkoleniowa'."
+          }
+        ]
+      }
+    }
+  ]
+}

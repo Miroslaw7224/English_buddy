@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "5ed8254e-ec4e-4a33-8dd1-3e8c10d5e7e0",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "yesterday",
+    "term_lang": "en",
+    "translation": "wczoraj",
+    "translation_lang": "pl",
+    "definition": "On the day before today.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I visited my friend yesterday.",
+        "translation": "Odwiedziłem przyjaciela wczoraj."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:00:00Z",
+      "last_review_at": "2025-10-06T10:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:00:00Z",
+    "updated_at": "2025-10-06T10:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "157752b2-c4bb-43db-89ff-90903eadd4c5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "last week",
+    "term_lang": "en",
+    "translation": "w zeszłym tygodniu",
+    "translation_lang": "pl",
+    "definition": "During the previous week.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She traveled last week.",
+        "translation": "Ona podróżowała w zeszłym tygodniu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:01:00Z",
+      "last_review_at": "2025-10-06T10:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:01:00Z",
+    "updated_at": "2025-10-06T10:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4dfb0057-7e1f-44b6-a80a-7793f58b5741",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "ago",
+    "term_lang": "en",
+    "translation": "temu",
+    "translation_lang": "pl",
+    "definition": "Used to say how long before now.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They moved here two years ago.",
+        "translation": "Przeprowadzili się tu dwa lata temu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:02:00Z",
+      "last_review_at": "2025-10-06T10:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:02:00Z",
+    "updated_at": "2025-10-06T10:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "87b78ada-6496-4850-baef-396e75011964",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "walked",
+    "term_lang": "en",
+    "translation": "chodził/chodziła (poszedł pieszo)",
+    "translation_lang": "pl",
+    "definition": "Past form of 'walk'.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I walked to school.",
+        "translation": "Poszedłem do szkoły pieszo."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:03:00Z",
+      "last_review_at": "2025-10-06T10:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:03:00Z",
+    "updated_at": "2025-10-06T10:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "acb5e847-a1e5-4ab0-b448-e3503f4c3ea6",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "played",
+    "term_lang": "en",
+    "translation": "grał/grała",
+    "translation_lang": "pl",
+    "definition": "Past form of 'play'.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We played football.",
+        "translation": "Graliśmy w piłkę nożną."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:04:00Z",
+      "last_review_at": "2025-10-06T10:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:04:00Z",
+    "updated_at": "2025-10-06T10:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "00f7e926-b90d-4728-8bfa-b34ff5108ffb",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "watched",
+    "term_lang": "en",
+    "translation": "oglądał/oglądała",
+    "translation_lang": "pl",
+    "definition": "Past form of 'watch'.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He watched a movie.",
+        "translation": "On oglądał film."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:05:00Z",
+      "last_review_at": "2025-10-06T10:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:05:00Z",
+    "updated_at": "2025-10-06T10:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "504bf20f-fccd-48de-abbd-569084705f4e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "visited",
+    "term_lang": "en",
+    "translation": "odwiedził/odwiedziła",
+    "translation_lang": "pl",
+    "definition": "Past form of 'visit'.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I visited my grandparents.",
+        "translation": "Odwiedziłem dziadków."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:06:00Z",
+      "last_review_at": "2025-10-06T10:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:06:00Z",
+    "updated_at": "2025-10-06T10:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ab720c4e-ac79-4234-a8a8-bd041130ee0b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "went",
+    "term_lang": "en",
+    "translation": "poszedł/poszła; pojechał/pojechała",
+    "translation_lang": "pl",
+    "definition": "Past of 'go'.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She went to the shop.",
+        "translation": "Ona poszła do sklepu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:07:00Z",
+      "last_review_at": "2025-10-06T10:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:07:00Z",
+    "updated_at": "2025-10-06T10:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "80ba7295-df01-4569-b96e-c171b9f57807",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "saw",
+    "term_lang": "en",
+    "translation": "zobaczył/zobaczyła",
+    "translation_lang": "pl",
+    "definition": "Past of 'see'.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We saw a rainbow.",
+        "translation": "Widzieliśmy tęczę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:08:00Z",
+      "last_review_at": "2025-10-06T10:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:08:00Z",
+    "updated_at": "2025-10-06T10:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "52cc8046-f3d1-4f57-94d7-aab985e5f86f",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "had",
+    "term_lang": "en",
+    "translation": "miał/miała",
+    "translation_lang": "pl",
+    "definition": "Past of 'have'.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They had dinner at six.",
+        "translation": "Zjedli kolację o szóstej."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:09:00Z",
+      "last_review_at": "2025-10-06T10:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:09:00Z",
+    "updated_at": "2025-10-06T10:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "237a1924-9848-4070-9fb3-4909686a9f4d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "did",
+    "term_lang": "en",
+    "translation": "zrobił/zrobiła",
+    "translation_lang": "pl",
+    "definition": "Past of 'do'.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I did my homework.",
+        "translation": "Zrobiłem pracę domową."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:10:00Z",
+      "last_review_at": "2025-10-06T10:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:10:00Z",
+    "updated_at": "2025-10-06T10:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "45d7232f-d0d5-46a4-a36d-b83e5dd9e133",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "bought",
+    "term_lang": "en",
+    "translation": "kupił/kupiła",
+    "translation_lang": "pl",
+    "definition": "Past of 'buy'.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He bought a new phone.",
+        "translation": "Kupił nowy telefon."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:11:00Z",
+      "last_review_at": "2025-10-06T10:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:11:00Z",
+    "updated_at": "2025-10-06T10:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "eb52efc2-767b-44da-8eeb-87b96b4c5eec",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "ate",
+    "term_lang": "en",
+    "translation": "zjadł/zjadła",
+    "translation_lang": "pl",
+    "definition": "Past of 'eat'.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We ate pasta.",
+        "translation": "Zjedliśmy makaron."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:12:00Z",
+      "last_review_at": "2025-10-06T10:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:12:00Z",
+    "updated_at": "2025-10-06T10:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d56a3bb5-f73a-442c-b31f-afedc91616a3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "said",
+    "term_lang": "en",
+    "translation": "powiedział/powiedziała",
+    "translation_lang": "pl",
+    "definition": "Past of 'say'.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She said hello.",
+        "translation": "Ona powiedziała cześć."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:13:00Z",
+      "last_review_at": "2025-10-06T10:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:13:00Z",
+    "updated_at": "2025-10-06T10:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "036bf2a4-c339-43dc-8b7b-188d3d3b69a3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "was/were",
+    "term_lang": "en",
+    "translation": "był/była; byli/były",
+    "translation_lang": "pl",
+    "definition": "Past of 'be'.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I was tired. They were happy.",
+        "translation": "Byłem zmęczony. Oni byli szczęśliwi."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-01-past-simple",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:14:00Z",
+      "last_review_at": "2025-10-06T10:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:14:00Z",
+    "updated_at": "2025-10-06T10:14:00Z",
+    "deleted_at": null
+  }
+]

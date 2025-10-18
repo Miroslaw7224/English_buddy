@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "0cd15ade-3e7b-475a-b043-5401484307d9",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "ticket office",
+    "term_lang": "en",
+    "translation": "kasa biletowa",
+    "translation_lang": "pl",
+    "definition": "A place where you buy tickets.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Where is the ticket office?",
+        "translation": "Gdzie jest kasa biletowa?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:30:00Z",
+      "last_review_at": "2025-10-06T10:30:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:30:00Z",
+    "updated_at": "2025-10-06T10:30:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4f9c6dd5-b334-4366-bf7c-9a9a390c14c1",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "platform",
+    "term_lang": "en",
+    "translation": "peron",
+    "translation_lang": "pl",
+    "definition": "A place where a train arrives.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The train leaves from platform 3.",
+        "translation": "Pociąg odjeżdża z peronu 3."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:31:00Z",
+      "last_review_at": "2025-10-06T10:31:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:31:00Z",
+    "updated_at": "2025-10-06T10:31:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "66bdd35c-ca10-4905-958e-08bd505b8d4a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "single/return",
+    "term_lang": "en",
+    "translation": "bilet w jedną stronę/powrotny",
+    "translation_lang": "pl",
+    "definition": "Types of tickets.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Two returns to Warsaw, please.",
+        "translation": "Dwa bilety powrotne do Warszawy, proszę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:32:00Z",
+      "last_review_at": "2025-10-06T10:32:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:32:00Z",
+    "updated_at": "2025-10-06T10:32:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "80afaee4-e7b6-4d2b-9318-b0289f4fddbf",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "timetable",
+    "term_lang": "en",
+    "translation": "rozkład jazdy",
+    "translation_lang": "pl",
+    "definition": "A list of times for transport.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Can I see the timetable?",
+        "translation": "Czy mogę zobaczyć rozkład jazdy?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:33:00Z",
+      "last_review_at": "2025-10-06T10:33:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:33:00Z",
+    "updated_at": "2025-10-06T10:33:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9c3ef6f6-30a6-46d9-82c2-a5fb6ba2e19e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "depart/arrive",
+    "term_lang": "en",
+    "translation": "odjeżdżać/przybywać",
+    "translation_lang": "pl",
+    "definition": "To leave/to get to a place.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The bus arrives at 9:15.",
+        "translation": "Autobus przyjeżdża o 9:15."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:34:00Z",
+      "last_review_at": "2025-10-06T10:34:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:34:00Z",
+    "updated_at": "2025-10-06T10:34:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1f2c0037-c2e5-4365-8139-771f5746c2f5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "change (trains)",
+    "term_lang": "en",
+    "translation": "przesiadać się",
+    "translation_lang": "pl",
+    "definition": "To get off and take another train/bus.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We change in Poznań.",
+        "translation": "Przesiadamy się w Poznaniu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:35:00Z",
+      "last_review_at": "2025-10-06T10:35:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:35:00Z",
+    "updated_at": "2025-10-06T10:35:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1016ce69-838f-4d25-afea-663ffb588b36",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "delay",
+    "term_lang": "en",
+    "translation": "opóźnienie",
+    "translation_lang": "pl",
+    "definition": "When transport is late.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There is a 20-minute delay.",
+        "translation": "Jest 20-minutowe opóźnienie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:36:00Z",
+      "last_review_at": "2025-10-06T10:36:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:36:00Z",
+    "updated_at": "2025-10-06T10:36:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c86a7c88-21f3-4d48-8720-fad9f2cf9870",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "How far is it?",
+    "term_lang": "en",
+    "translation": "Jak daleko to jest?",
+    "translation_lang": "pl",
+    "definition": "A question about distance.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "How far is it to the museum?",
+        "translation": "Jak daleko do muzeum?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:37:00Z",
+      "last_review_at": "2025-10-06T10:37:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:37:00Z",
+    "updated_at": "2025-10-06T10:37:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cf822120-09e7-45a0-8e3e-7f143dd61b2c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "How long does it take?",
+    "term_lang": "en",
+    "translation": "Ile to zajmuje?",
+    "translation_lang": "pl",
+    "definition": "A question about time needed.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "How long does it take to get there?",
+        "translation": "Ile zajmuje dotarcie tam?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:38:00Z",
+      "last_review_at": "2025-10-06T10:38:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:38:00Z",
+    "updated_at": "2025-10-06T10:38:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7e46353e-2edc-4b3c-ac21-01da00e13339",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "Could you tell me the way to…?",
+    "term_lang": "en",
+    "translation": "Czy mógłby Pan/Pani powiedzieć, jak dojść do…?",
+    "translation_lang": "pl",
+    "definition": "A polite request for directions.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Could you tell me the way to the station?",
+        "translation": "Czy mógłby Pan/Pani powiedzieć, jak dojść na dworzec?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:39:00Z",
+      "last_review_at": "2025-10-06T10:39:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:39:00Z",
+    "updated_at": "2025-10-06T10:39:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "55f7e677-3060-4724-9eb3-f718e69d1a49",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "go straight ahead",
+    "term_lang": "en",
+    "translation": "iść prosto",
+    "translation_lang": "pl",
+    "definition": "Move forward without turning.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Go straight ahead and turn left.",
+        "translation": "Idź prosto i skręć w lewo."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:40:00Z",
+      "last_review_at": "2025-10-06T10:40:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:40:00Z",
+    "updated_at": "2025-10-06T10:40:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bf9e0150-0677-4cbc-bc55-7fa62d018593",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "turn left/right",
+    "term_lang": "en",
+    "translation": "skręcić w lewo/prawo",
+    "translation_lang": "pl",
+    "definition": "Change direction to the left/right.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Turn right at the lights.",
+        "translation": "Skręć w prawo na światłach."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:41:00Z",
+      "last_review_at": "2025-10-06T10:41:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:41:00Z",
+    "updated_at": "2025-10-06T10:41:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f0abcd99-62c2-4e1a-a2e4-45c49810bf9a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "opposite/next to",
+    "term_lang": "en",
+    "translation": "naprzeciwko/obok",
+    "translation_lang": "pl",
+    "definition": "Across from/beside.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The bank is opposite the park.",
+        "translation": "Bank jest naprzeciwko parku."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:42:00Z",
+      "last_review_at": "2025-10-06T10:42:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:42:00Z",
+    "updated_at": "2025-10-06T10:42:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f0fb4948-859a-41c5-9d24-f1d41405b74e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "intersection",
+    "term_lang": "en",
+    "translation": "skrzyżowanie",
+    "translation_lang": "pl",
+    "definition": "A place where roads cross.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Go to the intersection and turn left.",
+        "translation": "Idź do skrzyżowania i skręć w lewo."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:43:00Z",
+      "last_review_at": "2025-10-06T10:43:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:43:00Z",
+    "updated_at": "2025-10-06T10:43:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "826d4454-741c-49fa-aeea-af71b7a27d7c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "near/far",
+    "term_lang": "en",
+    "translation": "blisko/daleko",
+    "translation_lang": "pl",
+    "definition": "At a short/long distance.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The hotel is near the beach.",
+        "translation": "Hotel jest blisko plaży."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-06-travel-directions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:44:00Z",
+      "last_review_at": "2025-10-06T10:44:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:44:00Z",
+    "updated_at": "2025-10-06T10:44:00Z",
+    "deleted_at": null
+  }
+]

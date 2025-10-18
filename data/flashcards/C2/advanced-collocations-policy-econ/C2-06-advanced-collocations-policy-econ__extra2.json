@@ -1,0 +1,869 @@
+{
+  "pack_id": "c2_06_advanced_collocations_policy_econ_extra2",
+  "title": "C2 06 Advanced Collocations Policy Econ — Extra 2",
+  "level": "C2",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "333c701b-eff9-43d5-87db-faea7c182e5f",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "perspicacious",
+      "back": "wnikliwy",
+      "hint": "Having keen understanding.",
+      "examples": [
+        [
+          "A perspicacious critic.",
+          "Wnikliwy krytyk."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'perspicacious'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wnikliwy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wnikliwy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c47b3617-3365-4dc4-903e-950277c6b327",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "pellucid",
+      "back": "przejrzysty",
+      "hint": "Clear, easy to understand.",
+      "examples": [
+        [
+          "Pellucid prose.",
+          "Przejrzysta proza."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'pellucid'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "przejrzysty"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przejrzysty'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "25c9f9e4-8c15-4660-a543-5a838583f38e",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "abstruse",
+      "back": "zawiły",
+      "hint": "Hard to understand.",
+      "examples": [
+        [
+          "An abstruse theory.",
+          "Zawiła teoria."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'abstruse'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "zawiły"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zawiły'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4f562aa9-5abc-4867-90b3-b03ed38dbac8",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "antediluvian",
+      "back": "przedpotopowy",
+      "hint": "Ridiculously old-fashioned.",
+      "examples": [
+        [
+          "Antediluvian ideas.",
+          "Przedpotopowe pomysły."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'antediluvian'?",
+            "options": [
+              "tak",
+              "przedpotopowy",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przedpotopowy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b0f043e7-55ca-414a-9fb5-96b03d1229f5",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "inscrutable",
+      "back": "nieprzenikniony",
+      "hint": "Impossible to understand.",
+      "examples": [
+        [
+          "An inscrutable smile.",
+          "Nieprzenikniony uśmiech."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'inscrutable'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "nieprzenikniony"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'nieprzenikniony'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7eff3a1b-ef7d-4685-b29b-81edf61c6de2",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "truculent",
+      "back": "zadziorny",
+      "hint": "Eager to fight.",
+      "examples": [
+        [
+          "A truculent reply.",
+          "Zadziorna odpowiedź."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'truculent'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zadziorny",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zadziorny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "515d18fa-0138-44ab-a23b-d51983979b8a",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "enervate",
+      "back": "osłabiać",
+      "hint": "Weaken.",
+      "examples": [
+        [
+          "It enervates the body.",
+          "To osłabia organizm."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'enervate'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "osłabiać",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'osłabiać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "0b58d502-5174-4608-b5ca-3da20b90b34d",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "obdurate",
+      "back": "nieustępliwy",
+      "hint": "Stubbornly refusing change.",
+      "examples": [
+        [
+          "An obdurate stance.",
+          "Nieustępliwe stanowisko."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'obdurate'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "nieustępliwy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'nieustępliwy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2fab8847-a9f8-4ff5-bec9-cde0bf45796c",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "recalcitrant",
+      "back": "krnąbrny",
+      "hint": "Resisting authority.",
+      "examples": [
+        [
+          "A recalcitrant child.",
+          "Krnąbrne dziecko."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'recalcitrant'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "krnąbrny"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'krnąbrny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b3f7eed1-8b10-4969-bda6-35052b097ce2",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "apotheosis",
+      "back": "apoteoza",
+      "hint": "Highest point.",
+      "examples": [
+        [
+          "The apotheosis of art.",
+          "Apoteoza sztuki."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'apotheosis'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "apoteoza",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'apoteoza'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "9886c6c0-c9f6-4034-bf85-b2399f420a96",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "impecunious",
+      "back": "ubogi",
+      "hint": "Having little money.",
+      "examples": [
+        [
+          "An impecunious student.",
+          "Ubogi student."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'impecunious'?",
+            "options": [
+              "tak",
+              "ubogi",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ubogi'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "09cf11fd-4ebf-4d77-a3c9-391e0110cb51",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "quotidian",
+      "back": "codzienny",
+      "hint": "Everyday, ordinary.",
+      "examples": [
+        [
+          "Quotidian tasks.",
+          "Codzienne zadania."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'quotidian'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "codzienny"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'codzienny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fb58cbf4-22c4-43ce-8616-119484db5bdb",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "vociferous",
+      "back": "hałaśliwy",
+      "hint": "Vehement, loud.",
+      "examples": [
+        [
+          "Vociferous protests.",
+          "Hałaśliwe protesty."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'vociferous'?",
+            "options": [
+              "tak",
+              "hałaśliwy",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'hałaśliwy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "96cc1223-8df5-48f5-be49-864cf58d7bab",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "apocryphal",
+      "back": "apokryficzny",
+      "hint": "Of doubtful authenticity.",
+      "examples": [
+        [
+          "An apocryphal story.",
+          "Apokryficzna historia."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'apocryphal'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "apokryficzny",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'apokryficzny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b36442ea-0073-459b-ad8a-4f9aabf4d1a1",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "pell-mell",
+      "back": "na łeb, na szyję",
+      "hint": "In a confused rush.",
+      "examples": [
+        [
+          "They ran pell-mell.",
+          "Pobiegli na łeb, na szyję."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adverb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'pell-mell'?",
+            "options": [
+              "na łeb, na szyję",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'na łeb, na szyję'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8d3c1e00-7958-44de-8d2c-3bf280fca51d",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "inchoate",
+      "back": "zalążkowy",
+      "hint": "Just begun.",
+      "examples": [
+        [
+          "An inchoate idea.",
+          "Zalążkowy pomysł."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'inchoate'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zalążkowy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zalążkowy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "1d305702-2a66-40ae-b402-d5f1a3a56aa5",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "storied",
+      "back": "sławny, osławiony",
+      "hint": "Having an interesting history.",
+      "examples": [
+        [
+          "A storied past.",
+          "Sławna przeszłość."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'storied'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "sławny, osławiony"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'sławny, osławiony'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3077704c-7147-401c-b7c5-749f7554dfc9",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "recondite",
+      "back": "trudny do zrozumienia",
+      "hint": "Little known, abstruse.",
+      "examples": [
+        [
+          "Recondite facts.",
+          "Trudne do zrozumienia fakty."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'recondite'?",
+            "options": [
+              "tak",
+              "trudny do zrozumienia",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'trudny do zrozumienia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "5b94e9a1-de37-448f-a23b-276abbf28d6c",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "sycophant",
+      "back": "pochlebca",
+      "hint": "Person who flatters.",
+      "examples": [
+        [
+          "A sycophant at court.",
+          "Pochlebca na dworze."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'sycophant'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "pochlebca",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'pochlebca'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "0c7d50bd-16a9-41dd-8615-47eb3547e7a6",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "good evening",
+      "back": "dobry wieczór",
+      "hint": "Evening greeting.",
+      "examples": [
+        [
+          "Good evening, everyone.",
+          "Dobry wieczór, wszyscy."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra2"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good evening'?",
+            "options": [
+              "tak",
+              "dobry wieczór",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dobry wieczór'."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+[
+  {
+    "word_id": "759a4bbd-f3b4-4121-95e3-3068a92fcaac",
+    "user_id": null,
+    "term": "breaking news",
+    "term_lang": "en",
+    "translation": "wiadomości z ostatniej chwili",
+    "translation_lang": "pl",
+    "definition": "very recent and important news",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Breaking news dominated the evening.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "62838c37-97ff-4192-8958-d1dd2815c282",
+    "user_id": null,
+    "term": "bias",
+    "term_lang": "en",
+    "translation": "stronniczość",
+    "translation_lang": "pl",
+    "definition": "unfair preference",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Beware of bias in reporting.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b143be7d-5a4d-4d1d-a1b9-57840cd6a811",
+    "user_id": null,
+    "term": "op-ed",
+    "term_lang": "en",
+    "translation": "artykuł opiniotwórczy",
+    "translation_lang": "pl",
+    "definition": "opinion article",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Her op-ed sparked debate.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0f254321-2a1b-4c6b-bc62-8e0711332de3",
+    "user_id": null,
+    "term": "proof of concept",
+    "term_lang": "en",
+    "translation": "dowód słuszności koncepcji",
+    "translation_lang": "pl",
+    "definition": "initial test of an idea",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We built a proof of concept prototype.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b053341b-c495-47b7-9f44-03c72aa113ab",
+    "user_id": null,
+    "term": "trade-off",
+    "term_lang": "en",
+    "translation": "kompromis",
+    "translation_lang": "pl",
+    "definition": "balance between competing features",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There's a trade-off between speed and detail.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8c0e7c40-008b-44a3-838f-b1c21c53ef41",
+    "user_id": null,
+    "term": "data privacy",
+    "term_lang": "en",
+    "translation": "prywatność danych",
+    "translation_lang": "pl",
+    "definition": "protection of personal data",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Data privacy laws apply here.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "063d5c22-ba97-4ec2-8b7e-cdbc57d65645",
+    "user_id": null,
+    "term": "social mobility",
+    "term_lang": "en",
+    "translation": "mobilność społeczna",
+    "translation_lang": "pl",
+    "definition": "moving between social classes",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Education supports social mobility.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ca2582b2-dff7-4d79-b436-33ff083e30bc",
+    "user_id": null,
+    "term": "civic engagement",
+    "term_lang": "en",
+    "translation": "zaangażowanie obywatelskie",
+    "translation_lang": "pl",
+    "definition": "participation in public life",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Workshops increased civic engagement.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d0b14509-3e02-4ba7-8d09-13d49aad2ace",
+    "user_id": null,
+    "term": "counterculture",
+    "term_lang": "en",
+    "translation": "kontrkultura",
+    "translation_lang": "pl",
+    "definition": "culture opposing mainstream",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The style emerged from a counterculture.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4d4d4fe5-e888-428f-872b-6a3761454ee2",
+    "user_id": null,
+    "term": "it is widely acknowledged that...",
+    "term_lang": "en",
+    "translation": "powszechnie wiadomo, że...",
+    "translation_lang": "pl",
+    "definition": "formal opening for a problem",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It is widely acknowledged that pollution is rising.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4fef6628-be2b-476f-80b1-69a90bcfb7de",
+    "user_id": null,
+    "term": "to mitigate",
+    "term_lang": "en",
+    "translation": "złagodzić",
+    "translation_lang": "pl",
+    "definition": "make less harmful",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We can mitigate the risks.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5ec36d9c-f8b0-4cf9-96d0-4f070eca5add",
+    "user_id": null,
+    "term": "unintended consequences",
+    "term_lang": "en",
+    "translation": "niezamierzone konsekwencje",
+    "translation_lang": "pl",
+    "definition": "results that were not planned",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There were unintended consequences.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "974f9668-7948-4935-9edc-307126ca21e1",
+    "user_id": null,
+    "term": "stakeholders",
+    "term_lang": "en",
+    "translation": "interesariusze",
+    "translation_lang": "pl",
+    "definition": "people involved",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Engage stakeholders early.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fe3c45cb-f694-48c5-894f-f3b5dd71ffe4",
+    "user_id": null,
+    "term": "measurable outcomes",
+    "term_lang": "en",
+    "translation": "mierzalne wyniki",
+    "translation_lang": "pl",
+    "definition": "quantified results",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Set measurable outcomes at the start.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2c8babe6-88ca-4f5d-8068-7f22020afaad",
+    "user_id": null,
+    "term": "in conclusion, ...",
+    "term_lang": "en",
+    "translation": "podsumowując, ...",
+    "translation_lang": "pl",
+    "definition": "signal phrase for summary",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "In conclusion, prevention is better than cure.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-4",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  }
+]

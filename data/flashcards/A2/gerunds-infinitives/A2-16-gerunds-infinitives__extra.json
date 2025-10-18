@@ -1,0 +1,869 @@
+{
+  "pack_id": "a2_16_gerunds_infinitives_extra",
+  "title": "A2 16 Gerunds Infinitives — Extra",
+  "level": "A2",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "662bc40a-0156-4ae8-bff8-50fef198e077",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "book a room",
+      "back": "zarezerwować pokój",
+      "hint": "To reserve accommodation.",
+      "examples": [
+        [
+          "We want to book a room for two.",
+          "Chcemy zarezerwować pokój dla dwóch osób."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'book a room'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zarezerwować pokój",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zarezerwować pokój'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "29c78bc5-7729-4444-a29a-d6d12d8dc644",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "single ticket",
+      "back": "bilet pojedynczy",
+      "hint": "One journey ticket.",
+      "examples": [
+        [
+          "One single ticket, please.",
+          "Poproszę bilet pojedynczy."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'single ticket'?",
+            "options": [
+              "bilet pojedynczy",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'bilet pojedynczy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b6b0f3fc-a714-4356-a49e-853953e8139d",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "return ticket",
+      "back": "bilet powrotny",
+      "hint": "Ticket there and back.",
+      "examples": [
+        [
+          "A return ticket to Warsaw, please.",
+          "Poproszę bilet powrotny do Warszawy."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'return ticket'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "bilet powrotny",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'bilet powrotny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3a626f53-1163-4207-910d-90c37fde5dfc",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "change money",
+      "back": "wymieniać pieniądze",
+      "hint": "Exchange currency.",
+      "examples": [
+        [
+          "Where can I change money?",
+          "Gdzie mogę wymienić pieniądze?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'change money'?",
+            "options": [
+              "tak",
+              "wymieniać pieniądze",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wymieniać pieniądze'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "580d3d33-d572-40a7-abdc-744cfe03c307",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "order food",
+      "back": "zamawiać jedzenie",
+      "hint": "Ask for food in a restaurant.",
+      "examples": [
+        [
+          "Let's order food.",
+          "Zamówmy jedzenie."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'order food'?",
+            "options": [
+              "tak",
+              "zamawiać jedzenie",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zamawiać jedzenie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6a6d0153-8384-4a98-baf1-4b5273166278",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "receipt, please",
+      "back": "paragon, poproszę",
+      "hint": "Ask for a receipt.",
+      "examples": [
+        [
+          "Receipt, please.",
+          "Paragon, poproszę."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'receipt, please'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "paragon, poproszę",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'paragon, poproszę'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b07e1fd1-8cf4-4a54-b9d1-a9610070ad3c",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "how much is it",
+      "back": "ile to kosztuje",
+      "hint": "Ask the price.",
+      "examples": [
+        [
+          "How much is it?",
+          "Ile to kosztuje?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'how much is it'?",
+            "options": [
+              "tak",
+              "ile to kosztuje",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ile to kosztuje'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c1ab45c7-769c-46ba-afcb-d03667cac4c9",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "go straight",
+      "back": "iść prosto",
+      "hint": "Direction instruction.",
+      "examples": [
+        [
+          "Go straight and turn left.",
+          "Idź prosto i skręć w lewo."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'go straight'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "iść prosto",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'iść prosto'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "43543f5d-fb57-4ef6-8ef8-abb50e9b332e",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "turn right",
+      "back": "skręcić w prawo",
+      "hint": "Direction instruction.",
+      "examples": [
+        [
+          "Turn right at the lights.",
+          "Skręć w prawo na światłach."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'turn right'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "skręcić w prawo"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'skręcić w prawo'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8c0a7ced-8e82-4d41-bf2d-090c37788376",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "across the street",
+      "back": "po drugiej stronie ulicy",
+      "hint": "Location phrase.",
+      "examples": [
+        [
+          "The bank is across the street.",
+          "Bank jest po drugiej stronie ulicy."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'across the street'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "po drugiej stronie ulicy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'po drugiej stronie ulicy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a5a6d318-0e74-4fca-a2a9-93522f798429",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "on the left",
+      "back": "po lewej stronie",
+      "hint": "Location phrase.",
+      "examples": [
+        [
+          "The shop is on the left.",
+          "Sklep jest po lewej stronie."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'on the left'?",
+            "options": [
+              "tak",
+              "po lewej stronie",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'po lewej stronie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e45d1f47-b7d5-43e2-95e6-5ac61dc4dc38",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "by credit card",
+      "back": "kartą kredytową",
+      "hint": "Payment method.",
+      "examples": [
+        [
+          "Can I pay by credit card?",
+          "Czy mogę zapłacić kartą kredytową?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'by credit card'?",
+            "options": [
+              "tak",
+              "kartą kredytową",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'kartą kredytową'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "5a1fb962-49c2-43f1-8509-80c9e3a93e32",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "in cash",
+      "back": "gotówką",
+      "hint": "Payment method.",
+      "examples": [
+        [
+          "Do you accept cash?",
+          "Czy przyjmujecie gotówkę?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'in cash'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "gotówką",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'gotówką'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c2f1bbc1-a2c6-481b-8076-414a205adcc1",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "size medium",
+      "back": "rozmiar M",
+      "hint": "Clothing size.",
+      "examples": [
+        [
+          "Do you have size medium?",
+          "Czy macie rozmiar M?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'size medium'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "rozmiar M",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'rozmiar M'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "74e19704-01bc-4c29-b117-28b911b8fd6c",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "fitting room",
+      "back": "przymierzalnia",
+      "hint": "Room to try clothes on.",
+      "examples": [
+        [
+          "Where is the fitting room?",
+          "Gdzie jest przymierzalnia?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fitting room'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "przymierzalnia",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przymierzalnia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c431ac9c-715a-42e0-bb1a-3431deaaa7d0",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "I feel sick",
+      "back": "źle się czuję",
+      "hint": "Basic health problem.",
+      "examples": [
+        [
+          "I feel sick today.",
+          "Źle się dziś czuję."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'I feel sick'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "źle się czuję",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'źle się czuję'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a84a7d09-823a-4ca5-a62e-7c6daecd899a",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "call a doctor",
+      "back": "wezwać lekarza",
+      "hint": "Request medical help.",
+      "examples": [
+        [
+          "Please call a doctor.",
+          "Proszę wezwać lekarza."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'call a doctor'?",
+            "options": [
+              "tak",
+              "wezwać lekarza",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wezwać lekarza'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6102dc8f-ffe2-436e-b49b-95aab58531e7",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "open from to",
+      "back": "otwarte od do",
+      "hint": "Opening hours.",
+      "examples": [
+        [
+          "We are open from 9 to 5.",
+          "Jesteśmy otwarci od 9 do 17."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'open from to'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "otwarte od do"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'otwarte od do'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6dc26e27-cbed-447e-9895-47a874e5fb96",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "weekend plans",
+      "back": "plany na weekend",
+      "hint": "Talk about plans.",
+      "examples": [
+        [
+          "What are your weekend plans?",
+          "Jakie masz plany na weekend?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'weekend plans'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "plany na weekend"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'plany na weekend'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "02caa7d1-8a4a-4b6e-b206-4ebe9944b655",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 16 Gerunds Infinitives",
+      "front": "could you help me",
+      "back": "czy mógłbyś mi pomóc",
+      "hint": "Polite request.",
+      "examples": [
+        [
+          "Could you help me, please?",
+          "Czy mógłbyś mi pomóc?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'could you help me'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "czy mógłbyś mi pomóc"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'czy mógłbyś mi pomóc'."
+          }
+        ]
+      }
+    }
+  ]
+}

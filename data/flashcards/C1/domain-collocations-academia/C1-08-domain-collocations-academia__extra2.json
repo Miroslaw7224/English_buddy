@@ -1,0 +1,869 @@
+{
+  "pack_id": "c1_08_domain_collocations_academia_extra2",
+  "title": "C1 08 Domain Collocations Academia — Extra 2",
+  "level": "C1",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "920fb6e0-f80c-49dd-b9e3-0cf366943be6",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "granular control",
+      "back": "drobiazgowa kontrola",
+      "hint": "Very detailed control.",
+      "examples": [
+        [
+          "Granular control is needed.",
+          "Potrzebna jest drobiazgowa kontrola."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'granular control'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "drobiazgowa kontrola",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'drobiazgowa kontrola'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3c25cd38-3219-4987-9f00-97a55ba9ce71",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "incremental improvements",
+      "back": "stopniowe ulepszenia",
+      "hint": "Small ongoing improvements.",
+      "examples": [
+        [
+          "Make incremental improvements.",
+          "Wprowadzaj stopniowe ulepszenia."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'incremental improvements'?",
+            "options": [
+              "tak",
+              "stopniowe ulepszenia",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'stopniowe ulepszenia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6f559e0d-852a-4b65-a903-40877fb57044",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "contentious issue",
+      "back": "sporna kwestia",
+      "hint": "Causes disagreement.",
+      "examples": [
+        [
+          "It's a contentious issue.",
+          "To sporna kwestia."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'contentious issue'?",
+            "options": [
+              "sporna kwestia",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'sporna kwestia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fd975724-c067-4e63-a150-d132db48d7a3",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "corroborating evidence",
+      "back": "potwierdzające dowody",
+      "hint": "Evidence that supports.",
+      "examples": [
+        [
+          "Provide corroborating evidence.",
+          "Przedstaw dowody potwierdzające."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'corroborating evidence'?",
+            "options": [
+              "potwierdzające dowody",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'potwierdzające dowody'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e0294fd6-4695-4e83-932c-2102d23b231e",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "paradigm shift",
+      "back": "zmiana paradygmatu",
+      "hint": "Major change in approach.",
+      "examples": [
+        [
+          "A paradigm shift in science.",
+          "Zmiana paradygmatu w nauce."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'paradigm shift'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zmiana paradygmatu",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zmiana paradygmatu'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4c6b5f2a-a6e2-4d42-8ecf-67976ff0b907",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "ramifications",
+      "back": "konsekwencje",
+      "hint": "Unintended results.",
+      "examples": [
+        [
+          "Consider the ramifications.",
+          "Rozważ konsekwencje."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'ramifications'?",
+            "options": [
+              "tak",
+              "konsekwencje",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'konsekwencje'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "abb5924e-30a9-4fcc-92d8-a30edd778c95",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "onerous regulations",
+      "back": "uciążliwe regulacje",
+      "hint": "Burdensome rules.",
+      "examples": [
+        [
+          "Onerous regulations slow us.",
+          "Uciążliwe regulacje nas spowalniają."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'onerous regulations'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "uciążliwe regulacje",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'uciążliwe regulacje'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6ec2c519-3809-4853-badb-6986ac0212fa",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "intrinsic motivation",
+      "back": "motywacja wewnętrzna",
+      "hint": "Motivation from within.",
+      "examples": [
+        [
+          "Intrinsic motivation matters.",
+          "Motywacja wewnętrzna ma znaczenie."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'intrinsic motivation'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "motywacja wewnętrzna"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'motywacja wewnętrzna'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "dd2cd655-e169-49ac-ad7b-0714e8b43ea1",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "belligerent",
+      "back": "wojowniczy",
+      "hint": "Hostile and aggressive.",
+      "examples": [
+        [
+          "A belligerent tone.",
+          "Wojowniczy ton."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'belligerent'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wojowniczy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wojowniczy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8e2298e2-c241-405f-846a-836c5fe7c108",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "fastidious",
+      "back": "wybredny/drobiazgowy",
+      "hint": "Very attentive to detail.",
+      "examples": [
+        [
+          "A fastidious editor.",
+          "Drobiazgowy redaktor."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fastidious'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wybredny/drobiazgowy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wybredny/drobiazgowy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "693a4844-1caa-4a43-bdbd-81d2394dbb16",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "discern",
+      "back": "rozróżniać/dostrzegać",
+      "hint": "See/recognize clearly.",
+      "examples": [
+        [
+          "Hard to discern the pattern.",
+          "Trudno dostrzec wzorzec."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'discern'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "rozróżniać/dostrzegać",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'rozróżniać/dostrzegać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "973ba362-4ada-401e-834b-dfec3cdef3fb",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "escalate the matter",
+      "back": "eskalować sprawę",
+      "hint": "Raise the issue higher.",
+      "examples": [
+        [
+          "We escalated the matter.",
+          "Eskalowaliśmy sprawę."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'escalate the matter'?",
+            "options": [
+              "tak",
+              "eskalować sprawę",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'eskalować sprawę'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "56544d48-2ae3-44c1-b934-ea51a76202f6",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "deliberate on",
+      "back": "obradować nad",
+      "hint": "Think/discuss carefully.",
+      "examples": [
+        [
+          "They deliberate on policy.",
+          "Obradują nad polityką."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'deliberate on'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "obradować nad",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'obradować nad'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "42c4564e-a378-487b-a79a-e77a75ad16ee",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "pervasive",
+      "back": "wszechobecny",
+      "hint": "Spreading widely.",
+      "examples": [
+        [
+          "A pervasive problem.",
+          "Wszechobecny problem."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'pervasive'?",
+            "options": [
+              "tak",
+              "wszechobecny",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wszechobecny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b8d7f495-1d63-45b3-a204-398e52136811",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "fortuitous",
+      "back": "przypadkowy",
+      "hint": "Happening by chance.",
+      "examples": [
+        [
+          "A fortuitous meeting.",
+          "Przypadkowe spotkanie."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fortuitous'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "przypadkowy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przypadkowy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8706cda3-8a85-4e8c-8769-daba2b58ff72",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "implications",
+      "back": "implikacje",
+      "hint": "Possible effects.",
+      "examples": [
+        [
+          "Consider implications.",
+          "Rozważ implikacje."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'implications'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "implikacje"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'implikacje'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "5b875134-bc26-44e3-a60b-eaa04588ad69",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "tenuous",
+      "back": "słaby/niecierpliwy (metaf.)",
+      "hint": "Very weak/slight.",
+      "examples": [
+        [
+          "A tenuous link.",
+          "Słaby związek."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'tenuous'?",
+            "options": [
+              "tak",
+              "słaby/niecierpliwy (metaf.)",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'słaby/niecierpliwy (metaf.)'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "29941501-ac24-4ac8-bbf9-6cb5aa8e7b86",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "amelioration",
+      "back": "polepszenie",
+      "hint": "The act of improving.",
+      "examples": [
+        [
+          "Amelioration of conditions.",
+          "Polepszenie warunków."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'amelioration'?",
+            "options": [
+              "tak",
+              "polepszenie",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'polepszenie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b34fe669-6377-4f0e-906b-58e2b6dbdc49",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "equanimity",
+      "back": "spokój ducha",
+      "hint": "Calmness of mind.",
+      "examples": [
+        [
+          "Maintain equanimity.",
+          "Zachowaj spokój ducha."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'equanimity'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "spokój ducha"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'spokój ducha'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4000b5bb-35a7-44fd-bcc9-e8dcf7a6fe50",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 08 Domain Collocations Academia",
+      "front": "fallacious",
+      "back": "błędny (o rozumowaniu)",
+      "hint": "Based on a mistake.",
+      "examples": [
+        [
+          "A fallacious argument.",
+          "Błędny argument."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fallacious'?",
+            "options": [
+              "tak",
+              "błędny (o rozumowaniu)",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'błędny (o rozumowaniu)'."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,869 @@
+{
+  "pack_id": "a1_18_questions_pronouns_extra2",
+  "title": "A1 18 Questions Pronouns — Extra 2",
+  "level": "A1",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "8f3f72eb-2d68-4178-b95a-838fcfe98c8e",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "good evening",
+      "back": "dobry wieczór",
+      "hint": "Evening greeting.",
+      "examples": [
+        [
+          "Good evening, everyone.",
+          "Dobry wieczór, wszyscy."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good evening'?",
+            "options": [
+              "tak",
+              "dobry wieczór",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dobry wieczór'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "9f71f344-b095-45ba-b61a-7ad8a68f0904",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "see you next week",
+      "back": "do zobaczenia w przyszłym tygodniu",
+      "hint": "Farewell for next week.",
+      "examples": [
+        [
+          "See you next week!",
+          "Do zobaczenia w przyszłym tygodniu!"
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'see you next week'?",
+            "options": [
+              "tak",
+              "do zobaczenia w przyszłym tygodniu",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'do zobaczenia w przyszłym tygodniu'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2ea42734-e9b6-4d08-9164-b9f8fa8a87bf",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "nice to meet you too",
+      "back": "mnie również miło cię poznać",
+      "hint": "Polite reply.",
+      "examples": [
+        [
+          "Nice to meet you too.",
+          "Mnie również miło cię poznać."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'nice to meet you too'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "mnie również miło cię poznać",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'mnie również miło cię poznać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6f48bfde-8747-441b-ae17-9bd77721442c",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "what is your surname",
+      "back": "jak masz na nazwisko",
+      "hint": "Ask last name.",
+      "examples": [
+        [
+          "What is your surname?",
+          "Jak masz na nazwisko?"
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'what is your surname'?",
+            "options": [
+              "tak",
+              "jak masz na nazwisko",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jak masz na nazwisko'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fb565d7c-1329-41a2-9d2c-b2c9f4e5e283",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "where are you from",
+      "back": "skąd jesteś",
+      "hint": "Ask origin.",
+      "examples": [
+        [
+          "Where are you from?",
+          "Skąd jesteś?"
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'where are you from'?",
+            "options": [
+              "tak",
+              "skąd jesteś",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'skąd jesteś'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b818d4a7-114f-4680-b74e-1f2fce1c8253",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "family member",
+      "back": "członek rodziny",
+      "hint": "Person in your family.",
+      "examples": [
+        [
+          "Every family member is here.",
+          "Każdy członek rodziny jest tutaj."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'family member'?",
+            "options": [
+              "członek rodziny",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'członek rodziny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6fc1846a-ff8b-4522-9a31-d2e8da46cd6a",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "baby",
+      "back": "niemowlę",
+      "hint": "Very young child.",
+      "examples": [
+        [
+          "The baby is sleeping.",
+          "Niemowlę śpi."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'baby'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "niemowlę"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'niemowlę'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "44b859a2-22c0-4a70-b395-50b0097ff8fd",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "friend",
+      "back": "przyjaciel/przyjaciółka",
+      "hint": "Person you like.",
+      "examples": [
+        [
+          "He is my friend.",
+          "On jest moim przyjacielem."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'friend'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "przyjaciel/przyjaciółka"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przyjaciel/przyjaciółka'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "f667952a-607e-4eb8-a635-7e9e6ad59fb2",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "neighbour",
+      "back": "sąsiad/sąsiadka",
+      "hint": "Lives near you.",
+      "examples": [
+        [
+          "My neighbour is kind.",
+          "Mój sąsiad jest miły."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'neighbour'?",
+            "options": [
+              "tak",
+              "sąsiad/sąsiadka",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'sąsiad/sąsiadka'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "95b14a90-7b60-4c57-9001-86f456bf94d6",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "classmate",
+      "back": "kolega/koleżanka z klasy",
+      "hint": "Person in same class.",
+      "examples": [
+        [
+          "She is my classmate.",
+          "Ona jest moją koleżanką z klasy."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'classmate'?",
+            "options": [
+              "tak",
+              "kolega/koleżanka z klasy",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'kolega/koleżanka z klasy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2996d9fd-9589-4120-b3c4-3d8958f42409",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "juice",
+      "back": "sok",
+      "hint": "Drink.",
+      "examples": [
+        [
+          "Orange juice.",
+          "Sok pomarańczowy."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'juice'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "sok",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'sok'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e3f19594-8786-41b4-8bb8-f36ae0e12387",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "sandwich",
+      "back": "kanapka",
+      "hint": "Food between bread.",
+      "examples": [
+        [
+          "A cheese sandwich.",
+          "Kanapka z serem."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'sandwich'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "kanapka"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'kanapka'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "94ff0ddc-8eb0-48f8-91cf-4606da52f8d4",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "beef",
+      "back": "wołowina",
+      "hint": "Meat from cows.",
+      "examples": [
+        [
+          "Beef soup.",
+          "Zupa wołowa."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'beef'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wołowina",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wołowina'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "abfe9c68-95e5-4141-a96d-7583530bfa78",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "pork",
+      "back": "wieprzowina",
+      "hint": "Meat from pigs.",
+      "examples": [
+        [
+          "Pork chops.",
+          "Kotlety wieprzowe."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'pork'?",
+            "options": [
+              "wieprzowina",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wieprzowina'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "461b0b10-25ff-41e4-baa9-44306c3f2f24",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "vegetables",
+      "back": "warzywa",
+      "hint": "Plants we eat.",
+      "examples": [
+        [
+          "Fresh vegetables.",
+          "Świeże warzywa."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'vegetables'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "warzywa",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'warzywa'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b6bcd2cf-024f-44fb-b1a3-09a785c0b178",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "rubber",
+      "back": "gumka",
+      "hint": "Eraser for pencil.",
+      "examples": [
+        [
+          "Use a rubber.",
+          "Użyj gumki."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'rubber'?",
+            "options": [
+              "tak",
+              "gumka",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'gumka'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "af104f07-7848-4fc7-8f05-9dfe9f5f2957",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "ruler",
+      "back": "linijka",
+      "hint": "Tool for measuring.",
+      "examples": [
+        [
+          "A 30‑cm ruler.",
+          "Linijka 30 cm."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'ruler'?",
+            "options": [
+              "linijka",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'linijka'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2b059198-643b-4d9a-950d-ad984d1548f6",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "bag",
+      "back": "torba/plecak",
+      "hint": "For carrying things.",
+      "examples": [
+        [
+          "A school bag.",
+          "Torbę szkolna."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'bag'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "torba/plecak"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'torba/plecak'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "744db872-e458-4d36-9588-473d1ab69684",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "map",
+      "back": "mapa",
+      "hint": "Shows places.",
+      "examples": [
+        [
+          "A map of Poland.",
+          "Mapa Polski."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'map'?",
+            "options": [
+              "tak",
+              "mapa",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'mapa'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4d58fe74-ffe5-453b-bd4b-0aec1365f876",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 18 Questions Pronouns",
+      "front": "clock",
+      "back": "zegar",
+      "hint": "Shows time.",
+      "examples": [
+        [
+          "The clock is slow.",
+          "Zegar się spóźnia."
+        ]
+      ],
+      "tags": [
+        "a1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'clock'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zegar",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zegar'."
+          }
+        ]
+      }
+    }
+  ]
+}

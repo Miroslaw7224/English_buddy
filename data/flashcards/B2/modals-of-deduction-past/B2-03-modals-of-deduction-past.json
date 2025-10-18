@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "625d6dec-250b-4409-b7e9-6c6d454e9379",
+    "user_id": null,
+    "term": "must have done",
+    "term_lang": "en",
+    "translation": "musiał zrobić (na pewno)",
+    "translation_lang": "pl",
+    "definition": "high certainty about a past action",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The lights were on—he must have left them.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c0bde276-f2b7-4456-b221-657db79e2226",
+    "user_id": null,
+    "term": "can't have done",
+    "term_lang": "en",
+    "translation": "nie mógł zrobić",
+    "translation_lang": "pl",
+    "definition": "near certainty something didn't happen",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She was abroad—she can't have attended.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0ad9dd2e-908e-4ae7-bafd-86aef8784ae8",
+    "user_id": null,
+    "term": "might have done",
+    "term_lang": "en",
+    "translation": "mógł zrobić (być może)",
+    "translation_lang": "pl",
+    "definition": "possibility about a past action",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He might have forgotten to call.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "28b61a64-69ed-451c-830c-18b005cdefb2",
+    "user_id": null,
+    "term": "may have done",
+    "term_lang": "en",
+    "translation": "mógł zrobić (możliwe)",
+    "translation_lang": "pl",
+    "definition": "possibility (similar to might)",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They may have taken the wrong bus.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f19ca5ec-34f0-4bba-bef6-2a11e24cc56a",
+    "user_id": null,
+    "term": "could have done",
+    "term_lang": "en",
+    "translation": "mógł był zrobić",
+    "translation_lang": "pl",
+    "definition": "possibility or unreal ability in the past",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We could have won with more time.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "339906c8-0284-4c7b-803d-bd5496a0f5c7",
+    "user_id": null,
+    "term": "must have been",
+    "term_lang": "en",
+    "translation": "musiał być",
+    "translation_lang": "pl",
+    "definition": "high certainty about a past state",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It must have been frustrating for you.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "83431cf5-cf4f-4592-8a61-96efec9095cb",
+    "user_id": null,
+    "term": "can't have been",
+    "term_lang": "en",
+    "translation": "nie mógł być",
+    "translation_lang": "pl",
+    "definition": "near certainty a state wasn't true",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "That can't have been cheap.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c845d773-9c71-4e1e-b969-33d2774c4c8c",
+    "user_id": null,
+    "term": "might have been",
+    "term_lang": "en",
+    "translation": "mógł być",
+    "translation_lang": "pl",
+    "definition": "possibility about a past state",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It might have been a misunderstanding.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "427bd73f-f52e-4d34-a9f2-118aacb1cdfb",
+    "user_id": null,
+    "term": "must have gone",
+    "term_lang": "en",
+    "translation": "musiał pójść/pojechać",
+    "translation_lang": "pl",
+    "definition": "high certainty someone went somewhere",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She isn't here—she must have gone home.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e9b96bb3-5dc9-4995-bc86-3da4397eedc7",
+    "user_id": null,
+    "term": "can't have gone",
+    "term_lang": "en",
+    "translation": "nie mógł pójść/pojechać",
+    "translation_lang": "pl",
+    "definition": "near certainty someone didn't go",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He doesn't drive—he can't have gone far.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b21a99d9-0061-4944-a419-99c146bfc280",
+    "user_id": null,
+    "term": "couldn't have done",
+    "term_lang": "en",
+    "translation": "nie mógł był zrobić",
+    "translation_lang": "pl",
+    "definition": "impossibility in the past",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We couldn't have predicted the blackout.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "25b309d1-6cc6-4ceb-b0e5-67984b5a2fc4",
+    "user_id": null,
+    "term": "shouldn't have done",
+    "term_lang": "en",
+    "translation": "nie powinien był zrobić",
+    "translation_lang": "pl",
+    "definition": "criticism of a past action (near-deductive)",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You shouldn't have shared that file.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d49e79fb-bb9c-4ca1-92a6-99eba2b92e42",
+    "user_id": null,
+    "term": "should have done",
+    "term_lang": "en",
+    "translation": "powinien był zrobić",
+    "translation_lang": "pl",
+    "definition": "expectation about a past action",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They should have arrived by now.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cc57444d-438e-4b7b-b47a-47a89387cb5e",
+    "user_id": null,
+    "term": "may well have done",
+    "term_lang": "en",
+    "translation": "całkiem możliwe, że zrobił",
+    "translation_lang": "pl",
+    "definition": "strong possibility",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The outage may well have affected results.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d456eec4-c4ec-4807-a548-a34e3a351847",
+    "user_id": null,
+    "term": "might not have done",
+    "term_lang": "en",
+    "translation": "może nie zrobił",
+    "translation_lang": "pl",
+    "definition": "possibility that something didn't happen",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He might not have seen your email.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "modals-of-deduction-past",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "word_id": "ae936d89-4353-4a9c-bf96-2c5020d5c681",
+    "user_id": null,
+    "term": "try something on",
+    "term_lang": "en",
+    "translation": "przymierzyć coś",
+    "translation_lang": "pl",
+    "definition": "to put on clothes to see if they fit",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You can try it on in the changing room.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "92a3230b-fdc5-4bdd-b9f4-bfdfde799519",
+    "user_id": null,
+    "term": "out of stock",
+    "term_lang": "en",
+    "translation": "niedostępny na stanie",
+    "translation_lang": "pl",
+    "definition": "not available to buy",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The blue jacket is out of stock.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "94ff0669-7890-45b9-9dce-5d79ec4ef0dc",
+    "user_id": null,
+    "term": "contactless payment",
+    "term_lang": "en",
+    "translation": "płatność zbliżeniowa",
+    "translation_lang": "pl",
+    "definition": "paying by tapping a card or phone",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Contactless payment is quick and easy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "36b66728-d985-43c5-831b-f8d6dce0cfcd",
+    "user_id": null,
+    "term": "security deposit",
+    "term_lang": "en",
+    "translation": "kaucja",
+    "translation_lang": "pl",
+    "definition": "money paid in case of damage",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You'll get your security deposit back if there's no damage.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1eff59b7-28ed-47b8-b425-698700fd314e",
+    "user_id": null,
+    "term": "furnished",
+    "term_lang": "en",
+    "translation": "umeblowane",
+    "translation_lang": "pl",
+    "definition": "with furniture",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The flat is fully furnished.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5ef5cf8d-ec03-4406-a492-cadc896a367b",
+    "user_id": null,
+    "term": "notice period",
+    "term_lang": "en",
+    "translation": "okres wypowiedzenia",
+    "translation_lang": "pl",
+    "definition": "time between giving notice and leaving",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The notice period is one month.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c09074dd-9af9-488a-aa8c-a4eb22f87aff",
+    "user_id": null,
+    "term": "renewable energy",
+    "term_lang": "en",
+    "translation": "energia odnawialna",
+    "translation_lang": "pl",
+    "definition": "power from sources that can be replaced",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Solar is a type of renewable energy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "16d66439-f467-4b54-a89c-b0ffb5619acd",
+    "user_id": null,
+    "term": "reduce waste",
+    "term_lang": "en",
+    "translation": "ograniczać odpady",
+    "translation_lang": "pl",
+    "definition": "to make less rubbish",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Try to reduce waste by reusing bags.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "584bd06d-bf88-4a3b-aa23-b80389af19aa",
+    "user_id": null,
+    "term": "wildlife reserve",
+    "term_lang": "en",
+    "translation": "rezerwat przyrody",
+    "translation_lang": "pl",
+    "definition": "a protected area for animals and plants",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We visited a wildlife reserve last spring.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3ffceddc-35ce-471a-9a09-282ebd37b0fc",
+    "user_id": null,
+    "term": "go hiking",
+    "term_lang": "en",
+    "translation": "iść na wędrówkę",
+    "translation_lang": "pl",
+    "definition": "to walk long distances for pleasure",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We went hiking in the mountains.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2da7e57e-b819-4145-974d-3dfacd65fb9b",
+    "user_id": null,
+    "term": "hang out",
+    "term_lang": "en",
+    "translation": "spędzać czas (ze znajomymi)",
+    "translation_lang": "pl",
+    "definition": "to spend time relaxing with people",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We usually hang out at the café.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f133e1e7-e3b7-4b23-bcd7-eb9887594340",
+    "user_id": null,
+    "term": "ticket sold out",
+    "term_lang": "en",
+    "translation": "bilety wyprzedane",
+    "translation_lang": "pl",
+    "definition": "no more tickets available",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The tickets were sold out in an hour.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9588c5cc-ff1d-41c3-9689-0057fef29b3f",
+    "user_id": null,
+    "term": "episode",
+    "term_lang": "en",
+    "translation": "odcinek",
+    "translation_lang": "pl",
+    "definition": "one part of a TV or podcast series",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I listened to three episodes today.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "489ca943-d84d-4d26-a89d-b8069dc7a260",
+    "user_id": null,
+    "term": "season finale",
+    "term_lang": "en",
+    "translation": "finał sezonu",
+    "translation_lang": "pl",
+    "definition": "the last episode of a season",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The season finale was exciting.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0b062852-2c19-4ef0-8540-fb1da6248113",
+    "user_id": null,
+    "term": "open-air event",
+    "term_lang": "en",
+    "translation": "wydarzenie plenerowe",
+    "translation_lang": "pl",
+    "definition": "an event held outside",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They planned an open-air event downtown.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "20_rev-b1-4",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  }
+]

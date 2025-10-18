@@ -1,0 +1,869 @@
+{
+  "pack_id": "c1_09_idiomatic_paraphrase_extra2",
+  "title": "C1 09 Idiomatic Paraphrase — Extra 2",
+  "level": "C1",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "3dea0f5e-521f-4567-bb4e-cc288336dd8d",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "granular control",
+      "back": "drobiazgowa kontrola",
+      "hint": "Very detailed control.",
+      "examples": [
+        [
+          "Granular control is needed.",
+          "Potrzebna jest drobiazgowa kontrola."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'granular control'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "drobiazgowa kontrola",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'drobiazgowa kontrola'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "52e64991-6a30-4a5e-a5db-4044567b8dfb",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "incremental improvements",
+      "back": "stopniowe ulepszenia",
+      "hint": "Small ongoing improvements.",
+      "examples": [
+        [
+          "Make incremental improvements.",
+          "Wprowadzaj stopniowe ulepszenia."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'incremental improvements'?",
+            "options": [
+              "tak",
+              "stopniowe ulepszenia",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'stopniowe ulepszenia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a0cab0b5-5fc8-49b0-bead-2655e24439c4",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "contentious issue",
+      "back": "sporna kwestia",
+      "hint": "Causes disagreement.",
+      "examples": [
+        [
+          "It's a contentious issue.",
+          "To sporna kwestia."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'contentious issue'?",
+            "options": [
+              "sporna kwestia",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'sporna kwestia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "450983f8-1db1-4412-901f-c6aa143f16ab",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "corroborating evidence",
+      "back": "potwierdzające dowody",
+      "hint": "Evidence that supports.",
+      "examples": [
+        [
+          "Provide corroborating evidence.",
+          "Przedstaw dowody potwierdzające."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'corroborating evidence'?",
+            "options": [
+              "potwierdzające dowody",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'potwierdzające dowody'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "5474d056-4876-46ce-be54-838f55f0208d",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "paradigm shift",
+      "back": "zmiana paradygmatu",
+      "hint": "Major change in approach.",
+      "examples": [
+        [
+          "A paradigm shift in science.",
+          "Zmiana paradygmatu w nauce."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'paradigm shift'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zmiana paradygmatu",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zmiana paradygmatu'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b100fec4-4389-4a47-8386-e48bab59083f",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "ramifications",
+      "back": "konsekwencje",
+      "hint": "Unintended results.",
+      "examples": [
+        [
+          "Consider the ramifications.",
+          "Rozważ konsekwencje."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'ramifications'?",
+            "options": [
+              "tak",
+              "konsekwencje",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'konsekwencje'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "23979592-162e-461a-9dfa-f817cd1c7caf",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "onerous regulations",
+      "back": "uciążliwe regulacje",
+      "hint": "Burdensome rules.",
+      "examples": [
+        [
+          "Onerous regulations slow us.",
+          "Uciążliwe regulacje nas spowalniają."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'onerous regulations'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "uciążliwe regulacje",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'uciążliwe regulacje'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "d45c2739-9ffc-427c-84f8-8431be17dcab",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "intrinsic motivation",
+      "back": "motywacja wewnętrzna",
+      "hint": "Motivation from within.",
+      "examples": [
+        [
+          "Intrinsic motivation matters.",
+          "Motywacja wewnętrzna ma znaczenie."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'intrinsic motivation'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "motywacja wewnętrzna"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'motywacja wewnętrzna'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "985d737f-00c0-40a8-b69b-5fa17f10244b",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "belligerent",
+      "back": "wojowniczy",
+      "hint": "Hostile and aggressive.",
+      "examples": [
+        [
+          "A belligerent tone.",
+          "Wojowniczy ton."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'belligerent'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wojowniczy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wojowniczy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e02680e1-ae8f-44b0-821f-360112cae144",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "fastidious",
+      "back": "wybredny/drobiazgowy",
+      "hint": "Very attentive to detail.",
+      "examples": [
+        [
+          "A fastidious editor.",
+          "Drobiazgowy redaktor."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fastidious'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wybredny/drobiazgowy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wybredny/drobiazgowy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c8e7ee64-95f8-452e-a85d-80fef3c68aec",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "discern",
+      "back": "rozróżniać/dostrzegać",
+      "hint": "See/recognize clearly.",
+      "examples": [
+        [
+          "Hard to discern the pattern.",
+          "Trudno dostrzec wzorzec."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'discern'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "rozróżniać/dostrzegać",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'rozróżniać/dostrzegać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "782e691d-2b34-445b-ac8b-7a0f17d9f70d",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "escalate the matter",
+      "back": "eskalować sprawę",
+      "hint": "Raise the issue higher.",
+      "examples": [
+        [
+          "We escalated the matter.",
+          "Eskalowaliśmy sprawę."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'escalate the matter'?",
+            "options": [
+              "tak",
+              "eskalować sprawę",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'eskalować sprawę'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "d6650f3a-b9a6-4e7f-b184-4a2cbfabe6d2",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "deliberate on",
+      "back": "obradować nad",
+      "hint": "Think/discuss carefully.",
+      "examples": [
+        [
+          "They deliberate on policy.",
+          "Obradują nad polityką."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'deliberate on'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "obradować nad",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'obradować nad'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "9758693a-18fb-47af-97d6-55bfa643d76d",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "pervasive",
+      "back": "wszechobecny",
+      "hint": "Spreading widely.",
+      "examples": [
+        [
+          "A pervasive problem.",
+          "Wszechobecny problem."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'pervasive'?",
+            "options": [
+              "tak",
+              "wszechobecny",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wszechobecny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8e95274c-ade9-476b-8d7d-00dc7500b0cb",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "fortuitous",
+      "back": "przypadkowy",
+      "hint": "Happening by chance.",
+      "examples": [
+        [
+          "A fortuitous meeting.",
+          "Przypadkowe spotkanie."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fortuitous'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "przypadkowy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przypadkowy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2956d856-b688-4678-9323-5429932a4d31",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "implications",
+      "back": "implikacje",
+      "hint": "Possible effects.",
+      "examples": [
+        [
+          "Consider implications.",
+          "Rozważ implikacje."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'implications'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "implikacje"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'implikacje'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6c3c179f-0788-4c6f-85df-eb650a97f340",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "tenuous",
+      "back": "słaby/niecierpliwy (metaf.)",
+      "hint": "Very weak/slight.",
+      "examples": [
+        [
+          "A tenuous link.",
+          "Słaby związek."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'tenuous'?",
+            "options": [
+              "tak",
+              "słaby/niecierpliwy (metaf.)",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'słaby/niecierpliwy (metaf.)'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cf1af4b6-0fef-44b7-892a-8ef177152cfe",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "amelioration",
+      "back": "polepszenie",
+      "hint": "The act of improving.",
+      "examples": [
+        [
+          "Amelioration of conditions.",
+          "Polepszenie warunków."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'amelioration'?",
+            "options": [
+              "tak",
+              "polepszenie",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'polepszenie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "830acb81-df70-42e7-b772-4ea4ce4f9b2f",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "equanimity",
+      "back": "spokój ducha",
+      "hint": "Calmness of mind.",
+      "examples": [
+        [
+          "Maintain equanimity.",
+          "Zachowaj spokój ducha."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'equanimity'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "spokój ducha"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'spokój ducha'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a8ea7435-6fe1-454b-a5fa-0c85dde4de40",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 09 Idiomatic Paraphrase",
+      "front": "fallacious",
+      "back": "błędny (o rozumowaniu)",
+      "hint": "Based on a mistake.",
+      "examples": [
+        [
+          "A fallacious argument.",
+          "Błędny argument."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fallacious'?",
+            "options": [
+              "tak",
+              "błędny (o rozumowaniu)",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'błędny (o rozumowaniu)'."
+          }
+        ]
+      }
+    }
+  ]
+}

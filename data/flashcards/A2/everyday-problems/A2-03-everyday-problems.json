@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "b48c5358-adc1-463a-806b-a9afdadfe6e3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "problem",
+    "term_lang": "en",
+    "translation": "problem",
+    "translation_lang": "pl",
+    "definition": "A situation that needs to be solved.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have a problem with my phone.",
+        "translation": "Mam problem z telefonem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:00:00Z",
+      "last_review_at": "2025-10-06T10:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:00:00Z",
+    "updated_at": "2025-10-06T10:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a37de8c3-c2b7-4289-b067-33a3e408d394",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "solution",
+    "term_lang": "en",
+    "translation": "rozwiązanie",
+    "translation_lang": "pl",
+    "definition": "An answer to a problem.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The solution is simple.",
+        "translation": "Rozwiązanie jest proste."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:01:00Z",
+      "last_review_at": "2025-10-06T10:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:01:00Z",
+    "updated_at": "2025-10-06T10:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ee9cc800-0513-4417-adf6-baf3399ac36a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "should",
+    "term_lang": "en",
+    "translation": "powinien/powinna",
+    "translation_lang": "pl",
+    "definition": "Used to give advice.",
+    "part_of_speech": "modal",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should see a doctor.",
+        "translation": "Powinieneś iść do lekarza."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:02:00Z",
+      "last_review_at": "2025-10-06T10:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:02:00Z",
+    "updated_at": "2025-10-06T10:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b8e48d54-cb14-4cb1-a129-d4913afd5149",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "shouldn’t",
+    "term_lang": "en",
+    "translation": "nie powinien/nie powinna",
+    "translation_lang": "pl",
+    "definition": "Used to say advice not to do something.",
+    "part_of_speech": "modal",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You shouldn’t skip breakfast.",
+        "translation": "Nie powinieneś pomijać śniadania."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:03:00Z",
+      "last_review_at": "2025-10-06T10:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:03:00Z",
+    "updated_at": "2025-10-06T10:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "238ee542-2573-46e3-9f77-d7b7ad74a1bb",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "advice",
+    "term_lang": "en",
+    "translation": "rada",
+    "translation_lang": "pl",
+    "definition": "A helpful suggestion.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Can you give me some advice?",
+        "translation": "Czy możesz dać mi radę?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:04:00Z",
+      "last_review_at": "2025-10-06T10:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:04:00Z",
+    "updated_at": "2025-10-06T10:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b173042d-c36c-4c1f-8858-cbba0978af95",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "broken",
+    "term_lang": "en",
+    "translation": "zepsuty",
+    "translation_lang": "pl",
+    "definition": "Not working.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My laptop is broken.",
+        "translation": "Mój laptop jest zepsuty."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:05:00Z",
+      "last_review_at": "2025-10-06T10:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:05:00Z",
+    "updated_at": "2025-10-06T10:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "71d61222-911c-4130-8af5-13e80f44b2f7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "fix",
+    "term_lang": "en",
+    "translation": "naprawić",
+    "translation_lang": "pl",
+    "definition": "To make something work again.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He can fix the bike.",
+        "translation": "On potrafi naprawić rower."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:06:00Z",
+      "last_review_at": "2025-10-06T10:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:06:00Z",
+    "updated_at": "2025-10-06T10:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2021d54a-d62e-4fee-bb05-2cdee74dd494",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "lose",
+    "term_lang": "en",
+    "translation": "zgubić/stracić",
+    "translation_lang": "pl",
+    "definition": "To stop having something.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I often lose my keys.",
+        "translation": "Często gubię klucze."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:07:00Z",
+      "last_review_at": "2025-10-06T10:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:07:00Z",
+    "updated_at": "2025-10-06T10:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1327352e-7edb-42b6-b4d9-a263e678c5ab",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "find",
+    "term_lang": "en",
+    "translation": "znaleźć",
+    "translation_lang": "pl",
+    "definition": "To discover where something is.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I found my wallet.",
+        "translation": "Znalazłem mój portfel."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:08:00Z",
+      "last_review_at": "2025-10-06T10:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:08:00Z",
+    "updated_at": "2025-10-06T10:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5d154275-5be4-432c-8fa8-1b1488990128",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "late",
+    "term_lang": "en",
+    "translation": "spóźniony",
+    "translation_lang": "pl",
+    "definition": "Arriving after the time.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I am late for work.",
+        "translation": "Spóźniłem się do pracy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:09:00Z",
+      "last_review_at": "2025-10-06T10:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:09:00Z",
+    "updated_at": "2025-10-06T10:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "71a713b3-978d-4d57-9b32-79dd4b1ef756",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "on time",
+    "term_lang": "en",
+    "translation": "na czas",
+    "translation_lang": "pl",
+    "definition": "At the correct time.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Try to be on time.",
+        "translation": "Postaraj się być na czas."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:10:00Z",
+      "last_review_at": "2025-10-06T10:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:10:00Z",
+    "updated_at": "2025-10-06T10:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1fa3ed5a-bc4f-43c0-8bd0-bdad91ae7458",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "helpful",
+    "term_lang": "en",
+    "translation": "pomocny",
+    "translation_lang": "pl",
+    "definition": "Giving help.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Your tip was helpful.",
+        "translation": "Twoja wskazówka była pomocna."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:11:00Z",
+      "last_review_at": "2025-10-06T10:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:11:00Z",
+    "updated_at": "2025-10-06T10:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "81b30ece-9a50-42a6-8dc3-7785ab6900aa",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "call",
+    "term_lang": "en",
+    "translation": "zadzwonić",
+    "translation_lang": "pl",
+    "definition": "To phone someone.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should call customer service.",
+        "translation": "Powinieneś zadzwonić na infolinię."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:12:00Z",
+      "last_review_at": "2025-10-06T10:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:12:00Z",
+    "updated_at": "2025-10-06T10:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "680fd870-1094-48d5-b7e4-e61d964993bc",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "charge",
+    "term_lang": "en",
+    "translation": "naładować",
+    "translation_lang": "pl",
+    "definition": "To put electricity into a device.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Charge your phone at night.",
+        "translation": "Naładuj telefon w nocy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:13:00Z",
+      "last_review_at": "2025-10-06T10:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:13:00Z",
+    "updated_at": "2025-10-06T10:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ca1bff23-8b14-4744-bd90-e6b77d6c3474",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "alarm",
+    "term_lang": "en",
+    "translation": "budzik/alaram",
+    "translation_lang": "pl",
+    "definition": "A sound to remind you.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Set an alarm for seven.",
+        "translation": "Ustaw budzik na siódmą."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-03-everyday-problems",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:14:00Z",
+      "last_review_at": "2025-10-06T10:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:14:00Z",
+    "updated_at": "2025-10-06T10:14:00Z",
+    "deleted_at": null
+  }
+]

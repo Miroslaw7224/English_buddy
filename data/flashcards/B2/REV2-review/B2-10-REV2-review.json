@@ -1,0 +1,677 @@
+[
+  {
+    "word_id": "d8b5f3d6-6723-4610-b4b6-16cc6e8258b6",
+    "user_id": null,
+    "term": "non-defining relative clause",
+    "term_lang": "en",
+    "translation": "zdanie względne niedefiniujące",
+    "translation_lang": "pl",
+    "definition": "extra information set off by commas",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My laptop, which I bought in 2022, still works well.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "eb00ff11-42fb-4497-993f-2de02dd037a5",
+    "user_id": null,
+    "term": "whose",
+    "term_lang": "en",
+    "translation": "którego/której/których (czyj)",
+    "translation_lang": "pl",
+    "definition": "relative pronoun for possession",
+    "part_of_speech": "pronoun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The author whose article you shared is famous.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c4c3fc4e-de9b-4788-9465-9613f768ad8b",
+    "user_id": null,
+    "term": "present participle clause",
+    "term_lang": "en",
+    "translation": "imiesłów czynny (V-ing)",
+    "translation_lang": "pl",
+    "definition": "reduced clause showing simultaneous action",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Walking to work, she listened to a podcast.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c8792c6b-edf2-4548-933d-56fe0d00a783",
+    "user_id": null,
+    "term": "executive summary",
+    "term_lang": "en",
+    "translation": "streszczenie zarządcze",
+    "translation_lang": "pl",
+    "definition": "brief overview of a report",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The executive summary appears on page one.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bf053608-79c1-421a-bcc1-ca6a21849da9",
+    "user_id": null,
+    "term": "limitations",
+    "term_lang": "en",
+    "translation": "ograniczenia",
+    "translation_lang": "pl",
+    "definition": "factors that weaken conclusions",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A limited sample size is a major limitation.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "87c48b70-d731-463f-a2b9-85b1ce7cad02",
+    "user_id": null,
+    "term": "on balance",
+    "term_lang": "en",
+    "translation": "ogólnie rzecz biorąc",
+    "translation_lang": "pl",
+    "definition": "phrase used to weigh pros and cons",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "On balance, I would recommend the product.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "aec45ff5-7335-458a-9691-d8c38fa6c2f2",
+    "user_id": null,
+    "term": "regarding",
+    "term_lang": "en",
+    "translation": "odnośnie / w sprawie",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'about'",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Regarding your request, we need more details.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fc874f10-9c56-4ef4-a0ea-5a0bd37e5468",
+    "user_id": null,
+    "term": "provide",
+    "term_lang": "en",
+    "translation": "dostarczyć / zapewnić",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'give'",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please provide the invoice number.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "afe34e16-f07e-46ec-8da9-935b5956cb02",
+    "user_id": null,
+    "term": "terminate",
+    "term_lang": "en",
+    "translation": "zakończyć",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'end'",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The company decided to terminate the contract.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1bb4c8a2-2a42-46ed-a4ce-40f71e2f5113",
+    "user_id": null,
+    "term": "year-on-year",
+    "term_lang": "en",
+    "translation": "rok do roku",
+    "translation_lang": "pl",
+    "definition": "comparing the same period in different years",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Bookings rose 5% year-on-year.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7028c626-a82e-472b-8686-b609c70df4f0",
+    "user_id": null,
+    "term": "plateau",
+    "term_lang": "en",
+    "translation": "ustabilizować się (na plateau)",
+    "translation_lang": "pl",
+    "definition": "to stop increasing",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Subscriber growth plateaued last quarter.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7d964160-c799-4a23-8bd7-755d7927662f",
+    "user_id": null,
+    "term": "outlier",
+    "term_lang": "en",
+    "translation": "wartość odstająca",
+    "translation_lang": "pl",
+    "definition": "data point far from the rest",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We removed an outlier to clarify the chart.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b72f79f8-9aac-43c6-9b70-352d383cf203",
+    "user_id": null,
+    "term": "benchmark",
+    "term_lang": "en",
+    "translation": "punkt odniesienia",
+    "translation_lang": "pl",
+    "definition": "standard for comparison",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We set a benchmark based on industry leaders.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "72d9b1e5-d4e5-4e4d-a9ed-7b2b390548ca",
+    "user_id": null,
+    "term": "uptick",
+    "term_lang": "en",
+    "translation": "lekki wzrost",
+    "translation_lang": "pl",
+    "definition": "small increase",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We noticed an uptick in engagement.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c144b4c7-dbe4-4495-ad71-956faaa6892f",
+    "user_id": null,
+    "term": "downturn",
+    "term_lang": "en",
+    "translation": "spowolnienie / recesja",
+    "translation_lang": "pl",
+    "definition": "period of decline",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The sector is in a mild downturn.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-2",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  }
+]

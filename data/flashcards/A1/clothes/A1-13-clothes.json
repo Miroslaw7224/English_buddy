@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "6b5f4d70-d491-4f97-a5c5-a42a35d9faa5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "shirt",
+    "term_lang": "en",
+    "translation": "koszula",
+    "translation_lang": "pl",
+    "definition": "A piece of clothing for the upper body.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I wear a blue shirt.",
+        "translation": "Noszę niebieską koszulę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:00:00Z",
+      "last_review_at": "2025-10-06T09:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:00:00Z",
+    "updated_at": "2025-10-06T09:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c2212773-baf8-4e90-bdfd-222191a41a79",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "T-shirt",
+    "term_lang": "en",
+    "translation": "koszulka",
+    "translation_lang": "pl",
+    "definition": "A light short-sleeved top.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This T-shirt is white.",
+        "translation": "Ta koszulka jest biała."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:01:00Z",
+      "last_review_at": "2025-10-06T09:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:01:00Z",
+    "updated_at": "2025-10-06T09:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "456f0197-652b-45b5-81d4-bdfb078c0db7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "dress",
+    "term_lang": "en",
+    "translation": "sukienka",
+    "translation_lang": "pl",
+    "definition": "A piece of clothing for women/girls.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She wears a red dress.",
+        "translation": "Ona nosi czerwoną sukienkę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:02:00Z",
+      "last_review_at": "2025-10-06T09:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:02:00Z",
+    "updated_at": "2025-10-06T09:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1318a97f-ac2f-4c4c-a7c8-5e3d306d9622",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "skirt",
+    "term_lang": "en",
+    "translation": "spódnica",
+    "translation_lang": "pl",
+    "definition": "A piece of clothing for the lower body.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The skirt is long.",
+        "translation": "Spódnica jest długa."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:03:00Z",
+      "last_review_at": "2025-10-06T09:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:03:00Z",
+    "updated_at": "2025-10-06T09:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "277b695d-3ff8-4431-b2ab-15fc1bd64f0d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "trousers",
+    "term_lang": "en",
+    "translation": "spodnie",
+    "translation_lang": "pl",
+    "definition": "Clothes that cover each leg.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "His trousers are black.",
+        "translation": "Jego spodnie są czarne."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:04:00Z",
+      "last_review_at": "2025-10-06T09:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:04:00Z",
+    "updated_at": "2025-10-06T09:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5972ee2d-aeab-4214-8f5b-b955832e4137",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "jeans",
+    "term_lang": "en",
+    "translation": "dżinsy",
+    "translation_lang": "pl",
+    "definition": "Strong blue trousers.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I love blue jeans.",
+        "translation": "Uwielbiam niebieskie dżinsy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:05:00Z",
+      "last_review_at": "2025-10-06T09:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:05:00Z",
+    "updated_at": "2025-10-06T09:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ff2d8ce6-ed8c-42ba-8088-77ea0ab6abb6",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "shoes",
+    "term_lang": "en",
+    "translation": "buty",
+    "translation_lang": "pl",
+    "definition": "Things you wear on your feet.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My shoes are new.",
+        "translation": "Moje buty są nowe."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:06:00Z",
+      "last_review_at": "2025-10-06T09:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:06:00Z",
+    "updated_at": "2025-10-06T09:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "044205ce-b31c-4cd2-985c-5293339fcbeb",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "boots",
+    "term_lang": "en",
+    "translation": "kozaki/botki",
+    "translation_lang": "pl",
+    "definition": "Strong shoes for winter.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She wears boots in winter.",
+        "translation": "Ona nosi kozaki zimą."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:07:00Z",
+      "last_review_at": "2025-10-06T09:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:07:00Z",
+    "updated_at": "2025-10-06T09:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "27ca8474-1e0b-43ba-b468-ab8706f86562",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "coat",
+    "term_lang": "en",
+    "translation": "płaszcz",
+    "translation_lang": "pl",
+    "definition": "A warm outer piece of clothing.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He has a long coat.",
+        "translation": "On ma długi płaszcz."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:08:00Z",
+      "last_review_at": "2025-10-06T09:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:08:00Z",
+    "updated_at": "2025-10-06T09:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "eceaa80a-21a9-44dd-aff2-fd5c48330497",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "jacket",
+    "term_lang": "en",
+    "translation": "kurtka",
+    "translation_lang": "pl",
+    "definition": "A short coat.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Your jacket looks nice.",
+        "translation": "Twoja kurtka wygląda ładnie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:09:00Z",
+      "last_review_at": "2025-10-06T09:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:09:00Z",
+    "updated_at": "2025-10-06T09:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1ea2fe6b-4237-4a2b-bb8e-21b5efa3368a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "sweater",
+    "term_lang": "en",
+    "translation": "sweter",
+    "translation_lang": "pl",
+    "definition": "A warm top made of wool.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This sweater is soft.",
+        "translation": "Ten sweter jest miękki."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:10:00Z",
+      "last_review_at": "2025-10-06T09:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:10:00Z",
+    "updated_at": "2025-10-06T09:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "92a7cc8e-600c-4ca1-970b-f81ae5b5a5e1",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "cap",
+    "term_lang": "en",
+    "translation": "czapka",
+    "translation_lang": "pl",
+    "definition": "A small hat.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I wear a cap in winter.",
+        "translation": "Noszę czapkę zimą."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:11:00Z",
+      "last_review_at": "2025-10-06T09:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:11:00Z",
+    "updated_at": "2025-10-06T09:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3e0e40cb-f063-44b8-a17b-9de0f72aebb5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "scarf",
+    "term_lang": "en",
+    "translation": "szalik",
+    "translation_lang": "pl",
+    "definition": "A long piece of cloth around the neck.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Take a scarf, it’s cold.",
+        "translation": "Weź szalik, jest zimno."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:12:00Z",
+      "last_review_at": "2025-10-06T09:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:12:00Z",
+    "updated_at": "2025-10-06T09:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "74131b75-28e5-4652-b31b-4ba541a7ce39",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "gloves",
+    "term_lang": "en",
+    "translation": "rękawiczki",
+    "translation_lang": "pl",
+    "definition": "Clothes for your hands.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Put on gloves.",
+        "translation": "Załóż rękawiczki."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:13:00Z",
+      "last_review_at": "2025-10-06T09:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:13:00Z",
+    "updated_at": "2025-10-06T09:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "75b6e046-56fd-4d95-a3c2-fe26d24a9149",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "socks",
+    "term_lang": "en",
+    "translation": "skarpetki",
+    "translation_lang": "pl",
+    "definition": "Clothes for your feet under shoes.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I need clean socks.",
+        "translation": "Potrzebuję czystych skarpetek."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-13-clothes",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:14:00Z",
+      "last_review_at": "2025-10-06T09:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:14:00Z",
+    "updated_at": "2025-10-06T09:14:00Z",
+    "deleted_at": null
+  }
+]

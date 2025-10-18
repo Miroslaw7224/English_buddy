@@ -1,0 +1,869 @@
+{
+  "pack_id": "c2_06_advanced_collocations_policy_econ_extra",
+  "title": "C2 06 Advanced Collocations Policy Econ — Extra",
+  "level": "C2",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "aaafa2fd-f300-46d8-92ed-599dcaac6137",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "ephemeral",
+      "back": "ulotny",
+      "hint": "Lasting a very short time.",
+      "examples": [
+        [
+          "An ephemeral trend.",
+          "Ulotny trend."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'ephemeral'?",
+            "options": [
+              "ulotny",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ulotny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b51b8736-4508-4f3e-b024-29548fab996c",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "parsimonious",
+      "back": "skąpy",
+      "hint": "Unwilling to spend money.",
+      "examples": [
+        [
+          "A parsimonious donor.",
+          "Skąpy darczyńca."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'parsimonious'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "skąpy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'skąpy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "58329999-e979-4f48-ac1b-43dd998f79d0",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "obfuscate",
+      "back": "zaciemniać",
+      "hint": "Make unclear.",
+      "examples": [
+        [
+          "Do not obfuscate the facts.",
+          "Nie zaciemniaj faktów."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'obfuscate'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zaciemniać",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zaciemniać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "01716321-3fb7-4d72-ae18-5fcb41739065",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "conundrum",
+      "back": "zagadnienie problemowe",
+      "hint": "A difficult problem.",
+      "examples": [
+        [
+          "A policy conundrum.",
+          "Zagadnienie problemowe polityki."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'conundrum'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zagadnienie problemowe",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zagadnienie problemowe'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "9565796a-0a9f-43a7-bd64-d9f63f01ff66",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "ameliorate",
+      "back": "ulepszać",
+      "hint": "Make better.",
+      "examples": [
+        [
+          "Ameliorate living conditions.",
+          "Ulepszać warunki życia."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'ameliorate'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "ulepszać"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ulepszać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30fb0d62-7ad3-45f7-9640-0697f6138c6d",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "perfunctory",
+      "back": "pobieżny",
+      "hint": "Done with little effort.",
+      "examples": [
+        [
+          "A perfunctory check.",
+          "Pobieżna kontrola."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'perfunctory'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "pobieżny"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'pobieżny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "586da8e0-0b54-44fe-9f77-79eaeede9bb4",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "equivocal",
+      "back": "dwuznaczny",
+      "hint": "Open to more than one meaning.",
+      "examples": [
+        [
+          "An equivocal answer.",
+          "Dwuznaczna odpowiedź."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'equivocal'?",
+            "options": [
+              "tak",
+              "dwuznaczny",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dwuznaczny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e335a879-bd8a-429c-a3ea-4afbf90afd7e",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "idiosyncratic",
+      "back": "idiosynkratyczny",
+      "hint": "Peculiar, individual.",
+      "examples": [
+        [
+          "Idiosyncratic style.",
+          "Idiosynkratyczny styl."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'idiosyncratic'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "idiosynkratyczny"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'idiosynkratyczny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fac14286-d1e3-40b0-9772-0dd7c87f3130",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "anachronism",
+      "back": "anachronizm",
+      "hint": "Something out of time.",
+      "examples": [
+        [
+          "A modern anachronism.",
+          "Współczesny anachronizm."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'anachronism'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "anachronizm"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'anachronizm'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "15b835ad-8790-453b-87cb-754f919467a6",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "panacea",
+      "back": "panaceum",
+      "hint": "A solution for all problems.",
+      "examples": [
+        [
+          "No panacea exists.",
+          "Nie istnieje panaceum."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'panacea'?",
+            "options": [
+              "tak",
+              "panaceum",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'panaceum'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4556ca78-62c6-437b-ab27-b5e50950a23c",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "obsequious",
+      "back": "służalczy",
+      "hint": "Overly obedient.",
+      "examples": [
+        [
+          "An obsequious assistant.",
+          "Służalczy asystent."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'obsequious'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "służalczy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'służalczy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2fae31af-2315-40a3-a132-f17df2981cea",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "circumvent",
+      "back": "obejść",
+      "hint": "Find a way around.",
+      "examples": [
+        [
+          "Circumvent regulations.",
+          "Obejść przepisy."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'circumvent'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "obejść"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'obejść'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e2099b4d-f0cb-4419-a275-8ef9755f59d8",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "intransigent",
+      "back": "nieustępliwy",
+      "hint": "Unwilling to change views.",
+      "examples": [
+        [
+          "An intransigent stance.",
+          "Nieustępliwe stanowisko."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'intransigent'?",
+            "options": [
+              "tak",
+              "nieustępliwy",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'nieustępliwy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "924dce6c-5be4-4449-8584-9ff97623fc69",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "disparate",
+      "back": "odmienny",
+      "hint": "Essentially different.",
+      "examples": [
+        [
+          "Disparate data sources.",
+          "Odmienne źródła danych."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'disparate'?",
+            "options": [
+              "tak",
+              "odmienny",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'odmienny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a03a6fe7-294e-45a7-b227-6685b4074d8d",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "salient",
+      "back": "najistotniejszy",
+      "hint": "Most noticeable.",
+      "examples": [
+        [
+          "The salient point.",
+          "Najistotniejszy punkt."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'salient'?",
+            "options": [
+              "najistotniejszy",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'najistotniejszy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "45057b2a-316c-4322-8f49-f86d3f905a85",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "esoteric",
+      "back": "ezoteryczny",
+      "hint": "Intended for a small group.",
+      "examples": [
+        [
+          "Esoteric knowledge.",
+          "Wiedza ezoteryczna."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'esoteric'?",
+            "options": [
+              "tak",
+              "ezoteryczny",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ezoteryczny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c6fdd7ef-1a8c-48e6-8e62-945ccf2d7095",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "cogent",
+      "back": "przekonujący",
+      "hint": "Clear and convincing.",
+      "examples": [
+        [
+          "A cogent argument.",
+          "Przekonujący argument."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'cogent'?",
+            "options": [
+              "przekonujący",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przekonujący'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "394d947e-d9b1-4529-8b9e-e301787d3895",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "onerous",
+      "back": "uciążliwy",
+      "hint": "Involving great effort.",
+      "examples": [
+        [
+          "An onerous task.",
+          "Uciążliwe zadanie."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'onerous'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "uciążliwy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'uciążliwy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "52c95382-5eca-46ad-a548-7a40a09203d3",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "plausible deniability",
+      "back": "wiarygodne zaprzeczenie",
+      "hint": "Ability to deny convincingly.",
+      "examples": [
+        [
+          "They sought plausible deniability.",
+          "Szukali wiarygodnego zaprzeczenia."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'plausible deniability'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wiarygodne zaprzeczenie",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wiarygodne zaprzeczenie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "121224d6-89ee-4a49-b922-f49b59376850",
+      "level": "C2",
+      "difficulty": "mastery",
+      "topic": "C2 06 Advanced Collocations Policy Econ",
+      "front": "zeitgeist",
+      "back": "duch czasu",
+      "hint": "Defining spirit of an era.",
+      "examples": [
+        [
+          "Capture the zeitgeist.",
+          "Uchwycić ducha czasu."
+        ]
+      ],
+      "tags": [
+        "c2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'zeitgeist'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "duch czasu"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'duch czasu'."
+          }
+        ]
+      }
+    }
+  ]
+}

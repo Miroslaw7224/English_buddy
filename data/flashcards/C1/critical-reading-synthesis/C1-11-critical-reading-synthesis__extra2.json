@@ -1,0 +1,869 @@
+{
+  "pack_id": "c1_11_critical_reading_synthesis_extra2",
+  "title": "C1 11 Critical Reading Synthesis — Extra 2",
+  "level": "C1",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "a3fa2ddc-fe60-4ac3-99f8-d623504fdeea",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "granular control",
+      "back": "drobiazgowa kontrola",
+      "hint": "Very detailed control.",
+      "examples": [
+        [
+          "Granular control is needed.",
+          "Potrzebna jest drobiazgowa kontrola."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'granular control'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "drobiazgowa kontrola",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'drobiazgowa kontrola'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "de119b73-f54c-4578-a629-945f79a0f4ff",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "incremental improvements",
+      "back": "stopniowe ulepszenia",
+      "hint": "Small ongoing improvements.",
+      "examples": [
+        [
+          "Make incremental improvements.",
+          "Wprowadzaj stopniowe ulepszenia."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'incremental improvements'?",
+            "options": [
+              "tak",
+              "stopniowe ulepszenia",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'stopniowe ulepszenia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3cbcf369-d1b5-4677-9149-1ac70afdc32b",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "contentious issue",
+      "back": "sporna kwestia",
+      "hint": "Causes disagreement.",
+      "examples": [
+        [
+          "It's a contentious issue.",
+          "To sporna kwestia."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'contentious issue'?",
+            "options": [
+              "sporna kwestia",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'sporna kwestia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "f41fab4a-fdd6-4481-86bf-8be752d6d790",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "corroborating evidence",
+      "back": "potwierdzające dowody",
+      "hint": "Evidence that supports.",
+      "examples": [
+        [
+          "Provide corroborating evidence.",
+          "Przedstaw dowody potwierdzające."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'corroborating evidence'?",
+            "options": [
+              "potwierdzające dowody",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'potwierdzające dowody'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "eafaecbb-2488-4500-bd33-5d08b8a88cd6",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "paradigm shift",
+      "back": "zmiana paradygmatu",
+      "hint": "Major change in approach.",
+      "examples": [
+        [
+          "A paradigm shift in science.",
+          "Zmiana paradygmatu w nauce."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'paradigm shift'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zmiana paradygmatu",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zmiana paradygmatu'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "d12a1a18-e8ff-4a70-a83a-5f9926d3871f",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "ramifications",
+      "back": "konsekwencje",
+      "hint": "Unintended results.",
+      "examples": [
+        [
+          "Consider the ramifications.",
+          "Rozważ konsekwencje."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'ramifications'?",
+            "options": [
+              "tak",
+              "konsekwencje",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'konsekwencje'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4a48d1c0-a0e7-4941-99e8-52a6c420c871",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "onerous regulations",
+      "back": "uciążliwe regulacje",
+      "hint": "Burdensome rules.",
+      "examples": [
+        [
+          "Onerous regulations slow us.",
+          "Uciążliwe regulacje nas spowalniają."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'onerous regulations'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "uciążliwe regulacje",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'uciążliwe regulacje'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "9b7443b4-f55c-4b2b-9650-07f257acf03c",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "intrinsic motivation",
+      "back": "motywacja wewnętrzna",
+      "hint": "Motivation from within.",
+      "examples": [
+        [
+          "Intrinsic motivation matters.",
+          "Motywacja wewnętrzna ma znaczenie."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'intrinsic motivation'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "motywacja wewnętrzna"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'motywacja wewnętrzna'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "18fa56aa-9b3e-4a28-be29-584d6553c101",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "belligerent",
+      "back": "wojowniczy",
+      "hint": "Hostile and aggressive.",
+      "examples": [
+        [
+          "A belligerent tone.",
+          "Wojowniczy ton."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'belligerent'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wojowniczy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wojowniczy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "318edfac-7a42-485d-9dd6-e23665abcd3d",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "fastidious",
+      "back": "wybredny/drobiazgowy",
+      "hint": "Very attentive to detail.",
+      "examples": [
+        [
+          "A fastidious editor.",
+          "Drobiazgowy redaktor."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fastidious'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wybredny/drobiazgowy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wybredny/drobiazgowy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2a08c573-0ecd-4cb9-9c91-9d753b69cadf",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "discern",
+      "back": "rozróżniać/dostrzegać",
+      "hint": "See/recognize clearly.",
+      "examples": [
+        [
+          "Hard to discern the pattern.",
+          "Trudno dostrzec wzorzec."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'discern'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "rozróżniać/dostrzegać",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'rozróżniać/dostrzegać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b07f157b-fc86-420d-b511-bf6978a4adec",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "escalate the matter",
+      "back": "eskalować sprawę",
+      "hint": "Raise the issue higher.",
+      "examples": [
+        [
+          "We escalated the matter.",
+          "Eskalowaliśmy sprawę."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'escalate the matter'?",
+            "options": [
+              "tak",
+              "eskalować sprawę",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'eskalować sprawę'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e2f85c47-b351-427a-bb7c-1588c8ccb1f4",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "deliberate on",
+      "back": "obradować nad",
+      "hint": "Think/discuss carefully.",
+      "examples": [
+        [
+          "They deliberate on policy.",
+          "Obradują nad polityką."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'deliberate on'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "obradować nad",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'obradować nad'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4f40343e-6e61-498e-9772-cee9f178000b",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "pervasive",
+      "back": "wszechobecny",
+      "hint": "Spreading widely.",
+      "examples": [
+        [
+          "A pervasive problem.",
+          "Wszechobecny problem."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'pervasive'?",
+            "options": [
+              "tak",
+              "wszechobecny",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wszechobecny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fcf3c3e3-7175-4a6e-91c6-c40e985364e0",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "fortuitous",
+      "back": "przypadkowy",
+      "hint": "Happening by chance.",
+      "examples": [
+        [
+          "A fortuitous meeting.",
+          "Przypadkowe spotkanie."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fortuitous'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "przypadkowy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przypadkowy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "512a2d10-977c-44ef-b699-18301f91cd74",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "implications",
+      "back": "implikacje",
+      "hint": "Possible effects.",
+      "examples": [
+        [
+          "Consider implications.",
+          "Rozważ implikacje."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'implications'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "implikacje"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'implikacje'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3bdb781d-4f2c-4fe6-b5dd-0125385ed00a",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "tenuous",
+      "back": "słaby/niecierpliwy (metaf.)",
+      "hint": "Very weak/slight.",
+      "examples": [
+        [
+          "A tenuous link.",
+          "Słaby związek."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'tenuous'?",
+            "options": [
+              "tak",
+              "słaby/niecierpliwy (metaf.)",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'słaby/niecierpliwy (metaf.)'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ad4a9b71-5b71-4d40-bb34-a43a72587b36",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "amelioration",
+      "back": "polepszenie",
+      "hint": "The act of improving.",
+      "examples": [
+        [
+          "Amelioration of conditions.",
+          "Polepszenie warunków."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'amelioration'?",
+            "options": [
+              "tak",
+              "polepszenie",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'polepszenie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e16015c6-e021-4813-ace6-10757fa76d09",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "equanimity",
+      "back": "spokój ducha",
+      "hint": "Calmness of mind.",
+      "examples": [
+        [
+          "Maintain equanimity.",
+          "Zachowaj spokój ducha."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'equanimity'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "spokój ducha"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'spokój ducha'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a2a81e71-1223-47ae-8f50-940ac30cf214",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "fallacious",
+      "back": "błędny (o rozumowaniu)",
+      "hint": "Based on a mistake.",
+      "examples": [
+        [
+          "A fallacious argument.",
+          "Błędny argument."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fallacious'?",
+            "options": [
+              "tak",
+              "błędny (o rozumowaniu)",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'błędny (o rozumowaniu)'."
+          }
+        ]
+      }
+    }
+  ]
+}

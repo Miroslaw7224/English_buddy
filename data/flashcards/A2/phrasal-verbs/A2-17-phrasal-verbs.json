@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "166e11ab-0996-417e-bf23-3b60c0343cef",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "get up",
+    "term_lang": "en",
+    "translation": "wstawać",
+    "translation_lang": "pl",
+    "definition": "Leave your bed after sleeping.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I get up at seven.",
+        "translation": "Wstaję o siódmej."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:30:00Z",
+      "last_review_at": "2025-10-06T11:30:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:30:00Z",
+    "updated_at": "2025-10-06T11:30:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8cc25cd4-9d78-4986-929f-cbad9a004dc6",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "wake up",
+    "term_lang": "en",
+    "translation": "budzić się",
+    "translation_lang": "pl",
+    "definition": "Stop sleeping.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I wake up before my alarm.",
+        "translation": "Budzę się przed budzikiem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:31:00Z",
+      "last_review_at": "2025-10-06T11:31:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:31:00Z",
+    "updated_at": "2025-10-06T11:31:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a0a29705-d6b6-40d0-82bb-1413d120ed9c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "turn on",
+    "term_lang": "en",
+    "translation": "włączyć",
+    "translation_lang": "pl",
+    "definition": "Start a machine/light.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Turn on the light, please.",
+        "translation": "Włącz światło, proszę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:32:00Z",
+      "last_review_at": "2025-10-06T11:32:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:32:00Z",
+    "updated_at": "2025-10-06T11:32:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fef68c2f-8c64-4f7b-adb9-b372484f6972",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "turn off",
+    "term_lang": "en",
+    "translation": "wyłączyć",
+    "translation_lang": "pl",
+    "definition": "Stop a machine/light.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Turn off the TV.",
+        "translation": "Wyłącz telewizor."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:33:00Z",
+      "last_review_at": "2025-10-06T11:33:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:33:00Z",
+    "updated_at": "2025-10-06T11:33:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ca98043b-5a39-45a4-a0f0-03d075678346",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "put on",
+    "term_lang": "en",
+    "translation": "założyć (ubranie)",
+    "translation_lang": "pl",
+    "definition": "Start wearing clothes.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Put on your jacket.",
+        "translation": "Załóż kurtkę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:34:00Z",
+      "last_review_at": "2025-10-06T11:34:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:34:00Z",
+    "updated_at": "2025-10-06T11:34:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c029c320-a012-4fe1-8909-436a86b851b4",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "take off",
+    "term_lang": "en",
+    "translation": "zdjąć (ubranie) / wystartować (samolot)",
+    "translation_lang": "pl",
+    "definition": "Remove clothes / plane leaves ground.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Take off your shoes, please.",
+        "translation": "Zdejmij buty, proszę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:35:00Z",
+      "last_review_at": "2025-10-06T11:35:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:35:00Z",
+    "updated_at": "2025-10-06T11:35:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a4aa7461-bc58-4775-b13a-f72b3c556627",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "pick up",
+    "term_lang": "en",
+    "translation": "odebrać/podnieść",
+    "translation_lang": "pl",
+    "definition": "Collect someone/thing from a place; lift.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I’ll pick you up at eight.",
+        "translation": "Odbiorę cię o ósmej."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:36:00Z",
+      "last_review_at": "2025-10-06T11:36:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:36:00Z",
+    "updated_at": "2025-10-06T11:36:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dce6014b-102b-44f7-a460-4e34faa5f38d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "put down",
+    "term_lang": "en",
+    "translation": "odłożyć",
+    "translation_lang": "pl",
+    "definition": "Place something on a surface.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Put down the bag.",
+        "translation": "Odłóż torbę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:37:00Z",
+      "last_review_at": "2025-10-06T11:37:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:37:00Z",
+    "updated_at": "2025-10-06T11:37:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1f73356e-44b5-444b-acab-447d25d14b7e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "look for",
+    "term_lang": "en",
+    "translation": "szukać",
+    "translation_lang": "pl",
+    "definition": "Try to find.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I’m looking for my keys.",
+        "translation": "Szukam kluczy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:38:00Z",
+      "last_review_at": "2025-10-06T11:38:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:38:00Z",
+    "updated_at": "2025-10-06T11:38:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ff6603a3-6080-42aa-a73e-28a88d66ae12",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "find out",
+    "term_lang": "en",
+    "translation": "dowiedzieć się",
+    "translation_lang": "pl",
+    "definition": "Discover information.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I found out the truth.",
+        "translation": "Dowiedziałem się prawdy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:39:00Z",
+      "last_review_at": "2025-10-06T11:39:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:39:00Z",
+    "updated_at": "2025-10-06T11:39:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2630598c-2138-48b2-91e0-74076a77ed41",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "give back",
+    "term_lang": "en",
+    "translation": "oddać",
+    "translation_lang": "pl",
+    "definition": "Return something to its owner.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please give back the book.",
+        "translation": "Oddaj proszę książkę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:40:00Z",
+      "last_review_at": "2025-10-06T11:40:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:40:00Z",
+    "updated_at": "2025-10-06T11:40:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b68880c0-7da4-418b-ad7b-0ee6a5f4aaa0",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "fill in",
+    "term_lang": "en",
+    "translation": "wypełnić (formularz)",
+    "translation_lang": "pl",
+    "definition": "Complete a form.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Fill in this form, please.",
+        "translation": "Wypełnij ten formularz, proszę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:41:00Z",
+      "last_review_at": "2025-10-06T11:41:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:41:00Z",
+    "updated_at": "2025-10-06T11:41:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "aa594073-a670-4f99-9167-64eb2df5194b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "check in",
+    "term_lang": "en",
+    "translation": "zameldować się/odprawić się",
+    "translation_lang": "pl",
+    "definition": "Register at hotel/airport.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We checked in online.",
+        "translation": "Odprawiliśmy się online."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:42:00Z",
+      "last_review_at": "2025-10-06T11:42:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:42:00Z",
+    "updated_at": "2025-10-06T11:42:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d9fce2b1-550b-4bbd-8895-9d6888be1cd8",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "check out",
+    "term_lang": "en",
+    "translation": "wymeldować się/sprawdzić",
+    "translation_lang": "pl",
+    "definition": "Leave hotel / take a look.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We check out at noon.",
+        "translation": "Wymeldujemy się w południe."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:43:00Z",
+      "last_review_at": "2025-10-06T11:43:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:43:00Z",
+    "updated_at": "2025-10-06T11:43:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4d51b1c9-7ee4-49b0-9124-e266a5c04c31",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "come back",
+    "term_lang": "en",
+    "translation": "wracać",
+    "translation_lang": "pl",
+    "definition": "Return to a place.",
+    "part_of_speech": "phrasal verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Come back soon!",
+        "translation": "Wróć wkrótce!"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-17-phrasal-verbs",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:44:00Z",
+      "last_review_at": "2025-10-06T11:44:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:44:00Z",
+    "updated_at": "2025-10-06T11:44:00Z",
+    "deleted_at": null
+  }
+]

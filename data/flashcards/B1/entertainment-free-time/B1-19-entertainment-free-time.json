@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "06ebf122-c0db-4179-8870-e04a1265ce36",
+    "user_id": null,
+    "term": "go to the cinema",
+    "term_lang": "en",
+    "translation": "iść do kina",
+    "translation_lang": "pl",
+    "definition": "to watch a film in a theatre",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We went to the cinema on Friday night.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f454e412-f12c-4912-9de3-f888c47e48ae",
+    "user_id": null,
+    "term": "stream a series",
+    "term_lang": "en",
+    "translation": "oglądać serial w streamingu",
+    "translation_lang": "pl",
+    "definition": "to watch shows online",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I streamed a new series over the weekend.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7813e96d-bc23-4f40-afd7-d03c76014470",
+    "user_id": null,
+    "term": "board game night",
+    "term_lang": "en",
+    "translation": "wieczór gier planszowych",
+    "translation_lang": "pl",
+    "definition": "an event to play board games",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We had a board game night with friends.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b992d470-fc53-4bb5-90f7-d2c796c1e6ae",
+    "user_id": null,
+    "term": "live concert",
+    "term_lang": "en",
+    "translation": "koncert na żywo",
+    "translation_lang": "pl",
+    "definition": "a music performance with an audience",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There's a live concert in the park.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b70e0e42-387c-4e42-bbff-659f04a2a268",
+    "user_id": null,
+    "term": "join a club",
+    "term_lang": "en",
+    "translation": "dołączyć do klubu",
+    "translation_lang": "pl",
+    "definition": "to become a member of a group",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She joined a photography club.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3ee59f39-2e77-46f8-a264-4d2f5fa67c65",
+    "user_id": null,
+    "term": "pick up a hobby",
+    "term_lang": "en",
+    "translation": "zacząć hobby",
+    "translation_lang": "pl",
+    "definition": "to start a new pastime",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I picked up a hobby during the holidays.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "34f73ae4-6b45-4df2-886b-66139d21564e",
+    "user_id": null,
+    "term": "hang out",
+    "term_lang": "en",
+    "translation": "spędzać czas (ze znajomymi)",
+    "translation_lang": "pl",
+    "definition": "to spend time relaxing with people",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We usually hang out at the café.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "829d33d6-4899-4b81-8b4a-77118ea199aa",
+    "user_id": null,
+    "term": "ticket sold out",
+    "term_lang": "en",
+    "translation": "bilety wyprzedane",
+    "translation_lang": "pl",
+    "definition": "no more tickets available",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The tickets were sold out in an hour.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b0822645-b025-4b01-80de-f2db019a2c22",
+    "user_id": null,
+    "term": "festival lineup",
+    "term_lang": "en",
+    "translation": "line-up festiwalu",
+    "translation_lang": "pl",
+    "definition": "the list of artists performing",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The festival lineup looks great this year.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "505f72bf-f074-40ce-a703-596cbe9f7f90",
+    "user_id": null,
+    "term": "subscribe",
+    "term_lang": "en",
+    "translation": "zasubskrybować",
+    "translation_lang": "pl",
+    "definition": "to pay regularly to use a service",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I subscribe to a music platform.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3043a342-c281-448f-92f8-298c64b5f141",
+    "user_id": null,
+    "term": "download content",
+    "term_lang": "en",
+    "translation": "pobrać treści",
+    "translation_lang": "pl",
+    "definition": "to save media from the internet",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You can download content for offline use.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "086c3ef6-349c-4d32-83c5-307fdc6fcbb6",
+    "user_id": null,
+    "term": "episode",
+    "term_lang": "en",
+    "translation": "odcinek",
+    "translation_lang": "pl",
+    "definition": "one part of a TV or podcast series",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I listened to three episodes today.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e7bdea03-dea7-409c-aa01-81e30902e23d",
+    "user_id": null,
+    "term": "spoiler",
+    "term_lang": "en",
+    "translation": "spoiler",
+    "translation_lang": "pl",
+    "definition": "information that reveals key plot points",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "No spoilers, please!",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dda30854-0aee-4159-addd-013afd4dc6e5",
+    "user_id": null,
+    "term": "season finale",
+    "term_lang": "en",
+    "translation": "finał sezonu",
+    "translation_lang": "pl",
+    "definition": "the last episode of a season",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The season finale was exciting.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fab3c7f2-6fcb-4391-b35c-088a269c5a14",
+    "user_id": null,
+    "term": "open-air event",
+    "term_lang": "en",
+    "translation": "wydarzenie plenerowe",
+    "translation_lang": "pl",
+    "definition": "an event held outside",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They planned an open-air event downtown.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "19_entertainment-free-time",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  }
+]

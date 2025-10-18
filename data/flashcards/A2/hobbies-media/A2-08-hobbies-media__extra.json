@@ -1,0 +1,869 @@
+{
+  "pack_id": "a2_08_hobbies_media_extra",
+  "title": "A2 08 Hobbies Media — Extra",
+  "level": "A2",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "6a065ead-b224-4099-8166-0453b0ad0be5",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "book a room",
+      "back": "zarezerwować pokój",
+      "hint": "To reserve accommodation.",
+      "examples": [
+        [
+          "We want to book a room for two.",
+          "Chcemy zarezerwować pokój dla dwóch osób."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'book a room'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zarezerwować pokój",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zarezerwować pokój'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ef3d779d-d2bc-4877-a434-85c96d19db55",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "single ticket",
+      "back": "bilet pojedynczy",
+      "hint": "One journey ticket.",
+      "examples": [
+        [
+          "One single ticket, please.",
+          "Poproszę bilet pojedynczy."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'single ticket'?",
+            "options": [
+              "bilet pojedynczy",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'bilet pojedynczy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c7ed969c-a254-4062-9f78-a90e229d0875",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "return ticket",
+      "back": "bilet powrotny",
+      "hint": "Ticket there and back.",
+      "examples": [
+        [
+          "A return ticket to Warsaw, please.",
+          "Poproszę bilet powrotny do Warszawy."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'return ticket'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "bilet powrotny",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'bilet powrotny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c87ed213-7198-4acf-97a0-5acb01438735",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "change money",
+      "back": "wymieniać pieniądze",
+      "hint": "Exchange currency.",
+      "examples": [
+        [
+          "Where can I change money?",
+          "Gdzie mogę wymienić pieniądze?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'change money'?",
+            "options": [
+              "tak",
+              "wymieniać pieniądze",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wymieniać pieniądze'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "31b218c4-8407-4b7d-b5a8-a7e162cf196a",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "order food",
+      "back": "zamawiać jedzenie",
+      "hint": "Ask for food in a restaurant.",
+      "examples": [
+        [
+          "Let's order food.",
+          "Zamówmy jedzenie."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'order food'?",
+            "options": [
+              "tak",
+              "zamawiać jedzenie",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zamawiać jedzenie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "0c330388-1f55-4ffa-b73f-06663283a284",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "receipt, please",
+      "back": "paragon, poproszę",
+      "hint": "Ask for a receipt.",
+      "examples": [
+        [
+          "Receipt, please.",
+          "Paragon, poproszę."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'receipt, please'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "paragon, poproszę",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'paragon, poproszę'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "49549620-bb74-4b91-bedd-07f4e6658a14",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "how much is it",
+      "back": "ile to kosztuje",
+      "hint": "Ask the price.",
+      "examples": [
+        [
+          "How much is it?",
+          "Ile to kosztuje?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'how much is it'?",
+            "options": [
+              "tak",
+              "ile to kosztuje",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ile to kosztuje'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3e34c909-5b18-432f-a62c-820d92656f7f",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "go straight",
+      "back": "iść prosto",
+      "hint": "Direction instruction.",
+      "examples": [
+        [
+          "Go straight and turn left.",
+          "Idź prosto i skręć w lewo."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'go straight'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "iść prosto",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'iść prosto'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "18da07df-1763-42cc-8443-be95a0015863",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "turn right",
+      "back": "skręcić w prawo",
+      "hint": "Direction instruction.",
+      "examples": [
+        [
+          "Turn right at the lights.",
+          "Skręć w prawo na światłach."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'turn right'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "skręcić w prawo"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'skręcić w prawo'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b23c60de-442a-4a88-890f-159e736bbe8f",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "across the street",
+      "back": "po drugiej stronie ulicy",
+      "hint": "Location phrase.",
+      "examples": [
+        [
+          "The bank is across the street.",
+          "Bank jest po drugiej stronie ulicy."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'across the street'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "po drugiej stronie ulicy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'po drugiej stronie ulicy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bae256c4-1bb6-42d8-b7a8-3a8898b60c72",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "on the left",
+      "back": "po lewej stronie",
+      "hint": "Location phrase.",
+      "examples": [
+        [
+          "The shop is on the left.",
+          "Sklep jest po lewej stronie."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'on the left'?",
+            "options": [
+              "tak",
+              "po lewej stronie",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'po lewej stronie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "647534c0-e18e-4fa6-8e8b-b5abc2e27727",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "by credit card",
+      "back": "kartą kredytową",
+      "hint": "Payment method.",
+      "examples": [
+        [
+          "Can I pay by credit card?",
+          "Czy mogę zapłacić kartą kredytową?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'by credit card'?",
+            "options": [
+              "tak",
+              "kartą kredytową",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'kartą kredytową'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "edebe061-9ff6-44c3-93fe-03ba7bb20b03",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "in cash",
+      "back": "gotówką",
+      "hint": "Payment method.",
+      "examples": [
+        [
+          "Do you accept cash?",
+          "Czy przyjmujecie gotówkę?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'in cash'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "gotówką",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'gotówką'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "9420ab96-cede-4f83-9239-d47bbc5623ea",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "size medium",
+      "back": "rozmiar M",
+      "hint": "Clothing size.",
+      "examples": [
+        [
+          "Do you have size medium?",
+          "Czy macie rozmiar M?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'size medium'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "rozmiar M",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'rozmiar M'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2d4b274d-0e02-4a26-9f62-810572e24f1a",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "fitting room",
+      "back": "przymierzalnia",
+      "hint": "Room to try clothes on.",
+      "examples": [
+        [
+          "Where is the fitting room?",
+          "Gdzie jest przymierzalnia?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fitting room'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "przymierzalnia",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przymierzalnia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7791dd15-88cf-48c2-b549-e5856834e356",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "I feel sick",
+      "back": "źle się czuję",
+      "hint": "Basic health problem.",
+      "examples": [
+        [
+          "I feel sick today.",
+          "Źle się dziś czuję."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'I feel sick'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "źle się czuję",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'źle się czuję'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8b9cc3ca-e8ea-452b-b49e-e8b0ae913493",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "call a doctor",
+      "back": "wezwać lekarza",
+      "hint": "Request medical help.",
+      "examples": [
+        [
+          "Please call a doctor.",
+          "Proszę wezwać lekarza."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'call a doctor'?",
+            "options": [
+              "tak",
+              "wezwać lekarza",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wezwać lekarza'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "318cc42b-fa51-4493-8624-8805b766a7b3",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "open from to",
+      "back": "otwarte od do",
+      "hint": "Opening hours.",
+      "examples": [
+        [
+          "We are open from 9 to 5.",
+          "Jesteśmy otwarci od 9 do 17."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'open from to'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "otwarte od do"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'otwarte od do'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "af09dd84-a269-4923-9999-f4e430cc0434",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "weekend plans",
+      "back": "plany na weekend",
+      "hint": "Talk about plans.",
+      "examples": [
+        [
+          "What are your weekend plans?",
+          "Jakie masz plany na weekend?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'weekend plans'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "plany na weekend"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'plany na weekend'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "f0169b31-00aa-4f91-a44e-f2af2f20bb9e",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 08 Hobbies Media",
+      "front": "could you help me",
+      "back": "czy mógłbyś mi pomóc",
+      "hint": "Polite request.",
+      "examples": [
+        [
+          "Could you help me, please?",
+          "Czy mógłbyś mi pomóc?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'could you help me'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "czy mógłbyś mi pomóc"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'czy mógłbyś mi pomóc'."
+          }
+        ]
+      }
+    }
+  ]
+}

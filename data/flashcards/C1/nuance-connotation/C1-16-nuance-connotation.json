@@ -1,0 +1,667 @@
+[
+  {
+    "word_id": "633462c4-0d83-4bc7-9a08-4ea6f71848a5",
+    "user_id": null,
+    "term": "meticulous vs pedantic",
+    "term_lang": "en",
+    "translation": "skrupulatny vs pedantyczny",
+    "translation_lang": "pl",
+    "definition": "positive diligence vs negative nitpicking",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Be meticulous without becoming pedantic.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-4",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4bf8af51-9fe7-4782-9674-dcbdfb1d12a2",
+    "user_id": null,
+    "term": "frugal vs stingy",
+    "term_lang": "en",
+    "translation": "oszczędny vs skąpy",
+    "translation_lang": "pl",
+    "definition": "positive thrift vs negative meanness",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The budget is frugal rather than stingy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-4",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d4ab173c-74db-4d07-8eea-e9c08e614a83",
+    "user_id": null,
+    "term": "assertive vs aggressive",
+    "term_lang": "en",
+    "translation": "stanowczy vs agresywny",
+    "translation_lang": "pl",
+    "definition": "confident vs hostile",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Stay assertive, not aggressive, in negotiation.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-4",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9da62d88-a737-45ac-aa12-6c35fdddb894",
+    "user_id": null,
+    "term": "pragmatic vs opportunistic",
+    "term_lang": "en",
+    "translation": "pragmatyczny vs oportunistyczny",
+    "translation_lang": "pl",
+    "definition": "practical vs self-serving",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Her approach is pragmatic, not opportunistic.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-4",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c6fd7ed2-c29c-4e75-8847-183e673cee68",
+    "user_id": null,
+    "term": "resilient vs stubborn",
+    "term_lang": "en",
+    "translation": "odporny vs uparty",
+    "translation_lang": "pl",
+    "definition": "adaptive strength vs rigidity",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Be resilient rather than stubborn.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-4",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e8fa132c-c5a2-47db-96af-a9bb99da9971",
+    "user_id": null,
+    "term": "skeptical vs cynical",
+    "term_lang": "en",
+    "translation": "sceptyczny vs cyniczny",
+    "translation_lang": "pl",
+    "definition": "healthy doubt vs mistrust of motives",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Remain skeptical but avoid sounding cynical.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "nuance-connotation",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "420da9cb-11bf-489e-8a00-16dc1ce3fec9",
+    "user_id": null,
+    "term": "innovative vs gimmicky",
+    "term_lang": "en",
+    "translation": "innowacyjny vs efekciarski",
+    "translation_lang": "pl",
+    "definition": "genuine novelty vs showy triviality",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The feature is innovative, not gimmicky.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "nuance-connotation",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b78f4047-0957-4871-b7f8-4d6c1ccf4fdc",
+    "user_id": null,
+    "term": "thrifty vs cheap",
+    "term_lang": "en",
+    "translation": "gospodarny vs skąpy",
+    "translation_lang": "pl",
+    "definition": "positive economy vs negative meanness",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Thrifty planning needn't be cheap.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "nuance-connotation",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "de5edb5a-44f4-46e3-8560-d3da8326751e",
+    "user_id": null,
+    "term": "scrutinise vs nitpick",
+    "term_lang": "en",
+    "translation": "badać wnikliwie vs czepiać się drobiazgów",
+    "translation_lang": "pl",
+    "definition": "serious review vs trivial criticism",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Scrutinise the logic—don't nitpick punctuation.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "nuance-connotation",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a22384b3-dbc5-49f8-82d3-647656c23a13",
+    "user_id": null,
+    "term": "ambitious vs unrealistic",
+    "term_lang": "en",
+    "translation": "ambitny vs nierealistyczny",
+    "translation_lang": "pl",
+    "definition": "stretching vs impossible",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Set ambitious but not unrealistic goals.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "nuance-connotation",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "069d8186-b2b7-4995-83c3-d0d7ed1fccb2",
+    "user_id": null,
+    "term": "measured vs lukewarm",
+    "term_lang": "en",
+    "translation": "wyważony vs letni",
+    "translation_lang": "pl",
+    "definition": "carefully balanced vs unenthusiastic",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Offer a measured endorsement, not a lukewarm one.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "nuance-connotation",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c62e6540-bbff-4078-b98c-fd8a5f78acff",
+    "user_id": null,
+    "term": "intricate vs convoluted",
+    "term_lang": "en",
+    "translation": "misterny vs zawiły",
+    "translation_lang": "pl",
+    "definition": "complex and elegant vs needlessly complex",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Keep the plot intricate, not convoluted.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "nuance-connotation",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "465c7e48-81b5-4106-8fe8-3b1308769d46",
+    "user_id": null,
+    "term": "transparent vs simplistic",
+    "term_lang": "en",
+    "translation": "przejrzysty vs uproszczony",
+    "translation_lang": "pl",
+    "definition": "clear vs oversimplified",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Aim for transparent models, avoid simplistic ones.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "nuance-connotation",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "62f51b21-0be6-441e-a0c4-f0fb3c3f71f0",
+    "user_id": null,
+    "term": "forthright vs blunt",
+    "term_lang": "en",
+    "translation": "otwarty vs obcesowy",
+    "translation_lang": "pl",
+    "definition": "honest vs rude",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Be forthright without sounding blunt.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "nuance-connotation",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "05759532-8b3c-405d-a895-7d331824924b",
+    "user_id": null,
+    "term": "discreet vs secretive",
+    "term_lang": "en",
+    "translation": "dyskretny vs skryty",
+    "translation_lang": "pl",
+    "definition": "respecting privacy vs hiding things",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We need a discreet, not secretive, approach.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "nuance-connotation",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  }
+]

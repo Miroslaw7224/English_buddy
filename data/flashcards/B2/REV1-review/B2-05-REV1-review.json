@@ -1,0 +1,677 @@
+[
+  {
+    "word_id": "7026d961-4d19-4da8-8e8b-2d88a36891c0",
+    "user_id": null,
+    "term": "however",
+    "term_lang": "en",
+    "translation": "jednakże",
+    "translation_lang": "pl",
+    "definition": "introduces contrast with previous idea",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I see your point; however, I remain unconvinced.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2fb28f20-101f-4d02-8bdc-bfffb11a592f",
+    "user_id": null,
+    "term": "on the other hand",
+    "term_lang": "en",
+    "translation": "z drugiej strony",
+    "translation_lang": "pl",
+    "definition": "presents an opposing perspective",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Remote work is flexible; on the other hand, it can be isolating.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f26f11f2-da57-4a45-bfee-63947a60cde4",
+    "user_id": null,
+    "term": "furthermore",
+    "term_lang": "en",
+    "translation": "ponadto",
+    "translation_lang": "pl",
+    "definition": "adds a strong additional point",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The tool is fast; furthermore, it's reliable.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "326e4ed8-8ebf-496b-99ed-eb4d0775fef1",
+    "user_id": null,
+    "term": "carry out",
+    "term_lang": "en",
+    "translation": "przeprowadzić (np. badania)",
+    "translation_lang": "pl",
+    "definition": "to do or complete a task",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They carried out user testing.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "61a1d605-3543-4e28-8774-27a9406d03e5",
+    "user_id": null,
+    "term": "come across",
+    "term_lang": "en",
+    "translation": "natknąć się na",
+    "translation_lang": "pl",
+    "definition": "to find by chance",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I came across an old photo.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "150d1d32-4a1c-4365-88e7-eaa9d0d9952d",
+    "user_id": null,
+    "term": "put up with",
+    "term_lang": "en",
+    "translation": "znosić, tolerować",
+    "translation_lang": "pl",
+    "definition": "to accept something unpleasant",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I won't put up with rude emails.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "eb65e7b6-1f24-45c2-abab-57db07e4b4b3",
+    "user_id": null,
+    "term": "figure out",
+    "term_lang": "en",
+    "translation": "rozgryźć, zrozumieć",
+    "translation_lang": "pl",
+    "definition": "to understand or solve",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We need to figure out why it crashed.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bac7038a-29a7-446a-9f75-0a2243f0942c",
+    "user_id": null,
+    "term": "turn down",
+    "term_lang": "en",
+    "translation": "odrzucić (ofertę)",
+    "translation_lang": "pl",
+    "definition": "to refuse or reject",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She turned down the proposal.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9dbc2c22-2e17-4f82-b970-44b1f707e88c",
+    "user_id": null,
+    "term": "must have done",
+    "term_lang": "en",
+    "translation": "musiał zrobić (na pewno)",
+    "translation_lang": "pl",
+    "definition": "high certainty about a past action",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Judging by the mess, they must have left in a hurry.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3adc600f-a6d0-4576-9fea-4238a9a4426f",
+    "user_id": null,
+    "term": "can't have done",
+    "term_lang": "en",
+    "translation": "nie mógł zrobić",
+    "translation_lang": "pl",
+    "definition": "near certainty something didn't happen",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He was at work—he can't have called you.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cce37983-1b7f-4ecf-9381-b7e312df1622",
+    "user_id": null,
+    "term": "might have done",
+    "term_lang": "en",
+    "translation": "mógł zrobić (być może)",
+    "translation_lang": "pl",
+    "definition": "possibility about a past action",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She might have missed the deadline.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a31ebddf-0a67-4327-97af-beca23b33ef4",
+    "user_id": null,
+    "term": "may have done",
+    "term_lang": "en",
+    "translation": "mógł zrobić (możliwe)",
+    "translation_lang": "pl",
+    "definition": "possibility (similar to might)",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We may have sent it twice.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fa8c91ef-9b92-428b-9ed4-8c51e3af7cb1",
+    "user_id": null,
+    "term": "should have done",
+    "term_lang": "en",
+    "translation": "powinien był zrobić",
+    "translation_lang": "pl",
+    "definition": "expectation about a past action",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They should have notified us earlier.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9fb523aa-b23b-4118-9e03-420b05ad4727",
+    "user_id": null,
+    "term": "is done",
+    "term_lang": "en",
+    "translation": "jest robione",
+    "translation_lang": "pl",
+    "definition": "present simple passive",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The report is done monthly.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "230602d5-b9ab-4557-a576-6ff13bdcb89f",
+    "user_id": null,
+    "term": "has been done",
+    "term_lang": "en",
+    "translation": "zostało zrobione (do teraz)",
+    "translation_lang": "pl",
+    "definition": "present perfect passive",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Most tasks have been done already.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "rev-b2-1",
+    "deck_id": null,
+    "tags": [
+      "B2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  }
+]

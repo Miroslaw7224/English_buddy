@@ -16,6 +16,7 @@ const ensureUserProfile = async (userId: string) => {
       .maybeSingle();
     
     if (fetchError) {
+      console.error('Error fetching user profile:', fetchError);
       return null;
     }
     
@@ -53,6 +54,14 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
     // Set up auth state change listener
     const { data: { subscription } } = supabase.auth.onAuthStateChange(async (event, session) => {
+      // SYNC: Przekaż sesję do serwera aby zapisał cookies
+      await fetch('/api/auth/callback', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify({ event, session }),
+      }).catch(err => console.error('Failed to sync session to server:', err));
+
       if (session?.user) {
         try {
           // Ensure profile exists (create if not)

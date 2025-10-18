@@ -1,0 +1,869 @@
+{
+  "pack_id": "a1_02_time_days_extra",
+  "title": "A1 02 Time Days — Extra",
+  "level": "A1",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "5dd1f7f6-720e-4957-ac0d-f0f8e54ec550",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "wake up",
+      "back": "budzić się",
+      "hint": "To stop sleeping.",
+      "examples": [
+        [
+          "I wake up at 7.",
+          "Budzę się o siódmej."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'wake up'?",
+            "options": [
+              "budzić się",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'budzić się'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fc005332-a587-49f9-9cd4-0227b1c44b50",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "get up",
+      "back": "wstawać",
+      "hint": "To get out of bed.",
+      "examples": [
+        [
+          "I get up at 7:15.",
+          "Wstaję o 7:15."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'get up'?",
+            "options": [
+              "wstawać",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wstawać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6fa5710d-28b2-4362-afac-7c9068c3f7c8",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "have breakfast",
+      "back": "jeść śniadanie",
+      "hint": "Morning meal.",
+      "examples": [
+        [
+          "I have breakfast at 8.",
+          "Jem śniadanie o ósmej."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'have breakfast'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "jeść śniadanie",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jeść śniadanie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "caed8731-6fd5-4806-99b7-80dc39455df7",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "go to work",
+      "back": "iść do pracy",
+      "hint": "Daily routine.",
+      "examples": [
+        [
+          "I go to work by bus.",
+          "Jeżdżę do pracy autobusem."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'go to work'?",
+            "options": [
+              "tak",
+              "iść do pracy",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'iść do pracy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ec7efc8a-481d-4478-9c31-f338464d92bd",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "go to school",
+      "back": "iść do szkoły",
+      "hint": "Daily routine.",
+      "examples": [
+        [
+          "Children go to school.",
+          "Dzieci chodzą do szkoły."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'go to school'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "iść do szkoły"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'iść do szkoły'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "19704996-71c7-49ce-8bdb-ea2b037b0315",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "have lunch",
+      "back": "jeść lunch",
+      "hint": "Midday meal.",
+      "examples": [
+        [
+          "We have lunch at noon.",
+          "Jemy lunch w południe."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'have lunch'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "jeść lunch"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jeść lunch'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "29d3c32e-e11a-4c8c-acbf-020845463273",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "have dinner",
+      "back": "jeść obiad/kolację",
+      "hint": "Evening meal.",
+      "examples": [
+        [
+          "We have dinner at 6.",
+          "Jemy obiad o 6."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'have dinner'?",
+            "options": [
+              "jeść obiad/kolację",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jeść obiad/kolację'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4ed56ac2-50af-4dcf-ac91-862604ca610d",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "do homework",
+      "back": "odrabiać pracę domową",
+      "hint": "School work at home.",
+      "examples": [
+        [
+          "I do homework in the evening.",
+          "Odrabiam pracę domową wieczorem."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'do homework'?",
+            "options": [
+              "odrabiać pracę domową",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'odrabiać pracę domową'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "48fa618d-af09-4067-9e9d-8fe6961acc31",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "go shopping",
+      "back": "iść na zakupy",
+      "hint": "Buy things.",
+      "examples": [
+        [
+          "I go shopping on Saturday.",
+          "Chodzę na zakupy w sobotę."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'go shopping'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "iść na zakupy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'iść na zakupy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "77ac7d91-4410-4765-b2cd-219c9d47a689",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "go to bed",
+      "back": "iść spać",
+      "hint": "To lie down to sleep.",
+      "examples": [
+        [
+          "I go to bed at 11.",
+          "Kładę się spać o 11."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'go to bed'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "iść spać"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'iść spać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bad16bbc-f7d8-424c-a531-4493c8d0082b",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "how are you",
+      "back": "jak się masz",
+      "hint": "Casual question about wellbeing.",
+      "examples": [
+        [
+          "How are you today?",
+          "Jak się masz dziś?"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'how are you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "jak się masz",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jak się masz'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3192cfb3-be38-4345-86e6-d726086faea2",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "nice to see you",
+      "back": "miło cię widzieć",
+      "hint": "Friendly greeting when meeting again.",
+      "examples": [
+        [
+          "Nice to see you again!",
+          "Miło cię znów widzieć!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'nice to see you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "miło cię widzieć"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię widzieć'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "25859a9e-0ebe-4830-bd6f-d0b6942a12b5",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "good night",
+      "back": "dobranoc",
+      "hint": "Said at night when parting or before sleep.",
+      "examples": [
+        [
+          "Good night! See you tomorrow.",
+          "Dobranoc! Do zobaczenia jutro."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good night'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "dobranoc",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dobranoc'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fdec1af3-883d-4341-810c-3bceb4d66306",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "see you soon",
+      "back": "do zobaczenia wkrótce",
+      "hint": "You expect to meet again soon.",
+      "examples": [
+        [
+          "See you soon!",
+          "Do zobaczenia wkrótce!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'see you soon'?",
+            "options": [
+              "do zobaczenia wkrótce",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'do zobaczenia wkrótce'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "85d8401d-7ceb-4f1c-b43f-2e65cfd1b3eb",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "see you tomorrow",
+      "back": "do zobaczenia jutro",
+      "hint": "Farewell when meeting next day.",
+      "examples": [
+        [
+          "See you tomorrow!",
+          "Do zobaczenia jutro!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'see you tomorrow'?",
+            "options": [
+              "do zobaczenia jutro",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'do zobaczenia jutro'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b0389fa4-af59-4d88-b689-ff65d00a4068",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "good to meet you",
+      "back": "miło cię poznać",
+      "hint": "Alternative to 'nice to meet you'.",
+      "examples": [
+        [
+          "Good to meet you, Anna.",
+          "Miło cię poznać, Anno."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good to meet you'?",
+            "options": [
+              "miło cię poznać",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię poznać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "9f329b77-cdd7-4732-aecc-6be8b45f4644",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "how do you do",
+      "back": "jak się masz (formalnie)",
+      "hint": "Very formal, in introductions (less common).",
+      "examples": [
+        [
+          "How do you do, Mr Brown?",
+          "Jak się masz, panie Brown?"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'how do you do'?",
+            "options": [
+              "tak",
+              "jak się masz (formalnie)",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jak się masz (formalnie)'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e16f4ffd-f342-4112-b62c-20ed60696d7e",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "long time no see",
+      "back": "dawno się nie widzieliśmy",
+      "hint": "Informal greeting after a long time.",
+      "examples": [
+        [
+          "Long time no see!",
+          "Dawno się nie widzieliśmy!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'long time no see'?",
+            "options": [
+              "dawno się nie widzieliśmy",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dawno się nie widzieliśmy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7e70fe48-0804-41d6-b8f8-3ad16aee3a3c",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "take care",
+      "back": "trzymaj się",
+      "hint": "Friendly farewell.",
+      "examples": [
+        [
+          "Bye! Take care.",
+          "Pa! Trzymaj się."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'take care'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "trzymaj się",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'trzymaj się'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e888d7ed-2222-43da-a2a9-f85aee0f9e75",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 02 Time Days",
+      "front": "best regards",
+      "back": "z pozdrowieniami",
+      "hint": "Polite sign-off in emails.",
+      "examples": [
+        [
+          "Best regards,",
+          "Z pozdrowieniami,"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "daily"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'best regards'?",
+            "options": [
+              "tak",
+              "z pozdrowieniami",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'z pozdrowieniami'."
+          }
+        ]
+      }
+    }
+  ]
+}

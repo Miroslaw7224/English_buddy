@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "fcad1fa6-1ef8-408d-a631-585e0ea00f55",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "lost luggage",
+    "term_lang": "en",
+    "translation": "zagubiony bagaż",
+    "translation_lang": "pl",
+    "definition": "Bags that didn’t arrive.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My luggage was lost on the way to Paris.",
+        "translation": "Mój bagaż zaginął w drodze do Paryża."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:00:00Z",
+      "last_review_at": "2025-10-06T12:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:00:00Z",
+    "updated_at": "2025-10-06T12:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "de42a979-3c6b-4bb5-8961-91f1d04baf6e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "delay / cancelled",
+    "term_lang": "en",
+    "translation": "opóźnienie / odwołany",
+    "translation_lang": "pl",
+    "definition": "Late / not happening as planned.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Our flight was delayed and the next one was cancelled.",
+        "translation": "Nasz lot był opóźniony, a kolejny odwołany."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:01:00Z",
+      "last_review_at": "2025-10-06T12:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:01:00Z",
+    "updated_at": "2025-10-06T12:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f27e1332-558e-42b4-b6a9-99901a63f982",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "file a claim",
+    "term_lang": "en",
+    "translation": "złożyć reklamację/roszczenie",
+    "translation_lang": "pl",
+    "definition": "To submit a formal request for help/money.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We filed a claim at the desk.",
+        "translation": "Złożyliśmy reklamację przy stanowisku."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:02:00Z",
+      "last_review_at": "2025-10-06T12:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:02:00Z",
+    "updated_at": "2025-10-06T12:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2b2703dd-77a7-4884-b437-b85e20521194",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "emergency services",
+    "term_lang": "en",
+    "translation": "służby ratunkowe",
+    "translation_lang": "pl",
+    "definition": "Police, ambulance, fire brigade.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Call emergency services if someone is hurt.",
+        "translation": "Zadzwoń po służby ratunkowe, jeśli ktoś jest ranny."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:03:00Z",
+      "last_review_at": "2025-10-06T12:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:03:00Z",
+    "updated_at": "2025-10-06T12:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e25d5002-63e2-4e47-b357-f58c33fc134e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "report a theft",
+    "term_lang": "en",
+    "translation": "zgłosić kradzież",
+    "translation_lang": "pl",
+    "definition": "Tell the police about stolen things.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I need to report a theft.",
+        "translation": "Muszę zgłosić kradzież."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:04:00Z",
+      "last_review_at": "2025-10-06T12:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:04:00Z",
+    "updated_at": "2025-10-06T12:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2fd7c79a-df90-4ae9-8998-9187512dcb83",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "insurance policy",
+    "term_lang": "en",
+    "translation": "polisa ubezpieczeniowa",
+    "translation_lang": "pl",
+    "definition": "A contract that covers costs of problems.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Check what your insurance policy covers.",
+        "translation": "Sprawdź, co obejmuje twoja polisa."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:05:00Z",
+      "last_review_at": "2025-10-06T12:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:05:00Z",
+    "updated_at": "2025-10-06T12:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "55d6d83e-a1d6-4205-8281-020772a0b3ef",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "stay calm",
+    "term_lang": "en",
+    "translation": "zachować spokój",
+    "translation_lang": "pl",
+    "definition": "Not panic; control emotions.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Try to stay calm and breathe slowly.",
+        "translation": "Spróbuj zachować spokój i oddychać powoli."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:06:00Z",
+      "last_review_at": "2025-10-06T12:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:06:00Z",
+    "updated_at": "2025-10-06T12:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4bed7301-6603-491f-8059-eb2071b63a81",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "ask for a refund",
+    "term_lang": "en",
+    "translation": "poprosić o zwrot pieniędzy",
+    "translation_lang": "pl",
+    "definition": "Request your money back.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We asked for a refund after the delay.",
+        "translation": "Poprosiliśmy o zwrot po opóźnieniu."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:07:00Z",
+      "last_review_at": "2025-10-06T12:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:07:00Z",
+    "updated_at": "2025-10-06T12:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ce83f5d5-b8e9-4bd2-a3c9-0830c83326a8",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "compensation",
+    "term_lang": "en",
+    "translation": "odszkodowanie",
+    "translation_lang": "pl",
+    "definition": "Money given for loss or damage.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They offered compensation for the inconvenience.",
+        "translation": "Zaproponowali odszkodowanie za niedogodności."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:08:00Z",
+      "last_review_at": "2025-10-06T12:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:08:00Z",
+    "updated_at": "2025-10-06T12:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d7274166-46cb-4fe6-aefe-85befb74910f",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "incident report",
+    "term_lang": "en",
+    "translation": "raport ze zdarzenia",
+    "translation_lang": "pl",
+    "definition": "A written description of what happened.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please fill in the incident report.",
+        "translation": "Proszę wypełnić raport ze zdarzenia."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:09:00Z",
+      "last_review_at": "2025-10-06T12:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:09:00Z",
+    "updated_at": "2025-10-06T12:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0b858a20-dfdb-45a5-b1fc-fe8738fc1854",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "witness",
+    "term_lang": "en",
+    "translation": "świadek",
+    "translation_lang": "pl",
+    "definition": "A person who saw what happened.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A witness described the accident.",
+        "translation": "Świadek opisał wypadek."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:10:00Z",
+      "last_review_at": "2025-10-06T12:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:10:00Z",
+    "updated_at": "2025-10-06T12:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "08b296cf-2816-4a43-b1c7-6a259cdbefdd",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "complaint form",
+    "term_lang": "en",
+    "translation": "formularz skargi",
+    "translation_lang": "pl",
+    "definition": "A document to write your complaint.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Complete the complaint form online.",
+        "translation": "Wypełnij formularz skargi online."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:11:00Z",
+      "last_review_at": "2025-10-06T12:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:11:00Z",
+    "updated_at": "2025-10-06T12:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1eaece9e-ab5b-47b7-9e0c-fb3d7fa4cadc",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "customer service",
+    "term_lang": "en",
+    "translation": "obsługa klienta",
+    "translation_lang": "pl",
+    "definition": "The department that helps customers.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Customer service handled my case well.",
+        "translation": "Obsługa klienta dobrze zajęła się moją sprawą."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:12:00Z",
+      "last_review_at": "2025-10-06T12:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:12:00Z",
+    "updated_at": "2025-10-06T12:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ea3d1009-77ff-4cf2-8979-2cbf1d30caee",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "travel insurance",
+    "term_lang": "en",
+    "translation": "ubezpieczenie podróżne",
+    "translation_lang": "pl",
+    "definition": "Insurance for trips and holidays.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Travel insurance is useful for emergencies.",
+        "translation": "Ubezpieczenie podróżne jest przydatne w nagłych wypadkach."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:13:00Z",
+      "last_review_at": "2025-10-06T12:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:13:00Z",
+    "updated_at": "2025-10-06T12:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9f641c54-e473-42cc-888c-03660612cc4b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "miss / catch (a flight/train)",
+    "term_lang": "en",
+    "translation": "spóźnić się na / zdążyć na (lot/pociąg)",
+    "translation_lang": "pl",
+    "definition": "Fail/succeed in being on time.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We missed the train but caught the next one.",
+        "translation": "Spóźniliśmy się na pociąg, ale zdążyliśmy na następny."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-04-travel-incidents",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:14:00Z",
+      "last_review_at": "2025-10-06T12:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:14:00Z",
+    "updated_at": "2025-10-06T12:14:00Z",
+    "deleted_at": null
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "83a82b31-ac03-4ddf-b789-c591f502d6ab",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "experience",
+    "term_lang": "en",
+    "translation": "doświadczenie",
+    "translation_lang": "pl",
+    "definition": "Things you have done or felt.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have some work experience.",
+        "translation": "Mam pewne doświadczenie zawodowe."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:30:00Z",
+      "last_review_at": "2025-10-06T11:30:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:30:00Z",
+    "updated_at": "2025-10-06T11:30:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f8047171-5945-4a42-a8cc-a2459c00f2e6",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "sightseeing",
+    "term_lang": "en",
+    "translation": "zwiedzanie",
+    "translation_lang": "pl",
+    "definition": "Visiting interesting places.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We went sightseeing in Rome.",
+        "translation": "Zwiedzaliśmy w Rzymie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:31:00Z",
+      "last_review_at": "2025-10-06T11:31:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:31:00Z",
+    "updated_at": "2025-10-06T11:31:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "28e70a14-f51f-4f0a-a95a-43eccae5b942",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "museum",
+    "term_lang": "en",
+    "translation": "muzeum",
+    "translation_lang": "pl",
+    "definition": "A place with art or history.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have visited this museum twice.",
+        "translation": "Odwiedziłem to muzeum dwa razy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:32:00Z",
+      "last_review_at": "2025-10-06T11:32:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:32:00Z",
+    "updated_at": "2025-10-06T11:32:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a862714e-418e-4ff8-b626-dd83ea00e094",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "festival",
+    "term_lang": "en",
+    "translation": "festiwal",
+    "translation_lang": "pl",
+    "definition": "A special event with music/food/culture.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She has been to a music festival.",
+        "translation": "Była na festiwalu muzycznym."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:33:00Z",
+      "last_review_at": "2025-10-06T11:33:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:33:00Z",
+    "updated_at": "2025-10-06T11:33:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0d9e9684-b770-4d6f-8351-5e139140d75c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "local",
+    "term_lang": "en",
+    "translation": "lokalny",
+    "translation_lang": "pl",
+    "definition": "From a nearby area.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We tried local food.",
+        "translation": "Spróbowaliśmy lokalnego jedzenia."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:34:00Z",
+      "last_review_at": "2025-10-06T11:34:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:34:00Z",
+    "updated_at": "2025-10-06T11:34:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "42c59ca1-ff96-41b5-a68a-12831f6a1bff",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "traditional",
+    "term_lang": "en",
+    "translation": "tradycyjny",
+    "translation_lang": "pl",
+    "definition": "Done in an old, usual way.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They wore traditional clothes.",
+        "translation": "Oni nosili tradycyjne stroje."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:35:00Z",
+      "last_review_at": "2025-10-06T11:35:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:35:00Z",
+    "updated_at": "2025-10-06T11:35:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8332aea7-eb94-47a0-afc4-2fce0b2bfc00",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "foreign",
+    "term_lang": "en",
+    "translation": "zagraniczny/obcy",
+    "translation_lang": "pl",
+    "definition": "From another country.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He has learned a foreign language.",
+        "translation": "Nauczył się języka obcego."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:36:00Z",
+      "last_review_at": "2025-10-06T11:36:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:36:00Z",
+    "updated_at": "2025-10-06T11:36:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8a38bbab-129c-4e85-be27-d5f5110e5d75",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "culture",
+    "term_lang": "en",
+    "translation": "kultura",
+    "translation_lang": "pl",
+    "definition": "Ideas and ways of life of a group.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I am interested in Japanese culture.",
+        "translation": "Interesuję się kulturą japońską."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:37:00Z",
+      "last_review_at": "2025-10-06T11:37:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:37:00Z",
+    "updated_at": "2025-10-06T11:37:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ac4a3789-f45c-42c9-be2c-66d09c5c2319",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "language",
+    "term_lang": "en",
+    "translation": "język",
+    "translation_lang": "pl",
+    "definition": "A system of words used to communicate.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She has studied the English language for years.",
+        "translation": "Ona uczy się angielskiego od lat."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:38:00Z",
+      "last_review_at": "2025-10-06T11:38:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:38:00Z",
+    "updated_at": "2025-10-06T11:38:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8a5ec7a9-58fa-4c5d-9d83-9462fc73307e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "taste",
+    "term_lang": "en",
+    "translation": "smakować/smak",
+    "translation_lang": "pl",
+    "definition": "To try food to know its flavour.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Have you ever tasted kimchi?",
+        "translation": "Czy kiedykolwiek próbowałeś kimchi?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:39:00Z",
+      "last_review_at": "2025-10-06T11:39:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:39:00Z",
+    "updated_at": "2025-10-06T11:39:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0d2fd399-d523-4c40-a35a-331d7747967e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "try",
+    "term_lang": "en",
+    "translation": "próbować",
+    "translation_lang": "pl",
+    "definition": "To do something to see if you like it.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have tried surfing once.",
+        "translation": "Raz próbowałem surfingu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:40:00Z",
+      "last_review_at": "2025-10-06T11:40:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:40:00Z",
+    "updated_at": "2025-10-06T11:40:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b2857dc1-caf9-4a2e-98fe-d41646d7d47d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "visit",
+    "term_lang": "en",
+    "translation": "odwiedzić",
+    "translation_lang": "pl",
+    "definition": "To go and spend time in a place.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We have visited many cities.",
+        "translation": "Odwiedziliśmy wiele miast."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:41:00Z",
+      "last_review_at": "2025-10-06T11:41:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:41:00Z",
+    "updated_at": "2025-10-06T11:41:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b6cf49b1-50b0-4f09-89fc-3611bf1c0f4c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "photo",
+    "term_lang": "en",
+    "translation": "zdjęcie",
+    "translation_lang": "pl",
+    "definition": "A picture taken with a camera/phone.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have taken many photos today.",
+        "translation": "Zrobiłem dziś wiele zdjęć."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:42:00Z",
+      "last_review_at": "2025-10-06T11:42:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:42:00Z",
+    "updated_at": "2025-10-06T11:42:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "015f5ad6-d23b-4c95-ba24-32307a4c383a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "guide",
+    "term_lang": "en",
+    "translation": "przewodnik",
+    "translation_lang": "pl",
+    "definition": "A person/book that shows/explains places.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We hired a guide at the museum.",
+        "translation": "Wynajęliśmy przewodnika w muzeum."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:43:00Z",
+      "last_review_at": "2025-10-06T11:43:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:43:00Z",
+    "updated_at": "2025-10-06T11:43:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "942583b6-1388-42e3-8464-f5117d2df0e9",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "map",
+    "term_lang": "en",
+    "translation": "mapa",
+    "translation_lang": "pl",
+    "definition": "A drawing of an area’s roads and places.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have never used a paper map.",
+        "translation": "Nigdy nie używałem papierowej mapy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-18-experiences",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:44:00Z",
+      "last_review_at": "2025-10-06T11:44:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:44:00Z",
+    "updated_at": "2025-10-06T11:44:00Z",
+    "deleted_at": null
+  }
+]

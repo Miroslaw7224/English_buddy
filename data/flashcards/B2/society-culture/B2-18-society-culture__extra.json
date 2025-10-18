@@ -1,0 +1,869 @@
+{
+  "pack_id": "b2_18_society_culture_extra",
+  "title": "B2 18 Society Culture — Extra",
+  "level": "B2",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "09a01907-f7e5-4551-a249-d9506ae807ee",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "take responsibility",
+      "back": "wziąć odpowiedzialność",
+      "hint": "Accept duty for something.",
+      "examples": [
+        [
+          "He took responsibility for the error.",
+          "Wziął odpowiedzialność za błąd."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'take responsibility'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wziąć odpowiedzialność",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wziąć odpowiedzialność'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "aac1c953-e406-48c2-9da3-f5d44c710616",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "reach a conclusion",
+      "back": "dojść do wniosku",
+      "hint": "Decide after analysis.",
+      "examples": [
+        [
+          "We reached a conclusion.",
+          "Doszliśmy do wniosku."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'reach a conclusion'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "dojść do wniosku"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dojść do wniosku'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "31bbe47d-9c90-4919-8fd7-85246d179654",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "assess the risk",
+      "back": "ocenić ryzyko",
+      "hint": "Evaluate possible danger.",
+      "examples": [
+        [
+          "We must assess the risk.",
+          "Musimy ocenić ryzyko."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'assess the risk'?",
+            "options": [
+              "ocenić ryzyko",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ocenić ryzyko'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6134801d-5501-410f-8135-4357eca275d2",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "negotiate terms",
+      "back": "negocjować warunki",
+      "hint": "Discuss and agree on terms.",
+      "examples": [
+        [
+          "They negotiated terms with the client.",
+          "Negocjowali warunki z klientem."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'negotiate terms'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "negocjować warunki"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'negocjować warunki'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "d625978a-6eba-472d-99ef-d3571ce7a16d",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "implement a solution",
+      "back": "wdrożyć rozwiązanie",
+      "hint": "Put into effect.",
+      "examples": [
+        [
+          "We implemented a solution.",
+          "Wdrożyliśmy rozwiązanie."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'implement a solution'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wdrożyć rozwiązanie",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wdrożyć rozwiązanie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cdec333c-9ac7-42c9-adb3-5b157e71f7dc",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "conduct research",
+      "back": "prowadzić badania",
+      "hint": "Carry out study.",
+      "examples": [
+        [
+          "They conduct research on AI.",
+          "Prowadzą badania nad AI."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'conduct research'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "prowadzić badania",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'prowadzić badania'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e055441c-3f3a-46ca-be6f-88f0d8bfa0df",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "overcome obstacles",
+      "back": "pokonać przeszkody",
+      "hint": "Deal with difficulties.",
+      "examples": [
+        [
+          "She overcame obstacles.",
+          "Pokonała przeszkody."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'overcome obstacles'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "pokonać przeszkody",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'pokonać przeszkody'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "18155a85-58ed-4861-baf9-944a7819705a",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "address a challenge",
+      "back": "zmierzyć się z wyzwaniem",
+      "hint": "Tackle a problem.",
+      "examples": [
+        [
+          "We addressed this challenge.",
+          "Zmierzyliśmy się z tym wyzwaniem."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'address a challenge'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "zmierzyć się z wyzwaniem"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zmierzyć się z wyzwaniem'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ab8e14bc-8c60-4f89-96f5-e8961c72962e",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "broaden horizons",
+      "back": "poszerzyć horyzonty",
+      "hint": "Gain wider experience.",
+      "examples": [
+        [
+          "Travel broadens horizons.",
+          "Podróże poszerzają horyzonty."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'broaden horizons'?",
+            "options": [
+              "tak",
+              "poszerzyć horyzonty",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'poszerzyć horyzonty'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "17169d28-3137-4343-b444-9fb53122a168",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "raise awareness",
+      "back": "zwiększyć świadomość",
+      "hint": "Inform more people.",
+      "examples": [
+        [
+          "Campaigns raise awareness.",
+          "Kampanie zwiększają świadomość."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'raise awareness'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zwiększyć świadomość",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zwiększyć świadomość'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "51609363-d365-48f5-9e30-f7f7d32a7fd9",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "take for granted",
+      "back": "brać za pewnik",
+      "hint": "Assume without question.",
+      "examples": [
+        [
+          "Don't take it for granted.",
+          "Nie bierz tego za pewnik."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'take for granted'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "brać za pewnik"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'brać za pewnik'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "0bc69036-ebf2-4c0b-be81-53d6f2d0575a",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "cope with stress",
+      "back": "radzić sobie ze stresem",
+      "hint": "Manage stress.",
+      "examples": [
+        [
+          "He copes with stress well.",
+          "Dobrze radzi sobie ze stresem."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'cope with stress'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "radzić sobie ze stresem",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'radzić sobie ze stresem'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2a4b69ca-cb4e-42ef-b0a0-302589146529",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "come up with",
+      "back": "wymyślić",
+      "hint": "Think of an idea.",
+      "examples": [
+        [
+          "She came up with a plan.",
+          "Wymyśliła plan."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'come up with'?",
+            "options": [
+              "wymyślić",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wymyślić'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "db6c18c9-cbdd-45fa-8de2-fb73f0ec34e3",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "carry out",
+      "back": "przeprowadzić",
+      "hint": "Perform/execute.",
+      "examples": [
+        [
+          "Carry out the test.",
+          "Przeprowadź test."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'carry out'?",
+            "options": [
+              "tak",
+              "przeprowadzić",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przeprowadzić'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a6931f07-267c-4f4a-aa4c-8b80606e18e4",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "take part in",
+      "back": "brać udział w",
+      "hint": "Participate.",
+      "examples": [
+        [
+          "They took part in the competition.",
+          "Wzięli udział w konkursie."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'take part in'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "brać udział w"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'brać udział w'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7889814e-8fce-4e75-a47d-480a3b39de12",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "set up",
+      "back": "założyć/ustawić",
+      "hint": "Start or arrange.",
+      "examples": [
+        [
+          "Set up a new account.",
+          "Załóż nowe konto."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'set up'?",
+            "options": [
+              "założyć/ustawić",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'założyć/ustawić'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c6ad4211-8037-4dd1-9489-a67fb4636ed1",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "figure out",
+      "back": "zrozumieć/rozgryźć",
+      "hint": "Solve/understand.",
+      "examples": [
+        [
+          "I can't figure it out.",
+          "Nie mogę tego rozgryźć."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'figure out'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "zrozumieć/rozgryźć"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zrozumieć/rozgryźć'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fd217834-fb91-42f1-bc54-f9ada0500b56",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "point out",
+      "back": "zwrócić uwagę",
+      "hint": "Indicate.",
+      "examples": [
+        [
+          "She pointed out a mistake.",
+          "Wskazała błąd."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'point out'?",
+            "options": [
+              "tak",
+              "zwrócić uwagę",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zwrócić uwagę'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8602ddc3-a5b2-4cbe-8684-b31af1c96600",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "rely on",
+      "back": "polegać na",
+      "hint": "Depend on.",
+      "examples": [
+        [
+          "We rely on data.",
+          "Polegamy na danych."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'rely on'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "polegać na",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'polegać na'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b49e6008-03b3-42ce-a1d3-dda9eb95ca2e",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 18 Society Culture",
+      "front": "turn down",
+      "back": "odrzucić/ściszyć",
+      "hint": "Reject or reduce volume.",
+      "examples": [
+        [
+          "They turned down the offer.",
+          "Odrzucili ofertę."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'turn down'?",
+            "options": [
+              "odrzucić/ściszyć",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'odrzucić/ściszyć'."
+          }
+        ]
+      }
+    }
+  ]
+}

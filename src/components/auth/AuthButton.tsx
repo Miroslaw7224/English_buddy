@@ -31,7 +31,7 @@ export function AuthButton() {
     try {
       await supabase.auth.signOut();
       setUser(null);
-      router.push('/auth');
+      router.push('/');
     } catch (error) {
       console.error('Error signing out:', error);
     } finally {

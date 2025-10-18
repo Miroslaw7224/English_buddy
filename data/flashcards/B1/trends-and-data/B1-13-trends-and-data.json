@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "3677bdd0-bb24-452f-acd9-44a141c07465",
+    "user_id": null,
+    "term": "increase sharply",
+    "term_lang": "en",
+    "translation": "gwałtownie wzrosnąć",
+    "translation_lang": "pl",
+    "definition": "to go up quickly",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Sales increased sharply in May.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d4202e47-f604-4d16-b672-0fe6a3a21db7",
+    "user_id": null,
+    "term": "rise steadily",
+    "term_lang": "en",
+    "translation": "stale rosnąć",
+    "translation_lang": "pl",
+    "definition": "to go up at a constant rate",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Costs rose steadily last year.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d756bfd1-439d-4b93-8cac-a022d8d6fd0c",
+    "user_id": null,
+    "term": "peak at",
+    "term_lang": "en",
+    "translation": "osiągnąć szczyt na poziomie",
+    "translation_lang": "pl",
+    "definition": "to reach the highest point",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The number of users peaked at 10,000.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e18e330f-d918-4e50-b128-0759754960f4",
+    "user_id": null,
+    "term": "remain stable",
+    "term_lang": "en",
+    "translation": "pozostać stabilnym",
+    "translation_lang": "pl",
+    "definition": "to stay the same",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Prices remained stable in Q2.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9172716f-6051-48c9-a6d5-2641d950adf0",
+    "user_id": null,
+    "term": "decline gradually",
+    "term_lang": "en",
+    "translation": "stopniowo spadać",
+    "translation_lang": "pl",
+    "definition": "to go down slowly over time",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Interest declined gradually.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "31d1efec-118a-4709-ab5b-beb5a5c28c88",
+    "user_id": null,
+    "term": "drop dramatically",
+    "term_lang": "en",
+    "translation": "drastycznie spaść",
+    "translation_lang": "pl",
+    "definition": "to fall quickly and by a lot",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The metric dropped dramatically after the change.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e9be585d-941b-4977-9076-f6f7a97fa267",
+    "user_id": null,
+    "term": "fluctuate",
+    "term_lang": "en",
+    "translation": "wahać się",
+    "translation_lang": "pl",
+    "definition": "to go up and down",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Traffic fluctuated throughout the week.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "30c601d7-88ff-46e9-b16b-63a09d176199",
+    "user_id": null,
+    "term": "recover",
+    "term_lang": "en",
+    "translation": "odbić się / odzyskać",
+    "translation_lang": "pl",
+    "definition": "to improve after a fall",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The market recovered in July.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0f1bd240-9a3c-482a-9d2a-1207c7e69f17",
+    "user_id": null,
+    "term": "hit a low",
+    "term_lang": "en",
+    "translation": "osiągnąć najniższy poziom",
+    "translation_lang": "pl",
+    "definition": "to be at the lowest point",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Revenue hit a low in February.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "06dff3a9-dbfb-4461-b22f-33bdc40e0dc7",
+    "user_id": null,
+    "term": "slight increase",
+    "term_lang": "en",
+    "translation": "niewielki wzrost",
+    "translation_lang": "pl",
+    "definition": "a small rise",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There was a slight increase in sign-ups.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "46807040-8ca3-4fed-ab65-ac4740877de7",
+    "user_id": null,
+    "term": "significant decrease",
+    "term_lang": "en",
+    "translation": "znaczny spadek",
+    "translation_lang": "pl",
+    "definition": "a big fall",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We saw a significant decrease in churn.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dbed600c-c442-4285-8961-9dafd10c5fd6",
+    "user_id": null,
+    "term": "by X percent",
+    "term_lang": "en",
+    "translation": "o X procent",
+    "translation_lang": "pl",
+    "definition": "used to show the size of change",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Profits grew by 15 percent.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bc2e6612-2bba-42c9-80c1-7d5e69fdca4c",
+    "user_id": null,
+    "term": "compared to",
+    "term_lang": "en",
+    "translation": "w porównaniu do",
+    "translation_lang": "pl",
+    "definition": "used to contrast two numbers or periods",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Sales were higher compared to last quarter.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3e1c4007-69ea-49d0-9e53-26d5ffdfdcf4",
+    "user_id": null,
+    "term": "on average",
+    "term_lang": "en",
+    "translation": "średnio",
+    "translation_lang": "pl",
+    "definition": "used to describe the typical value",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "On average, users spend 5 minutes on the site.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "692a0d8a-f297-435a-a0dc-e6a7ec7f069f",
+    "user_id": null,
+    "term": "trend",
+    "term_lang": "en",
+    "translation": "trend",
+    "translation_lang": "pl",
+    "definition": "a general direction of change",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The trend is positive this quarter.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "13_trends-and-data",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "word_id": "831317f2-0022-4a48-8180-426fc84dc35c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "mother",
+    "term_lang": "en",
+    "translation": "mama",
+    "translation_lang": "pl",
+    "definition": "A woman who has a child.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My mother is kind.",
+        "translation": "Moja mama jest miła."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:00:00Z",
+      "last_review_at": "2025-10-06T09:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:00:00Z",
+    "updated_at": "2025-10-06T09:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ccb2ec98-498a-4c59-b70a-ff74a44a739c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "father",
+    "term_lang": "en",
+    "translation": "tata",
+    "translation_lang": "pl",
+    "definition": "A man who has a child.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "His father works in a shop.",
+        "translation": "Jego tata pracuje w sklepie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:00:00Z",
+      "last_review_at": "2025-10-06T10:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:00:00Z",
+    "updated_at": "2025-10-06T10:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0aa6feb1-d815-41c4-af71-6be366f8a075",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "parents",
+    "term_lang": "en",
+    "translation": "rodzice",
+    "translation_lang": "pl",
+    "definition": "A mother and a father.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My parents live in Kraków.",
+        "translation": "Moi rodzice mieszkają w Krakowie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:00:00Z",
+      "last_review_at": "2025-10-06T11:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:00:00Z",
+    "updated_at": "2025-10-06T11:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4ac98297-8821-4f4b-894a-9abf8bd8e42d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "sister",
+    "term_lang": "en",
+    "translation": "siostra",
+    "translation_lang": "pl",
+    "definition": "A girl or woman with the same parents as you.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have one sister.",
+        "translation": "Mam jedną siostrę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:00:00Z",
+      "last_review_at": "2025-10-06T12:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:00:00Z",
+    "updated_at": "2025-10-06T12:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0e6e45b0-2d2c-4e12-bcaf-603bc0482de3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "brother",
+    "term_lang": "en",
+    "translation": "brat",
+    "translation_lang": "pl",
+    "definition": "A boy or man with the same parents as you.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Her brother is ten.",
+        "translation": "Jej brat ma dziesięć lat."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T13:00:00Z",
+      "last_review_at": "2025-10-06T13:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T13:00:00Z",
+    "updated_at": "2025-10-06T13:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4aa1db6f-0a2b-4a2b-9a7e-5ae1697c5bfd",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "son",
+    "term_lang": "en",
+    "translation": "syn",
+    "translation_lang": "pl",
+    "definition": "A male child of a parent.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Their son is five.",
+        "translation": "Ich syn ma pięć lat."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T14:00:00Z",
+      "last_review_at": "2025-10-06T14:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T14:00:00Z",
+    "updated_at": "2025-10-06T14:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2a34377b-a650-4b5d-a3bf-74d94cb18729",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "daughter",
+    "term_lang": "en",
+    "translation": "córka",
+    "translation_lang": "pl",
+    "definition": "A female child of a parent.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Our daughter loves music.",
+        "translation": "Nasza córka kocha muzykę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T15:00:00Z",
+      "last_review_at": "2025-10-06T15:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T15:00:00Z",
+    "updated_at": "2025-10-06T15:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "123716b4-a14a-402c-8318-b0e4fb7333f3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "family",
+    "term_lang": "en",
+    "translation": "rodzina",
+    "translation_lang": "pl",
+    "definition": "A group of people related to each other.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My family is big.",
+        "translation": "Moja rodzina jest duża."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T16:00:00Z",
+      "last_review_at": "2025-10-06T16:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T16:00:00Z",
+    "updated_at": "2025-10-06T16:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7d0f5972-1302-4002-8c31-4029ad14b01f",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "friend",
+    "term_lang": "en",
+    "translation": "przyjaciel/przyjaciółka",
+    "translation_lang": "pl",
+    "definition": "A person you like and spend time with.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He is my best friend.",
+        "translation": "On jest moim najlepszym przyjacielem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T17:00:00Z",
+      "last_review_at": "2025-10-06T17:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T17:00:00Z",
+    "updated_at": "2025-10-06T17:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a2b3f57d-edba-4920-9520-6b6b9b0bf3e3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "man",
+    "term_lang": "en",
+    "translation": "mężczyzna",
+    "translation_lang": "pl",
+    "definition": "An adult male person.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The man is a teacher.",
+        "translation": "Ten mężczyzna jest nauczycielem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T18:00:00Z",
+      "last_review_at": "2025-10-06T18:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T18:00:00Z",
+    "updated_at": "2025-10-06T18:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3448cca3-85e7-47c0-bc87-0a13a7896bbe",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "woman",
+    "term_lang": "en",
+    "translation": "kobieta",
+    "translation_lang": "pl",
+    "definition": "An adult female person.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The woman is a doctor.",
+        "translation": "Ta kobieta jest lekarką."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T19:00:00Z",
+      "last_review_at": "2025-10-06T19:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T19:00:00Z",
+    "updated_at": "2025-10-06T19:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2b62b0ab-f731-4e5b-af6f-7730dc4cacb8",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "boy",
+    "term_lang": "en",
+    "translation": "chłopiec",
+    "translation_lang": "pl",
+    "definition": "A male child.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The boy plays football.",
+        "translation": "Chłopiec gra w piłkę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T20:00:00Z",
+      "last_review_at": "2025-10-06T20:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T20:00:00Z",
+    "updated_at": "2025-10-06T20:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ea4860ab-940f-45a8-9ed4-e4121040da9c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "girl",
+    "term_lang": "en",
+    "translation": "dziewczynka",
+    "translation_lang": "pl",
+    "definition": "A female child.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The girl reads a book.",
+        "translation": "Dziewczynka czyta książkę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T21:00:00Z",
+      "last_review_at": "2025-10-06T21:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T21:00:00Z",
+    "updated_at": "2025-10-06T21:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8ed95869-ca95-40cf-8617-169367e82492",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "baby",
+    "term_lang": "en",
+    "translation": "niemowlę",
+    "translation_lang": "pl",
+    "definition": "A very young child.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The baby is sleeping.",
+        "translation": "Niemowlę śpi."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T22:00:00Z",
+      "last_review_at": "2025-10-06T22:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T22:00:00Z",
+    "updated_at": "2025-10-06T22:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "98a6081a-266b-4784-af8b-69aa933b6fc5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "people",
+    "term_lang": "en",
+    "translation": "ludzie",
+    "translation_lang": "pl",
+    "definition": "More than one person; humans in general.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Many people like music.",
+        "translation": "Wielu ludzi lubi muzykę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "family-people",
+    "deck_id": null,
+    "tags": [
+      "family",
+      "people"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T23:00:00Z",
+      "last_review_at": "2025-10-06T23:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T23:00:00Z",
+    "updated_at": "2025-10-06T23:00:00Z",
+    "deleted_at": null
+  }
+]

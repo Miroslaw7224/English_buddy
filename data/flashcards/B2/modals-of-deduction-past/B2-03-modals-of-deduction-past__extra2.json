@@ -1,0 +1,869 @@
+{
+  "pack_id": "b2_03_modals_of_deduction_past_extra2",
+  "title": "B2 03 Modals Of Deduction Past — Extra 2",
+  "level": "B2",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "99fb670a-21c2-4a85-97ca-bed8e0e47d20",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "due diligence",
+      "back": "należyta staranność",
+      "hint": "Careful investigation.",
+      "examples": [
+        [
+          "Do due diligence.",
+          "Zrób należytą staranność."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'due diligence'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "należyta staranność",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'należyta staranność'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "1b251c20-76c2-4f45-8cae-c460cb1767cb",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "benchmark results",
+      "back": "wyniki porównawcze",
+      "hint": "Compare performance.",
+      "examples": [
+        [
+          "Publish benchmark results.",
+          "Opublikuj wyniki porównawcze."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'benchmark results'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "wyniki porównawcze"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wyniki porównawcze'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8dd05176-878a-4d69-ab4e-53208a2e69a2",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "stakeholder engagement",
+      "back": "zaangażowanie interesariuszy",
+      "hint": "Work with stakeholders.",
+      "examples": [
+        [
+          "Improve stakeholder engagement.",
+          "Popraw zaangażowanie interesariuszy."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'stakeholder engagement'?",
+            "options": [
+              "zaangażowanie interesariuszy",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zaangażowanie interesariuszy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e1404d44-9bc2-40c3-b1f6-160fd6a77527",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "knowledge transfer",
+      "back": "transfer wiedzy",
+      "hint": "Share expertise.",
+      "examples": [
+        [
+          "Ensure knowledge transfer.",
+          "Zapewnij transfer wiedzy."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'knowledge transfer'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "transfer wiedzy",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'transfer wiedzy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "48dbbf31-5fb2-4631-a825-915d31629646",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "regulatory compliance",
+      "back": "zgodność z przepisami",
+      "hint": "Follow regulations.",
+      "examples": [
+        [
+          "Maintain regulatory compliance.",
+          "Utrzymuj zgodność z przepisami."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'regulatory compliance'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zgodność z przepisami",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zgodność z przepisami'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4cdb3660-5a43-4700-8670-870e53afff39",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "resource allocation",
+      "back": "alokacja zasobów",
+      "hint": "Assign resources.",
+      "examples": [
+        [
+          "Plan resource allocation.",
+          "Planuj alokację zasobów."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'resource allocation'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "alokacja zasobów"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'alokacja zasobów'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6b18e86d-aac9-47d8-bbaa-d0e0fc7c3729",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "contingency plan",
+      "back": "plan awaryjny",
+      "hint": "Plan for risks.",
+      "examples": [
+        [
+          "Prepare a contingency plan.",
+          "Przygotuj plan awaryjny."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'contingency plan'?",
+            "options": [
+              "plan awaryjny",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'plan awaryjny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "10c254b4-6358-4c4c-81a8-6ad2207e1360",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "holistic approach",
+      "back": "podejście holistyczne",
+      "hint": "Overall perspective.",
+      "examples": [
+        [
+          "Take a holistic approach.",
+          "Zastosuj podejście holistyczne."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'holistic approach'?",
+            "options": [
+              "podejście holistyczne",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'podejście holistyczne'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ddb74dd7-916f-44b2-90f9-fb06dcd7d950",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "scalable solution",
+      "back": "skalowalne rozwiązanie",
+      "hint": "Grows with demand.",
+      "examples": [
+        [
+          "Build a scalable solution.",
+          "Zbuduj skalowalne rozwiązanie."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'scalable solution'?",
+            "options": [
+              "tak",
+              "skalowalne rozwiązanie",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'skalowalne rozwiązanie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "d705270f-04cf-4a3b-b922-a85b4a84a510",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "actionable insights",
+      "back": "przydatne wnioski",
+      "hint": "Insights you can act on.",
+      "examples": [
+        [
+          "Get actionable insights.",
+          "Uzyskaj przydatne wnioski."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'actionable insights'?",
+            "options": [
+              "tak",
+              "przydatne wnioski",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przydatne wnioski'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ce848b99-8039-4ab2-ae8b-430cb87dd538",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "fall behind schedule",
+      "back": "opóźniać się względem planu",
+      "hint": "Be late vs plan.",
+      "examples": [
+        [
+          "We fell behind schedule.",
+          "Opóźniliśmy się względem planu."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fall behind schedule'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "opóźniać się względem planu",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'opóźniać się względem planu'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "92950d47-f792-40b3-8f6b-a797da33199f",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "gain traction",
+      "back": "zyskiwać na popularności",
+      "hint": "Become popular.",
+      "examples": [
+        [
+          "The idea gained traction.",
+          "Pomysł zyskał na popularności."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'gain traction'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "zyskiwać na popularności"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zyskiwać na popularności'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4f7d4928-9a56-4ab1-98cb-5c3879c67823",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "roll out",
+      "back": "wdrażać (stopniowo)",
+      "hint": "Launch gradually.",
+      "examples": [
+        [
+          "Roll out the update.",
+          "Wdrażaj aktualizację."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'roll out'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "wdrażać (stopniowo)"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wdrażać (stopniowo)'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "63a7cc65-0291-4127-9683-f6ed20b327db",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "iron out",
+      "back": "wygładzić/wyprostować",
+      "hint": "Remove problems.",
+      "examples": [
+        [
+          "Iron out the issues.",
+          "Wygładź problemy."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'iron out'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "wygładzić/wyprostować"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wygładzić/wyprostować'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7f78fabf-563d-4a59-bbe6-8240c5d78b7e",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "zero in on",
+      "back": "skupić się na",
+      "hint": "Focus on.",
+      "examples": [
+        [
+          "Zero in on the goal.",
+          "Skup się na celu."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'zero in on'?",
+            "options": [
+              "skupić się na",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'skupić się na'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "14b4442b-4b71-4de9-8024-06ed25fa6a53",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "stem from",
+      "back": "wynikać z",
+      "hint": "Originate from.",
+      "examples": [
+        [
+          "The error stems from a typo.",
+          "Błąd wynika z literówki."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'stem from'?",
+            "options": [
+              "wynikać z",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wynikać z'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bc318560-cea6-4dd1-bd02-47e89e7b68a3",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "boil down to",
+      "back": "sprowadzać się do",
+      "hint": "Be essentially.",
+      "examples": [
+        [
+          "It boils down to time.",
+          "To sprowadza się do czasu."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'boil down to'?",
+            "options": [
+              "tak",
+              "sprowadzać się do",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'sprowadzać się do'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3100f40e-d9a9-4abf-8d2d-5a7fcea781a4",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "double down on",
+      "back": "podwoić wysiłki w",
+      "hint": "Increase effort.",
+      "examples": [
+        [
+          "Double down on marketing.",
+          "Podwój wysiłki w marketingu."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'double down on'?",
+            "options": [
+              "tak",
+              "podwoić wysiłki w",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'podwoić wysiłki w'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a2637639-e671-4413-a023-d6e7c0b55c0b",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "phase out",
+      "back": "wycofywać stopniowo",
+      "hint": "Remove gradually.",
+      "examples": [
+        [
+          "Phase out old systems.",
+          "Stopniowo wycofaj stare systemy."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'phase out'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "wycofywać stopniowo"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wycofywać stopniowo'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "5b73a4a5-c530-4a5a-b180-25c5b367f28e",
+      "level": "B2",
+      "difficulty": "upper-intermediate",
+      "topic": "B2 03 Modals Of Deduction Past",
+      "front": "good evening",
+      "back": "dobry wieczór",
+      "hint": "Evening greeting.",
+      "examples": [
+        [
+          "Good evening, everyone.",
+          "Dobry wieczór, wszyscy."
+        ]
+      ],
+      "tags": [
+        "b2",
+        "extra2"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good evening'?",
+            "options": [
+              "tak",
+              "dobry wieczór",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dobry wieczór'."
+          }
+        ]
+      }
+    }
+  ]
+}

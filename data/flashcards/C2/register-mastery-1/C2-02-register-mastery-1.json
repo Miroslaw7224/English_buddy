@@ -1,0 +1,667 @@
+[
+  {
+    "word_id": "62f39ea3-daf5-4751-9152-73d8b98a9dc4",
+    "user_id": null,
+    "term": "academic register",
+    "term_lang": "en",
+    "translation": "rejestr akademicki",
+    "translation_lang": "pl",
+    "definition": "formal, cautious, citation-heavy",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Academic: The findings suggest a correlation.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f33cd90d-9fe6-4733-805b-50b9962bab3f",
+    "user_id": null,
+    "term": "journalistic register",
+    "term_lang": "en",
+    "translation": "rejestr dziennikarski",
+    "translation_lang": "pl",
+    "definition": "concise, engaging, informative",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Journalistic: Prices jumped after Monday’s shock.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8f4d2688-8444-46c1-897f-d288b31704fa",
+    "user_id": null,
+    "term": "conversational register",
+    "term_lang": "en",
+    "translation": "rejestr potoczny",
+    "translation_lang": "pl",
+    "definition": "informal, idiomatic, elliptical",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Conversational: Kinda wish we’d left earlier.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b0a48f1b-ddb1-4a6c-9850-c04353875e04",
+    "user_id": null,
+    "term": "witty register",
+    "term_lang": "en",
+    "translation": "dowcipny rejestr",
+    "translation_lang": "pl",
+    "definition": "playful, ironic, light wordplay",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Witty: The plan has legs—just not long ones.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9ed6c4ec-ab6a-4b45-89bd-5d0eeeda22c6",
+    "user_id": null,
+    "term": "legalese",
+    "term_lang": "en",
+    "translation": "żargon prawniczy",
+    "translation_lang": "pl",
+    "definition": "dense, formal legal language",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Legalese: Without prejudice to the foregoing…",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "89196d7e-eca5-44fd-a7f7-09f1dc254a99",
+    "user_id": null,
+    "term": "bureaucratese",
+    "term_lang": "en",
+    "translation": "urzędniczy żargon",
+    "translation_lang": "pl",
+    "definition": "verbose, impersonal official style",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Bureaucratese: It has been determined that…",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-02-register-mastery-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "02337b3e-046b-436b-ba7a-82da521ea283",
+    "user_id": null,
+    "term": "scientific tone",
+    "term_lang": "en",
+    "translation": "naukowy ton",
+    "translation_lang": "pl",
+    "definition": "precise, measured, method-oriented",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Scientific: We operationalised trust via items.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-02-register-mastery-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6617ac06-849c-4bea-926f-490a90494649",
+    "user_id": null,
+    "term": "op-ed tone",
+    "term_lang": "en",
+    "translation": "ton publicystyczny",
+    "translation_lang": "pl",
+    "definition": "persuasive, opinion-forward",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Op-ed: It’s time we faced the numbers.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-02-register-mastery-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "53c445b0-33f7-40d1-a320-338c7e68fb66",
+    "user_id": null,
+    "term": "satirical tone",
+    "term_lang": "en",
+    "translation": "ton satyryczny",
+    "translation_lang": "pl",
+    "definition": "mocking to expose folly",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Satirical: Efficiency, brought to you by delays.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-02-register-mastery-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "93fb6b8e-b2d8-4132-b9eb-3a66c32cdc04",
+    "user_id": null,
+    "term": "humblebrag",
+    "term_lang": "en",
+    "translation": "skromne przechwałki",
+    "translation_lang": "pl",
+    "definition": "false modesty masking pride",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Humblebrag: Somehow I aced it without trying.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-02-register-mastery-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "82537657-4d55-49c3-b042-d4a9b2a9ee20",
+    "user_id": null,
+    "term": "measured register",
+    "term_lang": "en",
+    "translation": "ton wyważony",
+    "translation_lang": "pl",
+    "definition": "balanced, fair-minded phrasing",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Measured: On balance, the risks are acceptable.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-02-register-mastery-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3cb0364a-6ecd-4f7c-b7d1-63b9cb5652d0",
+    "user_id": null,
+    "term": "acerbic tone",
+    "term_lang": "en",
+    "translation": "ton cierpki",
+    "translation_lang": "pl",
+    "definition": "bitingly sharp, critical",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Acerbic: That ‘upgrade’ feels like a downgrade.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-02-register-mastery-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "28455129-f43e-480b-aed3-52ad8649bdcd",
+    "user_id": null,
+    "term": "deadpan",
+    "term_lang": "en",
+    "translation": "martwopoważny",
+    "translation_lang": "pl",
+    "definition": "delivered without emotion for irony",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Deadpan: Best outage ever.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-02-register-mastery-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d3d3d1f1-6877-4e7a-b08e-34b272e6a708",
+    "user_id": null,
+    "term": "code-switching",
+    "term_lang": "en",
+    "translation": "zmiana kodu",
+    "translation_lang": "pl",
+    "definition": "shifting style/register by audience",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He code-switches between slang and formalities.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-02-register-mastery-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "037892d0-681f-4fe1-ac44-e98b44d15380",
+    "user_id": null,
+    "term": "house style",
+    "term_lang": "en",
+    "translation": "styl redakcyjny",
+    "translation_lang": "pl",
+    "definition": "org-specific rules for usage",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Follow house style for numerals.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-02-register-mastery-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  }
+]

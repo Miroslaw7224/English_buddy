@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "1e5477ba-a5b8-4242-9874-174a38d4129b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "dog",
+    "term_lang": "en",
+    "translation": "pies",
+    "translation_lang": "pl",
+    "definition": "A common pet that barks.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The dog is friendly.",
+        "translation": "Pies jest przyjazny."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:00:00Z",
+      "last_review_at": "2025-10-06T09:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:00:00Z",
+    "updated_at": "2025-10-06T09:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a53ecd39-76c5-4242-9ba6-0bee1197b139",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "cat",
+    "term_lang": "en",
+    "translation": "kot",
+    "translation_lang": "pl",
+    "definition": "A common pet that meows.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The cat sleeps a lot.",
+        "translation": "Kot dużo śpi."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:01:00Z",
+      "last_review_at": "2025-10-06T09:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:01:00Z",
+    "updated_at": "2025-10-06T09:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2ae6cdf4-4e20-491e-82e6-4e6187b7e597",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "bird",
+    "term_lang": "en",
+    "translation": "ptak",
+    "translation_lang": "pl",
+    "definition": "An animal that can fly.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A bird is in the tree.",
+        "translation": "Ptak jest na drzewie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:02:00Z",
+      "last_review_at": "2025-10-06T09:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:02:00Z",
+    "updated_at": "2025-10-06T09:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fbf9ea31-7183-4ab4-9809-9f73f88f21d7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "fish",
+    "term_lang": "en",
+    "translation": "ryba",
+    "translation_lang": "pl",
+    "definition": "An animal that lives in water.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Fish swim in water.",
+        "translation": "Ryby pływają w wodzie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:03:00Z",
+      "last_review_at": "2025-10-06T09:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:03:00Z",
+    "updated_at": "2025-10-06T09:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1b9a2608-898e-4867-bfe7-21664f45853e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "cow",
+    "term_lang": "en",
+    "translation": "krowa",
+    "translation_lang": "pl",
+    "definition": "A large farm animal.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The cow gives milk.",
+        "translation": "Krowa daje mleko."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:04:00Z",
+      "last_review_at": "2025-10-06T09:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:04:00Z",
+    "updated_at": "2025-10-06T09:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f2560307-585a-4f0c-8726-d308bec21cd6",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "horse",
+    "term_lang": "en",
+    "translation": "koń",
+    "translation_lang": "pl",
+    "definition": "A large animal that people ride.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The horse runs fast.",
+        "translation": "Koń szybko biegnie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:05:00Z",
+      "last_review_at": "2025-10-06T09:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:05:00Z",
+    "updated_at": "2025-10-06T09:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3ff646d4-f5ac-45f1-a5d7-fb7592ea9a68",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "sheep",
+    "term_lang": "en",
+    "translation": "owca",
+    "translation_lang": "pl",
+    "definition": "A farm animal with wool.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Sheep live on a farm.",
+        "translation": "Owce mieszkają na farmie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:06:00Z",
+      "last_review_at": "2025-10-06T09:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:06:00Z",
+    "updated_at": "2025-10-06T09:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "819621ce-924c-4f96-a55c-bc5193f9d25a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "pig",
+    "term_lang": "en",
+    "translation": "świnia",
+    "translation_lang": "pl",
+    "definition": "A farm animal with a short nose.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The pig is pink.",
+        "translation": "Świnia jest różowa."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:07:00Z",
+      "last_review_at": "2025-10-06T09:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:07:00Z",
+    "updated_at": "2025-10-06T09:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "64d41174-8587-4daa-a5ea-3f9749f2f4cb",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "chicken",
+    "term_lang": "en",
+    "translation": "kurczak/kura",
+    "translation_lang": "pl",
+    "definition": "A farm bird.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The chicken lays eggs.",
+        "translation": "Kura znosi jajka."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:08:00Z",
+      "last_review_at": "2025-10-06T09:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:08:00Z",
+    "updated_at": "2025-10-06T09:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d13dd902-451c-43a0-8104-bc6930d7ed10",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "duck",
+    "term_lang": "en",
+    "translation": "kaczka",
+    "translation_lang": "pl",
+    "definition": "A water bird.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The duck swims on the pond.",
+        "translation": "Kaczka pływa po stawie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:09:00Z",
+      "last_review_at": "2025-10-06T09:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:09:00Z",
+    "updated_at": "2025-10-06T09:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0bf28e37-f6ec-4884-848f-618eeb153f61",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "mouse",
+    "term_lang": "en",
+    "translation": "mysz",
+    "translation_lang": "pl",
+    "definition": "A small animal with a long tail.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A mouse is under the table.",
+        "translation": "Mysz jest pod stołem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:10:00Z",
+      "last_review_at": "2025-10-06T09:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:10:00Z",
+    "updated_at": "2025-10-06T09:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "13e588e4-2dad-4817-bf38-4385247a7d5b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "bear",
+    "term_lang": "en",
+    "translation": "niedźwiedź",
+    "translation_lang": "pl",
+    "definition": "A large wild animal.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The bear is strong.",
+        "translation": "Niedźwiedź jest silny."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:11:00Z",
+      "last_review_at": "2025-10-06T09:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:11:00Z",
+    "updated_at": "2025-10-06T09:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "caebd6a2-6054-4dff-bfe7-9ccebec2a44a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "lion",
+    "term_lang": "en",
+    "translation": "lew",
+    "translation_lang": "pl",
+    "definition": "A big wild cat.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The lion is the king of animals.",
+        "translation": "Lew jest królem zwierząt."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:12:00Z",
+      "last_review_at": "2025-10-06T09:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:12:00Z",
+    "updated_at": "2025-10-06T09:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "50a3acc8-9402-4214-9b08-2cc31d222e3f",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "tiger",
+    "term_lang": "en",
+    "translation": "tygrys",
+    "translation_lang": "pl",
+    "definition": "A big wild cat with stripes.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The tiger is fast.",
+        "translation": "Tygrys jest szybki."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:13:00Z",
+      "last_review_at": "2025-10-06T09:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:13:00Z",
+    "updated_at": "2025-10-06T09:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "942b0b2d-c1a0-4df0-bbd2-860112a945b2",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "elephant",
+    "term_lang": "en",
+    "translation": "słoń",
+    "translation_lang": "pl",
+    "definition": "A very large animal with a trunk.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The elephant is big.",
+        "translation": "Słoń jest duży."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-16-animals",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:14:00Z",
+      "last_review_at": "2025-10-06T09:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:14:00Z",
+    "updated_at": "2025-10-06T09:14:00Z",
+    "deleted_at": null
+  }
+]

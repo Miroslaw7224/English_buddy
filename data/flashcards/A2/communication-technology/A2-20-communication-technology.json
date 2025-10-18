@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "41d4b000-096c-4588-89b5-c65a989a8d29",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "email",
+    "term_lang": "en",
+    "translation": "e-mail",
+    "translation_lang": "pl",
+    "definition": "Electronic mail message.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I sent you an email.",
+        "translation": "Wysłałem ci e-mail."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:30:00Z",
+      "last_review_at": "2025-10-06T11:30:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:30:00Z",
+    "updated_at": "2025-10-06T11:30:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7856e826-b7e7-47f2-8aef-19e7964605c8",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "subject line",
+    "term_lang": "en",
+    "translation": "temat (wiadomości)",
+    "translation_lang": "pl",
+    "definition": "The title of an email.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Write a clear subject line.",
+        "translation": "Napisz jasny temat."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:31:00Z",
+      "last_review_at": "2025-10-06T11:31:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:31:00Z",
+    "updated_at": "2025-10-06T11:31:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a1d4d20f-fb89-46e2-96da-08781604fb4b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "attachment",
+    "term_lang": "en",
+    "translation": "załącznik",
+    "translation_lang": "pl",
+    "definition": "A file sent with an email.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please see the attachment.",
+        "translation": "Zobacz załącznik, proszę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:32:00Z",
+      "last_review_at": "2025-10-06T11:32:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:32:00Z",
+    "updated_at": "2025-10-06T11:32:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "76a25662-383b-4f52-b1e0-628b89bb5e42",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "reply",
+    "term_lang": "en",
+    "translation": "odpowiedzieć (na wiadomość)",
+    "translation_lang": "pl",
+    "definition": "To answer an email/message.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Reply as soon as possible.",
+        "translation": "Odpowiedz jak najszybciej."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:33:00Z",
+      "last_review_at": "2025-10-06T11:33:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:33:00Z",
+    "updated_at": "2025-10-06T11:33:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "28463793-967b-4112-8f38-4c3c4cc5e1ab",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "forward",
+    "term_lang": "en",
+    "translation": "przekazać dalej",
+    "translation_lang": "pl",
+    "definition": "To send a message to another person.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I forwarded the message to Anna.",
+        "translation": "Przekazałem wiadomość Annie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:34:00Z",
+      "last_review_at": "2025-10-06T11:34:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:34:00Z",
+    "updated_at": "2025-10-06T11:34:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "20366801-367f-4b96-b041-83b8b22b3543",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "missed call",
+    "term_lang": "en",
+    "translation": "nieodebrane połączenie",
+    "translation_lang": "pl",
+    "definition": "A call you did not answer.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have a missed call from you.",
+        "translation": "Mam od ciebie nieodebrane połączenie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:35:00Z",
+      "last_review_at": "2025-10-06T11:35:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:35:00Z",
+    "updated_at": "2025-10-06T11:35:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1e6577b2-e56f-43a2-b56d-4b9f533e1548",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "voicemail",
+    "term_lang": "en",
+    "translation": "poczta głosowa",
+    "translation_lang": "pl",
+    "definition": "Recorded message left by a caller.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He left a voicemail.",
+        "translation": "Zostawił wiadomość głosową."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:36:00Z",
+      "last_review_at": "2025-10-06T11:36:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:36:00Z",
+    "updated_at": "2025-10-06T11:36:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c3222a0e-380d-4864-831b-bec6e0ec8bb3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "charger",
+    "term_lang": "en",
+    "translation": "ładowarka",
+    "translation_lang": "pl",
+    "definition": "A device for putting power into a phone.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I forgot my charger.",
+        "translation": "Zapomniałem ładowarki."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:37:00Z",
+      "last_review_at": "2025-10-06T11:37:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:37:00Z",
+    "updated_at": "2025-10-06T11:37:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "486bd88c-465b-468a-9550-bc1bf6d18f2a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "Wi‑Fi",
+    "term_lang": "en",
+    "translation": "Wi‑Fi",
+    "translation_lang": "pl",
+    "definition": "Wireless internet connection.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Is the Wi‑Fi free here?",
+        "translation": "Czy Wi‑Fi jest tu darmowe?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:38:00Z",
+      "last_review_at": "2025-10-06T11:38:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:38:00Z",
+    "updated_at": "2025-10-06T11:38:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bdb91b97-a1e5-445b-9fcc-0f73d6fcce03",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "password",
+    "term_lang": "en",
+    "translation": "hasło",
+    "translation_lang": "pl",
+    "definition": "A secret word for access.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Don’t share your password.",
+        "translation": "Nie udostępniaj hasła."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:39:00Z",
+      "last_review_at": "2025-10-06T11:39:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:39:00Z",
+    "updated_at": "2025-10-06T11:39:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "03c0f72a-5c03-4dac-a833-367a56f33291",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "username",
+    "term_lang": "en",
+    "translation": "nazwa użytkownika",
+    "translation_lang": "pl",
+    "definition": "Your login name.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Enter your username and password.",
+        "translation": "Wpisz nazwę użytkownika i hasło."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:40:00Z",
+      "last_review_at": "2025-10-06T11:40:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:40:00Z",
+    "updated_at": "2025-10-06T11:40:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7a54e4f5-b168-4a7a-8762-86654f1f7772",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "app",
+    "term_lang": "en",
+    "translation": "aplikacja",
+    "translation_lang": "pl",
+    "definition": "A program on your phone.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This app helps me study.",
+        "translation": "Ta aplikacja pomaga mi się uczyć."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:41:00Z",
+      "last_review_at": "2025-10-06T11:41:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:41:00Z",
+    "updated_at": "2025-10-06T11:41:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c710879b-7e81-4358-a58e-8e5e28917a7c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "update",
+    "term_lang": "en",
+    "translation": "aktualizacja/aktualizować",
+    "translation_lang": "pl",
+    "definition": "To make software newer.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please update the app.",
+        "translation": "Zaktualizuj aplikację."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:42:00Z",
+      "last_review_at": "2025-10-06T11:42:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:42:00Z",
+    "updated_at": "2025-10-06T11:42:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bd7f36b0-ab41-4add-aa0f-5964d847dfda",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "download / upload",
+    "term_lang": "en",
+    "translation": "pobrać / wysłać",
+    "translation_lang": "pl",
+    "definition": "Get a file from internet / send a file.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Download the file and upload your work.",
+        "translation": "Pobierz plik i wyślij swoją pracę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:43:00Z",
+      "last_review_at": "2025-10-06T11:43:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:43:00Z",
+    "updated_at": "2025-10-06T11:43:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8d607d31-e9af-4532-99ed-0160aab04ba7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "online safety",
+    "term_lang": "en",
+    "translation": "bezpieczeństwo w sieci",
+    "translation_lang": "pl",
+    "definition": "Protecting yourself on the internet.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Online safety is very important.",
+        "translation": "Bezpieczeństwo w sieci jest bardzo ważne."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-20-communication-technology",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:44:00Z",
+      "last_review_at": "2025-10-06T11:44:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:44:00Z",
+    "updated_at": "2025-10-06T11:44:00Z",
+    "deleted_at": null
+  }
+]

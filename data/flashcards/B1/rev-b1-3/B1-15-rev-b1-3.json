@@ -1,0 +1,677 @@
+[
+  {
+    "word_id": "7242783f-e505-40d2-93a4-501e5fa0c94b",
+    "user_id": null,
+    "term": "check in",
+    "term_lang": "en",
+    "translation": "odprawić się",
+    "translation_lang": "pl",
+    "definition": "to register at an airport or hotel",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You can check in online 24 hours before departure.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3a923634-ed23-4c30-ab15-168055ae1aeb",
+    "user_id": null,
+    "term": "public transport",
+    "term_lang": "en",
+    "translation": "transport publiczny",
+    "translation_lang": "pl",
+    "definition": "buses, trains, trams, etc.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Public transport is cheaper than taxis.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4e668fea-f4c6-480b-89e1-b0bfb06a7d45",
+    "user_id": null,
+    "term": "scenic route",
+    "term_lang": "en",
+    "translation": "malownicza trasa",
+    "translation_lang": "pl",
+    "definition": "a way that has beautiful views",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Let's take the scenic route along the coast.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f8f05063-2376-46c4-aa25-ec2d9ef808fe",
+    "user_id": null,
+    "term": "Could you please...?",
+    "term_lang": "en",
+    "translation": "Czy mógłbyś/mogłabyś...?",
+    "translation_lang": "pl",
+    "definition": "a polite request",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Could you please review the document today?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0d3c3692-8a39-4090-9afe-1f66f4e115c6",
+    "user_id": null,
+    "term": "How about ...?",
+    "term_lang": "en",
+    "translation": "Co powiesz na ...?",
+    "translation_lang": "pl",
+    "definition": "a way to suggest an idea",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "How about meeting at 10 a.m.?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "30197ec6-ceb7-4a36-979c-88b343acbc42",
+    "user_id": null,
+    "term": "I'm tied up then.",
+    "term_lang": "en",
+    "translation": "Wtedy jestem zajęty/zajęta.",
+    "translation_lang": "pl",
+    "definition": "a polite way to say you are busy",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I'm tied up then; can we move it?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bd1ee14d-cf4c-420a-86ec-d078a2583a79",
+    "user_id": null,
+    "term": "increase sharply",
+    "term_lang": "en",
+    "translation": "gwałtownie wzrosnąć",
+    "translation_lang": "pl",
+    "definition": "to go up quickly",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Sales increased sharply in May.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bc164bc5-15cd-4f29-9c28-ad68bb5f45d8",
+    "user_id": null,
+    "term": "remain stable",
+    "term_lang": "en",
+    "translation": "pozostać stabilnym",
+    "translation_lang": "pl",
+    "definition": "to stay the same",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Prices remained stable in Q2.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1fc0e55c-503e-4194-afbc-a63209cd812a",
+    "user_id": null,
+    "term": "drop dramatically",
+    "term_lang": "en",
+    "translation": "drastycznie spaść",
+    "translation_lang": "pl",
+    "definition": "to fall quickly and by a lot",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The metric dropped dramatically after the change.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "237e5101-7c9f-4b67-b79b-113a488d0d70",
+    "user_id": null,
+    "term": "by X percent",
+    "term_lang": "en",
+    "translation": "o X procent",
+    "translation_lang": "pl",
+    "definition": "used to show the size of change",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Profits grew by 15 percent.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b3d498db-2c8e-4356-a956-abc43a2ffd55",
+    "user_id": null,
+    "term": "There seems to be a problem with...",
+    "term_lang": "en",
+    "translation": "Wygląda na to, że jest problem z...",
+    "translation_lang": "pl",
+    "definition": "a polite way to start a complaint",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There seems to be a problem with my order.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5f99a76e-8e1e-4054-99ae-e3e5b2261011",
+    "user_id": null,
+    "term": "refund",
+    "term_lang": "en",
+    "translation": "zwrot pieniędzy",
+    "translation_lang": "pl",
+    "definition": "money returned for a faulty product/service",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I'd like to request a refund.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4e2c690f-2a6b-45c0-bc33-5fb3af81e013",
+    "user_id": null,
+    "term": "escalate the issue",
+    "term_lang": "en",
+    "translation": "eskalować sprawę",
+    "translation_lang": "pl",
+    "definition": "to move a problem to a higher level",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We will escalate the issue to our manager.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dcb328ae-6988-4d1c-8f78-21466fafa900",
+    "user_id": null,
+    "term": "track the shipment",
+    "term_lang": "en",
+    "translation": "śledzić przesyłkę",
+    "translation_lang": "pl",
+    "definition": "to follow a package's status",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You can track the shipment online.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "579be397-ebda-48f8-87e8-d4b622cdfad6",
+    "user_id": null,
+    "term": "resolve the issue",
+    "term_lang": "en",
+    "translation": "rozwiązać problem",
+    "translation_lang": "pl",
+    "definition": "to fix a problem",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We aim to resolve the issue today.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "15_rev-b1-3",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  }
+]

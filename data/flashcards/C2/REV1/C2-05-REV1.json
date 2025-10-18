@@ -1,0 +1,677 @@
+[
+  {
+    "word_id": "9ffd9790-8e47-4d49-aa4b-d40405ddb09b",
+    "user_id": null,
+    "term": "concession",
+    "term_lang": "en",
+    "translation": "ustępstwo (ret.)",
+    "translation_lang": "pl",
+    "definition": "admitting a valid point before rebutting",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Concession: We acknowledge the cost, yet...",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "11fb1195-5766-4e93-b413-b8718f48123c",
+    "user_id": null,
+    "term": "parallelism",
+    "term_lang": "en",
+    "translation": "równoległość (ret.)",
+    "translation_lang": "pl",
+    "definition": "repetition of grammatical structure",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Parallelism: to see, to judge, to act.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5cf0a29d-9c49-4b75-8eca-77321ad3c442",
+    "user_id": null,
+    "term": "chiasmus",
+    "term_lang": "en",
+    "translation": "chiazmy",
+    "translation_lang": "pl",
+    "definition": "ABBA inversion for effect",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Chiasmus: We shape our tools; our tools shape us.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "63dbac0c-a761-44df-b21d-8477c7e4f447",
+    "user_id": null,
+    "term": "antithesis",
+    "term_lang": "en",
+    "translation": "antyteza",
+    "translation_lang": "pl",
+    "definition": "juxtaposition of contrasting ideas",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Antithesis: Freedom is dear; tyranny, costly.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8a1c5b6d-774e-4683-ae8f-7433cda82ee6",
+    "user_id": null,
+    "term": "anaphora",
+    "term_lang": "en",
+    "translation": "anafory",
+    "translation_lang": "pl",
+    "definition": "repetition at beginnings of clauses",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Anaphora: We will build. We will learn. We will lead.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "62f39ea3-daf5-4751-9152-73d8b98a9dc4",
+    "user_id": null,
+    "term": "academic register",
+    "term_lang": "en",
+    "translation": "rejestr akademicki",
+    "translation_lang": "pl",
+    "definition": "formal, cautious, citation-heavy",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Academic: The findings suggest a correlation.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f33cd90d-9fe6-4733-805b-50b9962bab3f",
+    "user_id": null,
+    "term": "journalistic register",
+    "term_lang": "en",
+    "translation": "rejestr dziennikarski",
+    "translation_lang": "pl",
+    "definition": "concise, engaging, informative",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Journalistic: Prices jumped after Monday’s shock.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8f4d2688-8444-46c1-897f-d288b31704fa",
+    "user_id": null,
+    "term": "conversational register",
+    "term_lang": "en",
+    "translation": "rejestr potoczny",
+    "translation_lang": "pl",
+    "definition": "informal, idiomatic, elliptical",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Conversational: Kinda wish we’d left earlier.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b0a48f1b-ddb1-4a6c-9850-c04353875e04",
+    "user_id": null,
+    "term": "witty register",
+    "term_lang": "en",
+    "translation": "dowcipny rejestr",
+    "translation_lang": "pl",
+    "definition": "playful, ironic, light wordplay",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Witty: The plan has legs—just not long ones.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9ed6c4ec-ab6a-4b45-89bd-5d0eeeda22c6",
+    "user_id": null,
+    "term": "legalese",
+    "term_lang": "en",
+    "translation": "żargon prawniczy",
+    "translation_lang": "pl",
+    "definition": "dense, formal legal language",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Legalese: Without prejudice to the foregoing…",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "555a668b-abb8-4c2f-b967-63af50c1e7ab",
+    "user_id": null,
+    "term": "discreet vs. discrete",
+    "term_lang": "en",
+    "translation": "dyskretny vs. odrębny",
+    "translation_lang": "pl",
+    "definition": "careful/private vs. separate/distinct",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Keep the two issues discrete and your approach discreet.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a177c740-9e66-41db-9fae-f175d8d2426c",
+    "user_id": null,
+    "term": "imminent vs. eminent",
+    "term_lang": "en",
+    "translation": "nieuchronny vs. wybitny",
+    "translation_lang": "pl",
+    "definition": "about to happen vs. distinguished",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "An eminent scholar warned of imminent risks.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "43e669b2-abc7-4a60-af1d-5efa3bcd6712",
+    "user_id": null,
+    "term": "complacent vs. complaisant",
+    "term_lang": "en",
+    "translation": "zadowolony z siebie vs. uprzejmy",
+    "translation_lang": "pl",
+    "definition": "self-satisfied vs. obliging",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Complacent teams become complaisant toward errors.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e2c0307d-d186-4ddb-9124-d868a098a3ba",
+    "user_id": null,
+    "term": "mitigate vs. militate",
+    "term_lang": "en",
+    "translation": "łagodzić vs. działać przeciw",
+    "translation_lang": "pl",
+    "definition": "soften/reduce vs. work against",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The data militate against a simple fix we hoped would mitigate risk.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8c671569-f95e-4792-90b0-0b91833854e5",
+    "user_id": null,
+    "term": "inflammable vs. flammable",
+    "term_lang": "en",
+    "translation": "łatwopalny vs. łatwopalny",
+    "translation_lang": "pl",
+    "definition": "both mean flammable; usage nuance",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Labels now prefer ‘flammable’ over ‘inflammable’.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  }
+]

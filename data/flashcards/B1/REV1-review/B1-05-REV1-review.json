@@ -1,0 +1,677 @@
+[
+  {
+    "word_id": "429e908e-0efa-49a1-91c0-48c8a07ed55d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "as soon as",
+    "term_lang": "en",
+    "translation": "jak tylko",
+    "translation_lang": "pl",
+    "definition": "Shows immediate sequence.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "As soon as we arrived, it started to rain.",
+        "translation": "Jak tylko przyjechaliśmy, zaczęło padać."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:00:00Z",
+      "last_review_at": "2025-10-06T12:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:00:00Z",
+    "updated_at": "2025-10-06T12:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "14697497-31a9-4e47-b6da-6b2d33f363ac",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "meanwhile",
+    "term_lang": "en",
+    "translation": "tymczasem",
+    "translation_lang": "pl",
+    "definition": "At the same time elsewhere.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Meanwhile, the guests were waiting outside.",
+        "translation": "Tymczasem goście czekali na zewnątrz."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:01:00Z",
+      "last_review_at": "2025-10-06T12:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:01:00Z",
+    "updated_at": "2025-10-06T12:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5f3882a5-b4fd-4319-beb1-649f7aa4c121",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "had finished",
+    "term_lang": "en",
+    "translation": "skończył wcześniej",
+    "translation_lang": "pl",
+    "definition": "Past Perfect prior past action.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We had finished dinner before they called.",
+        "translation": "Skończyliśmy kolację, zanim zadzwonili."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:02:00Z",
+      "last_review_at": "2025-10-06T12:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:02:00Z",
+    "updated_at": "2025-10-06T12:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e318a620-f495-4fe9-98db-c7995e5f1dbf",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "have you ever…?",
+    "term_lang": "en",
+    "translation": "czy kiedykolwiek…?",
+    "translation_lang": "pl",
+    "definition": "Experience question in Present Perfect.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Have you ever broken a bone?",
+        "translation": "Czy kiedykolwiek złamałeś kość?"
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:03:00Z",
+      "last_review_at": "2025-10-06T12:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:03:00Z",
+    "updated_at": "2025-10-06T12:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "07f48dad-1ab5-4790-a4db-d00795e21c1d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "have already…",
+    "term_lang": "en",
+    "translation": "już (wcześniej)",
+    "translation_lang": "pl",
+    "definition": "Result earlier than expected.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have already sent the email.",
+        "translation": "Już wysłałem maila."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:04:00Z",
+      "last_review_at": "2025-10-06T12:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:04:00Z",
+    "updated_at": "2025-10-06T12:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3adb3e7e-8864-4208-8149-f4d78c180841",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "haven’t … yet",
+    "term_lang": "en",
+    "translation": "jeszcze nie",
+    "translation_lang": "pl",
+    "definition": "Negative with 'yet'.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I haven’t packed yet.",
+        "translation": "Jeszcze się nie spakowałem."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:05:00Z",
+      "last_review_at": "2025-10-06T12:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:05:00Z",
+    "updated_at": "2025-10-06T12:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d10160fb-3e42-4cd0-ab2a-cb29064c19a7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "in my view",
+    "term_lang": "en",
+    "translation": "moim zdaniem",
+    "translation_lang": "pl",
+    "definition": "Opinion starter.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "In my view, we should start earlier.",
+        "translation": "Moim zdaniem powinniśmy zacząć wcześniej."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:06:00Z",
+      "last_review_at": "2025-10-06T12:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:06:00Z",
+    "updated_at": "2025-10-06T12:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "853b0353-f8da-4404-ab25-260b6a400ab6",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "although",
+    "term_lang": "en",
+    "translation": "chociaż",
+    "translation_lang": "pl",
+    "definition": "Contrast linker.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Although it was late, we continued.",
+        "translation": "Chociaż było późno, kontynuowaliśmy."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:07:00Z",
+      "last_review_at": "2025-10-06T12:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:07:00Z",
+    "updated_at": "2025-10-06T12:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f1fc09dd-2df6-4a73-a521-574d93ba22e5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "therefore",
+    "term_lang": "en",
+    "translation": "dlatego też / zatem",
+    "translation_lang": "pl",
+    "definition": "Result connector (formal).",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The data is clear; therefore, we agree.",
+        "translation": "Dane są jasne; dlatego też się zgadzamy."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:08:00Z",
+      "last_review_at": "2025-10-06T12:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:08:00Z",
+    "updated_at": "2025-10-06T12:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5be567e5-740d-4730-b691-2ac78bff2cc7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "convincing argument",
+    "term_lang": "en",
+    "translation": "przekonujący argument",
+    "translation_lang": "pl",
+    "definition": "A strong, well-supported point.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "That’s a convincing argument.",
+        "translation": "To przekonujący argument."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:09:00Z",
+      "last_review_at": "2025-10-06T12:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:09:00Z",
+    "updated_at": "2025-10-06T12:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f6873a49-922a-4fdb-a3e5-390ceda3a995",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "background",
+    "term_lang": "en",
+    "translation": "tło",
+    "translation_lang": "pl",
+    "definition": "Context around the main event.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Describe the background before the action.",
+        "translation": "Opisz tło przed akcją."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:10:00Z",
+      "last_review_at": "2025-10-06T12:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:10:00Z",
+    "updated_at": "2025-10-06T12:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7b64b641-91df-45de-91db-33276c2c49ca",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "sequence markers",
+    "term_lang": "en",
+    "translation": "markery kolejności",
+    "translation_lang": "pl",
+    "definition": "Words showing order.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Use sequence markers to make it clear.",
+        "translation": "Użyj markerów kolejności, aby było jasno."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:11:00Z",
+      "last_review_at": "2025-10-06T12:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:11:00Z",
+    "updated_at": "2025-10-06T12:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "71c535eb-6709-4c08-8077-2895b0b5f1dc",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "just",
+    "term_lang": "en",
+    "translation": "właśnie/przed chwilą",
+    "translation_lang": "pl",
+    "definition": "Recent action marker.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She has just arrived.",
+        "translation": "Ona właśnie przyjechała."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:12:00Z",
+      "last_review_at": "2025-10-06T12:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:12:00Z",
+    "updated_at": "2025-10-06T12:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0c37c072-332b-4d9e-917f-f005fb00c92a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "because / so",
+    "term_lang": "en",
+    "translation": "ponieważ / więc",
+    "translation_lang": "pl",
+    "definition": "Reason vs result.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We stayed because it was warm, so we relaxed.",
+        "translation": "Zostaliśmy, bo było ciepło, więc odpoczęliśmy."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:13:00Z",
+      "last_review_at": "2025-10-06T12:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:13:00Z",
+    "updated_at": "2025-10-06T12:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "143f72d1-1dfa-4a9f-ae26-146137200540",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "counterargument",
+    "term_lang": "en",
+    "translation": "kontrargument",
+    "translation_lang": "pl",
+    "definition": "Opposing point to address.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Consider the counterargument to be fair.",
+        "translation": "Rozważ kontrargument, aby być fair."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-05-REV1-review",
+    "deck_id": null,
+    "tags": [
+      "B1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:14:00Z",
+      "last_review_at": "2025-10-06T12:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:14:00Z",
+    "updated_at": "2025-10-06T12:14:00Z",
+    "deleted_at": null
+  }
+]

@@ -60,6 +60,7 @@ export function ChatPage() {
   const [error, setError] = useState<string | null>(null);
   const [streamingText, setStreamingText] = useState("");
   const [isStreaming, setIsStreaming] = useState(false);
+  const streamingTextRef = useRef("");
   const endRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLTextAreaElement>(null);
 
@@ -113,21 +114,26 @@ export function ChatPage() {
             conversation_id: sid 
           },
           (chunk: string) => {
-            setStreamingText(prev => prev + chunk);
+            setStreamingText(prev => {
+              const newText = prev + chunk;
+              streamingTextRef.current = newText;
+              return newText;
+            });
           },
           () => {
-            // Complete streaming
+            // Complete streaming - use ref to get current value
+            const finalText = streamingTextRef.current;
             setMessages(prev => prev.map(m =>
               m.id === placeholderId 
-                ? { role: "assistant", content: streamingText || "Brak odpowiedzi." } 
+                ? { role: "assistant", content: finalText || "Brak odpowiedzi." } 
                 : m
             ));
             setStreamingText("");
+            streamingTextRef.current = "";
             setIsStreaming(false);
           },
           (error: Error) => {
             // Streaming failed, try regular request
-            console.warn('Streaming failed, falling back to regular request:', error);
             sendRegularMessage(placeholderId, text, next);
           }
         );
@@ -271,6 +277,7 @@ export function ChatPage() {
                 </div>
               </div>
             )}
+            
             <div ref={endRef} />
           </div>
         </div>

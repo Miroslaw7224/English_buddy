@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "84167130-7cfb-4f66-8c5d-3316a29c508b",
+    "user_id": null,
+    "term": "year-on-year (YoY)",
+    "term_lang": "en",
+    "translation": "rok do roku",
+    "translation_lang": "pl",
+    "definition": "comparing the same period in different years",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Revenue grew 8% year-on-year.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0e8b8cf0-71a7-446b-9ee1-4346195793f9",
+    "user_id": null,
+    "term": "quarter-on-quarter (QoQ)",
+    "term_lang": "en",
+    "translation": "kwartał do kwartału",
+    "translation_lang": "pl",
+    "definition": "comparing consecutive quarters",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Profit fell 2% quarter-on-quarter.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dfae5787-dfd3-43af-bda2-a8f1938a07c9",
+    "user_id": null,
+    "term": "exponential growth",
+    "term_lang": "en",
+    "translation": "wzrost wykładniczy",
+    "translation_lang": "pl",
+    "definition": "rate of growth becomes faster over time",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "User numbers show exponential growth.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4ec17b15-0a17-4025-87e8-9edddad3daf2",
+    "user_id": null,
+    "term": "plateau",
+    "term_lang": "en",
+    "translation": "ustabilizować się (na plateau)",
+    "translation_lang": "pl",
+    "definition": "to stop increasing after a period of growth",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Sign-ups plateaued in late summer.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8fd747c2-82a8-4cc9-9710-6307120fc156",
+    "user_id": null,
+    "term": "outlier",
+    "term_lang": "en",
+    "translation": "wartość odstająca",
+    "translation_lang": "pl",
+    "definition": "a data point far from others",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We excluded one outlier from the analysis.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a43ca047-ad56-42e9-a3f2-58f6a95d69d6",
+    "user_id": null,
+    "term": "correlation",
+    "term_lang": "en",
+    "translation": "korelacja",
+    "translation_lang": "pl",
+    "definition": "relationship between two variables",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There is a weak correlation between age and usage.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a22d3a12-ecd8-4859-8f1f-0807921b37b5",
+    "user_id": null,
+    "term": "statistically significant",
+    "term_lang": "en",
+    "translation": "istotny statystycznie",
+    "translation_lang": "pl",
+    "definition": "unlikely to be due to chance",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The difference was statistically significant (p<0.05).",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d08bae81-b977-4408-b56e-277fb29c5199",
+    "user_id": null,
+    "term": "margin of error",
+    "term_lang": "en",
+    "translation": "margines błędu",
+    "translation_lang": "pl",
+    "definition": "range within which the true value lies",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The poll has a 3% margin of error.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5c8989cc-f7e8-44ac-a9a6-26ba541fb1b8",
+    "user_id": null,
+    "term": "median",
+    "term_lang": "en",
+    "translation": "mediana",
+    "translation_lang": "pl",
+    "definition": "middle value when data are ordered",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Median income is a better measure here.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "41a63de3-3ada-44a8-b240-915dc01c0e78",
+    "user_id": null,
+    "term": "mean (average)",
+    "term_lang": "en",
+    "translation": "średnia arytmetyczna",
+    "translation_lang": "pl",
+    "definition": "sum divided by number of values",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The mean score increased slightly.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "39d3d210-2d4d-4938-b9b5-46b7fc3a9b21",
+    "user_id": null,
+    "term": "benchmark",
+    "term_lang": "en",
+    "translation": "punkt odniesienia",
+    "translation_lang": "pl",
+    "definition": "standard used for comparison",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We benchmarked our app against competitors.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "60b22c1b-f3cf-4da6-a3c3-67ad725407ba",
+    "user_id": null,
+    "term": "segment",
+    "term_lang": "en",
+    "translation": "segment",
+    "translation_lang": "pl",
+    "definition": "distinct group within a market",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The student segment grew fastest.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8bcfe049-d652-4a0e-a0c9-016d322e609c",
+    "user_id": null,
+    "term": "cohort",
+    "term_lang": "en",
+    "translation": "kohorta",
+    "translation_lang": "pl",
+    "definition": "group of users sharing an attribute",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Retention improved for the 2024 cohort.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d295a42e-4c73-4d4b-bab0-030aee47dd9f",
+    "user_id": null,
+    "term": "uptick",
+    "term_lang": "en",
+    "translation": "lekki wzrost",
+    "translation_lang": "pl",
+    "definition": "a small increase",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There was an uptick in traffic after the release.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9a17ceb6-b041-44e0-8863-db36b3a35da7",
+    "user_id": null,
+    "term": "downturn",
+    "term_lang": "en",
+    "translation": "spowolnienie / recesja",
+    "translation_lang": "pl",
+    "definition": "a period when business activity declines",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The industry faces a downturn this year.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "data-trends-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  }
+]

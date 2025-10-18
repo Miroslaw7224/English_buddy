@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "25bb14a7-dd21-4b2c-8cf0-1a67b266bc19",
+    "user_id": null,
+    "term": "It's widely believed that...",
+    "term_lang": "en",
+    "translation": "Powszechnie uważa się, że...",
+    "translation_lang": "pl",
+    "definition": "introducing a common belief",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It's widely believed that exercise boosts productivity.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "92aea1c5-71cb-4523-b23f-0df3d10d6245",
+    "user_id": null,
+    "term": "One could argue that...",
+    "term_lang": "en",
+    "translation": "Można by argumentować, że...",
+    "translation_lang": "pl",
+    "definition": "introducing a potential argument",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "One could argue that stricter rules are needed.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "455dd412-7a15-4543-85af-109a06b8414c",
+    "user_id": null,
+    "term": "From my standpoint,...",
+    "term_lang": "en",
+    "translation": "Z mojego punktu widzenia,...",
+    "translation_lang": "pl",
+    "definition": "stating viewpoint diplomatically",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "From my standpoint, the risks outweigh the gains.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8393ee3a-e477-42c4-9c3a-9e685a53752a",
+    "user_id": null,
+    "term": "That doesn't necessarily follow.",
+    "term_lang": "en",
+    "translation": "To niekoniecznie z tego wynika.",
+    "translation_lang": "pl",
+    "definition": "challenging faulty logic",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We spent less, but that doesn't necessarily follow that quality dropped.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "869e010e-6397-4a56-b229-a14db4834343",
+    "user_id": null,
+    "term": "Let's agree to disagree.",
+    "term_lang": "en",
+    "translation": "Zgódźmy się, że się nie zgadzamy.",
+    "translation_lang": "pl",
+    "definition": "ending a debate politely",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "After a long discussion, we agreed to disagree.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b64d9bab-2ac4-4995-a632-4b5dafec8a04",
+    "user_id": null,
+    "term": "I take issue with...",
+    "term_lang": "en",
+    "translation": "Nie zgadzam się z...",
+    "translation_lang": "pl",
+    "definition": "politely signal disagreement",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I take issue with the assumption about users.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "871ea403-374b-4509-9192-a20abae26495",
+    "user_id": null,
+    "term": "The crux of the matter is...",
+    "term_lang": "en",
+    "translation": "Sedno sprawy tkwi w...",
+    "translation_lang": "pl",
+    "definition": "focusing on the key point",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The crux of the matter is funding.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1ffc0722-842d-4f52-a2cd-8af03361dd11",
+    "user_id": null,
+    "term": "That remains to be seen.",
+    "term_lang": "en",
+    "translation": "To się jeszcze okaże.",
+    "translation_lang": "pl",
+    "definition": "withholding judgement",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Will the fix help? That remains to be seen.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ca366770-659c-462e-a5fd-01b498b7fe35",
+    "user_id": null,
+    "term": "To be fair,...",
+    "term_lang": "en",
+    "translation": "Szczerze mówiąc / uczciwie mówiąc,...",
+    "translation_lang": "pl",
+    "definition": "balancing criticism with fairness",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "To be fair, the team was understaffed.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bd0abbd3-d4fa-4f60-b403-7e199e872d98",
+    "user_id": null,
+    "term": "With all due respect,...",
+    "term_lang": "en",
+    "translation": "Z całym szacunkiem,...",
+    "translation_lang": "pl",
+    "definition": "softening disagreement formally",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "With all due respect, your data are outdated.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "12d0b404-72b5-43d5-9ebb-42cd0319a0de",
+    "user_id": null,
+    "term": "You make a compelling case.",
+    "term_lang": "en",
+    "translation": "Przedstawiasz przekonujący argument.",
+    "translation_lang": "pl",
+    "definition": "acknowledging strong opposing point",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You make a compelling case for delay.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4e3d1efa-671c-45dc-9491-f53bf1f8a6a6",
+    "user_id": null,
+    "term": "Let's weigh the pros and cons.",
+    "term_lang": "en",
+    "translation": "Rozważmy za i przeciw.",
+    "translation_lang": "pl",
+    "definition": "structuring evaluation",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Let's weigh the pros and cons before deciding.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f127b3fe-b98e-4813-8f92-1b4d7c1b5d6a",
+    "user_id": null,
+    "term": "Wouldn't you agree that...?",
+    "term_lang": "en",
+    "translation": "Czy nie zgodziłbyś się, że...?",
+    "translation_lang": "pl",
+    "definition": "eliciting agreement",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Wouldn't you agree that clarity is crucial?",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "79e3df06-a293-4164-bfe4-dc37182b3326",
+    "user_id": null,
+    "term": "grant (that) ...",
+    "term_lang": "en",
+    "translation": "przyznać, że ...",
+    "translation_lang": "pl",
+    "definition": "concede a point before rebuttal",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I grant that costs are high, but value is higher.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "48382f56-04ad-4e86-896e-75210cf31536",
+    "user_id": null,
+    "term": "undermine an argument",
+    "term_lang": "en",
+    "translation": "podważać argument",
+    "translation_lang": "pl",
+    "definition": "weaken the other side's point",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This example undermines their central claim.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "debating-persuasion",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  }
+]

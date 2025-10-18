@@ -1,0 +1,667 @@
+[
+  {
+    "word_id": "7b9179ce-de22-4fcf-8cf9-460a0f0a8d78",
+    "user_id": null,
+    "term": "nonetheless",
+    "term_lang": "en",
+    "translation": "niemniej jednak",
+    "translation_lang": "pl",
+    "definition": "despite what has just been said",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The method is costly; nonetheless, it delivers results.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7dd09a1b-d208-493d-8a9e-b9b6976ca8b5",
+    "user_id": null,
+    "term": "notwithstanding",
+    "term_lang": "en",
+    "translation": "niezależnie od / pomimo",
+    "translation_lang": "pl",
+    "definition": "in spite of",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Notwithstanding the risks, the board approved the plan.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7acfe65c-697b-4eb4-9068-170a6f008623",
+    "user_id": null,
+    "term": "consequently",
+    "term_lang": "en",
+    "translation": "w konsekwencji",
+    "translation_lang": "pl",
+    "definition": "as a result",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The team lacked data; consequently, they delayed release.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dd74101f-5836-4c0e-bf84-eef565cc4563",
+    "user_id": null,
+    "term": "thereby",
+    "term_lang": "en",
+    "translation": "tym samym",
+    "translation_lang": "pl",
+    "definition": "by that means; as a result of that",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He simplified the code, thereby reducing bugs.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "15789e2b-95e0-48dc-970f-8fa32b99a8e8",
+    "user_id": null,
+    "term": "hence",
+    "term_lang": "en",
+    "translation": "stąd / dlatego",
+    "translation_lang": "pl",
+    "definition": "for this reason",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We lack evidence, hence the cautious tone.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0012f95d-c75a-4f31-95f6-840082c6e98e",
+    "user_id": null,
+    "term": "whereby",
+    "term_lang": "en",
+    "translation": "za pomocą którego",
+    "translation_lang": "pl",
+    "definition": "by which",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They signed an agreement whereby costs are shared.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "advanced-cohesion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fcfd7068-202f-4717-b7d2-758ae316bbe8",
+    "user_id": null,
+    "term": "inasmuch as",
+    "term_lang": "en",
+    "translation": "o tyle że / ponieważ",
+    "translation_lang": "pl",
+    "definition": "to the extent that; because",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The claim holds, inasmuch as the sample was balanced.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "advanced-cohesion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9ba3b8a1-c485-464e-b5d1-e388cb9df0cd",
+    "user_id": null,
+    "term": "albeit",
+    "term_lang": "en",
+    "translation": "aczkolwiek",
+    "translation_lang": "pl",
+    "definition": "although (formal)",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A promising, albeit preliminary, result.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "advanced-cohesion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "84d77a8d-7eb9-4d26-8fbe-2435b545c881",
+    "user_id": null,
+    "term": "whereas",
+    "term_lang": "en",
+    "translation": "podczas gdy",
+    "translation_lang": "pl",
+    "definition": "in contrast",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The north is dry, whereas the south is humid.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "advanced-cohesion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "30a4bd34-38d4-4b6e-8737-2264ee78cc43",
+    "user_id": null,
+    "term": "moreover",
+    "term_lang": "en",
+    "translation": "co więcej",
+    "translation_lang": "pl",
+    "definition": "adds a strong point",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The tool is fast; moreover, it is reliable.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "advanced-cohesion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5405082e-7cb0-439a-b054-cd928664f82e",
+    "user_id": null,
+    "term": "furthermore",
+    "term_lang": "en",
+    "translation": "ponadto",
+    "translation_lang": "pl",
+    "definition": "adds a further point",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The policy is fair; furthermore, it's transparent.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "advanced-cohesion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "41705d70-7b29-45fa-bdc2-7cded1f092b4",
+    "user_id": null,
+    "term": "nonetheless ... still",
+    "term_lang": "en",
+    "translation": "mimo to ... wciąż",
+    "translation_lang": "pl",
+    "definition": "paired concessive structure",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The path is steep; nonetheless, we still proceeded.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "advanced-cohesion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4b7d9ff3-622f-458f-bf95-2d03852f3b90",
+    "user_id": null,
+    "term": "for all (that)",
+    "term_lang": "en",
+    "translation": "pomimo (tego)",
+    "translation_lang": "pl",
+    "definition": "despite",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "For all his talent, he struggled with deadlines.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "advanced-cohesion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "13bdb6f0-2b7f-4638-8bd1-3d09cd50e245",
+    "user_id": null,
+    "term": "on the grounds that",
+    "term_lang": "en",
+    "translation": "z tego względu, że",
+    "translation_lang": "pl",
+    "definition": "reasoning frame",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The appeal was rejected on the grounds that it was late.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "advanced-cohesion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "02c8fb37-b99a-41a3-9121-ff89a582f9ff",
+    "user_id": null,
+    "term": "on condition that",
+    "term_lang": "en",
+    "translation": "pod warunkiem że",
+    "translation_lang": "pl",
+    "definition": "conditional linker",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Access is granted on condition that data are anonymised.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "advanced-cohesion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  }
+]

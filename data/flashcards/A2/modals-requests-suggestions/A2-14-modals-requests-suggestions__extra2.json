@@ -1,0 +1,869 @@
+{
+  "pack_id": "a2_14_modals_requests_suggestions_extra2",
+  "title": "A2 14 Modals Requests Suggestions — Extra 2",
+  "level": "A2",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "27c6cadf-08a8-413f-acbc-fb3a53101c0c",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "make a reservation",
+      "back": "dokonać rezerwacji",
+      "hint": "Book a service.",
+      "examples": [
+        [
+          "We made a reservation online.",
+          "Dokonaliśmy rezerwacji online."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'make a reservation'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "dokonać rezerwacji"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dokonać rezerwacji'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "29f72d0a-417b-430f-a880-2b80a4a68b64",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "public transport",
+      "back": "transport publiczny",
+      "hint": "Buses, trams, etc.",
+      "examples": [
+        [
+          "Use public transport.",
+          "Korzystaj z transportu publicznego."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'public transport'?",
+            "options": [
+              "transport publiczny",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'transport publiczny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "215ec4e0-ff9b-4983-8b1e-3d1ce679ed3d",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "take the bus",
+      "back": "jechać autobusem",
+      "hint": "Travel by bus.",
+      "examples": [
+        [
+          "I take the bus to work.",
+          "Jeżdżę do pracy autobusem."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'take the bus'?",
+            "options": [
+              "jechać autobusem",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jechać autobusem'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "1a94b11c-44f6-4ff4-9c71-7761a6a07f3e",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "traffic jam",
+      "back": "korek uliczny",
+      "hint": "Heavy traffic.",
+      "examples": [
+        [
+          "There is a traffic jam.",
+          "Jest korek."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'traffic jam'?",
+            "options": [
+              "korek uliczny",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'korek uliczny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a85775d0-6abf-4dfa-bf79-c55ff0488ffd",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "fully booked",
+      "back": "wszystkie miejsca zajęte",
+      "hint": "No seats left.",
+      "examples": [
+        [
+          "The hotel is fully booked.",
+          "Hotel jest w pełni zajęty."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'fully booked'?",
+            "options": [
+              "wszystkie miejsca zajęte",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wszystkie miejsca zajęte'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "37d562fb-7bcc-4c74-adfd-ee349bcbb117",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "no vacancies",
+      "back": "brak wolnych miejsc",
+      "hint": "No rooms available.",
+      "examples": [
+        [
+          "No vacancies today.",
+          "Dziś brak wolnych miejsc."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'no vacancies'?",
+            "options": [
+              "tak",
+              "brak wolnych miejsc",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'brak wolnych miejsc'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "23a572fb-9cc1-40a6-b07f-b9f653149e19",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "allergic to",
+      "back": "uczulony na",
+      "hint": "Have an allergy.",
+      "examples": [
+        [
+          "I am allergic to nuts.",
+          "Jestem uczulony na orzechy."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'allergic to'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "uczulony na"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'uczulony na'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6f20aab7-dfaf-4cbb-b0ea-110537cb39d6",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "opening hours",
+      "back": "godziny otwarcia",
+      "hint": "When a place is open.",
+      "examples": [
+        [
+          "Check opening hours.",
+          "Sprawdź godziny otwarcia."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'opening hours'?",
+            "options": [
+              "tak",
+              "godziny otwarcia",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'godziny otwarcia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "1fec242f-0c56-4a7e-8b51-5f0c40bbc81e",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "price list",
+      "back": "cennik",
+      "hint": "List of prices.",
+      "examples": [
+        [
+          "Where is the price list?",
+          "Gdzie jest cennik?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'price list'?",
+            "options": [
+              "tak",
+              "cennik",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'cennik'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "76beafe4-6cbf-426a-9487-455a0fe55c4a",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "delivery",
+      "back": "dostawa",
+      "hint": "Bringing goods.",
+      "examples": [
+        [
+          "Free delivery.",
+          "Darmowa dostawa."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'delivery'?",
+            "options": [
+              "tak",
+              "dostawa",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dostawa'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "969c6c68-5731-4c75-9d6b-c5a44e7fd008",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "discount",
+      "back": "zniżka",
+      "hint": "Lower price.",
+      "examples": [
+        [
+          "Do you offer a discount?",
+          "Czy oferujecie zniżkę?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'discount'?",
+            "options": [
+              "tak",
+              "zniżka",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zniżka'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ef01e008-d792-4200-a3f0-8b156c1ee6a9",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "customer service",
+      "back": "obsługa klienta",
+      "hint": "Help for customers.",
+      "examples": [
+        [
+          "Call customer service.",
+          "Zadzwoń na obsługę klienta."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'customer service'?",
+            "options": [
+              "tak",
+              "obsługa klienta",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'obsługa klienta'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "aaaf8ee8-a827-481e-97c3-94c4a2ce5629",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "refund",
+      "back": "zwrot pieniędzy",
+      "hint": "Money back.",
+      "examples": [
+        [
+          "Ask for a refund.",
+          "Poproś o zwrot pieniędzy."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'refund'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "zwrot pieniędzy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zwrot pieniędzy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "448e6218-f5d9-4dcf-98ce-124afaa0308c",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "exchange rate",
+      "back": "kurs wymiany",
+      "hint": "Value of currency.",
+      "examples": [
+        [
+          "Check the exchange rate.",
+          "Sprawdź kurs wymiany."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'exchange rate'?",
+            "options": [
+              "tak",
+              "kurs wymiany",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'kurs wymiany'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "879aaa4e-1c87-4030-99e9-2e5de1ac80f3",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "boarding pass",
+      "back": "karta pokładowa",
+      "hint": "Airport document.",
+      "examples": [
+        [
+          "Show your boarding pass.",
+          "Pokaż kartę pokładową."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'boarding pass'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "karta pokładowa",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'karta pokładowa'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8155cdde-2818-4879-a0f4-4167e52f74af",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "gate number",
+      "back": "numer bramki",
+      "hint": "Airport gate.",
+      "examples": [
+        [
+          "What's the gate number?",
+          "Jaki jest numer bramki?"
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'gate number'?",
+            "options": [
+              "numer bramki",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'numer bramki'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6ce0e940-5430-4b80-a43d-6f2f0508dc7d",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "seat belt",
+      "back": "pas bezpieczeństwa",
+      "hint": "Car/plane safety.",
+      "examples": [
+        [
+          "Fasten your seat belt.",
+          "Zapinaj pas bezpieczeństwa."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'seat belt'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "pas bezpieczeństwa",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'pas bezpieczeństwa'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "98600198-e3ed-4e65-b2d9-ec7562f5a08a",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "delayed",
+      "back": "opóźniony",
+      "hint": "Not on time.",
+      "examples": [
+        [
+          "The flight is delayed.",
+          "Lot jest opóźniony."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'delayed'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "opóźniony"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'opóźniony'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a06313f4-b9e1-44be-a2a8-062712372017",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "cancelled",
+      "back": "odwołany",
+      "hint": "Called off.",
+      "examples": [
+        [
+          "The train is cancelled.",
+          "Pociąg jest odwołany."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'cancelled'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "odwołany",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'odwołany'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b270076b-7b70-41a4-933a-79d6ae498121",
+      "level": "A2",
+      "difficulty": "elementary",
+      "topic": "A2 14 Modals Requests Suggestions",
+      "front": "travel insurance",
+      "back": "ubezpieczenie podróżne",
+      "hint": "Insurance for travel.",
+      "examples": [
+        [
+          "Buy travel insurance.",
+          "Kup ubezpieczenie podróżne."
+        ]
+      ],
+      "tags": [
+        "a2",
+        "extra2"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra wave 2."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'travel insurance'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "ubezpieczenie podróżne"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ubezpieczenie podróżne'."
+          }
+        ]
+      }
+    }
+  ]
+}

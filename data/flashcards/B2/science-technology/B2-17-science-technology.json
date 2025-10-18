@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "eaafc831-9956-4021-bbac-2bbc9d2e9921",
+    "user_id": null,
+    "term": "breakthrough",
+    "term_lang": "en",
+    "translation": "przełom",
+    "translation_lang": "pl",
+    "definition": "an important discovery or development",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This drug is a breakthrough in treatment.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e8219398-8a46-4e03-99bf-67a04997eb1d",
+    "user_id": null,
+    "term": "proof of concept (PoC)",
+    "term_lang": "en",
+    "translation": "dowód słuszności koncepcji",
+    "translation_lang": "pl",
+    "definition": "initial test to show an idea works",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We built a proof of concept in two weeks.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bdd264c4-ee27-436f-8b69-a84eea8bb0a1",
+    "user_id": null,
+    "term": "prototype",
+    "term_lang": "en",
+    "translation": "prototyp",
+    "translation_lang": "pl",
+    "definition": "first working model of a product",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The prototype was tested with users.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9b24968a-ee40-43b8-82a4-befebb3d90cf",
+    "user_id": null,
+    "term": "scalability",
+    "term_lang": "en",
+    "translation": "skalowalność",
+    "translation_lang": "pl",
+    "definition": "ability of a system to handle growth",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We must consider scalability from the start.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "56904406-f6d8-45cf-ad1a-ea4fc82f00b3",
+    "user_id": null,
+    "term": "open-source",
+    "term_lang": "en",
+    "translation": "otwarte oprogramowanie",
+    "translation_lang": "pl",
+    "definition": "software whose code is publicly available",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We used an open-source library.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "856eb8f7-9d1a-44f9-82b1-cb6ede23a49b",
+    "user_id": null,
+    "term": "trade-off",
+    "term_lang": "en",
+    "translation": "kompromis",
+    "translation_lang": "pl",
+    "definition": "balance between two competing features",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There's a trade-off between speed and accuracy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "693967dc-835f-4706-a33e-4c96509caf19",
+    "user_id": null,
+    "term": "algorithm",
+    "term_lang": "en",
+    "translation": "algorytm",
+    "translation_lang": "pl",
+    "definition": "set of rules a computer follows",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The algorithm ranks results by relevance.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "506eb09b-62dc-4b81-b91c-5e9fcca3bfaf",
+    "user_id": null,
+    "term": "deployment",
+    "term_lang": "en",
+    "translation": "wdrożenie",
+    "translation_lang": "pl",
+    "definition": "release of software into production",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Deployment is planned for Friday.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d7c4a378-b849-4359-a4d5-eef4e936fa4b",
+    "user_id": null,
+    "term": "iterate",
+    "term_lang": "en",
+    "translation": "iterować",
+    "translation_lang": "pl",
+    "definition": "to improve through repeated cycles",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We iterate based on user feedback.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d979c1e5-6812-4302-a414-a26541f338b1",
+    "user_id": null,
+    "term": "backwards compatibility",
+    "term_lang": "en",
+    "translation": "wsteczna kompatybilność",
+    "translation_lang": "pl",
+    "definition": "ability to work with older versions",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The update keeps backwards compatibility.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8f6a33cf-a2d1-4d0b-a358-0533e277d56d",
+    "user_id": null,
+    "term": "data privacy",
+    "term_lang": "en",
+    "translation": "prywatność danych",
+    "translation_lang": "pl",
+    "definition": "protection of personal information",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We follow strict data privacy rules.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1ff2e0ac-7b82-4f11-8471-e24185f951bc",
+    "user_id": null,
+    "term": "machine learning model",
+    "term_lang": "en",
+    "translation": "model uczenia maszynowego",
+    "translation_lang": "pl",
+    "definition": "program that learns patterns from data",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The machine learning model predicts demand.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "15171b0a-8193-4b56-aeee-63c4f476995e",
+    "user_id": null,
+    "term": "bug fix",
+    "term_lang": "en",
+    "translation": "naprawa błędu",
+    "translation_lang": "pl",
+    "definition": "a change that corrects a defect",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The new release includes a critical bug fix.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c46eeb8d-0a02-4d48-bf20-a501972f6117",
+    "user_id": null,
+    "term": "feature parity",
+    "term_lang": "en",
+    "translation": "parytet funkcji",
+    "translation_lang": "pl",
+    "definition": "having the same features as another product",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We aim for feature parity with the web app.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "031959a6-cdcd-4756-a3ea-2e3642c6c681",
+    "user_id": null,
+    "term": "technical debt",
+    "term_lang": "en",
+    "translation": "dług techniczny",
+    "translation_lang": "pl",
+    "definition": "future cost caused by quick solutions now",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We plan to pay down technical debt this sprint.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "science-technology",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  }
+]

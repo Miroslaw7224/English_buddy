@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "45ca12dd-7f37-40f0-b2fb-e185050c3e62",
+    "user_id": null,
+    "term": "is done",
+    "term_lang": "en",
+    "translation": "jest robione",
+    "translation_lang": "pl",
+    "definition": "present simple passive",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The report is done every month.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2ca37cb8-e979-4a19-bfb9-894f5b6225aa",
+    "user_id": null,
+    "term": "is being done",
+    "term_lang": "en",
+    "translation": "jest właśnie robione",
+    "translation_lang": "pl",
+    "definition": "present continuous passive",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The maintenance is being done now.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "69d58608-e146-426f-ac58-0d9941c6ff91",
+    "user_id": null,
+    "term": "was done",
+    "term_lang": "en",
+    "translation": "zostało zrobione",
+    "translation_lang": "pl",
+    "definition": "past simple passive",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The order was done yesterday.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a9dec3ea-b61d-45a4-812a-9aefaca6f2a9",
+    "user_id": null,
+    "term": "was being done",
+    "term_lang": "en",
+    "translation": "było robione (w trakcie)",
+    "translation_lang": "pl",
+    "definition": "past continuous passive",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The backup was being done at midnight.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fb07f644-d6c0-4944-bfd6-e98eefaad539",
+    "user_id": null,
+    "term": "has been done",
+    "term_lang": "en",
+    "translation": "zostało zrobione (do teraz)",
+    "translation_lang": "pl",
+    "definition": "present perfect passive",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Most tasks have been done already.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b6b559be-8964-4007-b6c9-c33c8fae60c7",
+    "user_id": null,
+    "term": "had been done",
+    "term_lang": "en",
+    "translation": "zostało zrobione (przedtem)",
+    "translation_lang": "pl",
+    "definition": "past perfect passive",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The review had been done before launch.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8e29a8df-ea79-43fa-a847-8db1911e851a",
+    "user_id": null,
+    "term": "will be done",
+    "term_lang": "en",
+    "translation": "będzie zrobione",
+    "translation_lang": "pl",
+    "definition": "future simple passive",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The work will be done by Friday.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2fda236c-4917-4743-a530-6be61fcb77ce",
+    "user_id": null,
+    "term": "will have been done",
+    "term_lang": "en",
+    "translation": "będzie już zrobione",
+    "translation_lang": "pl",
+    "definition": "future perfect passive",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "All tickets will have been done by noon.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a5ef4834-323b-44da-ac33-311d29f397ee",
+    "user_id": null,
+    "term": "can be seen",
+    "term_lang": "en",
+    "translation": "może być widziane",
+    "translation_lang": "pl",
+    "definition": "modal + be + past participle",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The results can be seen on the dashboard.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8d4fb7b2-bb95-4123-b087-6e04006b4568",
+    "user_id": null,
+    "term": "must be approved",
+    "term_lang": "en",
+    "translation": "musi zostać zatwierdzone",
+    "translation_lang": "pl",
+    "definition": "modal + be + past participle",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Budget changes must be approved.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "06e1a3ef-e9cb-4f1c-bdff-f52d6f62d1c6",
+    "user_id": null,
+    "term": "should be considered",
+    "term_lang": "en",
+    "translation": "należy rozważyć",
+    "translation_lang": "pl",
+    "definition": "modal + be + past participle",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "All options should be considered.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ad9effb4-e3c1-4a6a-bb34-8213a7106f55",
+    "user_id": null,
+    "term": "has been built",
+    "term_lang": "en",
+    "translation": "zostało zbudowane",
+    "translation_lang": "pl",
+    "definition": "present perfect passive specific verb",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A new wing has been built.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "df622c9d-7a9c-467f-aa68-818e973e62e5",
+    "user_id": null,
+    "term": "get promoted (passive)",
+    "term_lang": "en",
+    "translation": "zostać awansowanym",
+    "translation_lang": "pl",
+    "definition": "get-passive (colloquial)",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She got promoted last year.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "29f2f9a8-c2ea-4dd3-9d8e-1e5dbd85498c",
+    "user_id": null,
+    "term": "be expected to be done",
+    "term_lang": "en",
+    "translation": "oczekuje się, że będzie zrobione",
+    "translation_lang": "pl",
+    "definition": "semi-passive expectation",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The update is expected to be done soon.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "76eb7544-c196-4077-ac86-a818caf81de6",
+    "user_id": null,
+    "term": "be supposed to be done",
+    "term_lang": "en",
+    "translation": "ma być zrobione (zgodnie z planem)",
+    "translation_lang": "pl",
+    "definition": "semi-passive obligation/plan",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The task is supposed to be done today.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "passive-across-tenses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  }
+]

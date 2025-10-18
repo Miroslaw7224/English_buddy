@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "b2a3e8d1-1f31-4a7d-998c-c4d5133d61dc",
+    "user_id": null,
+    "term": "comma splice",
+    "term_lang": "en",
+    "translation": "błąd: przecinek zamiast spójnika",
+    "translation_lang": "pl",
+    "definition": "two independent clauses joined by comma",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Fix the comma splice with a semicolon or conjunction.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "89bc06bf-01be-4c2d-823a-bc3db2198e60",
+    "user_id": null,
+    "term": "run-on sentence",
+    "term_lang": "en",
+    "translation": "zdanie wielokrotnie złożone bez łączników",
+    "translation_lang": "pl",
+    "definition": "two clauses improperly connected",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Break the run-on sentence into two.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c4166a7a-43e2-4e87-a20f-43ebf0dc98d8",
+    "user_id": null,
+    "term": "dangling modifier",
+    "term_lang": "en",
+    "translation": "wiszący modyfikator",
+    "translation_lang": "pl",
+    "definition": "modifier without a clear subject",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Fix the dangling modifier by adding the subject.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f754c434-4d3a-4b91-8db5-d126e0f3d07b",
+    "user_id": null,
+    "term": "misplaced modifier",
+    "term_lang": "en",
+    "translation": "błędnie umieszczony modyfikator",
+    "translation_lang": "pl",
+    "definition": "modifier too far from the word it modifies",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Avoid misplaced modifiers for clarity.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "166de3cc-eb40-4271-b2cc-d931c1f1f466",
+    "user_id": null,
+    "term": "subject–verb agreement (hard cases)",
+    "term_lang": "en",
+    "translation": "zgodność podmiotu z orzeczeniem (trudne przypadki)",
+    "translation_lang": "pl",
+    "definition": "agreement with collective nouns etc.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Data are plural in academic style.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a1ab3ed0-97b3-4fa4-90ee-b090d4ad3c80",
+    "user_id": null,
+    "term": "parallel construction",
+    "term_lang": "en",
+    "translation": "konstrukcja równoległa",
+    "translation_lang": "pl",
+    "definition": "matching grammatical forms",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Keep bullet points in parallel construction.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d875f2cd-39a2-4813-8b76-59d272786cb2",
+    "user_id": null,
+    "term": "brevity vs completeness",
+    "term_lang": "en",
+    "translation": "zwięzłość vs kompletność",
+    "translation_lang": "pl",
+    "definition": "finding balance",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Aim for brevity without losing meaning.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7af9adad-f26b-439e-b2a8-03299fc394b1",
+    "user_id": null,
+    "term": "rhetorical rhythm",
+    "term_lang": "en",
+    "translation": "rytm retoryczny",
+    "translation_lang": "pl",
+    "definition": "flow created by sentence length and stress",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Vary sentence length for better rhythm.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8f9fd8e2-c201-4a1a-8c1c-5bc4c325df4f",
+    "user_id": null,
+    "term": "overuse of passive",
+    "term_lang": "en",
+    "translation": "nadużycie strony biernej",
+    "translation_lang": "pl",
+    "definition": "too many passive forms",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Reduce overuse of passive for clarity.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5efea2ad-791b-4157-9aff-53d01dcb7e64",
+    "user_id": null,
+    "term": "word choice (register)",
+    "term_lang": "en",
+    "translation": "dobór słownictwa (rejestr)",
+    "translation_lang": "pl",
+    "definition": "match words to formality and audience",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Tune word choice to the register.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3852719b-37bf-4258-861c-c7c478576c8e",
+    "user_id": null,
+    "term": "cohesion vs coherence",
+    "term_lang": "en",
+    "translation": "spójność leksykalna vs logiczna",
+    "translation_lang": "pl",
+    "definition": "links on the surface vs logical sense",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Ensure both cohesion and coherence.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "55a8b8da-0c6f-4cf1-9127-0981b1cb3b8c",
+    "user_id": null,
+    "term": "expletive constructions",
+    "term_lang": "en",
+    "translation": "konstrukcje egzystencjalne (there is/it is)",
+    "translation_lang": "pl",
+    "definition": "weak openings to be trimmed",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Trim expletive openings when possible.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ec0db6a7-9af2-4e34-92c5-2f03110ab5b9",
+    "user_id": null,
+    "term": "consistency of terms",
+    "term_lang": "en",
+    "translation": "spójność terminologii",
+    "translation_lang": "pl",
+    "definition": "using the same labels consistently",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Maintain consistency of terms across sections.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b11d7cb3-19bd-45a1-99a9-9f41a7596a48",
+    "user_id": null,
+    "term": "significant figures",
+    "term_lang": "en",
+    "translation": "znaczące cyfry (precyzja liczb)",
+    "translation_lang": "pl",
+    "definition": "appropriate numeric precision",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Limit to appropriate significant figures.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e38557c5-0d69-44bb-ae20-1d6be1a5af14",
+    "user_id": null,
+    "term": "house style exceptions",
+    "term_lang": "en",
+    "translation": "wyjątki od stylu redakcyjnego",
+    "translation_lang": "pl",
+    "definition": "when rules can be bent",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Document house style exceptions.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "editing-clinic",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  }
+]

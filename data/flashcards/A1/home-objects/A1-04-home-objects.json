@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "c0ef0e04-abb5-46a4-a561-39c871fc83b1",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "house",
+    "term_lang": "en",
+    "translation": "dom",
+    "translation_lang": "pl",
+    "definition": "A building where people live.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My house is small.",
+        "translation": "Mój dom jest mały."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:00:00Z",
+      "last_review_at": "2025-10-06T09:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:00:00Z",
+    "updated_at": "2025-10-06T09:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d51f4a20-18db-49bf-b6de-ea936179d3bf",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "flat",
+    "term_lang": "en",
+    "translation": "mieszkanie",
+    "translation_lang": "pl",
+    "definition": "A home in a building with many homes.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We live in a flat.",
+        "translation": "Mieszkamy w mieszkaniu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:01:00Z",
+      "last_review_at": "2025-10-06T09:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:01:00Z",
+    "updated_at": "2025-10-06T09:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f1acd444-c13b-464a-ad04-0273fdd3e19c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "room",
+    "term_lang": "en",
+    "translation": "pokój",
+    "translation_lang": "pl",
+    "definition": "A part of a house with walls.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This room is bright.",
+        "translation": "Ten pokój jest jasny."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:02:00Z",
+      "last_review_at": "2025-10-06T09:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:02:00Z",
+    "updated_at": "2025-10-06T09:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9f65c56a-b976-45da-92eb-ca5cd3b1f0df",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "kitchen",
+    "term_lang": "en",
+    "translation": "kuchnia",
+    "translation_lang": "pl",
+    "definition": "A room where you cook.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The kitchen is clean.",
+        "translation": "Kuchnia jest czysta."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:03:00Z",
+      "last_review_at": "2025-10-06T09:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:03:00Z",
+    "updated_at": "2025-10-06T09:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "200a6fe2-1a9c-40a0-bcca-da617b429e6e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "bathroom",
+    "term_lang": "en",
+    "translation": "łazienka",
+    "translation_lang": "pl",
+    "definition": "A room where you wash.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The bathroom is small.",
+        "translation": "Łazienka jest mała."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:04:00Z",
+      "last_review_at": "2025-10-06T09:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:04:00Z",
+    "updated_at": "2025-10-06T09:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3fa021d8-386f-4c1d-b828-ba49b96af807",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "bedroom",
+    "term_lang": "en",
+    "translation": "sypialnia",
+    "translation_lang": "pl",
+    "definition": "A room where you sleep.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The bedroom has a big bed.",
+        "translation": "Sypialnia ma duże łóżko."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:05:00Z",
+      "last_review_at": "2025-10-06T09:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:05:00Z",
+    "updated_at": "2025-10-06T09:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5b96ffdb-826f-4297-a501-0de2c8b5f462",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "bed",
+    "term_lang": "en",
+    "translation": "łóżko",
+    "translation_lang": "pl",
+    "definition": "A thing you sleep on.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The bed is soft.",
+        "translation": "Łóżko jest miękkie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:06:00Z",
+      "last_review_at": "2025-10-06T09:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:06:00Z",
+    "updated_at": "2025-10-06T09:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "78cc7109-d5fb-44a6-847d-2947802d97a7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "table",
+    "term_lang": "en",
+    "translation": "stół",
+    "translation_lang": "pl",
+    "definition": "A piece of furniture with a flat top.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The table is round.",
+        "translation": "Stół jest okrągły."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:07:00Z",
+      "last_review_at": "2025-10-06T09:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:07:00Z",
+    "updated_at": "2025-10-06T09:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0c339645-291e-459d-9af0-9cc43bdbea25",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "chair",
+    "term_lang": "en",
+    "translation": "krzesło",
+    "translation_lang": "pl",
+    "definition": "A seat for one person.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The chair is new.",
+        "translation": "Krzesło jest nowe."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:08:00Z",
+      "last_review_at": "2025-10-06T09:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:08:00Z",
+    "updated_at": "2025-10-06T09:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2e8f4c46-e600-412c-a696-2a22434a9a8c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "sofa",
+    "term_lang": "en",
+    "translation": "sofa/kanapa",
+    "translation_lang": "pl",
+    "definition": "A long, soft seat for two or more people.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The sofa is comfortable.",
+        "translation": "Sofa jest wygodna."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:09:00Z",
+      "last_review_at": "2025-10-06T09:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:09:00Z",
+    "updated_at": "2025-10-06T09:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c1da6472-7fe2-4228-bdca-3dcce496526c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "window",
+    "term_lang": "en",
+    "translation": "okno",
+    "translation_lang": "pl",
+    "definition": "An opening in a wall with glass.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Open the window, please.",
+        "translation": "Otwórz okno, proszę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:10:00Z",
+      "last_review_at": "2025-10-06T09:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:10:00Z",
+    "updated_at": "2025-10-06T09:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b52a2c8b-5747-4ac6-8b66-6efa76f71361",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "door",
+    "term_lang": "en",
+    "translation": "drzwi",
+    "translation_lang": "pl",
+    "definition": "You open and close it to go in or out.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Close the door, please.",
+        "translation": "Zamknij drzwi, proszę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:11:00Z",
+      "last_review_at": "2025-10-06T09:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:11:00Z",
+    "updated_at": "2025-10-06T09:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d80ae9ff-b616-4af6-b113-97625fd58a80",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "lamp",
+    "term_lang": "en",
+    "translation": "lampa",
+    "translation_lang": "pl",
+    "definition": "A thing that gives light.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Turn on the lamp.",
+        "translation": "Włącz lampę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:12:00Z",
+      "last_review_at": "2025-10-06T09:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:12:00Z",
+    "updated_at": "2025-10-06T09:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0039f97a-3ec1-4868-9999-fc728fb7aa5e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "fridge",
+    "term_lang": "en",
+    "translation": "lodówka",
+    "translation_lang": "pl",
+    "definition": "A cold box to keep food fresh.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The milk is in the fridge.",
+        "translation": "Mleko jest w lodówce."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:13:00Z",
+      "last_review_at": "2025-10-06T09:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:13:00Z",
+    "updated_at": "2025-10-06T09:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a13db45b-f215-4e5e-8fe7-71784a036c52",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "cup",
+    "term_lang": "en",
+    "translation": "kubek",
+    "translation_lang": "pl",
+    "definition": "A small container for drinking.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This is my cup.",
+        "translation": "To jest mój kubek."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-04-home-objects",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:14:00Z",
+      "last_review_at": "2025-10-06T09:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:14:00Z",
+    "updated_at": "2025-10-06T09:14:00Z",
+    "deleted_at": null
+  }
+]

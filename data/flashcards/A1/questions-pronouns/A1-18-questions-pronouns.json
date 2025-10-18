@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "22bc792d-df49-4a27-b8ce-9fb04f80bc4c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "what",
+    "term_lang": "en",
+    "translation": "co",
+    "translation_lang": "pl",
+    "definition": "A word used to ask about things.",
+    "part_of_speech": "pronoun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "What is this?",
+        "translation": "Co to jest?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:00:00Z",
+      "last_review_at": "2025-10-06T09:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:00:00Z",
+    "updated_at": "2025-10-06T09:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8972375a-aa2c-4c4f-9ba3-367c7a5cc88f",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "who",
+    "term_lang": "en",
+    "translation": "kto",
+    "translation_lang": "pl",
+    "definition": "A word used to ask about people.",
+    "part_of_speech": "pronoun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Who is he?",
+        "translation": "Kim on jest?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:01:00Z",
+      "last_review_at": "2025-10-06T09:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:01:00Z",
+    "updated_at": "2025-10-06T09:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6d51492b-d4b5-4842-90c5-b8bcbd4ce224",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "where",
+    "term_lang": "en",
+    "translation": "gdzie",
+    "translation_lang": "pl",
+    "definition": "A word to ask about place.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Where is the station?",
+        "translation": "Gdzie jest dworzec?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:02:00Z",
+      "last_review_at": "2025-10-06T09:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:02:00Z",
+    "updated_at": "2025-10-06T09:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "abe287cc-efcc-4429-9457-5503a30aea28",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "when",
+    "term_lang": "en",
+    "translation": "kiedy",
+    "translation_lang": "pl",
+    "definition": "A word to ask about time.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "When is the lesson?",
+        "translation": "Kiedy jest lekcja?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:03:00Z",
+      "last_review_at": "2025-10-06T09:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:03:00Z",
+    "updated_at": "2025-10-06T09:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c9be0d39-e0be-4fcf-bf7e-c1ed72ad1e0b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "why",
+    "term_lang": "en",
+    "translation": "dlaczego",
+    "translation_lang": "pl",
+    "definition": "A word to ask for reason.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Why are you late?",
+        "translation": "Dlaczego się spóźniłeś?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:04:00Z",
+      "last_review_at": "2025-10-06T09:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:04:00Z",
+    "updated_at": "2025-10-06T09:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "29c0a2cd-3934-482f-9c2d-214eb69974bb",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "how",
+    "term_lang": "en",
+    "translation": "jak",
+    "translation_lang": "pl",
+    "definition": "A word to ask about manner or way.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "How do you go to work?",
+        "translation": "Jak jeździsz do pracy?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:05:00Z",
+      "last_review_at": "2025-10-06T09:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:05:00Z",
+    "updated_at": "2025-10-06T09:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1e49ce6a-a52d-4c6e-98e6-4259409e441b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "which",
+    "term_lang": "en",
+    "translation": "który",
+    "translation_lang": "pl",
+    "definition": "A word to choose between things.",
+    "part_of_speech": "pronoun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Which bag is yours?",
+        "translation": "Która torba jest twoja?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:06:00Z",
+      "last_review_at": "2025-10-06T09:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:06:00Z",
+    "updated_at": "2025-10-06T09:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e0f2a4aa-be82-4168-a493-b78e5c85ac74",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "this",
+    "term_lang": "en",
+    "translation": "to/ten/ta",
+    "translation_lang": "pl",
+    "definition": "A word for something near you.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This book is good.",
+        "translation": "Ta książka jest dobra."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:07:00Z",
+      "last_review_at": "2025-10-06T09:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:07:00Z",
+    "updated_at": "2025-10-06T09:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9eb55902-e8d0-4dc3-aa0b-252ae63d383f",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "that",
+    "term_lang": "en",
+    "translation": "tamto/ten/ta",
+    "translation_lang": "pl",
+    "definition": "A word for something not near you.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "That car is new.",
+        "translation": "Tamten samochód jest nowy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:08:00Z",
+      "last_review_at": "2025-10-06T09:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:08:00Z",
+    "updated_at": "2025-10-06T09:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9f044506-5be6-40b7-9755-3fc0947c137e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "these",
+    "term_lang": "en",
+    "translation": "te",
+    "translation_lang": "pl",
+    "definition": "Plural of 'this'.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "These shoes are nice.",
+        "translation": "Te buty są ładne."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:09:00Z",
+      "last_review_at": "2025-10-06T09:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:09:00Z",
+    "updated_at": "2025-10-06T09:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f3978087-db16-4552-a5df-93bf8ee7f413",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "those",
+    "term_lang": "en",
+    "translation": "tamte",
+    "translation_lang": "pl",
+    "definition": "Plural of 'that'.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Those apples are sweet.",
+        "translation": "Tamte jabłka są słodkie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:10:00Z",
+      "last_review_at": "2025-10-06T09:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:10:00Z",
+    "updated_at": "2025-10-06T09:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d7841305-e0f4-4acc-9d55-6ebe1600ba2e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "I",
+    "term_lang": "en",
+    "translation": "ja",
+    "translation_lang": "pl",
+    "definition": "The person speaking.",
+    "part_of_speech": "pronoun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I am from Poland.",
+        "translation": "Jestem z Polski."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:11:00Z",
+      "last_review_at": "2025-10-06T09:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:11:00Z",
+    "updated_at": "2025-10-06T09:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "99bd38b6-bc48-4fa1-85c6-6914ddbb910d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "you",
+    "term_lang": "en",
+    "translation": "ty/wy",
+    "translation_lang": "pl",
+    "definition": "The person you talk to.",
+    "part_of_speech": "pronoun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You are my friend.",
+        "translation": "Jesteś moim przyjacielem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:12:00Z",
+      "last_review_at": "2025-10-06T09:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:12:00Z",
+    "updated_at": "2025-10-06T09:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f0ebc38f-b1a0-406e-84f1-1e5c296afcaf",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "he",
+    "term_lang": "en",
+    "translation": "on",
+    "translation_lang": "pl",
+    "definition": "A male person.",
+    "part_of_speech": "pronoun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He is a teacher.",
+        "translation": "On jest nauczycielem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:13:00Z",
+      "last_review_at": "2025-10-06T09:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:13:00Z",
+    "updated_at": "2025-10-06T09:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e8da9887-7ee3-4d46-93ee-3ef4f5e384d2",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "she",
+    "term_lang": "en",
+    "translation": "ona",
+    "translation_lang": "pl",
+    "definition": "A female person.",
+    "part_of_speech": "pronoun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She is my sister.",
+        "translation": "Ona jest moją siostrą."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "A1-18-questions-pronouns",
+    "deck_id": null,
+    "tags": [
+      "A1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:14:00Z",
+      "last_review_at": "2025-10-06T09:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:14:00Z",
+    "updated_at": "2025-10-06T09:14:00Z",
+    "deleted_at": null
+  }
+]

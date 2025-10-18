@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "4443291c-0376-43b8-bd7a-0a56ac71ee55",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "Past Continuous",
+    "term_lang": "en",
+    "translation": "czas przeszły ciągły",
+    "translation_lang": "pl",
+    "definition": "Form used for an action in progress in the past.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I was reading when he called.",
+        "translation": "Czytałem, kiedy on zadzwonił."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:00:00Z",
+      "last_review_at": "2025-10-06T11:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:00:00Z",
+    "updated_at": "2025-10-06T11:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "af34edbf-f07b-4ea1-a449-0b34a38f580e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "was/were + V-ing",
+    "term_lang": "en",
+    "translation": "był/byli + czasownik z -ing",
+    "translation_lang": "pl",
+    "definition": "Structure of Past Continuous.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She was cooking at 6 p.m.",
+        "translation": "Ona gotowała o 18:00."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:01:00Z",
+      "last_review_at": "2025-10-06T11:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:01:00Z",
+    "updated_at": "2025-10-06T11:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d0507846-9db5-43c4-ba09-9a512e057572",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "Past Simple",
+    "term_lang": "en",
+    "translation": "czas przeszły prosty",
+    "translation_lang": "pl",
+    "definition": "Form used for finished actions in the past.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He called at six.",
+        "translation": "On zadzwonił o szóstej."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:02:00Z",
+      "last_review_at": "2025-10-06T11:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:02:00Z",
+    "updated_at": "2025-10-06T11:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b02f07c9-2da3-4402-9392-7ab09402e1b7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "when",
+    "term_lang": "en",
+    "translation": "kiedy",
+    "translation_lang": "pl",
+    "definition": "Links a shorter action interrupting another.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I was studying when my friend arrived.",
+        "translation": "Uczyłem się, kiedy przyszedł mój przyjaciel."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:03:00Z",
+      "last_review_at": "2025-10-06T11:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:03:00Z",
+    "updated_at": "2025-10-06T11:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a6093ddb-05fe-4072-83fc-d492bb3eaeac",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "while",
+    "term_lang": "en",
+    "translation": "podczas gdy",
+    "translation_lang": "pl",
+    "definition": "Links two longer parallel actions.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "While I was walking, it started to rain.",
+        "translation": "Kiedy szedłem, zaczęło padać."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:04:00Z",
+      "last_review_at": "2025-10-06T11:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:04:00Z",
+    "updated_at": "2025-10-06T11:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3ffa2046-a574-4edb-a69e-e54e88725a49",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "at that moment",
+    "term_lang": "en",
+    "translation": "w tamtej chwili",
+    "translation_lang": "pl",
+    "definition": "A time marker for a specific past point.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "At that moment, the lights went out.",
+        "translation": "W tamtej chwili zgasły światła."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:05:00Z",
+      "last_review_at": "2025-10-06T11:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:05:00Z",
+    "updated_at": "2025-10-06T11:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d6198b03-02c7-4169-bc77-3b7174b45ff7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "background",
+    "term_lang": "en",
+    "translation": "tło",
+    "translation_lang": "pl",
+    "definition": "Situation happening around the main event.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It was raining in the background.",
+        "translation": "W tle padał deszcz."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:06:00Z",
+      "last_review_at": "2025-10-06T11:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:06:00Z",
+    "updated_at": "2025-10-06T11:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8b5a84cc-cb45-410f-8a9e-cf093cdffd16",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "interrupted",
+    "term_lang": "en",
+    "translation": "przerwany",
+    "translation_lang": "pl",
+    "definition": "Stopped by another action.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My sleep was interrupted by noise.",
+        "translation": "Mój sen został przerwany hałasem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:07:00Z",
+      "last_review_at": "2025-10-06T11:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:07:00Z",
+    "updated_at": "2025-10-06T11:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a5c73dfb-722d-4ba2-ad48-eff4d5fa5864",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "noise",
+    "term_lang": "en",
+    "translation": "hałas",
+    "translation_lang": "pl",
+    "definition": "Loud or unpleasant sound.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There was a lot of noise outside.",
+        "translation": "Na zewnątrz było dużo hałasu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:08:00Z",
+      "last_review_at": "2025-10-06T11:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:08:00Z",
+    "updated_at": "2025-10-06T11:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b6b48e1a-32fc-4254-876c-ccd6f7371246",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "suddenly",
+    "term_lang": "en",
+    "translation": "nagle",
+    "translation_lang": "pl",
+    "definition": "Happening quickly and unexpectedly.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Suddenly, the phone rang.",
+        "translation": "Nagle zadzwonił telefon."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:09:00Z",
+      "last_review_at": "2025-10-06T11:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:09:00Z",
+    "updated_at": "2025-10-06T11:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3e19a95f-2951-40b9-a70a-09ceb8bfadfd",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "was driving",
+    "term_lang": "en",
+    "translation": "jechał (prowadził)",
+    "translation_lang": "pl",
+    "definition": "Past Continuous example form.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I was driving when it started to snow.",
+        "translation": "Prowadziłem, kiedy zaczęło padać śniegiem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:10:00Z",
+      "last_review_at": "2025-10-06T11:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:10:00Z",
+    "updated_at": "2025-10-06T11:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "98990e2f-5435-4ede-b1fe-c2f7258e57d9",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "was talking",
+    "term_lang": "en",
+    "translation": "rozmawiał/rozmawiała",
+    "translation_lang": "pl",
+    "definition": "Past Continuous example form.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She was talking when the bell rang.",
+        "translation": "Ona rozmawiała, gdy zadzwonił dzwonek."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:11:00Z",
+      "last_review_at": "2025-10-06T11:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:11:00Z",
+    "updated_at": "2025-10-06T11:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9b7f418c-0189-4a92-9636-9935084e586a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "went off",
+    "term_lang": "en",
+    "translation": "włączył się/wyłączył się (alarm, światło)",
+    "translation_lang": "pl",
+    "definition": "Past Simple phrasal/verb form.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The alarm went off at 5 a.m.",
+        "translation": "Alarm włączył się o 5 rano."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:12:00Z",
+      "last_review_at": "2025-10-06T11:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:12:00Z",
+    "updated_at": "2025-10-06T11:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8f3fcf06-8729-4e4d-8d72-041534785559",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "rained",
+    "term_lang": "en",
+    "translation": "padało",
+    "translation_lang": "pl",
+    "definition": "Past Simple verb form.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It rained all night.",
+        "translation": "Padało całą noc."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:13:00Z",
+      "last_review_at": "2025-10-06T11:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:13:00Z",
+    "updated_at": "2025-10-06T11:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e6bf43a3-bddb-47d0-8552-38643165c6b2",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "as",
+    "term_lang": "en",
+    "translation": "gdy/kiedy",
+    "translation_lang": "pl",
+    "definition": "Alternative linker similar to 'while'.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "As I was leaving, I remembered my keys.",
+        "translation": "Gdy wychodziłem, przypomniałem sobie o kluczach."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-11-past-continuous",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:14:00Z",
+      "last_review_at": "2025-10-06T11:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:14:00Z",
+    "updated_at": "2025-10-06T11:14:00Z",
+    "deleted_at": null
+  }
+]

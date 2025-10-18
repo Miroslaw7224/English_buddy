@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "353dc118-c892-4f0c-955c-375955859b14",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "in my opinion",
+    "term_lang": "en",
+    "translation": "moim zdaniem",
+    "translation_lang": "pl",
+    "definition": "A phrase to introduce your viewpoint.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "In my opinion, public transport should be cheaper.",
+        "translation": "Moim zdaniem transport publiczny powinien być tańszy."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:00:00Z",
+      "last_review_at": "2025-10-06T12:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:00:00Z",
+    "updated_at": "2025-10-06T12:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bdd32a1b-108a-45a3-961e-5b2db1ad6717",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "I believe / I think",
+    "term_lang": "en",
+    "translation": "wierzę / myślę",
+    "translation_lang": "pl",
+    "definition": "To state your belief.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I think people should recycle more.",
+        "translation": "Myślę, że ludzie powinni więcej recyklingować."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:01:00Z",
+      "last_review_at": "2025-10-06T12:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:01:00Z",
+    "updated_at": "2025-10-06T12:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e3d9391c-d71b-4ef4-a4d0-ea737a90b438",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "because",
+    "term_lang": "en",
+    "translation": "ponieważ/bo",
+    "translation_lang": "pl",
+    "definition": "Introduces a reason.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We stayed home because it was raining.",
+        "translation": "Zostaliśmy w domu, ponieważ padało."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:02:00Z",
+      "last_review_at": "2025-10-06T12:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:02:00Z",
+    "updated_at": "2025-10-06T12:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "246eea45-266d-42bd-a860-16e0e3a9ffff",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "so (result)",
+    "term_lang": "en",
+    "translation": "więc / dlatego",
+    "translation_lang": "pl",
+    "definition": "Introduces a result.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It was late, so we took a taxi.",
+        "translation": "Było późno, więc wzięliśmy taksówkę."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:03:00Z",
+      "last_review_at": "2025-10-06T12:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:03:00Z",
+    "updated_at": "2025-10-06T12:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0c6fbbd2-c387-43c1-b417-6242d544005a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "although / though",
+    "term_lang": "en",
+    "translation": "chociaż / choć",
+    "translation_lang": "pl",
+    "definition": "Introduces contrast.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Although it was cold, we went for a walk.",
+        "translation": "Chociaż było zimno, poszliśmy na spacer."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:04:00Z",
+      "last_review_at": "2025-10-06T12:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:04:00Z",
+    "updated_at": "2025-10-06T12:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cd8164e1-551c-4be4-9b25-85f54a50cdd8",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "however",
+    "term_lang": "en",
+    "translation": "jednakże",
+    "translation_lang": "pl",
+    "definition": "Contrast between sentences.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The plan is good; however, it is expensive.",
+        "translation": "Plan jest dobry; jednakże jest drogi."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:05:00Z",
+      "last_review_at": "2025-10-06T12:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:05:00Z",
+    "updated_at": "2025-10-06T12:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a89b8299-fa36-4fd3-b711-95fa5c56e269",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "therefore",
+    "term_lang": "en",
+    "translation": "dlatego też / zatem",
+    "translation_lang": "pl",
+    "definition": "Formal connector of result.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The evidence is clear; therefore, we agree.",
+        "translation": "Dowody są jasne; dlatego też się zgadzamy."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:06:00Z",
+      "last_review_at": "2025-10-06T12:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:06:00Z",
+    "updated_at": "2025-10-06T12:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "62f550d0-c9fa-45eb-a3ba-4f2be3e5df87",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "for example (e.g.)",
+    "term_lang": "en",
+    "translation": "na przykład",
+    "translation_lang": "pl",
+    "definition": "To give an example.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Some cities are very green, for example, Copenhagen.",
+        "translation": "Niektóre miasta są bardzo zielone, na przykład Kopenhaga."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:07:00Z",
+      "last_review_at": "2025-10-06T12:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:07:00Z",
+    "updated_at": "2025-10-06T12:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2a3ab586-f76b-4130-af4e-d038d247c955",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "point–evidence–explain–link (PEEL)",
+    "term_lang": "en",
+    "translation": "punkt–dowód–wyjaśnij–połącz",
+    "translation_lang": "pl",
+    "definition": "A paragraph structure for opinions.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Make your point, give evidence, explain it, then link back.",
+        "translation": "Przedstaw punkt, daj dowód, wyjaśnij i połącz z tezą."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:08:00Z",
+      "last_review_at": "2025-10-06T12:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:08:00Z",
+    "updated_at": "2025-10-06T12:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "02240cfa-6664-4961-b0e4-112083532e16",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "agree / disagree",
+    "term_lang": "en",
+    "translation": "zgadzać się / nie zgadzać się",
+    "translation_lang": "pl",
+    "definition": "To show if you share an opinion.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I disagree because the costs are too high.",
+        "translation": "Nie zgadzam się, bo koszty są zbyt wysokie."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:09:00Z",
+      "last_review_at": "2025-10-06T12:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:09:00Z",
+    "updated_at": "2025-10-06T12:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "25835ce2-b333-4b0c-bfeb-44c30f9300ba",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "perspective",
+    "term_lang": "en",
+    "translation": "perspektywa",
+    "translation_lang": "pl",
+    "definition": "A way of looking at something.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "From a student’s perspective, the change is helpful.",
+        "translation": "Z perspektywy studenta zmiana jest pomocna."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:10:00Z",
+      "last_review_at": "2025-10-06T12:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:10:00Z",
+    "updated_at": "2025-10-06T12:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "03f674b4-a8f0-4ead-bb61-8f04b889d16b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "convincing",
+    "term_lang": "en",
+    "translation": "przekonujący",
+    "translation_lang": "pl",
+    "definition": "Making you believe something.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Her argument was clear and convincing.",
+        "translation": "Jej argument był jasny i przekonujący."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:11:00Z",
+      "last_review_at": "2025-10-06T12:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:11:00Z",
+    "updated_at": "2025-10-06T12:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a99b2f69-551e-4cf4-9882-f0f9694d1b7b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "weak / strong argument",
+    "term_lang": "en",
+    "translation": "słaby / mocny argument",
+    "translation_lang": "pl",
+    "definition": "Less/more persuasive point.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "That is a strong argument, with good evidence.",
+        "translation": "To mocny argument, z dobrymi dowodami."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:12:00Z",
+      "last_review_at": "2025-10-06T12:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:12:00Z",
+    "updated_at": "2025-10-06T12:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fcfa2643-86b8-4a88-b409-06fa9a9084d7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "counterargument",
+    "term_lang": "en",
+    "translation": "kontrargument",
+    "translation_lang": "pl",
+    "definition": "An opposing idea.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Consider the counterargument before you decide.",
+        "translation": "Rozważ kontrargument zanim zdecydujesz."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:13:00Z",
+      "last_review_at": "2025-10-06T12:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:13:00Z",
+    "updated_at": "2025-10-06T12:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a290a0e3-091d-4e20-9f6e-15460226bc7b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "conclusion",
+    "term_lang": "en",
+    "translation": "wniosek / podsumowanie",
+    "translation_lang": "pl",
+    "definition": "The ending that sums up points.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "In conclusion, we should invest in education.",
+        "translation": "Podsumowując, powinniśmy inwestować w edukację."
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "B1-03-opinions-reasons-PEEL",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:14:00Z",
+      "last_review_at": "2025-10-06T12:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:14:00Z",
+    "updated_at": "2025-10-06T12:14:00Z",
+    "deleted_at": null
+  }
+]

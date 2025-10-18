@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "18173ee1-c249-4dc2-b0a2-050156799d78",
+    "user_id": null,
+    "term": "career prospects",
+    "term_lang": "en",
+    "translation": "perspektywy zawodowe",
+    "translation_lang": "pl",
+    "definition": "opportunities for future career growth",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The role offers excellent career prospects.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7dc91e55-cd3b-41c9-be92-e2a33054665e",
+    "user_id": null,
+    "term": "work-life balance",
+    "term_lang": "en",
+    "translation": "równowaga między pracą a życiem",
+    "translation_lang": "pl",
+    "definition": "balance between job and personal life",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Remote work can improve work-life balance.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "06ba0d0a-5e76-429a-958f-16d4ef18eb27",
+    "user_id": null,
+    "term": "competitive salary",
+    "term_lang": "en",
+    "translation": "konkurencyjne wynagrodzenie",
+    "translation_lang": "pl",
+    "definition": "salary that matches or exceeds market rates",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They offer a competitive salary and benefits.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2f3b565f-07a8-4bb3-afc6-3145ca91c7e2",
+    "user_id": null,
+    "term": "fringe benefits",
+    "term_lang": "en",
+    "translation": "świadczenia dodatkowe",
+    "translation_lang": "pl",
+    "definition": "extra benefits in addition to salary",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Health insurance is one of the fringe benefits.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d2a3ae0d-e3b9-4355-b730-55ebedb75283",
+    "user_id": null,
+    "term": "job satisfaction",
+    "term_lang": "en",
+    "translation": "satysfakcja z pracy",
+    "translation_lang": "pl",
+    "definition": "how happy you feel with your job",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Autonomy increases job satisfaction.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "047a64e4-6a20-4e1f-9d5c-23c6df16618d",
+    "user_id": null,
+    "term": "career ladder",
+    "term_lang": "en",
+    "translation": "ścieżka awansu",
+    "translation_lang": "pl",
+    "definition": "levels of promotion within a job",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He is moving up the career ladder.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "56b704e3-b541-4739-ad59-a58d52a56022",
+    "user_id": null,
+    "term": "performance review",
+    "term_lang": "en",
+    "translation": "ocena wyników pracy",
+    "translation_lang": "pl",
+    "definition": "regular evaluation of employee performance",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Her performance review was very positive.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9ebe7ba8-cafd-4970-93cc-2a8b9d6aa796",
+    "user_id": null,
+    "term": "meet targets",
+    "term_lang": "en",
+    "translation": "realizować cele",
+    "translation_lang": "pl",
+    "definition": "achieve agreed goals",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The sales team met all quarterly targets.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d6838ad8-9126-471b-9a7f-4634360ae99e",
+    "user_id": null,
+    "term": "take the initiative",
+    "term_lang": "en",
+    "translation": "wykazać inicjatywę",
+    "translation_lang": "pl",
+    "definition": "act without being told to",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Interns who take the initiative stand out.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4bc7d593-1cd1-48c1-b64d-4624d1eff08d",
+    "user_id": null,
+    "term": "delegate tasks",
+    "term_lang": "en",
+    "translation": "delegować zadania",
+    "translation_lang": "pl",
+    "definition": "give work to others to do",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Managers should delegate tasks effectively.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "34aa07fd-bd7e-4752-a912-aecc749829d0",
+    "user_id": null,
+    "term": "job redundancy",
+    "term_lang": "en",
+    "translation": "redukcja etatu",
+    "translation_lang": "pl",
+    "definition": "losing a job because it is no longer needed",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Several roles were made redundant.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ed78c73a-da8c-4ac5-931c-123765c5dea0",
+    "user_id": null,
+    "term": "staff turnover",
+    "term_lang": "en",
+    "translation": "rotacja pracowników",
+    "translation_lang": "pl",
+    "definition": "how often employees leave and are replaced",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "High staff turnover is costly.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1e75cc4c-9b99-40c6-b1f8-674a944b038e",
+    "user_id": null,
+    "term": "promotion prospects",
+    "term_lang": "en",
+    "translation": "szanse na awans",
+    "translation_lang": "pl",
+    "definition": "likelihood of being promoted",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The company has strong promotion prospects.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "78e81202-38ab-4108-96cc-81376ee02e25",
+    "user_id": null,
+    "term": "professional development",
+    "term_lang": "en",
+    "translation": "rozwój zawodowy",
+    "translation_lang": "pl",
+    "definition": "training and education for work",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We fund professional development courses.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3355817d-3cdd-4b26-ade9-2bb6779dc210",
+    "user_id": null,
+    "term": "work remotely",
+    "term_lang": "en",
+    "translation": "pracować zdalnie",
+    "translation_lang": "pl",
+    "definition": "do your job away from the office",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Many employees prefer to work remotely twice a week.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "work-careers-collocations",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  }
+]

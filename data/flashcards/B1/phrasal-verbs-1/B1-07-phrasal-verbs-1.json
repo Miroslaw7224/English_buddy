@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "81ad0127-3599-4e03-8e5f-4fa132a83f1a",
+    "user_id": null,
+    "term": "get up",
+    "term_lang": "en",
+    "translation": "wstawać",
+    "translation_lang": "pl",
+    "definition": "to get out of bed",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I get up at 6 a.m. on weekdays.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "71035a56-8b41-4020-b6de-0400a7059d2a",
+    "user_id": null,
+    "term": "get along (with)",
+    "term_lang": "en",
+    "translation": "dogadywać się (z)",
+    "translation_lang": "pl",
+    "definition": "to have a good relationship",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Do you get along with your new colleagues?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5cc3cf0d-9467-4567-93cd-4a3a09eecf90",
+    "user_id": null,
+    "term": "get by",
+    "term_lang": "en",
+    "translation": "radzić sobie (finansowo)",
+    "translation_lang": "pl",
+    "definition": "to manage to live or do something with difficulty",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It's hard to get by on a low salary.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1925abc7-f4a0-4a41-924e-31870710affa",
+    "user_id": null,
+    "term": "get over",
+    "term_lang": "en",
+    "translation": "dojść do siebie / pokonać",
+    "translation_lang": "pl",
+    "definition": "to recover from something",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It took her months to get over the flu.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dbb2be24-a1d3-4bc9-b082-1ed187b27575",
+    "user_id": null,
+    "term": "get into",
+    "term_lang": "en",
+    "translation": "dostać się / zainteresować się",
+    "translation_lang": "pl",
+    "definition": "to become interested in; to enter",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He got into programming at university.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4be8065d-1370-46c2-93ff-8238a41eb9fe",
+    "user_id": null,
+    "term": "put off",
+    "term_lang": "en",
+    "translation": "odkładać, odwlekać",
+    "translation_lang": "pl",
+    "definition": "to delay doing something",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Don't put off your homework until Sunday.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5675c38d-c67c-4357-aaae-182108ff6448",
+    "user_id": null,
+    "term": "put on",
+    "term_lang": "en",
+    "translation": "zakładać (ubranie)",
+    "translation_lang": "pl",
+    "definition": "to dress yourself in something",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She put on a warm coat.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "33d4a707-65bb-4d27-af6e-16dcd9fd4028",
+    "user_id": null,
+    "term": "put up with",
+    "term_lang": "en",
+    "translation": "znosić, tolerować",
+    "translation_lang": "pl",
+    "definition": "to accept something unpleasant",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I can't put up with this noise.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e6628abd-35e6-4d2b-9d11-9aec1f701f59",
+    "user_id": null,
+    "term": "put out",
+    "term_lang": "en",
+    "translation": "zgasić (ognisko/papierosa)",
+    "translation_lang": "pl",
+    "definition": "to make something stop burning",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please put out your cigarette.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cad76e80-e2d4-46a4-ada9-14a83ae83d08",
+    "user_id": null,
+    "term": "take off",
+    "term_lang": "en",
+    "translation": "startować / zdejmować (ubranie)",
+    "translation_lang": "pl",
+    "definition": "to leave the ground; to remove clothes",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The plane took off on time.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "06ce955c-f077-4279-8f24-ae6ac7528894",
+    "user_id": null,
+    "term": "take up",
+    "term_lang": "en",
+    "translation": "zająć się (nowym hobby)",
+    "translation_lang": "pl",
+    "definition": "to start doing a new activity",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I took up jogging last year.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "841748ac-3417-44a9-a040-e2d6e5b97c4b",
+    "user_id": null,
+    "term": "take over",
+    "term_lang": "en",
+    "translation": "przejąć (kontrolę)",
+    "translation_lang": "pl",
+    "definition": "to get control of something",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A bigger company took over our startup.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8199236b-caab-474e-b30b-1d496c493b68",
+    "user_id": null,
+    "term": "take in",
+    "term_lang": "en",
+    "translation": "zrozumieć / przyswoić",
+    "translation_lang": "pl",
+    "definition": "to understand fully",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There was too much information to take in.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d3651525-552f-42ad-bfc5-965cdb18fac2",
+    "user_id": null,
+    "term": "look after",
+    "term_lang": "en",
+    "translation": "opiekować się",
+    "translation_lang": "pl",
+    "definition": "to take care of someone/something",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Can you look after my dog this weekend?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2e9bb8d4-999a-478a-b952-a8ec5689131b",
+    "user_id": null,
+    "term": "look forward to",
+    "term_lang": "en",
+    "translation": "nie móc się doczekać",
+    "translation_lang": "pl",
+    "definition": "to feel excited about something in the future",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I look forward to hearing from you.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "07_phrasal-verbs-1",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  }
+]

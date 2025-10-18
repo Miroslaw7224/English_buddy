@@ -1,0 +1,667 @@
+[
+  {
+    "word_id": "75be5805-9ba0-4cb7-9ff6-d11a6d058d50",
+    "user_id": null,
+    "term": "to set the agenda",
+    "term_lang": "en",
+    "translation": "ustalić porządek",
+    "translation_lang": "pl",
+    "definition": "decide topics and order",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Let me set the agenda for today.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-3",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a752937a-6542-476a-bf34-33c509dd1c0a",
+    "user_id": null,
+    "term": "to outline",
+    "term_lang": "en",
+    "translation": "nakreślić",
+    "translation_lang": "pl",
+    "definition": "give the main ideas briefly",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I'll outline the key findings first.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-3",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bc96ee99-065f-4598-b2d0-535011a235c1",
+    "user_id": null,
+    "term": "signposting",
+    "term_lang": "en",
+    "translation": "drogowskazy w prezentacji",
+    "translation_lang": "pl",
+    "definition": "phrases that guide the audience",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "As for the next point, let's consider costs.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-3",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c9247af2-2e01-4470-a329-5b86a9ea0d19",
+    "user_id": null,
+    "term": "engage the audience",
+    "term_lang": "en",
+    "translation": "zaangażować publiczność",
+    "translation_lang": "pl",
+    "definition": "gain attention and participation",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Ask questions to engage the audience.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-3",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "42447be4-7795-4879-a541-5949316de726",
+    "user_id": null,
+    "term": "pace and timing",
+    "term_lang": "en",
+    "translation": "tempo i timing",
+    "translation_lang": "pl",
+    "definition": "speed of delivery and pauses",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Work on pace and timing during rehearsal.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-3",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3b1e57d0-2799-441f-b47f-bd321d028f41",
+    "user_id": null,
+    "term": "visual aid",
+    "term_lang": "en",
+    "translation": "pomoc wizualna",
+    "translation_lang": "pl",
+    "definition": "diagram/slide that supports speech",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Use visual aids, but avoid clutter.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "presentation-language",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "893bbca4-b4fe-44fd-bc98-0a44fbb2ef63",
+    "user_id": null,
+    "term": "Q&A management",
+    "term_lang": "en",
+    "translation": "zarządzanie pytaniami i odpowiedziami",
+    "translation_lang": "pl",
+    "definition": "handling audience questions well",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Set rules to manage Q&A.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "presentation-language",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "889dc669-fa58-4280-8fbc-18088c60579a",
+    "user_id": null,
+    "term": "transition",
+    "term_lang": "en",
+    "translation": "przejście",
+    "translation_lang": "pl",
+    "definition": "phrase that links sections smoothly",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Transitioning to methods, let's discuss...",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "presentation-language",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e74a8ba5-bbc9-4cd5-a8ee-444ab565ede9",
+    "user_id": null,
+    "term": "to elaborate",
+    "term_lang": "en",
+    "translation": "rozwinąć (myśl)",
+    "translation_lang": "pl",
+    "definition": "add more detail",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Could you elaborate on this chart?",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "presentation-language",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "45e49c6d-fa2c-4959-a0c2-96ff771f18b8",
+    "user_id": null,
+    "term": "call to action",
+    "term_lang": "en",
+    "translation": "wezwanie do działania",
+    "translation_lang": "pl",
+    "definition": "what you want listeners to do",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I’ll end with a clear call to action.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "presentation-language",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c43cb533-f303-48f2-a7f5-d03982c88eb4",
+    "user_id": null,
+    "term": "body language",
+    "term_lang": "en",
+    "translation": "mowa ciała",
+    "translation_lang": "pl",
+    "definition": "nonverbal communication",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Maintain open body language.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "presentation-language",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b56861ee-89d9-4c3d-aa64-35e7673056b6",
+    "user_id": null,
+    "term": "to field a question",
+    "term_lang": "en",
+    "translation": "odpowiedzieć na pytanie z sali",
+    "translation_lang": "pl",
+    "definition": "answer a question deftly",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She fielded a tough question calmly.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "presentation-language",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2e05fcb9-f16f-45ca-ae92-d0b7a620a9d0",
+    "user_id": null,
+    "term": "handout",
+    "term_lang": "en",
+    "translation": "materiały dla uczestników",
+    "translation_lang": "pl",
+    "definition": "printed or digital summary",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The handout includes references.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "presentation-language",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "39ce616f-794f-4c58-beb6-c7cb803d6546",
+    "user_id": null,
+    "term": "closing remarks",
+    "term_lang": "en",
+    "translation": "uwagi końcowe",
+    "translation_lang": "pl",
+    "definition": "final short section",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "In my closing remarks, I’ll thank the team.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "presentation-language",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "80aa606d-b66d-4911-9d0e-91c48445b870",
+    "user_id": null,
+    "term": "timebox",
+    "term_lang": "en",
+    "translation": "ograniczyć czasowo",
+    "translation_lang": "pl",
+    "definition": "set a fixed time limit",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Let's timebox the demo to five minutes.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "presentation-language",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:27:08Z",
+      "last_review_at": "2025-10-06T12:27:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:27:08Z",
+    "updated_at": "2025-10-06T12:27:08Z",
+    "deleted_at": null
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "word_id": "65c406cb-a44d-453e-8320-c6c4465ef658",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "Monday",
+    "term_lang": "en",
+    "translation": "poniedziałek",
+    "translation_lang": "pl",
+    "definition": "The first day of the working week for many people.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I work on Monday.",
+        "translation": "Pracuję w poniedziałek."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:00:00Z",
+      "last_review_at": "2025-10-06T09:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:00:00Z",
+    "updated_at": "2025-10-06T09:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5bfa256c-a917-4de6-af0c-b44f8fbcac31",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "Tuesday",
+    "term_lang": "en",
+    "translation": "wtorek",
+    "translation_lang": "pl",
+    "definition": "The day after Monday.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The meeting is on Tuesday.",
+        "translation": "Spotkanie jest we wtorek."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:00:00Z",
+      "last_review_at": "2025-10-06T10:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:00:00Z",
+    "updated_at": "2025-10-06T10:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bc516a4d-0e76-4f17-aced-33f15c90d169",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "Wednesday",
+    "term_lang": "en",
+    "translation": "środa",
+    "translation_lang": "pl",
+    "definition": "The day after Tuesday.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have a lesson on Wednesday.",
+        "translation": "Mam lekcję w środę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:00:00Z",
+      "last_review_at": "2025-10-06T11:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:00:00Z",
+    "updated_at": "2025-10-06T11:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6ebad5c1-d202-4e1c-832b-ac7f525a0f3b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "Thursday",
+    "term_lang": "en",
+    "translation": "czwartek",
+    "translation_lang": "pl",
+    "definition": "The day after Wednesday.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We travel on Thursday.",
+        "translation": "Podróżujemy w czwartek."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:00:00Z",
+      "last_review_at": "2025-10-06T12:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:00:00Z",
+    "updated_at": "2025-10-06T12:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c0db609a-aa30-40d9-a275-dfe2e7263cd3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "Friday",
+    "term_lang": "en",
+    "translation": "piątek",
+    "translation_lang": "pl",
+    "definition": "The day after Thursday.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We relax on Friday evening.",
+        "translation": "Odpoczywamy w piątek wieczorem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T13:00:00Z",
+      "last_review_at": "2025-10-06T13:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T13:00:00Z",
+    "updated_at": "2025-10-06T13:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bbf42e57-71f7-459e-8f1d-b9f6d7ed3cd9",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "Saturday",
+    "term_lang": "en",
+    "translation": "sobota",
+    "translation_lang": "pl",
+    "definition": "The day after Friday; a weekend day.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They play football on Saturday.",
+        "translation": "Oni grają w piłkę w sobotę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T14:00:00Z",
+      "last_review_at": "2025-10-06T14:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T14:00:00Z",
+    "updated_at": "2025-10-06T14:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0c926516-0138-442b-a9fa-2ad84b1d6039",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "Sunday",
+    "term_lang": "en",
+    "translation": "niedziela",
+    "translation_lang": "pl",
+    "definition": "The day after Saturday; a weekend day.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We visit family on Sunday.",
+        "translation": "Odwiedzamy rodzinę w niedzielę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T15:00:00Z",
+      "last_review_at": "2025-10-06T15:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T15:00:00Z",
+    "updated_at": "2025-10-06T15:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cb13ec2b-589b-44c9-a20f-8ae808e25b0c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "today",
+    "term_lang": "en",
+    "translation": "dzisiaj",
+    "translation_lang": "pl",
+    "definition": "The day that is now.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I feel good today.",
+        "translation": "Dziś czuję się dobrze."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T16:00:00Z",
+      "last_review_at": "2025-10-06T16:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T16:00:00Z",
+    "updated_at": "2025-10-06T16:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f12d5666-2979-456c-816c-77144040a7d5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "tomorrow",
+    "term_lang": "en",
+    "translation": "jutro",
+    "translation_lang": "pl",
+    "definition": "The day after today.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "See you tomorrow!",
+        "translation": "Do zobaczenia jutro!"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T17:00:00Z",
+      "last_review_at": "2025-10-06T17:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T17:00:00Z",
+    "updated_at": "2025-10-06T17:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ffe09895-c8ef-433a-8bb5-f5c133f39016",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "yesterday",
+    "term_lang": "en",
+    "translation": "wczoraj",
+    "translation_lang": "pl",
+    "definition": "The day before today.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I was busy yesterday.",
+        "translation": "Byłem zajęty wczoraj."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T18:00:00Z",
+      "last_review_at": "2025-10-06T18:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T18:00:00Z",
+    "updated_at": "2025-10-06T18:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dbdc2471-a18c-4d69-90fc-fe5cca8184d8",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "morning",
+    "term_lang": "en",
+    "translation": "rano",
+    "translation_lang": "pl",
+    "definition": "The early part of the day.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I study in the morning.",
+        "translation": "Uczę się rano."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T19:00:00Z",
+      "last_review_at": "2025-10-06T19:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T19:00:00Z",
+    "updated_at": "2025-10-06T19:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fd31151b-2628-4b49-9d73-9ed026e4e52d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "afternoon",
+    "term_lang": "en",
+    "translation": "popołudnie",
+    "translation_lang": "pl",
+    "definition": "The time between midday and evening.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He rests in the afternoon.",
+        "translation": "On odpoczywa po południu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T20:00:00Z",
+      "last_review_at": "2025-10-06T20:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T20:00:00Z",
+    "updated_at": "2025-10-06T20:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8fd13ddb-e012-4fe1-a4c9-0afcd4377f98",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "evening",
+    "term_lang": "en",
+    "translation": "wieczór",
+    "translation_lang": "pl",
+    "definition": "The part of the day after afternoon.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We watch TV in the evening.",
+        "translation": "Oglądamy TV wieczorem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T21:00:00Z",
+      "last_review_at": "2025-10-06T21:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T21:00:00Z",
+    "updated_at": "2025-10-06T21:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c2de5518-b62a-4388-9a3f-26bb15ee0a88",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "night",
+    "term_lang": "en",
+    "translation": "noc",
+    "translation_lang": "pl",
+    "definition": "The dark part of the day when we sleep.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The city is quiet at night.",
+        "translation": "Miasto jest ciche w nocy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T22:00:00Z",
+      "last_review_at": "2025-10-06T22:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T22:00:00Z",
+    "updated_at": "2025-10-06T22:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6d5aab16-6129-43e8-8a91-2d4f3629dfdd",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "What time is it?",
+    "term_lang": "en",
+    "translation": "Która jest godzina?",
+    "translation_lang": "pl",
+    "definition": "A question to ask the current time.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "What time is it, please?",
+        "translation": "Która jest godzina, proszę?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "time-days",
+    "deck_id": null,
+    "tags": [
+      "time",
+      "calendar"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T23:00:00Z",
+      "last_review_at": "2025-10-06T23:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T23:00:00Z",
+    "updated_at": "2025-10-06T23:00:00Z",
+    "deleted_at": null
+  }
+]

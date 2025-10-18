@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "8d3e5032-af79-424b-bc07-58147090dbd2",
+    "user_id": null,
+    "term": "to begin with",
+    "term_lang": "en",
+    "translation": "na początek",
+    "translation_lang": "pl",
+    "definition": "starting your argument",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "To begin with, we need better data.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9cb9e39e-d609-4e31-99a1-a183355dca26",
+    "user_id": null,
+    "term": "in the first place",
+    "term_lang": "en",
+    "translation": "przede wszystkim / po pierwsze",
+    "translation_lang": "pl",
+    "definition": "introducing primary reason",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "In the first place, costs are too high.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d8de10f6-020e-43d0-8004-48c0e5e15238",
+    "user_id": null,
+    "term": "what is more",
+    "term_lang": "en",
+    "translation": "co więcej",
+    "translation_lang": "pl",
+    "definition": "adding a stronger point",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "What is more, the fix is inexpensive.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "faff2eaa-c940-4e22-8517-4a9d9e48424b",
+    "user_id": null,
+    "term": "having said that",
+    "term_lang": "en",
+    "translation": "mimo to / jednocześnie",
+    "translation_lang": "pl",
+    "definition": "balancing/contrast after concession",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I like the design; having said that, it's heavy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "701fd0c8-29d1-4c02-95d8-c5f5912f6327",
+    "user_id": null,
+    "term": "on top of that",
+    "term_lang": "en",
+    "translation": "na dodatek",
+    "translation_lang": "pl",
+    "definition": "additional point emphasising accumulation",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "On top of that, deadlines are tight.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "91b917a1-1345-452b-a7ba-6c334394aded",
+    "user_id": null,
+    "term": "in contrast",
+    "term_lang": "en",
+    "translation": "w przeciwieństwie",
+    "translation_lang": "pl",
+    "definition": "explicit comparison of differences",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "In contrast, last year was profitable.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "260d7ae4-142b-4e12-a343-b9d62e91cb5d",
+    "user_id": null,
+    "term": "likewise",
+    "term_lang": "en",
+    "translation": "podobnie",
+    "translation_lang": "pl",
+    "definition": "showing similarity",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The mobile site is fast; likewise, the app performs well.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a52e57f9-c2a8-4a08-bf26-427925e06d60",
+    "user_id": null,
+    "term": "as a matter of fact",
+    "term_lang": "en",
+    "translation": "w rzeczy samej",
+    "translation_lang": "pl",
+    "definition": "emphasising unexpected truth",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "As a matter of fact, users prefer simplicity.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a8e0d113-b1cd-43c8-a7b9-1045e4743ea0",
+    "user_id": null,
+    "term": "in other words",
+    "term_lang": "en",
+    "translation": "innymi słowy",
+    "translation_lang": "pl",
+    "definition": "restating more simply",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "In other words, we should delay the launch.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fb9609b8-bd9c-4497-9edc-cd238920cd41",
+    "user_id": null,
+    "term": "that said",
+    "term_lang": "en",
+    "translation": "to powiedziawszy",
+    "translation_lang": "pl",
+    "definition": "soft contrast after agreement",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I see the benefits; that said, we need tests.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "651b1562-4025-4ed8-aab3-91bfe5387872",
+    "user_id": null,
+    "term": "by the same token",
+    "term_lang": "en",
+    "translation": "z tego samego powodu",
+    "translation_lang": "pl",
+    "definition": "parallel reasoning",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "By the same token, we must support smaller clients.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "aaeb0f1b-b6a2-4707-a8f4-b881d847d29a",
+    "user_id": null,
+    "term": "all things considered",
+    "term_lang": "en",
+    "translation": "biorąc wszystko pod uwagę",
+    "translation_lang": "pl",
+    "definition": "wrapping up a balanced view",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "All things considered, the risks are acceptable.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ba1f5d6d-d6b1-43a6-8ef4-956fcaefaebf",
+    "user_id": null,
+    "term": "for the sake of",
+    "term_lang": "en",
+    "translation": "ze względu na / dla dobra",
+    "translation_lang": "pl",
+    "definition": "stating purpose or justification",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "For the sake of clarity, let's simplify.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d6c763c1-6e06-40ef-b0f9-0516789a2897",
+    "user_id": null,
+    "term": "in light of",
+    "term_lang": "en",
+    "translation": "w świetle",
+    "translation_lang": "pl",
+    "definition": "because of new information",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "In light of recent events, we'll review policy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5dbab15b-7a89-42d0-a833-77f7a563205e",
+    "user_id": null,
+    "term": "to put it mildly",
+    "term_lang": "en",
+    "translation": "delikatnie mówiąc",
+    "translation_lang": "pl",
+    "definition": "understatement for criticism",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The rollout was, to put it mildly, chaotic.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "discourse-markers-advanced",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  }
+]

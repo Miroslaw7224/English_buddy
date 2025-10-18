@@ -1,0 +1,667 @@
+[
+  {
+    "word_id": "9ffd9790-8e47-4d49-aa4b-d40405ddb09b",
+    "user_id": null,
+    "term": "concession",
+    "term_lang": "en",
+    "translation": "ustępstwo (ret.)",
+    "translation_lang": "pl",
+    "definition": "admitting a valid point before rebutting",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Concession: We acknowledge the cost, yet...",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "11fb1195-5766-4e93-b413-b8718f48123c",
+    "user_id": null,
+    "term": "parallelism",
+    "term_lang": "en",
+    "translation": "równoległość (ret.)",
+    "translation_lang": "pl",
+    "definition": "repetition of grammatical structure",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Parallelism: to see, to judge, to act.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5cf0a29d-9c49-4b75-8eca-77321ad3c442",
+    "user_id": null,
+    "term": "chiasmus",
+    "term_lang": "en",
+    "translation": "chiazmy",
+    "translation_lang": "pl",
+    "definition": "ABBA inversion for effect",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Chiasmus: We shape our tools; our tools shape us.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "63dbac0c-a761-44df-b21d-8477c7e4f447",
+    "user_id": null,
+    "term": "antithesis",
+    "term_lang": "en",
+    "translation": "antyteza",
+    "translation_lang": "pl",
+    "definition": "juxtaposition of contrasting ideas",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Antithesis: Freedom is dear; tyranny, costly.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8a1c5b6d-774e-4683-ae8f-7433cda82ee6",
+    "user_id": null,
+    "term": "anaphora",
+    "term_lang": "en",
+    "translation": "anafory",
+    "translation_lang": "pl",
+    "definition": "repetition at beginnings of clauses",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Anaphora: We will build. We will learn. We will lead.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7f746da4-8922-49a8-b3b1-0835af02eafd",
+    "user_id": null,
+    "term": "epistrophe",
+    "term_lang": "en",
+    "translation": "epistrofa",
+    "translation_lang": "pl",
+    "definition": "repetition at ends of clauses",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "…by the people, for the people, of the people.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-01-rhetorical-devices-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f83e5203-97fa-460b-8979-6023b31fe9a8",
+    "user_id": null,
+    "term": "asyndeton",
+    "term_lang": "en",
+    "translation": "asyndeton",
+    "translation_lang": "pl",
+    "definition": "omission of conjunctions",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I came, I saw, I conquered.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-01-rhetorical-devices-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8c0fe022-87a4-405b-9b98-f9b6d91e6967",
+    "user_id": null,
+    "term": "polysyndeton",
+    "term_lang": "en",
+    "translation": "polysyndeton",
+    "translation_lang": "pl",
+    "definition": "overuse of conjunctions",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We have lies and damn lies and statistics.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-01-rhetorical-devices-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "62bc1794-4374-44b3-a79d-5372a0cdccb6",
+    "user_id": null,
+    "term": "tricolon",
+    "term_lang": "en",
+    "translation": "tricolon",
+    "translation_lang": "pl",
+    "definition": "three parallel elements",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Life, liberty, and the pursuit of happiness.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-01-rhetorical-devices-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6023946f-3f8d-4162-bcbd-81819ac5a67c",
+    "user_id": null,
+    "term": "antimetabole",
+    "term_lang": "en",
+    "translation": "antimetabola",
+    "translation_lang": "pl",
+    "definition": "repetition in reverse order",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Eat to live, not live to eat.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-01-rhetorical-devices-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "052efb5e-a3fa-4908-aea3-538658fe9e9d",
+    "user_id": null,
+    "term": "aporia",
+    "term_lang": "en",
+    "translation": "aporia",
+    "translation_lang": "pl",
+    "definition": "expressing doubt to engage",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I’m not sure if this is wise, but…",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-01-rhetorical-devices-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0c876a78-27cb-4818-85f5-dd5605089b2f",
+    "user_id": null,
+    "term": "litotes",
+    "term_lang": "en",
+    "translation": "litota",
+    "translation_lang": "pl",
+    "definition": "understatement using negation",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Not uncommon for markets to swing.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-01-rhetorical-devices-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3b4fb61d-b1c8-41a2-bbd6-41c578812e48",
+    "user_id": null,
+    "term": "hyperbaton",
+    "term_lang": "en",
+    "translation": "hiperbaton",
+    "translation_lang": "pl",
+    "definition": "unusual word order for emphasis",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Hard to ignore, the evidence is.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-01-rhetorical-devices-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a949a944-051c-46c4-b7fa-4a602c85a01b",
+    "user_id": null,
+    "term": "parataxis",
+    "term_lang": "en",
+    "translation": "parataksa",
+    "translation_lang": "pl",
+    "definition": "short clauses without subordination",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He runs; he stops; he stares.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-01-rhetorical-devices-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b66c5b4d-696f-4c26-aec6-bb8ca1fa77f9",
+    "user_id": null,
+    "term": "hypotaxis",
+    "term_lang": "en",
+    "translation": "hipotaksa",
+    "translation_lang": "pl",
+    "definition": "subordination to show logic",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Because demand fell, revenues dipped.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-01-rhetorical-devices-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  }
+]

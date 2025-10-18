@@ -1,0 +1,869 @@
+{
+  "pack_id": "a1_07_food_drinks_extra",
+  "title": "A1 07 Food Drinks — Extra",
+  "level": "A1",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "ca362fb6-935e-4262-a5de-c885186124f9",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "butter",
+      "back": "masło",
+      "hint": "Fat spread.",
+      "examples": [
+        [
+          "I put butter on toast.",
+          "Nakładam masło na tosty."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'butter'?",
+            "options": [
+              "masło",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'masło'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "22228131-157f-47b3-b5a0-b98778242270",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "cheese",
+      "back": "ser",
+      "hint": "Dairy product.",
+      "examples": [
+        [
+          "I like cheese.",
+          "Lubię ser."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'cheese'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "ser"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ser'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "704ef200-71ab-4aef-ba1d-e5a9d66aa3ea",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "tomato",
+      "back": "pomidor",
+      "hint": "Vegetable.",
+      "examples": [
+        [
+          "Tomato soup is tasty.",
+          "Zupa pomidorowa jest smaczna."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'tomato'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "pomidor",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'pomidor'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e06d311a-2600-4220-925c-70de92383773",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "salt",
+      "back": "sól",
+      "hint": "Spice.",
+      "examples": [
+        [
+          "Add salt.",
+          "Dodaj sól."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'salt'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "sól",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'sól'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2269ba71-3231-4d2b-95c6-1da578db6abc",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "sugar",
+      "back": "cukier",
+      "hint": "Sweet.",
+      "examples": [
+        [
+          "Sugar is sweet.",
+          "Cukier jest słodki."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'sugar'?",
+            "options": [
+              "tak",
+              "cukier",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'cukier'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "02811127-5598-4031-932d-2239322d1649",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "breakfast",
+      "back": "śniadanie",
+      "hint": "Morning meal.",
+      "examples": [
+        [
+          "Breakfast at 8.",
+          "Śniadanie o ósmej."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'breakfast'?",
+            "options": [
+              "tak",
+              "śniadanie",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'śniadanie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "23afc614-5a23-4c1d-a121-08742761282b",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "how are you",
+      "back": "jak się masz",
+      "hint": "Casual question about wellbeing.",
+      "examples": [
+        [
+          "How are you today?",
+          "Jak się masz dziś?"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'how are you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "jak się masz",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jak się masz'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "95484c7b-7def-4c25-bbec-d349011da4dd",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "nice to see you",
+      "back": "miło cię widzieć",
+      "hint": "Friendly greeting when meeting again.",
+      "examples": [
+        [
+          "Nice to see you again!",
+          "Miło cię znów widzieć!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'nice to see you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "miło cię widzieć"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię widzieć'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7ffaf5f6-bd35-4a7f-8d80-0e8770d105e0",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "good night",
+      "back": "dobranoc",
+      "hint": "Said at night when parting or before sleep.",
+      "examples": [
+        [
+          "Good night! See you tomorrow.",
+          "Dobranoc! Do zobaczenia jutro."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good night'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "dobranoc",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dobranoc'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6e61faa9-fd1b-4c35-9142-7c0b260755df",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "see you soon",
+      "back": "do zobaczenia wkrótce",
+      "hint": "You expect to meet again soon.",
+      "examples": [
+        [
+          "See you soon!",
+          "Do zobaczenia wkrótce!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'see you soon'?",
+            "options": [
+              "do zobaczenia wkrótce",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'do zobaczenia wkrótce'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b059ea79-5f41-40f4-a76a-475ec66d19d3",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "see you tomorrow",
+      "back": "do zobaczenia jutro",
+      "hint": "Farewell when meeting next day.",
+      "examples": [
+        [
+          "See you tomorrow!",
+          "Do zobaczenia jutro!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'see you tomorrow'?",
+            "options": [
+              "do zobaczenia jutro",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'do zobaczenia jutro'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "f4722753-23e6-4698-84d7-e2c05aa631b0",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "good to meet you",
+      "back": "miło cię poznać",
+      "hint": "Alternative to 'nice to meet you'.",
+      "examples": [
+        [
+          "Good to meet you, Anna.",
+          "Miło cię poznać, Anno."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good to meet you'?",
+            "options": [
+              "miło cię poznać",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię poznać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8abd46a5-6a97-4d26-9bec-c944e79aaf17",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "how do you do",
+      "back": "jak się masz (formalnie)",
+      "hint": "Very formal, in introductions (less common).",
+      "examples": [
+        [
+          "How do you do, Mr Brown?",
+          "Jak się masz, panie Brown?"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'how do you do'?",
+            "options": [
+              "tak",
+              "jak się masz (formalnie)",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jak się masz (formalnie)'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "84a86ad3-11a8-4ed5-9a22-6fd9235a7892",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "long time no see",
+      "back": "dawno się nie widzieliśmy",
+      "hint": "Informal greeting after a long time.",
+      "examples": [
+        [
+          "Long time no see!",
+          "Dawno się nie widzieliśmy!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'long time no see'?",
+            "options": [
+              "dawno się nie widzieliśmy",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dawno się nie widzieliśmy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "34cbf9af-066b-42cb-bd49-951f15ce0ae9",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "take care",
+      "back": "trzymaj się",
+      "hint": "Friendly farewell.",
+      "examples": [
+        [
+          "Bye! Take care.",
+          "Pa! Trzymaj się."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'take care'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "trzymaj się",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'trzymaj się'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "f343d9f4-b45d-4161-a794-126c294ed2d1",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "best regards",
+      "back": "z pozdrowieniami",
+      "hint": "Polite sign-off in emails.",
+      "examples": [
+        [
+          "Best regards,",
+          "Z pozdrowieniami,"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'best regards'?",
+            "options": [
+              "tak",
+              "z pozdrowieniami",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'z pozdrowieniami'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "56914031-b365-44cb-9c90-8c1e8f9fedaa",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "good to see you",
+      "back": "miło cię widzieć",
+      "hint": "Friendly greeting.",
+      "examples": [
+        [
+          "Good to see you!",
+          "Miło cię widzieć!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good to see you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "miło cię widzieć"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię widzieć'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "42f85a51-e401-4c23-b639-c12ef9965c35",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "have a nice day",
+      "back": "miłego dnia",
+      "hint": "Common polite wish.",
+      "examples": [
+        [
+          "Have a nice day!",
+          "Miłego dnia!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'have a nice day'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "miłego dnia"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miłego dnia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "d9720c99-c9c2-483c-967f-6e681d06879f",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "have a good weekend",
+      "back": "miłego weekendu",
+      "hint": "Polite wish before weekend.",
+      "examples": [
+        [
+          "Have a good weekend!",
+          "Miłego weekendu!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'have a good weekend'?",
+            "options": [
+              "miłego weekendu",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miłego weekendu'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4ab15701-ef93-490e-bd7a-09e6b72cdcfc",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 07 Food Drinks",
+      "front": "good to hear from you",
+      "back": "miło słyszeć wieści od ciebie",
+      "hint": "Polite in messages.",
+      "examples": [
+        [
+          "Good to hear from you.",
+          "Miło słyszeć wieści od ciebie."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "food"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good to hear from you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "miło słyszeć wieści od ciebie",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło słyszeć wieści od ciebie'."
+          }
+        ]
+      }
+    }
+  ]
+}

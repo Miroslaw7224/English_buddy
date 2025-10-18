@@ -1,0 +1,869 @@
+{
+  "pack_id": "a1_13_clothes_extra",
+  "title": "A1 13 Clothes — Extra",
+  "level": "A1",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "172cf2c8-de5e-41e3-be82-a0dd7b036adf",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "hat",
+      "back": "kapelusz/czapka",
+      "hint": "Headwear.",
+      "examples": [
+        [
+          "A hat on my head.",
+          "Czapka na głowie."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'hat'?",
+            "options": [
+              "tak",
+              "kapelusz/czapka",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'kapelusz/czapka'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "259f6867-e06a-4a56-bc1f-ee0cb74a0b55",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "how are you",
+      "back": "jak się masz",
+      "hint": "Casual question about wellbeing.",
+      "examples": [
+        [
+          "How are you today?",
+          "Jak się masz dziś?"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'how are you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "jak się masz",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jak się masz'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "be4b972a-adaf-44eb-b015-f656cc871057",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "nice to see you",
+      "back": "miło cię widzieć",
+      "hint": "Friendly greeting when meeting again.",
+      "examples": [
+        [
+          "Nice to see you again!",
+          "Miło cię znów widzieć!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'nice to see you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "miło cię widzieć"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię widzieć'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "d1839989-2a7c-45f1-bdcc-a86b3521c72a",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "good night",
+      "back": "dobranoc",
+      "hint": "Said at night when parting or before sleep.",
+      "examples": [
+        [
+          "Good night! See you tomorrow.",
+          "Dobranoc! Do zobaczenia jutro."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good night'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "dobranoc",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dobranoc'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "31d87313-8065-45a1-8c36-5e5c8127299f",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "see you soon",
+      "back": "do zobaczenia wkrótce",
+      "hint": "You expect to meet again soon.",
+      "examples": [
+        [
+          "See you soon!",
+          "Do zobaczenia wkrótce!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'see you soon'?",
+            "options": [
+              "do zobaczenia wkrótce",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'do zobaczenia wkrótce'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e2845aa4-eda7-4bfa-83e6-1626fb4e9467",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "see you tomorrow",
+      "back": "do zobaczenia jutro",
+      "hint": "Farewell when meeting next day.",
+      "examples": [
+        [
+          "See you tomorrow!",
+          "Do zobaczenia jutro!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'see you tomorrow'?",
+            "options": [
+              "do zobaczenia jutro",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'do zobaczenia jutro'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "52afbe39-6508-4390-87e3-a9efff841d7f",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "good to meet you",
+      "back": "miło cię poznać",
+      "hint": "Alternative to 'nice to meet you'.",
+      "examples": [
+        [
+          "Good to meet you, Anna.",
+          "Miło cię poznać, Anno."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good to meet you'?",
+            "options": [
+              "miło cię poznać",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię poznać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cfb8e2f5-91f9-4d5d-8231-c5ca7349d062",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "how do you do",
+      "back": "jak się masz (formalnie)",
+      "hint": "Very formal, in introductions (less common).",
+      "examples": [
+        [
+          "How do you do, Mr Brown?",
+          "Jak się masz, panie Brown?"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'how do you do'?",
+            "options": [
+              "tak",
+              "jak się masz (formalnie)",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jak się masz (formalnie)'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "338d8d75-f311-43bf-95d7-c644903ae6f4",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "long time no see",
+      "back": "dawno się nie widzieliśmy",
+      "hint": "Informal greeting after a long time.",
+      "examples": [
+        [
+          "Long time no see!",
+          "Dawno się nie widzieliśmy!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'long time no see'?",
+            "options": [
+              "dawno się nie widzieliśmy",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dawno się nie widzieliśmy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c4e6832e-b442-464a-9c05-77fd181cdc3e",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "take care",
+      "back": "trzymaj się",
+      "hint": "Friendly farewell.",
+      "examples": [
+        [
+          "Bye! Take care.",
+          "Pa! Trzymaj się."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'take care'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "trzymaj się",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'trzymaj się'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c3b0055b-6d4c-4c2f-ad20-a2ced4fc2a50",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "best regards",
+      "back": "z pozdrowieniami",
+      "hint": "Polite sign-off in emails.",
+      "examples": [
+        [
+          "Best regards,",
+          "Z pozdrowieniami,"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'best regards'?",
+            "options": [
+              "tak",
+              "z pozdrowieniami",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'z pozdrowieniami'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e8c8f97a-7d60-4d85-b9bc-5da4e1ffd7b5",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "good to see you",
+      "back": "miło cię widzieć",
+      "hint": "Friendly greeting.",
+      "examples": [
+        [
+          "Good to see you!",
+          "Miło cię widzieć!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good to see you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "miło cię widzieć"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię widzieć'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8eaa8a70-3e59-4a4b-8796-66f4c7d47e1a",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "have a nice day",
+      "back": "miłego dnia",
+      "hint": "Common polite wish.",
+      "examples": [
+        [
+          "Have a nice day!",
+          "Miłego dnia!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'have a nice day'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "miłego dnia"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miłego dnia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e2b30bd9-6013-4fa1-9022-371c941194d1",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "have a good weekend",
+      "back": "miłego weekendu",
+      "hint": "Polite wish before weekend.",
+      "examples": [
+        [
+          "Have a good weekend!",
+          "Miłego weekendu!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'have a good weekend'?",
+            "options": [
+              "miłego weekendu",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miłego weekendu'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "748ee7bf-5287-41af-bc47-14afa56ed542",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "good to hear from you",
+      "back": "miło słyszeć wieści od ciebie",
+      "hint": "Polite in messages.",
+      "examples": [
+        [
+          "Good to hear from you.",
+          "Miło słyszeć wieści od ciebie."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good to hear from you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "miło słyszeć wieści od ciebie",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło słyszeć wieści od ciebie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2ad12f73-55eb-4b39-a339-6f88abed4123",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "what’s up?",
+      "back": "co słychać?",
+      "hint": "Very casual; with friends.",
+      "examples": [
+        [
+          "Hey Tom, what’s up?",
+          "Hej Tom, co słychać?"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'what’s up?'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "co słychać?",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'co słychać?'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "f5705110-916b-4df1-a1fe-7514718db853",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "pleased to meet you",
+      "back": "miło cię poznać",
+      "hint": "Slightly more formal than 'nice to meet you'.",
+      "examples": [
+        [
+          "Pleased to meet you.",
+          "Miło cię poznać."
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'pleased to meet you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "miło cię poznać"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię poznać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "507c4543-4418-4773-a59a-861b76e92407",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "good to have you here",
+      "back": "miło, że jesteś",
+      "hint": "Welcoming someone.",
+      "examples": [
+        [
+          "Good to have you here!",
+          "Miło, że jesteś!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good to have you here'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "miło, że jesteś",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło, że jesteś'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7a715b92-933b-4781-866f-6bad9dfe9332",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "see you later",
+      "back": "do zobaczenia później",
+      "hint": "Informal farewell.",
+      "examples": [
+        [
+          "See you later!",
+          "Do zobaczenia później!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'see you later'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "do zobaczenia później",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'do zobaczenia później'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "f092a056-bbfb-4faa-898d-647e09fdaabe",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 13 Clothes",
+      "front": "see you around",
+      "back": "do zobaczenia",
+      "hint": "Casual, unspecified.",
+      "examples": [
+        [
+          "See you around!",
+          "Do zobaczenia!"
+        ]
+      ],
+      "tags": [
+        "daily-life",
+        "clothes"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'see you around'?",
+            "options": [
+              "tak",
+              "do zobaczenia",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'do zobaczenia'."
+          }
+        ]
+      }
+    }
+  ]
+}

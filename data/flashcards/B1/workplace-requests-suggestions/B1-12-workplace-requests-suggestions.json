@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "cdce3110-e6f7-4c36-ba21-fd15662a7cb2",
+    "user_id": null,
+    "term": "Could you please...?",
+    "term_lang": "en",
+    "translation": "Czy mógłbyś/mogłabyś...?",
+    "translation_lang": "pl",
+    "definition": "a polite request",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Could you please review the document today?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1bc9fe52-f813-456f-b657-3800bd37c8a6",
+    "user_id": null,
+    "term": "Would you mind ...ing?",
+    "term_lang": "en",
+    "translation": "Czy miałbyś/miałabyś coś przeciwko ...?",
+    "translation_lang": "pl",
+    "definition": "a very polite request",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Would you mind sending me the file?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cfdf40c0-5db2-4ed6-b142-290e083c14d0",
+    "user_id": null,
+    "term": "How about ...?",
+    "term_lang": "en",
+    "translation": "Co powiesz na ...?",
+    "translation_lang": "pl",
+    "definition": "a way to suggest an idea",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "How about meeting at 10 a.m.?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "23cde0d0-1c56-49e7-86f4-39243d95fcba",
+    "user_id": null,
+    "term": "Let's ...",
+    "term_lang": "en",
+    "translation": "Zróbmy ...",
+    "translation_lang": "pl",
+    "definition": "a friendly suggestion to do something together",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Let's schedule a quick call.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ffb0067b-2ead-43ba-af01-cc5da68e193c",
+    "user_id": null,
+    "term": "I suggest (that) ...",
+    "term_lang": "en",
+    "translation": "Sugeruję, aby ...",
+    "translation_lang": "pl",
+    "definition": "to give a recommendation",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I suggest we start with the budget.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5763dfca-30cd-4e6b-beec-f4818beb0d00",
+    "user_id": null,
+    "term": "I'm afraid I can't.",
+    "term_lang": "en",
+    "translation": "Obawiam się, że nie mogę.",
+    "translation_lang": "pl",
+    "definition": "a polite refusal",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I'm afraid I can't join the meeting today.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a034cd0e-af88-4d47-82a2-11c7d158bea4",
+    "user_id": null,
+    "term": "I'm tied up then.",
+    "term_lang": "en",
+    "translation": "Wtedy jestem zajęty/zajęta.",
+    "translation_lang": "pl",
+    "definition": "a polite way to say you are busy",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I'm tied up then; can we move it?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "893691c4-3af4-4eae-afc4-35edefad850d",
+    "user_id": null,
+    "term": "Could we reschedule?",
+    "term_lang": "en",
+    "translation": "Czy możemy przełożyć?",
+    "translation_lang": "pl",
+    "definition": "a polite way to change a time",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Could we reschedule to tomorrow afternoon?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2ec4258e-2f2e-4129-a74d-958329031167",
+    "user_id": null,
+    "term": "That works for me.",
+    "term_lang": "en",
+    "translation": "To mi pasuje.",
+    "translation_lang": "pl",
+    "definition": "to accept a suggestion",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Tuesday at 11? That works for me.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0ad12a56-f5c8-446c-b86e-fef1564c1cc1",
+    "user_id": null,
+    "term": "Good point.",
+    "term_lang": "en",
+    "translation": "Słuszna uwaga.",
+    "translation_lang": "pl",
+    "definition": "to agree with someone's idea",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Good point; let's add that to the slide.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "27501cc5-e8c3-4439-9944-c025540eadac",
+    "user_id": null,
+    "term": "I'm not sure about that.",
+    "term_lang": "en",
+    "translation": "Nie jestem co do tego przekonany/a.",
+    "translation_lang": "pl",
+    "definition": "to express polite disagreement",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I'm not sure about that approach.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fcdd4613-fa1d-4032-914d-3bddc0fae957",
+    "user_id": null,
+    "term": "Can I get back to you?",
+    "term_lang": "en",
+    "translation": "Czy mogę wrócić do Ciebie z odpowiedzią?",
+    "translation_lang": "pl",
+    "definition": "to delay answering",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Can I get back to you after lunch?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "286a312f-724d-4c4d-9bbb-01f16106305e",
+    "user_id": null,
+    "term": "I'd appreciate it if ...",
+    "term_lang": "en",
+    "translation": "Byłbym/byłabym wdzięczny/a, gdyby ...",
+    "translation_lang": "pl",
+    "definition": "formal request formula",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I'd appreciate it if you could send the numbers.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9107d738-5e33-4458-a977-a0638da36535",
+    "user_id": null,
+    "term": "It's up to you.",
+    "term_lang": "en",
+    "translation": "To zależy od Ciebie.",
+    "translation_lang": "pl",
+    "definition": "to let the other person decide",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We can use either tool—it's up to you.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "61680b1e-85f4-4c30-8117-25a1d9eaca9c",
+    "user_id": null,
+    "term": "Shall we ...?",
+    "term_lang": "en",
+    "translation": "Może byśmy ...?",
+    "translation_lang": "pl",
+    "definition": "a polite suggestion",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Shall we start with the timeline?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "12_workplace-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  }
+]

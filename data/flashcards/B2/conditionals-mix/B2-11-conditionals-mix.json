@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "47055abb-bfbc-4cc0-a6b3-103da7d0144e",
+    "user_id": null,
+    "term": "If + present, will + base",
+    "term_lang": "en",
+    "translation": "Jeśli + czas teraźniejszy, to will + bezokolicznik",
+    "translation_lang": "pl",
+    "definition": "first conditional for real future",
+    "part_of_speech": "grammar_rule",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "If it rains, we'll cancel the picnic.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3ff8d1ee-7b3d-4c38-a1bd-b1f80a95e9ea",
+    "user_id": null,
+    "term": "If + past, would + base",
+    "term_lang": "en",
+    "translation": "Gdyby + czas przeszły, to would + bezokolicznik",
+    "translation_lang": "pl",
+    "definition": "second conditional for unreal present",
+    "part_of_speech": "grammar_rule",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "If I had more time, I would learn Italian.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e7ba930a-b440-4509-8ca2-2781f00a2098",
+    "user_id": null,
+    "term": "If + had + V3, would have + V3",
+    "term_lang": "en",
+    "translation": "Gdyby + past perfect, to would have + III forma",
+    "translation_lang": "pl",
+    "definition": "third conditional for unreal past",
+    "part_of_speech": "grammar_rule",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "If they had left earlier, they would have caught the train.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "761c8f9f-464d-4269-a74e-afd9e325850c",
+    "user_id": null,
+    "term": "mixed: If + had V3, would + base",
+    "term_lang": "en",
+    "translation": "mieszane: gdyby stało się w przeszłości, teraz byłoby",
+    "translation_lang": "pl",
+    "definition": "past condition with present result",
+    "part_of_speech": "grammar_rule",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "If I had studied medicine, I would be a doctor now.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0c50b081-4605-40b0-9e72-c05743a3be33",
+    "user_id": null,
+    "term": "unless",
+    "term_lang": "en",
+    "translation": "chyba że",
+    "translation_lang": "pl",
+    "definition": "negative condition alternative to 'if not'",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We won't start unless everyone is here.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9263a7dd-5456-4ad1-8848-355b6aef013a",
+    "user_id": null,
+    "term": "as long as / provided (that)",
+    "term_lang": "en",
+    "translation": "o ile / pod warunkiem że",
+    "translation_lang": "pl",
+    "definition": "strong condition",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You can borrow the car as long as you fill the tank.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9abdc63e-6709-4846-8118-c34518b1976a",
+    "user_id": null,
+    "term": "only if",
+    "term_lang": "en",
+    "translation": "tylko jeśli",
+    "translation_lang": "pl",
+    "definition": "restrictive condition",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We will approve the budget only if sales improve.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d3423f50-dab3-4556-bc77-394f5fc7c108",
+    "user_id": null,
+    "term": "even if",
+    "term_lang": "en",
+    "translation": "nawet jeśli",
+    "translation_lang": "pl",
+    "definition": "condition that doesn't change the main clause",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We'll go hiking even if it rains.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4f04959f-ffea-494a-9c50-36ff0a231235",
+    "user_id": null,
+    "term": "in case",
+    "term_lang": "en",
+    "translation": "na wypadek gdyby",
+    "translation_lang": "pl",
+    "definition": "precaution",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Take some cash in case the card machine fails.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "72b1ece8-2c20-4dd3-a36b-6de2f44fc681",
+    "user_id": null,
+    "term": "If I were you",
+    "term_lang": "en",
+    "translation": "Na twoim miejscu",
+    "translation_lang": "pl",
+    "definition": "giving advice",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "If I were you, I'd back up the files.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2caa9d87-eff1-48a2-8849-d1d3be41e6d8",
+    "user_id": null,
+    "term": "should + subject inversion",
+    "term_lang": "en",
+    "translation": "inwersja z 'should'",
+    "translation_lang": "pl",
+    "definition": "formal first conditional",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Should you need help, call this number.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1dfd4117-36e6-45a7-b0ac-df1412dab3e8",
+    "user_id": null,
+    "term": "were + subject inversion",
+    "term_lang": "en",
+    "translation": "inwersja z 'were'",
+    "translation_lang": "pl",
+    "definition": "formal second conditional",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Were it not for traffic, we'd be on time.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dff85292-6e7d-495b-ad00-113a37b736ae",
+    "user_id": null,
+    "term": "had + subject inversion",
+    "term_lang": "en",
+    "translation": "inwersja z 'had'",
+    "translation_lang": "pl",
+    "definition": "formal third conditional",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Had we known, we would have booked earlier.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cb08d75d-87a1-411d-a937-ae6eb79cc0a5",
+    "user_id": null,
+    "term": "if it weren't for",
+    "term_lang": "en",
+    "translation": "gdyby nie",
+    "translation_lang": "pl",
+    "definition": "expressing an obstacle/cause",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "If it weren't for the rain, we'd play outside.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cae1230a-f823-41b8-ab21-f2b940b041bb",
+    "user_id": null,
+    "term": "but for",
+    "term_lang": "en",
+    "translation": "gdyby nie (formal)",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'if it weren't for'",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "But for your help, I would have failed.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "conditionals-mix",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:30:08Z",
+      "last_review_at": "2025-10-06T11:30:08Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:30:08Z",
+    "updated_at": "2025-10-06T11:30:08Z",
+    "deleted_at": null
+  }
+]

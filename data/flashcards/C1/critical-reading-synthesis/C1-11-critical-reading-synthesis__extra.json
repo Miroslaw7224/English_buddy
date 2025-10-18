@@ -1,0 +1,869 @@
+{
+  "pack_id": "c1_11_critical_reading_synthesis_extra",
+  "title": "C1 11 Critical Reading Synthesis — Extra",
+  "level": "C1",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "46f11dad-cc7c-4e91-9207-423a0c93b3b6",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "mitigate risks",
+      "back": "łagodzić ryzyka",
+      "hint": "Make risks less severe.",
+      "examples": [
+        [
+          "They mitigated the main risks.",
+          "Złagodzili główne ryzyka."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'mitigate risks'?",
+            "options": [
+              "łagodzić ryzyka",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'łagodzić ryzyka'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "9a519e72-e066-4154-9a91-963c56db7129",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "streamline processes",
+      "back": "usprawniać procesy",
+      "hint": "Make processes more efficient.",
+      "examples": [
+        [
+          "We streamlined processes last year.",
+          "Usprawniliśmy procesy w zeszłym roku."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'streamline processes'?",
+            "options": [
+              "usprawniać procesy",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'usprawniać procesy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "883a643c-1be5-4ac5-b282-b8c6bc7c48a6",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "sustainability",
+      "back": "zrównoważony rozwój",
+      "hint": "Environmental responsibility.",
+      "examples": [
+        [
+          "We invest in sustainability.",
+          "Inwestujemy w zrównoważony rozwój."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'sustainability'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zrównoważony rozwój",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zrównoważony rozwój'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "1902af55-dc1a-4409-98fb-623bb6eefc2f",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "scarce resources",
+      "back": "ograniczone zasoby",
+      "hint": "Limited resources.",
+      "examples": [
+        [
+          "We must manage scarce resources.",
+          "Musimy zarządzać ograniczonymi zasobami."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'scarce resources'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "ograniczone zasoby"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ograniczone zasoby'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "86299858-6425-415a-85ae-498fa940ac27",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "ambiguous statement",
+      "back": "dwuznaczne stwierdzenie",
+      "hint": "Unclear statement.",
+      "examples": [
+        [
+          "It was an ambiguous statement.",
+          "To było dwuznaczne stwierdzenie."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'ambiguous statement'?",
+            "options": [
+              "dwuznaczne stwierdzenie",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dwuznaczne stwierdzenie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "dcaf6fad-3639-4ec2-a2ef-d1adf42fe253",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "compelling argument",
+      "back": "przekonujący argument",
+      "hint": "Persuasive argument.",
+      "examples": [
+        [
+          "He made a compelling argument.",
+          "Przedstawił przekonujący argument."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'compelling argument'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "przekonujący argument"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przekonujący argument'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "dcaf294c-2cf0-41f9-b4f4-49651272db39",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "meticulous",
+      "back": "skrupulatny",
+      "hint": "Very careful and precise.",
+      "examples": [
+        [
+          "She is meticulous in her work.",
+          "Jest skrupulatna w pracy."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'meticulous'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "skrupulatny"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'skrupulatny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "5aeefaf9-272d-449e-aba8-fd1a37c2929b",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "feasible solution",
+      "back": "wykonalne rozwiązanie",
+      "hint": "Possible to do.",
+      "examples": [
+        [
+          "This is a feasible solution.",
+          "To jest wykonalne rozwiązanie."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'feasible solution'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "wykonalne rozwiązanie"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wykonalne rozwiązanie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4ec4917e-a99f-4957-9b4f-2b0c2900f347",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "foster collaboration",
+      "back": "wspierać współpracę",
+      "hint": "Encourage teamwork.",
+      "examples": [
+        [
+          "We foster collaboration across teams.",
+          "Wspieramy współpracę między zespołami."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'foster collaboration'?",
+            "options": [
+              "wspierać współpracę",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wspierać współpracę'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e4b47911-c50e-454b-bacc-dbc7ba790fd5",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "undeniable",
+      "back": "niezaprzeczalny",
+      "hint": "Impossible to deny.",
+      "examples": [
+        [
+          "It is undeniable.",
+          "To jest niezaprzeczalne."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'undeniable'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "niezaprzeczalny",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'niezaprzeczalny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "f0fd03a6-7742-4803-8fe8-eadfe78f9bd5",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "contemplate",
+      "back": "rozważać",
+      "hint": "Think carefully about.",
+      "examples": [
+        [
+          "We contemplate changes.",
+          "Rozważamy zmiany."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'contemplate'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "rozważać"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'rozważać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ffe40610-cf9e-4f6a-bc06-3887730409d4",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "disseminate information",
+      "back": "rozpowszechniać informacje",
+      "hint": "Spread widely.",
+      "examples": [
+        [
+          "They disseminate information online.",
+          "Rozpowszechniają informacje w internecie."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'disseminate information'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "rozpowszechniać informacje"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'rozpowszechniać informacje'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e535ac47-ae50-44f3-95a0-3c17ac0a9011",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "alleviate",
+      "back": "łagodzić",
+      "hint": "Make less severe.",
+      "examples": [
+        [
+          "It alleviates pain.",
+          "To łagodzi ból."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'alleviate'?",
+            "options": [
+              "łagodzić",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'łagodzić'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "436a7ee8-359b-4992-a236-1a1ba7b77c6a",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "inadvertently",
+      "back": "nieumyślnie",
+      "hint": "Without intention.",
+      "examples": [
+        [
+          "We inadvertently caused delays.",
+          "Nieumyślnie spowodowaliśmy opóźnienia."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "adverb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'inadvertently'?",
+            "options": [
+              "tak",
+              "nieumyślnie",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'nieumyślnie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c3f599fb-5b18-48fc-90bc-3c9d3b05f5f4",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "inevitable",
+      "back": "nieunikniony",
+      "hint": "Certain to happen.",
+      "examples": [
+        [
+          "It was inevitable.",
+          "To było nieuniknione."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'inevitable'?",
+            "options": [
+              "nieunikniony",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'nieunikniony'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "406873c8-c4ac-40a6-8ca1-1e213b7385d0",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "ubiquitous",
+      "back": "wszechobecny",
+      "hint": "Found everywhere.",
+      "examples": [
+        [
+          "Smartphones are ubiquitous.",
+          "Smartfony są wszechobecne."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'ubiquitous'?",
+            "options": [
+              "tak",
+              "wszechobecny",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wszechobecny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6d31febf-56ad-4a63-b5a4-ff03b328ec33",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "preliminary findings",
+      "back": "wstępne ustalenia",
+      "hint": "Early results.",
+      "examples": [
+        [
+          "Preliminary findings are positive.",
+          "Wstępne ustalenia są pozytywne."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'preliminary findings'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "wstępne ustalenia"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wstępne ustalenia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "713331e3-1b6e-42a0-84af-f3555f00f3f3",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "viable option",
+      "back": "realna opcja",
+      "hint": "Workable choice.",
+      "examples": [
+        [
+          "This is a viable option.",
+          "To jest realna opcja."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'viable option'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "realna opcja"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'realna opcja'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "970d1774-725c-4b9a-bf27-85ff296ab672",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "underlying cause",
+      "back": "przyczyna podstawowa",
+      "hint": "Main cause.",
+      "examples": [
+        [
+          "Find the underlying cause.",
+          "Znajdź przyczynę podstawową."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'underlying cause'?",
+            "options": [
+              "przyczyna podstawowa",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'przyczyna podstawowa'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8e16f945-809d-41e2-b1ef-de7369dc6804",
+      "level": "C1",
+      "difficulty": "advanced",
+      "topic": "C1 11 Critical Reading Synthesis",
+      "front": "tangible results",
+      "back": "namacalne rezultaty",
+      "hint": "Clear, real results.",
+      "examples": [
+        [
+          "We need tangible results.",
+          "Potrzebujemy namacalnych rezultatów."
+        ]
+      ],
+      "tags": [
+        "c1",
+        "extra"
+      ],
+      "pos": "noun",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'tangible results'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "namacalne rezultaty",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'namacalne rezultaty'."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "02db7e90-9e96-464a-b9a5-9c095ad37c42",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "bigger",
+    "term_lang": "en",
+    "translation": "większy",
+    "translation_lang": "pl",
+    "definition": "Comparative of 'big'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This room is bigger than mine.",
+        "translation": "Ten pokój jest większy niż mój."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:00:00Z",
+      "last_review_at": "2025-10-06T10:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:00:00Z",
+    "updated_at": "2025-10-06T10:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4ccfe21c-faa5-4ffc-9ea1-ce1d2a3b7065",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "biggest",
+    "term_lang": "en",
+    "translation": "największy",
+    "translation_lang": "pl",
+    "definition": "Superlative of 'big'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It is the biggest city here.",
+        "translation": "To największe miasto tutaj."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:01:00Z",
+      "last_review_at": "2025-10-06T10:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:01:00Z",
+    "updated_at": "2025-10-06T10:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9d869926-df6f-4434-bff4-2dc4bb506763",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "smaller",
+    "term_lang": "en",
+    "translation": "mniejszy",
+    "translation_lang": "pl",
+    "definition": "Comparative of 'small'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The red bag is smaller.",
+        "translation": "Czerwona torba jest mniejsza."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:02:00Z",
+      "last_review_at": "2025-10-06T10:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:02:00Z",
+    "updated_at": "2025-10-06T10:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "63ead441-2b9e-4533-8d80-05d09537163c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "smallest",
+    "term_lang": "en",
+    "translation": "najmniejszy",
+    "translation_lang": "pl",
+    "definition": "Superlative of 'small'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This is the smallest cup.",
+        "translation": "To jest najmniejszy kubek."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:03:00Z",
+      "last_review_at": "2025-10-06T10:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:03:00Z",
+    "updated_at": "2025-10-06T10:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bf8e2f5b-47c1-4b88-89c0-4c001ca1dd72",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "faster",
+    "term_lang": "en",
+    "translation": "szybszy",
+    "translation_lang": "pl",
+    "definition": "Comparative of 'fast'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A train is faster than a bus.",
+        "translation": "Pociąg jest szybszy niż autobus."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:04:00Z",
+      "last_review_at": "2025-10-06T10:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:04:00Z",
+    "updated_at": "2025-10-06T10:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "055ab0e9-3f8f-4348-ad70-eb3099937fda",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "fastest",
+    "term_lang": "en",
+    "translation": "najszybszy",
+    "translation_lang": "pl",
+    "definition": "Superlative of 'fast'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He is the fastest runner.",
+        "translation": "On jest najszybszym biegaczem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:05:00Z",
+      "last_review_at": "2025-10-06T10:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:05:00Z",
+    "updated_at": "2025-10-06T10:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "07156cb1-dc01-41e0-bf33-cd648040d65b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "slower",
+    "term_lang": "en",
+    "translation": "wolniejszy",
+    "translation_lang": "pl",
+    "definition": "Comparative of 'slow'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please speak slower.",
+        "translation": "Proszę mów wolniej."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:06:00Z",
+      "last_review_at": "2025-10-06T10:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:06:00Z",
+    "updated_at": "2025-10-06T10:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "440cd426-15bc-4eb1-aa85-8e1436c73e07",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "slowest",
+    "term_lang": "en",
+    "translation": "najwolniejszy",
+    "translation_lang": "pl",
+    "definition": "Superlative of 'slow'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This is the slowest computer.",
+        "translation": "To najwolniejszy komputer."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:07:00Z",
+      "last_review_at": "2025-10-06T10:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:07:00Z",
+    "updated_at": "2025-10-06T10:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b538ca40-ba85-43dd-bf33-0a518df91e00",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "more expensive",
+    "term_lang": "en",
+    "translation": "droższy",
+    "translation_lang": "pl",
+    "definition": "Comparative using 'more'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This jacket is more expensive.",
+        "translation": "Ta kurtka jest droższa."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:08:00Z",
+      "last_review_at": "2025-10-06T10:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:08:00Z",
+    "updated_at": "2025-10-06T10:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "75b43459-a312-4277-864a-7de4d7944095",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "the most expensive",
+    "term_lang": "en",
+    "translation": "najdroższy",
+    "translation_lang": "pl",
+    "definition": "Superlative using 'most'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The most expensive car is here.",
+        "translation": "Najdroższy samochód jest tutaj."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:09:00Z",
+      "last_review_at": "2025-10-06T10:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:09:00Z",
+    "updated_at": "2025-10-06T10:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "84824938-8b5f-4be0-bdc5-0927d982b6a6",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "better",
+    "term_lang": "en",
+    "translation": "lepszy",
+    "translation_lang": "pl",
+    "definition": "Irregular comparative of 'good'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This book is better than that one.",
+        "translation": "Ta książka jest lepsza niż tamta."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:10:00Z",
+      "last_review_at": "2025-10-06T10:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:10:00Z",
+    "updated_at": "2025-10-06T10:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "81fb1024-073e-4f11-beb6-9b51c1cb3cd9",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "the best",
+    "term_lang": "en",
+    "translation": "najlepszy",
+    "translation_lang": "pl",
+    "definition": "Irregular superlative of 'good'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She is the best student.",
+        "translation": "Ona jest najlepszą uczennicą."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:11:00Z",
+      "last_review_at": "2025-10-06T10:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:11:00Z",
+    "updated_at": "2025-10-06T10:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6a2f7b11-a209-4268-b3dc-f8e93c6b81e4",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "worse",
+    "term_lang": "en",
+    "translation": "gorszy",
+    "translation_lang": "pl",
+    "definition": "Irregular comparative of 'bad'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Today is worse than yesterday.",
+        "translation": "Dziś jest gorzej niż wczoraj."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:12:00Z",
+      "last_review_at": "2025-10-06T10:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:12:00Z",
+    "updated_at": "2025-10-06T10:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7badf590-9698-45bd-9479-699048e4ffef",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "the worst",
+    "term_lang": "en",
+    "translation": "najgorszy",
+    "translation_lang": "pl",
+    "definition": "Irregular superlative of 'bad'.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "That was the worst day.",
+        "translation": "To był najgorszy dzień."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:13:00Z",
+      "last_review_at": "2025-10-06T10:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:13:00Z",
+    "updated_at": "2025-10-06T10:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4ed14693-e7c5-41a7-b360-b4530bf91949",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "than",
+    "term_lang": "en",
+    "translation": "niż",
+    "translation_lang": "pl",
+    "definition": "Used to compare two things.",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A bike is cheaper than a car.",
+        "translation": "Rower jest tańszy niż samochód."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-05-comparatives-superlatives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:14:00Z",
+      "last_review_at": "2025-10-06T10:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:14:00Z",
+    "updated_at": "2025-10-06T10:14:00Z",
+    "deleted_at": null
+  }
+]

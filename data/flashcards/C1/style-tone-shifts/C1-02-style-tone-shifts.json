@@ -1,0 +1,667 @@
+[
+  {
+    "word_id": "b12cc01a-29ed-42f6-a797-9259f00c4cba",
+    "user_id": null,
+    "term": "register shift",
+    "term_lang": "en",
+    "translation": "zmiana rejestru",
+    "translation_lang": "pl",
+    "definition": "adjusting formality to context",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Switch to a formal register when addressing clients.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a5290e82-a1af-40e0-ba75-20b1c2bfb88f",
+    "user_id": null,
+    "term": "concise",
+    "term_lang": "en",
+    "translation": "zwięzły",
+    "translation_lang": "pl",
+    "definition": "expressed in few words, without loss of meaning",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Keep the email concise and to the point.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1f2fab95-20bb-46f0-af10-fe6506844997",
+    "user_id": null,
+    "term": "circumlocution",
+    "term_lang": "en",
+    "translation": "omówienie (około mówienie)",
+    "translation_lang": "pl",
+    "definition": "talking around a subject",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Avoid circumlocution in reports.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d75663fe-cd90-4f89-a5ff-0167a38c28a5",
+    "user_id": null,
+    "term": "euphemism",
+    "term_lang": "en",
+    "translation": "eufemizm",
+    "translation_lang": "pl",
+    "definition": "mild word replacing a harsh one",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He was laid off—a corporate euphemism for fired.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c3285e34-1eff-40b3-9bfa-1e98a23937e0",
+    "user_id": null,
+    "term": "jargon",
+    "term_lang": "en",
+    "translation": "żargon",
+    "translation_lang": "pl",
+    "definition": "specialised language of a group",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Limit technical jargon in customer messages.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c1bf1671-b2f1-4ca4-bf51-e6eceda8404a",
+    "user_id": null,
+    "term": "colloquial",
+    "term_lang": "en",
+    "translation": "potoczny",
+    "translation_lang": "pl",
+    "definition": "informal speech or expressions",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Use fewer colloquial phrases in the report.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "style-tone-shifts",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "59ed6450-26b3-4186-a0b9-084d5a09ddf0",
+    "user_id": null,
+    "term": "objective tone",
+    "term_lang": "en",
+    "translation": "ton obiektywny",
+    "translation_lang": "pl",
+    "definition": "neutral, fact-based style",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Maintain an objective tone in the summary.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "style-tone-shifts",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6cf28161-963f-4a71-bde7-14943e7d31bc",
+    "user_id": null,
+    "term": "subjective tone",
+    "term_lang": "en",
+    "translation": "ton subiektywny",
+    "translation_lang": "pl",
+    "definition": "personal or opinionated style",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Op-eds take a subjective tone.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "style-tone-shifts",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "27bc4f06-9bc5-440a-8edc-1220501e6ed9",
+    "user_id": null,
+    "term": "hedge vs booster",
+    "term_lang": "en",
+    "translation": "osłabiacz vs wzmacniacz",
+    "translation_lang": "pl",
+    "definition": "language that softens or strengthens claims",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Choose hedges over boosters in uncertain findings.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "style-tone-shifts",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3b93f6c5-4a40-4b13-9ba6-50a7c3a97d13",
+    "user_id": null,
+    "term": "impersonal style",
+    "term_lang": "en",
+    "translation": "styl bezosobowy",
+    "translation_lang": "pl",
+    "definition": "avoids personal pronouns",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "An impersonal style suits academic writing.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "style-tone-shifts",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4c21e02f-5e23-46d3-aff5-54163dd83285",
+    "user_id": null,
+    "term": "emphatic style",
+    "term_lang": "en",
+    "translation": "styl emfatyczny",
+    "translation_lang": "pl",
+    "definition": "adds emphasis for rhetorical effect",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Use emphatic style sparingly.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "style-tone-shifts",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "797cceb5-5043-4bed-bfec-7f1df9bb772e",
+    "user_id": null,
+    "term": "tone-deaf",
+    "term_lang": "en",
+    "translation": "nietrafiony w tonie",
+    "translation_lang": "pl",
+    "definition": "showing insensitivity to context",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The joke was tone-deaf in a formal meeting.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "style-tone-shifts",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fd195a23-c3f1-4595-91e7-d99043d2965f",
+    "user_id": null,
+    "term": "salutation",
+    "term_lang": "en",
+    "translation": "zwrot grzecznościowy (początkowy)",
+    "translation_lang": "pl",
+    "definition": "greeting at the start of correspondence",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Choose a suitable salutation for the audience.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "style-tone-shifts",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4752f75e-a1bf-4c62-abee-cc82f78edeaa",
+    "user_id": null,
+    "term": "valediction",
+    "term_lang": "en",
+    "translation": "formuła pożegnalna",
+    "translation_lang": "pl",
+    "definition": "closing phrase in correspondence",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Use an appropriate valediction in letters.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "style-tone-shifts",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f00a88b7-b942-4e45-8784-d4df6242463b",
+    "user_id": null,
+    "term": "house style",
+    "term_lang": "en",
+    "translation": "styl redakcyjny",
+    "translation_lang": "pl",
+    "definition": "organisation’s writing standards",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Follow the house style for headings.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "style-tone-shifts",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  }
+]

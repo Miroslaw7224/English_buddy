@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "b938cc8f-76d2-41f9-83fa-7e3f0206bd28",
+    "user_id": null,
+    "term": "Dear Sir or Madam,",
+    "term_lang": "en",
+    "translation": "Szanowni Państwo,",
+    "translation_lang": "pl",
+    "definition": "a formal opening when you don't know the name",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Dear Sir or Madam, I am writing to ask about the course.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4b159479-2fb1-4f1f-bcac-8d058bc1ef74",
+    "user_id": null,
+    "term": "Dear Mr/Ms [Name],",
+    "term_lang": "en",
+    "translation": "Szanowny Panie / Szanowna Pani [Nazwisko],",
+    "translation_lang": "pl",
+    "definition": "a formal opening when you know the surname",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Dear Ms Nowak, thank you for your message.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "485b5e56-806a-421e-80f8-7a55091caf9a",
+    "user_id": null,
+    "term": "Hi [Name],",
+    "term_lang": "en",
+    "translation": "Cześć [Imię],",
+    "translation_lang": "pl",
+    "definition": "a neutral opening for colleagues and friends",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Hi Anna, could you check the file?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0e3cccc8-b0c1-47f8-a04a-4024d4e1cddf",
+    "user_id": null,
+    "term": "Hello [Team],",
+    "term_lang": "en",
+    "translation": "Dzień dobry [Zespole],",
+    "translation_lang": "pl",
+    "definition": "a neutral opening to a group",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Hello Team, here are the updates.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "097af2f4-6ff6-4f31-a5a1-b263e06e4414",
+    "user_id": null,
+    "term": "To whom it may concern,",
+    "term_lang": "en",
+    "translation": "Do wiadomości zainteresowanych,",
+    "translation_lang": "pl",
+    "definition": "a very formal and impersonal opening",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "To whom it may concern, I am applying for the position.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "25a0395d-2bf7-44df-adbe-bb5f6a35cc1f",
+    "user_id": null,
+    "term": "I hope this email finds you well.",
+    "term_lang": "en",
+    "translation": "Mam nadzieję, że u Ciebie wszystko w porządku.",
+    "translation_lang": "pl",
+    "definition": "a polite opening sentence",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I hope this email finds you well. I'm writing regarding...",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "eb38ccff-59f7-4b76-a69b-7f3db2f205d1",
+    "user_id": null,
+    "term": "I am writing to...",
+    "term_lang": "en",
+    "translation": "Piszę, aby...",
+    "translation_lang": "pl",
+    "definition": "a formal way to introduce purpose",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I am writing to request more information.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "053fa1c5-d522-4c2a-a5a0-80cec7ff3f4a",
+    "user_id": null,
+    "term": "Thank you for your email.",
+    "term_lang": "en",
+    "translation": "Dziękuję za Twoją wiadomość.",
+    "translation_lang": "pl",
+    "definition": "a polite acknowledgement",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Thank you for your email about the meeting.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8d84d12c-1274-4bd4-a9e5-802d2e97c23e",
+    "user_id": null,
+    "term": "Please find attached...",
+    "term_lang": "en",
+    "translation": "W załączniku przesyłam...",
+    "translation_lang": "pl",
+    "definition": "used to mention an attachment",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please find attached the signed contract.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b2be21bb-ccdc-4974-91cb-a6796a111d52",
+    "user_id": null,
+    "term": "If you have any questions, please let me know.",
+    "term_lang": "en",
+    "translation": "W razie pytań proszę o kontakt.",
+    "translation_lang": "pl",
+    "definition": "a polite closing sentence",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "If you have any questions, please let me know.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "da0056f7-7fb1-4d7b-8a93-c0de2dc31f70",
+    "user_id": null,
+    "term": "Looking forward to your reply.",
+    "term_lang": "en",
+    "translation": "Czekam na odpowiedź.",
+    "translation_lang": "pl",
+    "definition": "a neutral closing sentence",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Looking forward to your reply.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "09b9d55a-324a-4fba-b102-8e2792237fc7",
+    "user_id": null,
+    "term": "Best regards,",
+    "term_lang": "en",
+    "translation": "Z poważaniem / Pozdrawiam,",
+    "translation_lang": "pl",
+    "definition": "a common closing",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Best regards,\n[Your Name]",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1aaf5738-25c4-4092-8101-86d8cb196ae1",
+    "user_id": null,
+    "term": "Kind regards,",
+    "term_lang": "en",
+    "translation": "Z wyrazami szacunku / Pozdrawiam serdecznie,",
+    "translation_lang": "pl",
+    "definition": "a slightly more formal closing",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Kind regards,\n[Your Name]",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b63edb5b-1fef-4f5b-9a18-f159228448c8",
+    "user_id": null,
+    "term": "Sincerely,",
+    "term_lang": "en",
+    "translation": "Z poważaniem,",
+    "translation_lang": "pl",
+    "definition": "a formal closing used in letters",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Sincerely,\n[Your Name]",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "332c5859-15b4-4f24-af30-6efbaba31863",
+    "user_id": null,
+    "term": "All the best,",
+    "term_lang": "en",
+    "translation": "Wszystkiego dobrego,",
+    "translation_lang": "pl",
+    "definition": "an informal/neutral closing",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "All the best,\n[Your Name]",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "09_email-messages-openings-closings",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  }
+]

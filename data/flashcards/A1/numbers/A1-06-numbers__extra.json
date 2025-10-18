@@ -1,0 +1,869 @@
+{
+  "pack_id": "a1_06_numbers_extra",
+  "title": "A1 06 Numbers — Extra",
+  "level": "A1",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "606eb8d6-7cf5-44fe-953c-7324b94dfd8c",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "red",
+      "back": "czerwony",
+      "hint": "Color.",
+      "examples": [
+        [
+          "A red car.",
+          "Czerwony samochód."
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'red'?",
+            "options": [
+              "tak",
+              "czerwony",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'czerwony'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "e324389a-8b4e-480b-8329-2a1b10a4ad4f",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "blue",
+      "back": "niebieski",
+      "hint": "Color.",
+      "examples": [
+        [
+          "A blue pen.",
+          "Niebieski długopis."
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'blue'?",
+            "options": [
+              "niebieski",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'niebieski'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7d5f7e85-4fd1-4f89-8954-e3fa603541c2",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "green",
+      "back": "zielony",
+      "hint": "Color.",
+      "examples": [
+        [
+          "Green apples.",
+          "Zielone jabłka."
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'green'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "zielony",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zielony'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "008bf3bc-9fda-45c2-9813-e3787e118f2e",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "yellow",
+      "back": "żółty",
+      "hint": "Color.",
+      "examples": [
+        [
+          "Yellow flowers.",
+          "Żółte kwiaty."
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'yellow'?",
+            "options": [
+              "tak",
+              "żółty",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'żółty'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2ed67209-723a-4492-9f3f-a9f35d976571",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "black",
+      "back": "czarny",
+      "hint": "Color.",
+      "examples": [
+        [
+          "Black shoes.",
+          "Czarne buty."
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'black'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "czarny"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'czarny'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bd3f9dba-1bbc-415e-976d-87255cfc824f",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "white",
+      "back": "biały",
+      "hint": "Color.",
+      "examples": [
+        [
+          "White shirt.",
+          "Biała koszula."
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'white'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "biały",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'biały'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bc5cb4f3-7d10-4675-8141-a9c95754b304",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "brown",
+      "back": "brązowy",
+      "hint": "Color.",
+      "examples": [
+        [
+          "Brown bag.",
+          "Brązowa torba."
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "adjective",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'brown'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "brązowy"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'brązowy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "dd8c4a3e-a22a-44f0-be10-9dcd55018a64",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "how are you",
+      "back": "jak się masz",
+      "hint": "Casual question about wellbeing.",
+      "examples": [
+        [
+          "How are you today?",
+          "Jak się masz dziś?"
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'how are you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "jak się masz",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jak się masz'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b5e859ef-726c-4ab5-b79d-4f263fba6e7a",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "nice to see you",
+      "back": "miło cię widzieć",
+      "hint": "Friendly greeting when meeting again.",
+      "examples": [
+        [
+          "Nice to see you again!",
+          "Miło cię znów widzieć!"
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'nice to see you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "miło cię widzieć"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię widzieć'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b1dd30ea-0e34-494a-900e-f0678d77d2be",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "good night",
+      "back": "dobranoc",
+      "hint": "Said at night when parting or before sleep.",
+      "examples": [
+        [
+          "Good night! See you tomorrow.",
+          "Dobranoc! Do zobaczenia jutro."
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good night'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "dobranoc",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dobranoc'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "a626e599-acda-4cae-89df-e7ed0380d5bb",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "see you soon",
+      "back": "do zobaczenia wkrótce",
+      "hint": "You expect to meet again soon.",
+      "examples": [
+        [
+          "See you soon!",
+          "Do zobaczenia wkrótce!"
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'see you soon'?",
+            "options": [
+              "do zobaczenia wkrótce",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'do zobaczenia wkrótce'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "885bc9d8-31ef-4ea9-8d66-db7681c7a297",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "see you tomorrow",
+      "back": "do zobaczenia jutro",
+      "hint": "Farewell when meeting next day.",
+      "examples": [
+        [
+          "See you tomorrow!",
+          "Do zobaczenia jutro!"
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'see you tomorrow'?",
+            "options": [
+              "do zobaczenia jutro",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'do zobaczenia jutro'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4fa78a2d-b995-43a5-aba2-8a4ce2afbc3c",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "good to meet you",
+      "back": "miło cię poznać",
+      "hint": "Alternative to 'nice to meet you'.",
+      "examples": [
+        [
+          "Good to meet you, Anna.",
+          "Miło cię poznać, Anno."
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good to meet you'?",
+            "options": [
+              "miło cię poznać",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię poznać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "126b0d30-7739-405a-b44b-fce25010e033",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "how do you do",
+      "back": "jak się masz (formalnie)",
+      "hint": "Very formal, in introductions (less common).",
+      "examples": [
+        [
+          "How do you do, Mr Brown?",
+          "Jak się masz, panie Brown?"
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'how do you do'?",
+            "options": [
+              "tak",
+              "jak się masz (formalnie)",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'jak się masz (formalnie)'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "43966cf9-d705-4a34-97ff-b931e6b8929b",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "long time no see",
+      "back": "dawno się nie widzieliśmy",
+      "hint": "Informal greeting after a long time.",
+      "examples": [
+        [
+          "Long time no see!",
+          "Dawno się nie widzieliśmy!"
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'long time no see'?",
+            "options": [
+              "dawno się nie widzieliśmy",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dawno się nie widzieliśmy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ce03a5c8-f490-4419-a2d6-db685ab9759c",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "take care",
+      "back": "trzymaj się",
+      "hint": "Friendly farewell.",
+      "examples": [
+        [
+          "Bye! Take care.",
+          "Pa! Trzymaj się."
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'take care'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "trzymaj się",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'trzymaj się'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "00a2e04f-523a-4b43-b897-69f3272c69d2",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "best regards",
+      "back": "z pozdrowieniami",
+      "hint": "Polite sign-off in emails.",
+      "examples": [
+        [
+          "Best regards,",
+          "Z pozdrowieniami,"
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'best regards'?",
+            "options": [
+              "tak",
+              "z pozdrowieniami",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'z pozdrowieniami'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c4fed562-ea14-4b0f-9c18-fac0861a490d",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "good to see you",
+      "back": "miło cię widzieć",
+      "hint": "Friendly greeting.",
+      "examples": [
+        [
+          "Good to see you!",
+          "Miło cię widzieć!"
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'good to see you'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "miło cię widzieć"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miło cię widzieć'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "73932ff9-c718-4190-aa9c-080996d9a2a5",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "have a nice day",
+      "back": "miłego dnia",
+      "hint": "Common polite wish.",
+      "examples": [
+        [
+          "Have a nice day!",
+          "Miłego dnia!"
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'have a nice day'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "miłego dnia"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miłego dnia'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c1ebbe2f-f56f-4ed3-8e8f-101c97a4c149",
+      "level": "A1",
+      "difficulty": "beginner",
+      "topic": "A1 06 Numbers",
+      "front": "have a good weekend",
+      "back": "miłego weekendu",
+      "hint": "Polite wish before weekend.",
+      "examples": [
+        [
+          "Have a good weekend!",
+          "Miłego weekendu!"
+        ]
+      ],
+      "tags": [
+        "basics",
+        "numbers_colors"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added A1 extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'have a good weekend'?",
+            "options": [
+              "miłego weekendu",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'miłego weekendu'."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "1e7bdbe6-ff8b-432b-9410-dcb6eb45c358",
+    "user_id": null,
+    "term": "however",
+    "term_lang": "en",
+    "translation": "jednakże",
+    "translation_lang": "pl",
+    "definition": "introduces contrast with previous idea",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I agree the plan is ambitious; however, it's achievable.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2309139a-6ba5-4257-bacb-e30622036470",
+    "user_id": null,
+    "term": "moreover",
+    "term_lang": "en",
+    "translation": "co więcej",
+    "translation_lang": "pl",
+    "definition": "adds a reinforcing point",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The solution is simple; moreover, it's cost-effective.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "425b619a-bf0f-4f26-b976-e1eecc46ff00",
+    "user_id": null,
+    "term": "on the other hand",
+    "term_lang": "en",
+    "translation": "z drugiej strony",
+    "translation_lang": "pl",
+    "definition": "presents an opposing perspective",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The city is vibrant; on the other hand, it's noisy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "18b53630-6bb6-45c1-9ef1-1badb1d68172",
+    "user_id": null,
+    "term": "nevertheless",
+    "term_lang": "en",
+    "translation": "niemniej jednak",
+    "translation_lang": "pl",
+    "definition": "concedes a point but maintains stance",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The task is difficult; nevertheless, we'll manage.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cbd9c64a-ce1c-42f5-a11b-e78f9e5c025e",
+    "user_id": null,
+    "term": "therefore",
+    "term_lang": "en",
+    "translation": "dlatego też",
+    "translation_lang": "pl",
+    "definition": "shows logical result or conclusion",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We lacked data; therefore, we postponed the decision.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cfd1f3ad-ffe5-4c71-9cdd-b7d243cce8da",
+    "user_id": null,
+    "term": "in addition",
+    "term_lang": "en",
+    "translation": "dodatkowo",
+    "translation_lang": "pl",
+    "definition": "adds extra information",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "In addition, the app supports offline mode.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e6813a49-bfc4-465d-8ed6-5758ba0314ff",
+    "user_id": null,
+    "term": "for instance",
+    "term_lang": "en",
+    "translation": "na przykład",
+    "translation_lang": "pl",
+    "definition": "gives an example",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Many factors matter—for instance, user experience.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "07e95cd5-5a63-44be-9237-edd80db63257",
+    "user_id": null,
+    "term": "whereas",
+    "term_lang": "en",
+    "translation": "podczas gdy",
+    "translation_lang": "pl",
+    "definition": "contrasts two facts in one sentence",
+    "part_of_speech": "conjunction",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He enjoys risk, whereas she prefers safety.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "59565cf4-306a-4d92-9685-0865bb8d7e3b",
+    "user_id": null,
+    "term": "despite",
+    "term_lang": "en",
+    "translation": "mimo",
+    "translation_lang": "pl",
+    "definition": "shows contrast with a noun/gerund",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Despite the rain, the match continued.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "aee78051-486a-458a-9871-3ded648f90a7",
+    "user_id": null,
+    "term": "due to",
+    "term_lang": "en",
+    "translation": "z powodu",
+    "translation_lang": "pl",
+    "definition": "introduces a reason (cause)",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The flight was delayed due to fog.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1f7f2ee0-2d39-4d77-84b2-61fa9754d8e3",
+    "user_id": null,
+    "term": "furthermore",
+    "term_lang": "en",
+    "translation": "ponadto",
+    "translation_lang": "pl",
+    "definition": "adds a strong additional point",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The device is fast; furthermore, it's energy-efficient.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "20bc4706-ab5e-451f-84c4-e611a3517b37",
+    "user_id": null,
+    "term": "conversely",
+    "term_lang": "en",
+    "translation": "odwrotnie",
+    "translation_lang": "pl",
+    "definition": "introduces the opposite idea",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The north is dry; conversely, the south is humid.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dd29a751-7487-42b3-82c3-3edf93b6b8a2",
+    "user_id": null,
+    "term": "to some extent",
+    "term_lang": "en",
+    "translation": "do pewnego stopnia",
+    "translation_lang": "pl",
+    "definition": "limits or qualifies agreement",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I agree to some extent with your argument.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "643a26e3-dc69-440b-af53-39aca527a5e5",
+    "user_id": null,
+    "term": "admittedly",
+    "term_lang": "en",
+    "translation": "co prawda",
+    "translation_lang": "pl",
+    "definition": "accepts something is true before a contrast",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Admittedly, the sample was small, but the trend is clear.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "98f7e08f-cb2a-4c24-90b4-5f549fa24bf8",
+    "user_id": null,
+    "term": "as a result",
+    "term_lang": "en",
+    "translation": "w rezultacie",
+    "translation_lang": "pl",
+    "definition": "introduces an outcome",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Sales dropped; as a result, hiring was frozen.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "argumentation-counterpoints",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  }
+]

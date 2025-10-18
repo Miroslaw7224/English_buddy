@@ -6,6 +6,19 @@ import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { RotateCcw, Volume2, VolumeX } from 'lucide-react';
 
+interface QuizTask {
+  type: 'multiple_choice';
+  prompt: string;
+  options: string[];
+  answer_index: number;
+  feedback_correct: string;
+  feedback_incorrect: string;
+}
+
+interface Quiz {
+  tasks: QuizTask[];
+}
+
 interface Flashcard {
   word_id: string;
   term: string;
@@ -13,12 +26,14 @@ interface Flashcard {
   definition: string;
   part_of_speech: string;
   cefr: string;
+  category?: string;
   examples: Array<{
     text: string;
     translation: string | null;
   }>;
   audio_url: string | null;
   ipa: string | null;
+  quiz?: Quiz;
 }
 
 interface FlashcardDisplayProps {
@@ -31,26 +46,109 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   const [isAudioPlaying, setIsAudioPlaying] = useState(false);
-  const [guessMode, setGuessMode] = useState(level === 'A1');
+  const [guessMode, setGuessMode] = useState(true);
   const [userGuess, setUserGuess] = useState('');
+  const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
   const [showResult, setShowResult] = useState(false);
   const [isCorrect, setIsCorrect] = useState(false);
   const [showHint, setShowHint] = useState(false);
   const [sessionStats, setSessionStats] = useState({ correct: 0, total: 0 });
-  const [shuffledCards, setShuffledCards] = useState<Flashcard[]>([]);
-  const [isShuffled, setIsShuffled] = useState(false);
+  const [currentTaskIndex, setCurrentTaskIndex] = useState(0);
+  const [quizMode, setQuizMode] = useState(false);
+  const [userProgress, setUserProgress] = useState<Record<string, any>>({});
+  const [isSavingProgress, setIsSavingProgress] = useState(false);
+  const [showOnlyNew, setShowOnlyNew] = useState(false);
 
-  const currentCards = isShuffled && shuffledCards.length > 0 ? shuffledCards : flashcards;
+  const getFilteredCards = () => {
+    if (!showOnlyNew) return flashcards;
+    return flashcards.filter(card => {
+      const progress = userProgress[card.word_id];
+      return !progress || (progress.streak || 0) < 3;
+    });
+  };
+
+  const currentCards = getFilteredCards();
   const currentCard = currentCards[currentIndex];
+  const hasQuiz = currentCard?.quiz && currentCard.quiz.tasks.length > 0;
 
+  // Load user progress on mount (fetch all progress for level, not individual word_ids)
+  useEffect(() => {
+    const loadProgress = async () => {
+      try {
+        const response = await fetch(`/api/flashcard-progress?level=${level}`, {
+          credentials: 'include'
+        });
+        const data = await response.json();
+        
+        if (response.ok) {
+          const progress = data.progress || {};
+          setUserProgress(progress);
 
-  const handleNext = () => {
+          // Find first card without progress or with streak < 3 (still learning)
+          const firstUnlearnedIndex = flashcards.findIndex((card) => {
+            const cardProgress = progress[card.word_id];
+            return !cardProgress || (cardProgress.streak || 0) < 3;
+          });
+
+          if (firstUnlearnedIndex > 0) {
+            setCurrentIndex(firstUnlearnedIndex);
+          }
+        }
+      } catch (error) {
+        console.error('Error loading progress:', error);
+      }
+    };
+
+    if (level && flashcards.length > 0) {
+      loadProgress();
+    }
+  }, [level, flashcards]);
+
+  // Save progress after answering
+  const saveProgress = async (wordId: string, quality: number) => {
+    try {
+      setIsSavingProgress(true);
+      const response = await fetch('/api/flashcard-progress', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify({
+          word_id: wordId,
+          level,
+          category: currentCard?.category,
+          quality
+        })
+      });
+
+      const data = await response.json();
+      
+      if (response.ok && data.success) {
+        setUserProgress(prev => ({
+          ...prev,
+          [wordId]: data.progress
+        }));
+      }
+    } catch (error) {
+      console.error('Error saving progress:', error);
+    } finally {
+      setIsSavingProgress(false);
+    }
+  };
+
+  const handleNext = async () => {
+    // Wait for any pending saves
+    if (isSavingProgress) {
+      await new Promise(resolve => setTimeout(resolve, 500));
+    }
+    
     if (currentIndex < currentCards.length - 1) {
       setCurrentIndex(currentIndex + 1);
       setIsFlipped(false);
       setUserGuess('');
       setShowResult(false);
       setShowHint(false);
+      setSelectedAnswer(null);
+      setCurrentTaskIndex(0);
     }
   };
 
@@ -61,6 +159,8 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
       setUserGuess('');
       setShowResult(false);
       setShowHint(false);
+      setSelectedAnswer(null);
+      setCurrentTaskIndex(0);
     }
   };
 
@@ -68,7 +168,7 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
     setIsFlipped(!isFlipped);
   };
 
-  const handleGuess = () => {
+  const handleGuess = async () => {
     if (!userGuess.trim()) return;
     if (!currentCard) return;
     
@@ -87,6 +187,57 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
       correct: prev.correct + (isAnswerCorrect ? 1 : 0),
       total: prev.total + 1
     }));
+
+    // Save progress (quality: 5 = perfect, 3 = correct but hesitant, 0 = wrong)
+    const quality = isAnswerCorrect ? 5 : 0;
+    await saveProgress(currentCard.word_id, quality);
+
+    // Auto-advance to next card after correct answer
+    if (isAnswerCorrect) {
+      setTimeout(() => {
+        handleNext();
+      }, 1500);
+    }
+  };
+
+  const handleQuizAnswer = async (optionIndex: number) => {
+    if (!currentCard?.quiz) return;
+    
+    const currentTask = currentCard.quiz.tasks[currentTaskIndex];
+    const isAnswerCorrect = optionIndex === currentTask.answer_index;
+    
+    setSelectedAnswer(optionIndex);
+    setIsCorrect(isAnswerCorrect);
+    setShowResult(true);
+    
+    // Update session stats
+    setSessionStats(prev => ({
+      correct: prev.correct + (isAnswerCorrect ? 1 : 0),
+      total: prev.total + 1
+    }));
+
+    // Save progress
+    const quality = isAnswerCorrect ? 5 : 0;
+    await saveProgress(currentCard.word_id, quality);
+
+    // Auto-advance after correct answer
+    if (isAnswerCorrect) {
+      setTimeout(() => {
+        if (currentTaskIndex < currentCard.quiz!.tasks.length - 1) {
+          handleNextTask();
+        } else {
+          handleNext();
+        }
+      }, 1500);
+    }
+  };
+
+  const handleNextTask = () => {
+    if (currentCard?.quiz && currentTaskIndex < currentCard.quiz.tasks.length - 1) {
+      setCurrentTaskIndex(prev => prev + 1);
+      setSelectedAnswer(null);
+      setShowResult(false);
+    }
   };
 
   const handleReveal = () => {
@@ -110,24 +261,9 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
     setShowResult(false);
     setShowHint(false);
     setSessionStats({ correct: 0, total: 0 });
-  };
-
-  const handleShuffle = () => {
-    const shuffled = [...flashcards].sort(() => Math.random() - 0.5);
-    setShuffledCards(shuffled);
-    setIsShuffled(true);
-    setCurrentIndex(0);
-    setShowHint(false);
-    setShowResult(false);
-    setUserGuess('');
-  };
-
-  const handleUnshuffle = () => {
-    setIsShuffled(false);
-    setCurrentIndex(0);
-    setShowHint(false);
-    setShowResult(false);
-    setUserGuess('');
+    setSelectedAnswer(null);
+    setCurrentTaskIndex(0);
+    setShowOnlyNew(false);
   };
 
   const handleShowHint = () => {
@@ -170,12 +306,12 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
   if (!currentCard || !currentCards.length) {
     return (
       <div className="text-center text-white">
-        <p>No flashcards available for this level.</p>
+        <p>Brak fiszek dla tego poziomu.</p>
         <p className="text-sm text-gray-400 mt-2">
-          Debug: {flashcards.length} flashcards loaded, currentIndex: {currentIndex}
+          Debug: {flashcards.length} fiszek załadowanych, currentIndex: {currentIndex}
         </p>
         <Button onClick={onBack} className="mt-4">
-          Back to Level Selection
+          Powrót do Wyboru Poziomu
         </Button>
       </div>
     );
@@ -190,27 +326,68 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
           onClick={onBack}
           className="bg-white/20 border-white/30 text-white hover:bg-white/30"
         >
-          ← Back to Levels
+          ← Powrót do Poziomów
         </Button>
         <div className="flex items-center gap-4">
-          {level === 'A1' && (
-            <div className="flex items-center gap-2">
-              <span className="text-white text-sm">Mode:</span>
+          <div className="flex items-center gap-2">
+            <Button
+              size="sm"
+              onClick={() => {
+                if (quizMode) {
+                  setQuizMode(false);
+                  setGuessMode(true);
+                } else {
+                  setGuessMode(!guessMode);
+                }
+                setShowResult(false);
+                setSelectedAnswer(null);
+                setCurrentTaskIndex(0);
+              }}
+              className={guessMode && !quizMode ? "bg-blue-600 hover:bg-blue-700" : "bg-purple-600 hover:bg-purple-700"}
+            >
+              {guessMode && !quizMode ? '🎯 Tryb Zgadywania' : '📖 Tryb Nauki'}
+            </Button>
+            {hasQuiz && (
               <Button
-                variant={guessMode ? "default" : "outline"}
+                variant={quizMode ? "default" : "outline"}
                 size="sm"
-                onClick={() => setGuessMode(!guessMode)}
-                className={guessMode ? "bg-blue-600" : "bg-white/20 border-white/30 text-white hover:bg-white/30"}
+                onClick={() => {
+                  setQuizMode(!quizMode);
+                  setGuessMode(false);
+                  setShowResult(false);
+                  setSelectedAnswer(null);
+                  setCurrentTaskIndex(0);
+                }}
+                className={quizMode ? "bg-green-600 hover:bg-green-700" : "bg-white/20 border-white/30 text-white hover:bg-white/30"}
               >
-                {guessMode ? 'Guess Mode' : 'Study Mode'}
+                {quizMode ? '✅ Tryb Quiz' : '🎲 Tryb Quiz'}
               </Button>
-            </div>
-          )}
-          <div className="text-white">
+            )}
+          </div>
+          <div className="text-white flex items-center gap-4">
             <Badge className="bg-blue-600">{level}</Badge>
-            <span className="ml-2">
+            <span>
               {currentIndex + 1} / {currentCards.length}
             </span>
+            {currentCard && userProgress[currentCard.word_id] ? (
+              <div className="flex items-center gap-2 text-sm">
+                <Badge className="bg-green-600">
+                  🔥 {userProgress[currentCard.word_id].streak || 0}
+                </Badge>
+                <Badge className="bg-purple-600">
+                  📊 {userProgress[currentCard.word_id].total_reviews || 0}
+                </Badge>
+                {(userProgress[currentCard.word_id].streak || 0) >= 3 && (
+                  <Badge className="bg-yellow-600">
+                    ✅ Nauczone
+                  </Badge>
+                )}
+              </div>
+            ) : (
+              <Badge className="bg-gray-600">
+                🆕 Nowa fiszka
+              </Badge>
+            )}
           </div>
         </div>
       </div>
@@ -223,15 +400,37 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
         />
       </div>
 
-      {/* Session Stats */}
-      {level === 'A1' && sessionStats.total > 0 && (
-        <div className="text-center text-white">
-          <div className="text-sm">
-            Session: {sessionStats.correct}/{sessionStats.total} correct 
-            ({Math.round((sessionStats.correct / sessionStats.total) * 100)}%)
+      {/* Stats Panel */}
+      <div className="fixed left-4 top-1/2 transform -translate-y-1/2 z-10">
+        <div className="bg-purple-900/90 backdrop-blur-sm rounded-lg p-4 border border-purple-700 shadow-lg">
+          <div className="text-center">
+            <div className="text-lg font-bold text-white mb-3">
+              🎯 Statystyki {level}
+            </div>
+              <div className="space-y-2 text-sm">
+                <div className="text-green-400">
+                  Nauczone: {Object.values(userProgress).filter((p: any) => (p.streak || 0) >= 3).length} / {flashcards.length}
+                </div>
+                <div className="text-yellow-400">
+                  W nauce: {Object.values(userProgress).filter((p: any) => (p.streak || 0) > 0 && (p.streak || 0) < 3).length}
+                </div>
+                <div className="text-blue-400">
+                  Nowe: {flashcards.length - Object.keys(userProgress).length}
+                </div>
+                {sessionStats.total > 0 && (
+                  <div className="text-purple-400 pt-2 border-t border-purple-600">
+                    Sesja: {sessionStats.correct}/{sessionStats.total}
+                  </div>
+                )}
+                {isSavingProgress && (
+                  <div className="text-yellow-400 text-xs">
+                    💾 Zapisywanie...
+                  </div>
+                )}
+            </div>
           </div>
         </div>
-      )}
+      </div>
 
       {/* Flashcard */}
       <div className="max-w-2xl mx-auto">
@@ -239,9 +438,9 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
           className={`transition-transform duration-500 transform-gpu ${
             isFlipped ? 'rotate-y-180' : ''
           } bg-white/10 backdrop-blur-sm border-white/20 ${
-            !guessMode ? 'cursor-pointer' : ''
+            !guessMode && !quizMode ? 'cursor-pointer' : ''
           }`}
-          onClick={!guessMode ? handleFlip : undefined}
+          onClick={!guessMode && !quizMode ? handleFlip : undefined}
         >
           <CardContent className="p-8 min-h-[300px] flex flex-col justify-center">
             {!isFlipped ? (
@@ -276,9 +475,63 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
                   {currentCard.part_of_speech}
                 </Badge>
                 
-                {guessMode ? (
+                {quizMode && hasQuiz ? (
                   <div className="space-y-4">
-                    <p className="text-gray-300 text-lg">What does this word mean?</p>
+                    <p className="text-gray-300 text-lg">{currentCard.quiz!.tasks[currentTaskIndex].prompt}</p>
+                    
+                    <div className="grid grid-cols-1 gap-3">
+                      {currentCard.quiz!.tasks[currentTaskIndex].options.map((option, index) => (
+                        <Button
+                          key={index}
+                          onClick={() => !showResult && handleQuizAnswer(index)}
+                          disabled={showResult}
+                          className={`
+                            py-6 text-lg
+                            ${showResult && index === currentCard.quiz!.tasks[currentTaskIndex].answer_index
+                              ? 'bg-green-600 hover:bg-green-700 border-2 border-green-400'
+                              : showResult && selectedAnswer === index
+                              ? 'bg-red-600 hover:bg-red-700 border-2 border-red-400'
+                              : selectedAnswer === index
+                              ? 'bg-blue-600 hover:bg-blue-700 border-2 border-blue-400'
+                              : 'bg-white/20 hover:bg-white/30 border border-white/30'
+                            }
+                          `}
+                        >
+                          {option}
+                        </Button>
+                      ))}
+                    </div>
+                    
+                    {showResult && (
+                      <div className="space-y-4">
+                        <div className={`text-lg font-semibold ${
+                          isCorrect ? 'text-green-400' : 'text-red-400'
+                        }`}>
+                          {isCorrect ? '✅ Correct!' : '❌ Incorrect'}
+                        </div>
+                        <div className="bg-blue-500/20 border border-blue-500/30 rounded-lg p-4">
+                          <p className="text-blue-200">
+                            {isCorrect 
+                              ? currentCard.quiz!.tasks[currentTaskIndex].feedback_correct
+                              : currentCard.quiz!.tasks[currentTaskIndex].feedback_incorrect
+                            }
+                          </p>
+                        </div>
+                        
+                        {currentTaskIndex < currentCard.quiz!.tasks.length - 1 ? (
+                          <Button
+                            onClick={handleNextTask}
+                            className="bg-blue-600 hover:bg-blue-700"
+                          >
+                            Następne Pytanie →
+                          </Button>
+                        ) : null}
+                      </div>
+                    )}
+                  </div>
+                ) : guessMode ? (
+                  <div className="space-y-4">
+                    <p className="text-gray-300 text-lg">Co oznacza to słowo?</p>
                     
                     {/* Hint */}
                     {!showHint && !showResult && (
@@ -288,18 +541,18 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
                         size="sm"
                         className="bg-yellow-500/20 border-yellow-500/30 text-yellow-300 hover:bg-yellow-500/30"
                       >
-                        💡 Show Hint
+                        💡 Pokaż Wskazówkę
                       </Button>
                     )}
                     
                     {showHint && !showResult && (
                       <div className="bg-yellow-500/20 border border-yellow-500/30 rounded-lg p-3">
                         <p className="text-yellow-300 text-sm">
-                          <strong>Hint:</strong> {currentCard.definition}
+                          <strong>Wskazówka:</strong> {currentCard.definition}
                         </p>
                         {currentCard.examples && currentCard.examples.length > 0 && currentCard.examples[0] && (
                           <p className="text-yellow-200 text-sm mt-1">
-                            <strong>Example:</strong> "{currentCard.examples[0].text}"
+                            <strong>Przykład:</strong> "{currentCard.examples[0].text}"
                           </p>
                         )}
                       </div>
@@ -329,7 +582,7 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
                         type="text"
                         value={userGuess}
                         onChange={(e) => setUserGuess(e.target.value)}
-                        placeholder="Type your answer..."
+                        placeholder="Wpisz swoją odpowiedź..."
                         className="flex-1 px-4 py-2 rounded-lg bg-white/20 border border-white/30 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500"
                       />
                       <Button
@@ -345,12 +598,12 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
                       variant="outline"
                       className="bg-white/20 border-white/30 text-white hover:bg-white/30"
                     >
-                      Reveal Answer
+                      Pokaż Odpowiedź
                     </Button>
                   </div>
                 ) : (
                   <p className="text-gray-400 text-sm">
-                    Click to reveal translation
+                    Kliknij aby odkryć tłumaczenie
                   </p>
                 )}
               </div>
@@ -363,7 +616,7 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
                 
                 {currentCard.examples && currentCard.examples.length > 0 && (
                   <div className="space-y-2">
-                    <p className="text-gray-400 text-sm font-semibold">Examples:</p>
+                    <p className="text-gray-400 text-sm font-semibold">Przykłady:</p>
                     {currentCard.examples.map((example, index) => (
                       <div key={index} className="text-gray-300">
                         <p className="italic">"{example.text}"</p>
@@ -388,7 +641,7 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
           variant="outline"
           className="bg-white/20 border-white/30 text-white hover:bg-white/30"
         >
-          Previous
+          Poprzednia
         </Button>
         
         <Button
@@ -396,7 +649,7 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
           variant="outline"
           className="bg-white/20 border-white/30 text-white hover:bg-white/30"
         >
-          {isFlipped ? 'Show Term' : 'Show Translation'}
+          {isFlipped ? 'Pokaż Termin' : 'Pokaż Tłumaczenie'}
         </Button>
         
         <Button
@@ -405,37 +658,38 @@ export function FlashcardDisplay({ flashcards, level, onBack }: FlashcardDisplay
           variant="outline"
           className="bg-white/20 border-white/30 text-white hover:bg-white/30"
         >
-          Next
+          Następna
         </Button>
       </div>
 
       {/* Session Controls */}
-      {level === 'A1' && (
-        <div className="flex items-center justify-center gap-4">
+      <div className="flex items-center justify-center gap-4">
+        {Object.keys(userProgress).length > 0 && (
           <Button
-            onClick={isShuffled ? handleUnshuffle : handleShuffle}
+            onClick={() => {
+              setShowOnlyNew(!showOnlyNew);
+              setCurrentIndex(0);
+            }}
             variant="outline"
-            className="bg-white/20 border-white/30 text-white hover:bg-white/30"
+            className={showOnlyNew ? "bg-blue-600 hover:bg-blue-700" : "bg-white/20 border-white/30 text-white hover:bg-white/30"}
           >
-            {isShuffled ? 'Unshuffle' : 'Shuffle'}
+            {showOnlyNew ? '✓ Tylko Nierozwiązane' : 'Tylko Nierozwiązane'}
           </Button>
-          
-          <Button
-            onClick={handleReset}
-            variant="outline"
-            className="bg-white/20 border-white/30 text-white hover:bg-white/30"
-          >
-            Reset Session
-          </Button>
-        </div>
-      )}
+        )}
+        
+        <Button
+          onClick={handleReset}
+          variant="outline"
+          className="bg-white/20 border-white/30 text-white hover:bg-white/30"
+        >
+          Resetuj Sesję
+        </Button>
+      </div>
 
       {/* Keyboard Shortcuts Help */}
-      {level === 'A1' && (
-        <div className="text-center text-gray-400 text-xs">
-          <p>Keyboard shortcuts: Enter = Check answer, Space = Hint/Flip, ← → = Navigate</p>
-        </div>
-      )}
+      <div className="text-center text-gray-400 text-xs">
+        <p>Skróty klawiszowe: Enter = Sprawdź odpowiedź, Spacja = Wskazówka/Odwróć, ← → = Nawigacja</p>
+      </div>
 
     </div>
   );

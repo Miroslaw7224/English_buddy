@@ -15,7 +15,7 @@ export default function AuthPage() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
   const router = useRouter();
-  const { login, signup } = useAuthStore();
+  const { login, signup, user } = useAuthStore();
 
   const handleAuth = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -32,6 +32,15 @@ export default function AuthPage() {
         await signup(emailToUse, password);
       }
       
+      // Poczekaj aż AuthProvider zaktualizuje stan użytkownika
+      let attempts = 0;
+      while (!useAuthStore.getState().user && attempts < 20) {
+        await new Promise(resolve => setTimeout(resolve, 100));
+        attempts++;
+      }
+      
+      // Odśwież router i przekieruj
+      router.refresh();
       router.push('/');
     } catch (err: unknown) {
       const errorMessage = err instanceof Error ? err.message : 'An error occurred';

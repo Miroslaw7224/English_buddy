@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "65807a2e-26b6-4810-b6e1-85cda0a76260",
+    "user_id": null,
+    "term": "regarding",
+    "term_lang": "en",
+    "translation": "w sprawie / odnośnie",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'about'",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Regarding your inquiry, please see the attached file.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8161c6ed-1a7b-4c82-b287-52602d4df722",
+    "user_id": null,
+    "term": "request",
+    "term_lang": "en",
+    "translation": "prośba / wniosek",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'ask for'",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We request additional information.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cbc5bad9-d631-4e77-bf04-f8a3b7760c17",
+    "user_id": null,
+    "term": "assistance",
+    "term_lang": "en",
+    "translation": "pomoc (formalnie)",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'help'",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Thank you for your assistance.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5a9ce522-11a8-4e27-aa3b-08635f6cd60c",
+    "user_id": null,
+    "term": "further",
+    "term_lang": "en",
+    "translation": "dalszy / kolejny",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'more'",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "For further details, contact support.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7197fb21-cadc-4c30-a935-add9c74efdc1",
+    "user_id": null,
+    "term": "purchase",
+    "term_lang": "en",
+    "translation": "zakupić",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'buy'",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You can purchase tickets online.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a50372c4-e7c3-4a65-a90b-3e5a0948bc7e",
+    "user_id": null,
+    "term": "inform",
+    "term_lang": "en",
+    "translation": "poinformować",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'tell'",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We regret to inform you that the event is full.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8e8e03b0-597e-4921-8953-6d2c430ee4d6",
+    "user_id": null,
+    "term": "regret to inform",
+    "term_lang": "en",
+    "translation": "z przykrością informować",
+    "translation_lang": "pl",
+    "definition": "formal apology formula",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We regret to inform you of the delay.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8bb118cf-105c-45da-9b60-ad806a8cfd7a",
+    "user_id": null,
+    "term": "issue",
+    "term_lang": "en",
+    "translation": "kwestia / problem",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'problem'",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There is a technical issue with the form.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "42c842ef-7e7e-4a81-970e-244c8c711284",
+    "user_id": null,
+    "term": "provide",
+    "term_lang": "en",
+    "translation": "zapewnić / dostarczyć",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'give'",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please provide your passport number.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "38ae9400-a0bd-4d28-8f84-1442772fe60e",
+    "user_id": null,
+    "term": "commence",
+    "term_lang": "en",
+    "translation": "rozpocząć",
+    "translation_lang": "pl",
+    "definition": "very formal alternative to 'start'",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The workshop will commence at 10 a.m.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "19b578ad-6606-4597-bad3-20b834554355",
+    "user_id": null,
+    "term": "terminate",
+    "term_lang": "en",
+    "translation": "zakończyć",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'end'",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The contract will terminate next month.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "80f8d262-f290-47fc-ba0d-e82364772802",
+    "user_id": null,
+    "term": "endeavour",
+    "term_lang": "en",
+    "translation": "starać się (usilnie)",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'try hard'",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We will endeavour to reply within 24 hours.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "82c7107f-c8c5-495f-b78b-8f8a5e28953c",
+    "user_id": null,
+    "term": "require",
+    "term_lang": "en",
+    "translation": "wymagać",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'need'",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This role requires weekend work.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7b306d9b-a321-4762-8c62-f2637b5b7cd1",
+    "user_id": null,
+    "term": "obtain",
+    "term_lang": "en",
+    "translation": "uzyskać",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'get'",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You must obtain a permit.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "914deb88-86b0-4d9d-966e-b0a6da42d34d",
+    "user_id": null,
+    "term": "approximately",
+    "term_lang": "en",
+    "translation": "około (formalnie)",
+    "translation_lang": "pl",
+    "definition": "formal alternative to 'about'",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Delivery takes approximately three days.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "formal-vs-informal-register",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  }
+]

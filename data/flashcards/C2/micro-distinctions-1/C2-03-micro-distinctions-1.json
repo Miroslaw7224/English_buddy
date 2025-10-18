@@ -1,0 +1,667 @@
+[
+  {
+    "word_id": "555a668b-abb8-4c2f-b967-63af50c1e7ab",
+    "user_id": null,
+    "term": "discreet vs. discrete",
+    "term_lang": "en",
+    "translation": "dyskretny vs. odrębny",
+    "translation_lang": "pl",
+    "definition": "careful/private vs. separate/distinct",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Keep the two issues discrete and your approach discreet.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a177c740-9e66-41db-9fae-f175d8d2426c",
+    "user_id": null,
+    "term": "imminent vs. eminent",
+    "term_lang": "en",
+    "translation": "nieuchronny vs. wybitny",
+    "translation_lang": "pl",
+    "definition": "about to happen vs. distinguished",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "An eminent scholar warned of imminent risks.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "43e669b2-abc7-4a60-af1d-5efa3bcd6712",
+    "user_id": null,
+    "term": "complacent vs. complaisant",
+    "term_lang": "en",
+    "translation": "zadowolony z siebie vs. uprzejmy",
+    "translation_lang": "pl",
+    "definition": "self-satisfied vs. obliging",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Complacent teams become complaisant toward errors.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e2c0307d-d186-4ddb-9124-d868a098a3ba",
+    "user_id": null,
+    "term": "mitigate vs. militate",
+    "term_lang": "en",
+    "translation": "łagodzić vs. działać przeciw",
+    "translation_lang": "pl",
+    "definition": "soften/reduce vs. work against",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The data militate against a simple fix we hoped would mitigate risk.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8c671569-f95e-4792-90b0-0b91833854e5",
+    "user_id": null,
+    "term": "inflammable vs. flammable",
+    "term_lang": "en",
+    "translation": "łatwopalny vs. łatwopalny",
+    "translation_lang": "pl",
+    "definition": "both mean flammable; usage nuance",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Labels now prefer ‘flammable’ over ‘inflammable’.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-05-REV1",
+    "deck_id": null,
+    "tags": [
+      "C2",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e20065ba-b798-4998-ac9a-07cbf7225ab5",
+    "user_id": null,
+    "term": "credible vs. credulous",
+    "term_lang": "en",
+    "translation": "wiarygodny vs. łatwowierny",
+    "translation_lang": "pl",
+    "definition": "believable vs. gullible",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A credulous audience may find any credible claim persuasive.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-03-micro-distinctions-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "44adc937-b134-4c84-bf93-f3d228422e9b",
+    "user_id": null,
+    "term": "dilemma vs. problem",
+    "term_lang": "en",
+    "translation": "dylemat vs. problem",
+    "translation_lang": "pl",
+    "definition": "two hard choices vs. any difficulty",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It’s a problem, not a dilemma—no forced choice here.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-03-micro-distinctions-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "86b090f4-bc76-4e87-8150-74f19d225494",
+    "user_id": null,
+    "term": "notorious vs. notable",
+    "term_lang": "en",
+    "translation": "sławny (neg.) vs. godny uwagi",
+    "translation_lang": "pl",
+    "definition": "famous for bad vs. worthy of note",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A notorious bug in a notable library.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-03-micro-distinctions-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "51a4738e-a7cc-42b7-bbb9-3af1efeb3a5f",
+    "user_id": null,
+    "term": "enervate vs. energise",
+    "term_lang": "en",
+    "translation": "osłabiać vs. pobudzać",
+    "translation_lang": "pl",
+    "definition": "to weaken vs. to stimulate",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Heat enervates; cool air energises.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-03-micro-distinctions-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c3075ef1-fcef-4294-8538-0ecee04a396d",
+    "user_id": null,
+    "term": "practical vs. practicable",
+    "term_lang": "en",
+    "translation": "praktyczny vs. wykonalny",
+    "translation_lang": "pl",
+    "definition": "useful vs. feasible",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The idea is sound but scarcely practicable.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-03-micro-distinctions-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "897c01f9-81e5-45da-bc9f-91de6f192820",
+    "user_id": null,
+    "term": "historic vs. historical",
+    "term_lang": "en",
+    "translation": "doniosły vs. historyczny",
+    "translation_lang": "pl",
+    "definition": "momentous vs. pertaining to history",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A historic vote on a historical dispute.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-03-micro-distinctions-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f2896dac-dac2-4f2d-b617-20d332758136",
+    "user_id": null,
+    "term": "less vs. fewer",
+    "term_lang": "en",
+    "translation": "mniej (niepol.) vs. mniej (pol.)",
+    "translation_lang": "pl",
+    "definition": "mass vs. count nouns",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Fewer errors mean less frustration.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-03-micro-distinctions-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "491088ad-ae71-4093-bf0a-410f628c6ce4",
+    "user_id": null,
+    "term": "assure vs. ensure vs. insure",
+    "term_lang": "en",
+    "translation": "zapewniać vs. zapewnić vs. ubezpieczyć",
+    "translation_lang": "pl",
+    "definition": "tell confidently vs. make certain vs. protect financially",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Ensure safety, insure assets, assure clients.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-03-micro-distinctions-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "af0277c4-886e-4a27-ab5d-58c94b8f29de",
+    "user_id": null,
+    "term": "sensual vs. sensuous",
+    "term_lang": "en",
+    "translation": "zmysłowy (cielesny) vs. zmysłowy (estetyczny)",
+    "translation_lang": "pl",
+    "definition": "physical pleasure vs. aesthetic pleasure",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A sensuous painting with a sensual theme.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-03-micro-distinctions-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1824e263-1901-4d2b-9a17-a623b8e03450",
+    "user_id": null,
+    "term": "robust vs. sturdy",
+    "term_lang": "en",
+    "translation": "solidny (met.) vs. solidny (fiz.)",
+    "translation_lang": "pl",
+    "definition": "theoretically sound vs. physically strong",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A robust model in a sturdy casing.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-03-micro-distinctions-1",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  }
+]

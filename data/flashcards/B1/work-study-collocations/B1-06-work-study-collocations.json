@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "6ddc8665-f9e6-40fb-89a9-72499d12ac91",
+    "user_id": null,
+    "term": "meet a deadline",
+    "term_lang": "en",
+    "translation": "dotrzymać terminu",
+    "translation_lang": "pl",
+    "definition": "to finish work by the agreed time",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We must meet the deadline for the report.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8c1dc9e5-d2b5-4fdc-843e-97ca3dcd1b73",
+    "user_id": null,
+    "term": "take notes",
+    "term_lang": "en",
+    "translation": "robić notatki",
+    "translation_lang": "pl",
+    "definition": "to write down important information",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "During lectures, I always take notes.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c961fee6-a37b-4e20-9d43-b01cd3eaf8f3",
+    "user_id": null,
+    "term": "do research",
+    "term_lang": "en",
+    "translation": "prowadzić badania",
+    "translation_lang": "pl",
+    "definition": "to study a subject in detail",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She is doing research for her thesis.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ff204fbc-190f-4cd7-8cc4-179fa97c9a78",
+    "user_id": null,
+    "term": "make a presentation",
+    "term_lang": "en",
+    "translation": "przygotować/prezentować prezentację",
+    "translation_lang": "pl",
+    "definition": "to create and deliver a talk with slides",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I'll make a presentation about our results.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f685aca5-e5ee-4533-b22c-1c2f01b70e4c",
+    "user_id": null,
+    "term": "have a meeting",
+    "term_lang": "en",
+    "translation": "mieć spotkanie",
+    "translation_lang": "pl",
+    "definition": "to meet people to discuss something",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We have a meeting at 3 p.m.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9ce55d55-54cb-44ba-bde3-ab63ddbb75aa",
+    "user_id": null,
+    "term": "apply for a job",
+    "term_lang": "en",
+    "translation": "ubiegać się o pracę",
+    "translation_lang": "pl",
+    "definition": "to send documents to try to get a job",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He applied for a job at a software company.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "82f6f537-efd5-4289-b101-e60e43f3e0d8",
+    "user_id": null,
+    "term": "get a promotion",
+    "term_lang": "en",
+    "translation": "awansować",
+    "translation_lang": "pl",
+    "definition": "to be moved to a higher position",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She got a promotion last month.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "da0d981c-06f7-4aab-a6a4-f0847fd3f51a",
+    "user_id": null,
+    "term": "take a course",
+    "term_lang": "en",
+    "translation": "zapisać się na kurs",
+    "translation_lang": "pl",
+    "definition": "to join and study a course",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I'm taking a course in data analysis.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9ce0c08f-340e-4c69-b7e7-434620dc4f65",
+    "user_id": null,
+    "term": "hand in an assignment",
+    "term_lang": "en",
+    "translation": "oddawać zadanie",
+    "translation_lang": "pl",
+    "definition": "to give your work to a teacher",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please hand in your assignment by Friday.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1aea9d92-441f-4e85-8873-1a2bc7005955",
+    "user_id": null,
+    "term": "prepare for an exam",
+    "term_lang": "en",
+    "translation": "przygotowywać się do egzaminu",
+    "translation_lang": "pl",
+    "definition": "to study before a test",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He's preparing for his final exams.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d86175a4-a37e-4e15-848f-97679dba5d09",
+    "user_id": null,
+    "term": "pass an exam",
+    "term_lang": "en",
+    "translation": "zdać egzamin",
+    "translation_lang": "pl",
+    "definition": "to succeed in a test",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I passed the driving exam on my first try.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "818276db-a068-44a9-a384-189bd8b02e71",
+    "user_id": null,
+    "term": "fail an exam",
+    "term_lang": "en",
+    "translation": "oblać egzamin",
+    "translation_lang": "pl",
+    "definition": "to be unsuccessful in a test",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She failed the math exam.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ea9dec9e-2e54-4f5c-a13d-385cfd7cda7a",
+    "user_id": null,
+    "term": "work overtime",
+    "term_lang": "en",
+    "translation": "pracować po godzinach",
+    "translation_lang": "pl",
+    "definition": "to work more hours than usual",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We had to work overtime to finish the project.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "953c37f9-8bdb-4f09-b4ac-ea4f36c7cb17",
+    "user_id": null,
+    "term": "set goals",
+    "term_lang": "en",
+    "translation": "wyznaczać cele",
+    "translation_lang": "pl",
+    "definition": "to decide what you want to achieve",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "At the start of the year, I set clear goals.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "26134d34-20f7-4c12-9337-888597dc0114",
+    "user_id": null,
+    "term": "join a study group",
+    "term_lang": "en",
+    "translation": "dołączyć do grupy naukowej",
+    "translation_lang": "pl",
+    "definition": "to learn with other students",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I joined a study group to prepare for biology.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "06_work-study-collocations",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  }
+]

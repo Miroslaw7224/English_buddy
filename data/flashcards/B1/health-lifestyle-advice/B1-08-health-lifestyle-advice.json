@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "175e6f96-49ec-4ebd-ab11-1831a1edf5b5",
+    "user_id": null,
+    "term": "cut down on sugar",
+    "term_lang": "en",
+    "translation": "ograniczyć cukier",
+    "translation_lang": "pl",
+    "definition": "to eat less sugar",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should cut down on sugar.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7a7687e0-9315-4038-89e6-a63ca6d59ab7",
+    "user_id": null,
+    "term": "get enough sleep",
+    "term_lang": "en",
+    "translation": "wysypiać się",
+    "translation_lang": "pl",
+    "definition": "to sleep the right amount",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should get enough sleep every night.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "880dd7a5-88fb-4149-861f-d7493bd1fb27",
+    "user_id": null,
+    "term": "stay hydrated",
+    "term_lang": "en",
+    "translation": "nawadniać się",
+    "translation_lang": "pl",
+    "definition": "to drink enough water",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You ought to stay hydrated during the day.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f2be9f94-48d0-4af7-b5ff-9bdc9b33ffb7",
+    "user_id": null,
+    "term": "do regular exercise",
+    "term_lang": "en",
+    "translation": "regularnie ćwiczyć",
+    "translation_lang": "pl",
+    "definition": "to be physically active often",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should do regular exercise.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8e86c340-feda-4ac0-831f-a9c778ff243f",
+    "user_id": null,
+    "term": "take a break",
+    "term_lang": "en",
+    "translation": "zrobić przerwę",
+    "translation_lang": "pl",
+    "definition": "to stop working for a short time",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You ought to take a break every hour.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dc63568c-467e-48a4-ad60-0ec0f5e6d0f3",
+    "user_id": null,
+    "term": "see a doctor",
+    "term_lang": "en",
+    "translation": "iść do lekarza",
+    "translation_lang": "pl",
+    "definition": "to visit a medical professional",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should see a doctor if the pain continues.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8ed400b9-abc2-4ac8-af14-9ad5346ed09e",
+    "user_id": null,
+    "term": "manage stress",
+    "term_lang": "en",
+    "translation": "zarządzać stresem",
+    "translation_lang": "pl",
+    "definition": "to control your stress levels",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should manage stress with breathing exercises.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a49931ed-b299-4622-b112-85f7c17e571e",
+    "user_id": null,
+    "term": "eat a balanced diet",
+    "term_lang": "en",
+    "translation": "jeść zbilansowaną dietę",
+    "translation_lang": "pl",
+    "definition": "to eat healthy food in the right amounts",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You ought to eat a balanced diet.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cf9c813a-9187-422f-ae1c-3d8bfd513cf7",
+    "user_id": null,
+    "term": "avoid processed food",
+    "term_lang": "en",
+    "translation": "unikać przetworzonej żywności",
+    "translation_lang": "pl",
+    "definition": "to not eat industrially prepared food",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should avoid processed food.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5195f853-fa16-4f64-a15f-e73efb33ca49",
+    "user_id": null,
+    "term": "go for a check-up",
+    "term_lang": "en",
+    "translation": "iść na badania kontrolne",
+    "translation_lang": "pl",
+    "definition": "to have a health examination",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should go for a check-up once a year.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "789a8f57-46fd-4e77-9c6a-dfaa0927d792",
+    "user_id": null,
+    "term": "wear sunscreen",
+    "term_lang": "en",
+    "translation": "używać kremu z filtrem",
+    "translation_lang": "pl",
+    "definition": "to protect your skin from the sun",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You ought to wear sunscreen in summer.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "92812600-b5e6-40e6-952c-bbb667b5e8a3",
+    "user_id": null,
+    "term": "stretch your muscles",
+    "term_lang": "en",
+    "translation": "rozciągać mięśnie",
+    "translation_lang": "pl",
+    "definition": "to do stretching exercises",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should stretch your muscles after training.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e2d4c6fd-dfdd-4f07-a3b2-ee68f3186f02",
+    "user_id": null,
+    "term": "limit screen time",
+    "term_lang": "en",
+    "translation": "ograniczyć czas przed ekranem",
+    "translation_lang": "pl",
+    "definition": "to reduce the time you use devices",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should limit screen time in the evening.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e19e749a-709b-46b8-a45a-574329fa1d37",
+    "user_id": null,
+    "term": "keep good posture",
+    "term_lang": "en",
+    "translation": "trzymać prawidłową postawę",
+    "translation_lang": "pl",
+    "definition": "to sit or stand in a healthy way",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should keep good posture at your desk.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d1f68937-8202-4d8e-919d-39bc8d1d4cd7",
+    "user_id": null,
+    "term": "take up a hobby",
+    "term_lang": "en",
+    "translation": "zająć się hobby",
+    "translation_lang": "pl",
+    "definition": "to start a relaxing activity",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You ought to take up a hobby to relax.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "08_health-lifestyle-advice",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:12:21Z",
+      "last_review_at": "2025-10-06T11:12:21Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:12:21Z",
+    "updated_at": "2025-10-06T11:12:21Z",
+    "deleted_at": null
+  }
+]

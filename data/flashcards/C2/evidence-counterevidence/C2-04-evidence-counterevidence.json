@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "cd668790-c2b6-4495-8c46-68a321f40518",
+    "user_id": null,
+    "term": "steelman",
+    "term_lang": "en",
+    "translation": "najmocniejsza wersja argumentu oponenta",
+    "translation_lang": "pl",
+    "definition": "restate opponent’s claim in its strongest form",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Let’s steelman the objection before we respond.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5816a86d-d0d5-4171-ab65-4f2a21197e76",
+    "user_id": null,
+    "term": "caveat",
+    "term_lang": "en",
+    "translation": "zastrzeżenie",
+    "translation_lang": "pl",
+    "definition": "warning of limitations",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Caveat: the sample skews young.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f2482eea-4e40-4b11-9d46-840a4bc2ea38",
+    "user_id": null,
+    "term": "limitation",
+    "term_lang": "en",
+    "translation": "ograniczenie",
+    "translation_lang": "pl",
+    "definition": "boundary that constrains conclusions",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A key limitation is measurement error.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e7674596-9026-4241-8a10-9ff7e9c31eaf",
+    "user_id": null,
+    "term": "confounder",
+    "term_lang": "en",
+    "translation": "czynnik zakłócający",
+    "translation_lang": "pl",
+    "definition": "variable distorting causal relation",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Control confounders to avoid bias.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c6e6de25-31b8-42da-afae-8e6f91206b38",
+    "user_id": null,
+    "term": "priors",
+    "term_lang": "en",
+    "translation": "przedzałożenia",
+    "translation_lang": "pl",
+    "definition": "pre-existing beliefs informing inference",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Our priors shape interpretation.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9f220351-d827-4c99-ba8c-049da8967a76",
+    "user_id": null,
+    "term": "credence",
+    "term_lang": "en",
+    "translation": "wiarygodność",
+    "translation_lang": "pl",
+    "definition": "degree of belief in a claim",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Independent replications lend credence.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b75890ea-b5b6-4928-a3c5-6f4d0fb733dc",
+    "user_id": null,
+    "term": "pre-registered",
+    "term_lang": "en",
+    "translation": "przerejestrowany",
+    "translation_lang": "pl",
+    "definition": "study whose plan was published in advance",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We analysed the pre-registered outcomes only.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "05c6690f-1715-47a5-93b0-0d35521e80a2",
+    "user_id": null,
+    "term": "p-hacking",
+    "term_lang": "en",
+    "translation": "p-hacking (manipulacja p-value)",
+    "translation_lang": "pl",
+    "definition": "manipulating analyses to find significance",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Beware p‑hacking and harking.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "db17468d-3c07-4da3-a6a0-3573a2e02e6b",
+    "user_id": null,
+    "term": "HARKing",
+    "term_lang": "en",
+    "translation": "HARKing (hipotezy po fakcie)",
+    "translation_lang": "pl",
+    "definition": "hypothesising after results are known",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Avoid HARKing—state hypotheses up front.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "348dde4a-a10b-4fa1-9679-0f0780edaf21",
+    "user_id": null,
+    "term": "publication bias",
+    "term_lang": "en",
+    "translation": "bias publikacyjny",
+    "translation_lang": "pl",
+    "definition": "tendency to publish positive results",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Publication bias inflates effect sizes.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "09c54be7-ad57-4e89-b85b-312fd5617346",
+    "user_id": null,
+    "term": "credibility interval",
+    "term_lang": "en",
+    "translation": "przedział wiarygodności",
+    "translation_lang": "pl",
+    "definition": "Bayesian analogue of confidence interval",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Report a 95% credibility interval.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ec779d30-98e8-4f93-a3bc-8233acf71dc6",
+    "user_id": null,
+    "term": "sensitivity analysis",
+    "term_lang": "en",
+    "translation": "analiza wrażliwości",
+    "translation_lang": "pl",
+    "definition": "testing robustness to assumptions",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Run sensitivity analyses across priors.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c0028278-5571-410f-ab38-febfcd9dc02b",
+    "user_id": null,
+    "term": "replication crisis",
+    "term_lang": "en",
+    "translation": "kryzys replikacyjny",
+    "translation_lang": "pl",
+    "definition": "widespread failures to replicate findings",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The field faces a replication crisis.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e04cf98d-7817-4fd3-98a2-63cd713313d1",
+    "user_id": null,
+    "term": "counterevidence",
+    "term_lang": "en",
+    "translation": "dowody przeciwne",
+    "translation_lang": "pl",
+    "definition": "evidence contradicting a claim",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Account for counterevidence explicitly.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6979af2b-da05-48fc-a8ca-14d9f98449e0",
+    "user_id": null,
+    "term": "null result",
+    "term_lang": "en",
+    "translation": "wynik zerowy",
+    "translation_lang": "pl",
+    "definition": "finding of no significant effect",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Null results still inform models.",
+        "translation": null
+      }
+    ],
+    "difficulty": "proficient",
+    "cefr": "C2",
+    "category": "C2-04-evidence-counterevidence",
+    "deck_id": null,
+    "tags": [
+      "C2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T14:37:44Z",
+      "last_review_at": "2025-10-06T14:37:44Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T14:37:44Z",
+    "updated_at": "2025-10-06T14:37:44Z",
+    "deleted_at": null
+  }
+]

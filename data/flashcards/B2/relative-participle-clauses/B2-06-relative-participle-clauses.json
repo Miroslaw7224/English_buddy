@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "94d875a0-192a-454d-b176-d062cb3208f0",
+    "user_id": null,
+    "term": "defining relative clause (that/which/who)",
+    "term_lang": "en",
+    "translation": "zdanie względne definiujące",
+    "translation_lang": "pl",
+    "definition": "clause that identifies the noun it follows",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The book that you lent me was excellent.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ae762970-2c37-4d3d-9fd5-dbe621898bf1",
+    "user_id": null,
+    "term": "non-defining relative clause (,which/ ,who)",
+    "term_lang": "en",
+    "translation": "zdanie względne niedefiniujące",
+    "translation_lang": "pl",
+    "definition": "extra information separated by commas",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My car, which I bought last year, is very reliable.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6ee0661c-197d-4922-bb13-471dd8c6e48c",
+    "user_id": null,
+    "term": "whose",
+    "term_lang": "en",
+    "translation": "którego/której/których (czyj)",
+    "translation_lang": "pl",
+    "definition": "relative pronoun showing possession",
+    "part_of_speech": "pronoun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The student whose laptop broke borrowed mine.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ec007f1f-e7e7-4cae-86de-24876540ce55",
+    "user_id": null,
+    "term": "where/when",
+    "term_lang": "en",
+    "translation": "gdzie/kiedy (zaimki względne)",
+    "translation_lang": "pl",
+    "definition": "relative adverbs for place/time",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The town where I grew up has changed a lot.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1d02255b-d656-4ab4-b78c-196a261d3cf3",
+    "user_id": null,
+    "term": "preposition + which",
+    "term_lang": "en",
+    "translation": "przyimek + which",
+    "translation_lang": "pl",
+    "definition": "formal pattern with preposition before 'which'",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The solution on which we rely is open-source.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "98569ea0-55b2-44d5-821f-a02a7658dd3e",
+    "user_id": null,
+    "term": "omission of 'that'",
+    "term_lang": "en",
+    "translation": "opuszczenie 'that'",
+    "translation_lang": "pl",
+    "definition": "dropping 'that' when it is the object",
+    "part_of_speech": "grammar_rule",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The report (that) I mentioned is attached.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e83c36e2-58ed-45f3-b4b6-ceb944a1f855",
+    "user_id": null,
+    "term": "present participle clause (V-ing)",
+    "term_lang": "en",
+    "translation": "imiesłów czynny (V-ing)",
+    "translation_lang": "pl",
+    "definition": "reduced clause showing result or simultaneous action",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Seeing the error, she restarted the app.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b1347e33-eadf-4ada-892d-949f23de2526",
+    "user_id": null,
+    "term": "past participle clause (V-ed)",
+    "term_lang": "en",
+    "translation": "imiesłów bierny (V-ed)",
+    "translation_lang": "pl",
+    "definition": "reduced passive clause",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Built in 2010, the bridge is still strong.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "826ef50d-fc4e-4863-9e1f-b25393d255dd",
+    "user_id": null,
+    "term": "perfect participle (having + V3)",
+    "term_lang": "en",
+    "translation": "imiesłów dokonany (having + III forma)",
+    "translation_lang": "pl",
+    "definition": "shows an earlier action",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Having finished the report, he went home.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2492c820-028e-42ec-84cc-f9add190f80f",
+    "user_id": null,
+    "term": "relative pronoun 'whom' (formal)",
+    "term_lang": "en",
+    "translation": "'whom' (forma formalna)",
+    "translation_lang": "pl",
+    "definition": "object form of 'who' used mainly in formal style",
+    "part_of_speech": "pronoun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The candidate whom we interviewed was impressive.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7bf98f85-7b5e-4c7c-b03b-a374e11e4569",
+    "user_id": null,
+    "term": "in which/at which",
+    "term_lang": "en",
+    "translation": "w którym / w którym (czas)",
+    "translation_lang": "pl",
+    "definition": "fixed prepositional relatives",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The meeting at which we voted was recorded.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f421f12c-b941-4147-afc3-9ec82766b0f3",
+    "user_id": null,
+    "term": "which referring to whole clause",
+    "term_lang": "en",
+    "translation": "'which' odnoszące się do całego zdania",
+    "translation_lang": "pl",
+    "definition": "non-defining 'which' commenting on a clause",
+    "part_of_speech": "grammar_rule",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She refused the offer, which surprised everyone.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "64f6e847-dd6c-46b9-8d66-b8e9062fffb9",
+    "user_id": null,
+    "term": "participle of reason (Being ...)",
+    "term_lang": "en",
+    "translation": "imiesłów przyczyny",
+    "translation_lang": "pl",
+    "definition": "V-ing clause expressing reason",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Being short of time, we skipped the Q&A.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "55f7a8a2-af8d-4c6b-8f9a-c9a5746721dd",
+    "user_id": null,
+    "term": "participle of result",
+    "term_lang": "en",
+    "translation": "imiesłów wyniku",
+    "translation_lang": "pl",
+    "definition": "V-ed clause showing result",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Overwhelmed by emails, he set up filters.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fa16b117-62c0-4820-8007-6323be324b01",
+    "user_id": null,
+    "term": "reduced relative (the person invited)",
+    "term_lang": "en",
+    "translation": "zredukowane zdanie względne",
+    "translation_lang": "pl",
+    "definition": "adjective-like phrase without a relative pronoun",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The people invited sat in the front row.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "relative-participle-clauses",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:26:51Z",
+      "last_review_at": "2025-10-06T11:26:51Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:26:51Z",
+    "updated_at": "2025-10-06T11:26:51Z",
+    "deleted_at": null
+  }
+]

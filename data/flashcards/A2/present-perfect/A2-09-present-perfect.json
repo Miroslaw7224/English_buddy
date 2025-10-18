@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "2f913b66-ab90-4233-960d-da2d921efbaf",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "have/has",
+    "term_lang": "en",
+    "translation": "mieć (operator)",
+    "translation_lang": "pl",
+    "definition": "Auxiliary used to build Present Perfect.",
+    "part_of_speech": "auxiliary",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have finished. She has gone.",
+        "translation": "Skończyłem. Ona wyszła."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:30:00Z",
+      "last_review_at": "2025-10-06T10:30:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:30:00Z",
+    "updated_at": "2025-10-06T10:30:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e1144921-f8c0-4158-98cd-2ab143ba6b18",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "past participle",
+    "term_lang": "en",
+    "translation": "imiesłów bierny (III forma)",
+    "translation_lang": "pl",
+    "definition": "The third form of a verb.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We have seen that film.",
+        "translation": "Widzieliśmy ten film."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:31:00Z",
+      "last_review_at": "2025-10-06T10:31:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:31:00Z",
+    "updated_at": "2025-10-06T10:31:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "efe1e8bb-955a-47e1-b4b3-984f04176840",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "ever",
+    "term_lang": "en",
+    "translation": "kiedykolwiek",
+    "translation_lang": "pl",
+    "definition": "At any time in your life.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Have you ever been to London?",
+        "translation": "Czy byłeś kiedyś w Londynie?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:32:00Z",
+      "last_review_at": "2025-10-06T10:32:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:32:00Z",
+    "updated_at": "2025-10-06T10:32:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "db18cdf0-13fb-47a4-a0ae-b33d00b23543",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "never",
+    "term_lang": "en",
+    "translation": "nigdy",
+    "translation_lang": "pl",
+    "definition": "At no time in your life.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have never tried sushi.",
+        "translation": "Nigdy nie próbowałem sushi."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:33:00Z",
+      "last_review_at": "2025-10-06T10:33:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:33:00Z",
+    "updated_at": "2025-10-06T10:33:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3a0be839-8ab3-409d-bd30-32625322432a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "just",
+    "term_lang": "en",
+    "translation": "właśnie/przed chwilą",
+    "translation_lang": "pl",
+    "definition": "A short time ago.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He has just arrived.",
+        "translation": "On właśnie przyjechał."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:34:00Z",
+      "last_review_at": "2025-10-06T10:34:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:34:00Z",
+    "updated_at": "2025-10-06T10:34:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "22292eac-ab3f-40bc-ada2-c32d49fde3c5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "already",
+    "term_lang": "en",
+    "translation": "już",
+    "translation_lang": "pl",
+    "definition": "Earlier than expected.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We have already eaten.",
+        "translation": "Już jedliśmy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:35:00Z",
+      "last_review_at": "2025-10-06T10:35:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:35:00Z",
+    "updated_at": "2025-10-06T10:35:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1617a3c3-0148-4e3c-bec2-f8ddfe404a52",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "yet",
+    "term_lang": "en",
+    "translation": "jeszcze/już (w pyt./przecz.)",
+    "translation_lang": "pl",
+    "definition": "By now (in questions/negatives).",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Have you finished yet?",
+        "translation": "Skończyłeś już?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:36:00Z",
+      "last_review_at": "2025-10-06T10:36:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:36:00Z",
+    "updated_at": "2025-10-06T10:36:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "720e2774-3ca6-4d72-8595-145ad08b36c4",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "since",
+    "term_lang": "en",
+    "translation": "od (punkt w czasie)",
+    "translation_lang": "pl",
+    "definition": "From a point in time until now.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have lived here since 2020.",
+        "translation": "Mieszkam tu od 2020 roku."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:37:00Z",
+      "last_review_at": "2025-10-06T10:37:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:37:00Z",
+    "updated_at": "2025-10-06T10:37:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "12ac9983-dc17-48ab-bda6-b3f189ec20fa",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "for",
+    "term_lang": "en",
+    "translation": "przez/od (okres)",
+    "translation_lang": "pl",
+    "definition": "For a period of time.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She has worked here for two years.",
+        "translation": "Ona pracuje tu od dwóch lat."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:38:00Z",
+      "last_review_at": "2025-10-06T10:38:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:38:00Z",
+    "updated_at": "2025-10-06T10:38:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "62c954c9-3b14-4c17-b298-a4e1ba4d50e5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "experience",
+    "term_lang": "en",
+    "translation": "doświadczenie",
+    "translation_lang": "pl",
+    "definition": "Things you have done in life.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He has gained a lot of experience.",
+        "translation": "Zdobył dużo doświadczenia."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:39:00Z",
+      "last_review_at": "2025-10-06T10:39:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:39:00Z",
+    "updated_at": "2025-10-06T10:39:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5d183cbb-2a26-4811-ac1a-ed12199b3bda",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "result",
+    "term_lang": "en",
+    "translation": "rezultat/efekt",
+    "translation_lang": "pl",
+    "definition": "A change that is important now.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have lost my keys.",
+        "translation": "Zgubiłem klucze."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:40:00Z",
+      "last_review_at": "2025-10-06T10:40:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:40:00Z",
+    "updated_at": "2025-10-06T10:40:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d76162ac-d81d-41f3-aa7e-da52b91d909e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "gone/been",
+    "term_lang": "en",
+    "translation": "poszedł/pojechał/był",
+    "translation_lang": "pl",
+    "definition": "Gone = not back; been = visited and returned.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She has gone home; I have been to Spain.",
+        "translation": "Ona poszła do domu; Ja byłem w Hiszpanii."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:41:00Z",
+      "last_review_at": "2025-10-06T10:41:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:41:00Z",
+    "updated_at": "2025-10-06T10:41:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4671454f-321a-4bc9-a9de-dfe75aa79bc5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "so far",
+    "term_lang": "en",
+    "translation": "jak dotąd",
+    "translation_lang": "pl",
+    "definition": "Until now.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "So far, we have studied five units.",
+        "translation": "Jak dotąd przerobiliśmy pięć działów."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:42:00Z",
+      "last_review_at": "2025-10-06T10:42:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:42:00Z",
+    "updated_at": "2025-10-06T10:42:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0c0c7e89-ba1e-4b96-8e49-cbdc3633b510",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "recently/lately",
+    "term_lang": "en",
+    "translation": "ostatnio",
+    "translation_lang": "pl",
+    "definition": "In the near past.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have read a lot recently.",
+        "translation": "Ostatnio dużo czytałem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:43:00Z",
+      "last_review_at": "2025-10-06T10:43:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:43:00Z",
+    "updated_at": "2025-10-06T10:43:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "93c864c5-77d0-4595-a3f5-8b7367a38fe6",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "yet (neg.)",
+    "term_lang": "en",
+    "translation": "jeszcze nie",
+    "translation_lang": "pl",
+    "definition": "Used to say something has not happened.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I haven’t finished yet.",
+        "translation": "Jeszcze nie skończyłem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-09-present-perfect",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:44:00Z",
+      "last_review_at": "2025-10-06T10:44:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:44:00Z",
+    "updated_at": "2025-10-06T10:44:00Z",
+    "deleted_at": null
+  }
+]

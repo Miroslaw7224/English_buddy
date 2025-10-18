@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "a3f153a7-62e8-4b80-8909-7d73e8a04835",
+    "user_id": null,
+    "term": "browse the shelves",
+    "term_lang": "en",
+    "translation": "przeglądać półki",
+    "translation_lang": "pl",
+    "definition": "to look at items in a shop without buying yet",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I like to browse the shelves before I decide.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c68f8c47-3ce5-41b6-913a-8fd05d68b821",
+    "user_id": null,
+    "term": "try something on",
+    "term_lang": "en",
+    "translation": "przymierzyć coś",
+    "translation_lang": "pl",
+    "definition": "to put on clothes to see if they fit",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You can try it on in the changing room.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7ac3cbcb-3a8e-4282-b00c-1d4fa0732b75",
+    "user_id": null,
+    "term": "fitting room",
+    "term_lang": "en",
+    "translation": "przymierzalnia",
+    "translation_lang": "pl",
+    "definition": "a place to try on clothes",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The fitting room is at the back.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9bcd4a3e-a061-4827-ae78-066986a42b5e",
+    "user_id": null,
+    "term": "out of stock",
+    "term_lang": "en",
+    "translation": "niedostępny na stanie",
+    "translation_lang": "pl",
+    "definition": "not available to buy",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The blue jacket is out of stock.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c76ea8af-38a0-4200-994c-0ca5f00f2684",
+    "user_id": null,
+    "term": "special offer",
+    "term_lang": "en",
+    "translation": "oferta specjalna",
+    "translation_lang": "pl",
+    "definition": "a reduced price or deal",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "These shoes are on a special offer this week.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "62454066-931e-409a-8c6d-f88695714c09",
+    "user_id": null,
+    "term": "receipt",
+    "term_lang": "en",
+    "translation": "paragon",
+    "translation_lang": "pl",
+    "definition": "a paper that shows you paid for something",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Keep the receipt in case you return it.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "879c8cfb-fc52-4493-b9ea-9f21bd28807a",
+    "user_id": null,
+    "term": "refund",
+    "term_lang": "en",
+    "translation": "zwrot pieniędzy",
+    "translation_lang": "pl",
+    "definition": "money returned when you take an item back",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You can get a refund within 14 days.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a0e38d5d-2207-4aec-8332-fa2fa29cf835",
+    "user_id": null,
+    "term": "exchange",
+    "term_lang": "en",
+    "translation": "wymiana",
+    "translation_lang": "pl",
+    "definition": "to give back an item and take another one",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I'd like to exchange this for a larger size.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6d441720-29bc-4a35-bfa9-71d693c937a3",
+    "user_id": null,
+    "term": "warranty",
+    "term_lang": "en",
+    "translation": "gwarancja",
+    "translation_lang": "pl",
+    "definition": "a promise to repair or replace a product",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This laptop has a two-year warranty.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6d91db7f-6f6e-4c95-8052-02dd95053276",
+    "user_id": null,
+    "term": "customer service desk",
+    "term_lang": "en",
+    "translation": "punkt obsługi klienta",
+    "translation_lang": "pl",
+    "definition": "place in a shop where problems are handled",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Ask at the customer service desk.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "50158172-fbc7-47de-b5b6-7bf4e8a1b481",
+    "user_id": null,
+    "term": "queue up",
+    "term_lang": "en",
+    "translation": "ustawiać się w kolejce",
+    "translation_lang": "pl",
+    "definition": "to stand in line to wait your turn",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We queued up for ten minutes.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "71661882-3745-44a0-a9aa-068bd5000315",
+    "user_id": null,
+    "term": "contactless payment",
+    "term_lang": "en",
+    "translation": "płatność zbliżeniowa",
+    "translation_lang": "pl",
+    "definition": "paying by tapping a card or phone",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Contactless payment is quick and easy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5b91dbd9-efa1-4529-bc6e-5fbe10fe26f6",
+    "user_id": null,
+    "term": "delivery fee",
+    "term_lang": "en",
+    "translation": "opłata za dostawę",
+    "translation_lang": "pl",
+    "definition": "money you pay to have something delivered",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The delivery fee is 9 zł.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8d7d19ff-60c4-4f49-b8a1-5eee6be135f0",
+    "user_id": null,
+    "term": "return policy",
+    "term_lang": "en",
+    "translation": "polityka zwrotów",
+    "translation_lang": "pl",
+    "definition": "shop rules about bringing items back",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please check our return policy online.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3bfc4277-a696-43b7-a3bd-b9937583bea2",
+    "user_id": null,
+    "term": "compare prices",
+    "term_lang": "en",
+    "translation": "porównywać ceny",
+    "translation_lang": "pl",
+    "definition": "to look at costs of similar items",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Always compare prices before you buy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "16_shopping-services",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:18:53Z",
+      "last_review_at": "2025-10-06T11:18:53Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:18:53Z",
+    "updated_at": "2025-10-06T11:18:53Z",
+    "deleted_at": null
+  }
+]

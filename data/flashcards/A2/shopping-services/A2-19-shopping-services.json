@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "6ae975e9-2c65-443e-a08f-ca3ba4c434c7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "complaint",
+    "term_lang": "en",
+    "translation": "reklamacja/skarga",
+    "translation_lang": "pl",
+    "definition": "A statement that something is wrong.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I want to make a complaint.",
+        "translation": "Chcę złożyć reklamację."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:30:00Z",
+      "last_review_at": "2025-10-06T11:30:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:30:00Z",
+    "updated_at": "2025-10-06T11:30:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ddbaa64c-ddcb-45da-ab63-3451984c9e80",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "refund",
+    "term_lang": "en",
+    "translation": "zwrot pieniędzy",
+    "translation_lang": "pl",
+    "definition": "Money you get back.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Can I get a refund?",
+        "translation": "Czy mogę otrzymać zwrot pieniędzy?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:31:00Z",
+      "last_review_at": "2025-10-06T11:31:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:31:00Z",
+    "updated_at": "2025-10-06T11:31:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "28ba51ea-7c59-4c87-9b29-6c5e880bf836",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "exchange",
+    "term_lang": "en",
+    "translation": "wymiana",
+    "translation_lang": "pl",
+    "definition": "Changing a product for another.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I’d like an exchange, not a refund.",
+        "translation": "Chciałbym wymianę, nie zwrot."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:32:00Z",
+      "last_review_at": "2025-10-06T11:32:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:32:00Z",
+    "updated_at": "2025-10-06T11:32:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "51f18d20-bad1-4e2d-b13c-1844f43c5c68",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "receipt",
+    "term_lang": "en",
+    "translation": "paragon",
+    "translation_lang": "pl",
+    "definition": "A paper showing what you paid.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Do you have the receipt?",
+        "translation": "Czy masz paragon?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:33:00Z",
+      "last_review_at": "2025-10-06T11:33:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:33:00Z",
+    "updated_at": "2025-10-06T11:33:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4fc514f8-8e65-42f4-b4d5-b4028be815aa",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "warranty/guarantee",
+    "term_lang": "en",
+    "translation": "gwarancja",
+    "translation_lang": "pl",
+    "definition": "Promise to repair or replace.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The phone has a two-year warranty.",
+        "translation": "Telefon ma dwuletnią gwarancję."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:34:00Z",
+      "last_review_at": "2025-10-06T11:34:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:34:00Z",
+    "updated_at": "2025-10-06T11:34:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cd3ee90b-914c-4440-9f0d-5d9a72868737",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "size",
+    "term_lang": "en",
+    "translation": "rozmiar",
+    "translation_lang": "pl",
+    "definition": "How big or small something is.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "What size is this shirt?",
+        "translation": "Jaki to rozmiar koszuli?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:35:00Z",
+      "last_review_at": "2025-10-06T11:35:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:35:00Z",
+    "updated_at": "2025-10-06T11:35:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5c28e3bb-f496-4577-b074-8cccf725eb02",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "fitting room",
+    "term_lang": "en",
+    "translation": "przymierzalnia",
+    "translation_lang": "pl",
+    "definition": "A room to try on clothes.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The fitting room is over there.",
+        "translation": "Przymierzalnia jest tam."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:36:00Z",
+      "last_review_at": "2025-10-06T11:36:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:36:00Z",
+    "updated_at": "2025-10-06T11:36:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ee4a7845-d4b2-4e14-9eb8-80b7e5ecf4e6",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "out of stock",
+    "term_lang": "en",
+    "translation": "brak w magazynie",
+    "translation_lang": "pl",
+    "definition": "Not available to buy now.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This model is out of stock.",
+        "translation": "Tego modelu nie ma w magazynie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:37:00Z",
+      "last_review_at": "2025-10-06T11:37:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:37:00Z",
+    "updated_at": "2025-10-06T11:37:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "39bd05a3-b0aa-48d1-8679-219d703f01f7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "price tag",
+    "term_lang": "en",
+    "translation": "metka z ceną",
+    "translation_lang": "pl",
+    "definition": "A label that shows the price.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There is no price tag.",
+        "translation": "Nie ma metki z ceną."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:38:00Z",
+      "last_review_at": "2025-10-06T11:38:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:38:00Z",
+    "updated_at": "2025-10-06T11:38:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0d073862-a2bc-455b-8e96-bf2a24b75200",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "delivery",
+    "term_lang": "en",
+    "translation": "dostawa",
+    "translation_lang": "pl",
+    "definition": "Taking goods to your home.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Delivery takes three days.",
+        "translation": "Dostawa trwa trzy dni."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:39:00Z",
+      "last_review_at": "2025-10-06T11:39:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:39:00Z",
+    "updated_at": "2025-10-06T11:39:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c51c46d3-de47-4d73-add2-93e03f3ac406",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "repair",
+    "term_lang": "en",
+    "translation": "naprawa/naprawić",
+    "translation_lang": "pl",
+    "definition": "To fix something that is broken.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Can you repair this phone?",
+        "translation": "Czy możecie naprawić ten telefon?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:40:00Z",
+      "last_review_at": "2025-10-06T11:40:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:40:00Z",
+    "updated_at": "2025-10-06T11:40:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "82a40f1c-9313-4cbe-ac7c-5885379fb2f5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "service",
+    "term_lang": "en",
+    "translation": "serwis/usługa",
+    "translation_lang": "pl",
+    "definition": "Help provided to customers.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Customer service is helpful.",
+        "translation": "Obsługa klienta jest pomocna."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:41:00Z",
+      "last_review_at": "2025-10-06T11:41:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:41:00Z",
+    "updated_at": "2025-10-06T11:41:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7549764c-ea6f-4ee4-bc14-8630546d1407",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "queue/line",
+    "term_lang": "en",
+    "translation": "kolejka",
+    "translation_lang": "pl",
+    "definition": "People waiting one after another.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We waited in a long queue.",
+        "translation": "Czekaliśmy w długiej kolejce."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:42:00Z",
+      "last_review_at": "2025-10-06T11:42:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:42:00Z",
+    "updated_at": "2025-10-06T11:42:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "957d3a88-c0b6-4b70-9122-fcc1e051d2e2",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "return policy",
+    "term_lang": "en",
+    "translation": "polityka zwrotów",
+    "translation_lang": "pl",
+    "definition": "Rules for bringing back goods.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "What is your return policy?",
+        "translation": "Jaka jest wasza polityka zwrotów?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:43:00Z",
+      "last_review_at": "2025-10-06T11:43:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:43:00Z",
+    "updated_at": "2025-10-06T11:43:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a81f62ee-bc19-4056-9e42-11b78f25c9ab",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "discount code",
+    "term_lang": "en",
+    "translation": "kod zniżkowy",
+    "translation_lang": "pl",
+    "definition": "A code that gives a lower price.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Use a discount code at checkout.",
+        "translation": "Użyj kodu zniżkowego przy kasie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-19-shopping-services",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:44:00Z",
+      "last_review_at": "2025-10-06T11:44:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:44:00Z",
+    "updated_at": "2025-10-06T11:44:00Z",
+    "deleted_at": null
+  }
+]

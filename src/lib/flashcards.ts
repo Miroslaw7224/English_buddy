@@ -1,3 +1,16 @@
+export interface QuizTask {
+  type: 'multiple_choice';
+  prompt: string;
+  options: string[];
+  answer_index: number;
+  feedback_correct: string;
+  feedback_incorrect: string;
+}
+
+export interface Quiz {
+  tasks: QuizTask[];
+}
+
 export interface Flashcard {
   word_id: string;
   user_id: string;
@@ -37,6 +50,7 @@ export interface Flashcard {
   created_at: string;
   updated_at: string;
   deleted_at: string | null;
+  quiz?: Quiz;
 }
 
 export async function loadFlashcards(level: string): Promise<Flashcard[]> {

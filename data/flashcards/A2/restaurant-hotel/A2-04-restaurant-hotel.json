@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "cde04c5c-2b8c-4d81-96c8-37fb327480b8",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "menu",
+    "term_lang": "en",
+    "translation": "menu/jadłospis",
+    "translation_lang": "pl",
+    "definition": "A list of dishes in a restaurant.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Could we see the menu, please?",
+        "translation": "Czy moglibyśmy zobaczyć menu?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:00:00Z",
+      "last_review_at": "2025-10-06T10:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:00:00Z",
+    "updated_at": "2025-10-06T10:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "eb9624f1-3291-41eb-aa9f-3a650a7052c5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "bill/check",
+    "term_lang": "en",
+    "translation": "rachunek",
+    "translation_lang": "pl",
+    "definition": "A paper that shows how much you pay.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Can I have the bill, please?",
+        "translation": "Czy mogę prosić rachunek?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:01:00Z",
+      "last_review_at": "2025-10-06T10:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:01:00Z",
+    "updated_at": "2025-10-06T10:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "fcd79a20-7c37-473a-a031-79e62a0777f9",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "reservation",
+    "term_lang": "en",
+    "translation": "rezerwacja",
+    "translation_lang": "pl",
+    "definition": "An arrangement to have a table or room.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have a reservation for two.",
+        "translation": "Mam rezerwację dla dwóch osób."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:02:00Z",
+      "last_review_at": "2025-10-06T10:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:02:00Z",
+    "updated_at": "2025-10-06T10:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1f65c18d-436e-42c1-8e8a-e491f4d27d6a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "table for two",
+    "term_lang": "en",
+    "translation": "stolik dla dwóch",
+    "translation_lang": "pl",
+    "definition": "A table for two people.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We’d like a table for two.",
+        "translation": "Poprosimy stolik dla dwóch."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:03:00Z",
+      "last_review_at": "2025-10-06T10:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:03:00Z",
+    "updated_at": "2025-10-06T10:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "51073a63-8dce-44f1-b30a-81970250e5c4",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "starter/appetizer",
+    "term_lang": "en",
+    "translation": "przystawka",
+    "translation_lang": "pl",
+    "definition": "A small dish before the main course.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I’ll have a soup as a starter.",
+        "translation": "Wezmę zupę jako przystawkę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:04:00Z",
+      "last_review_at": "2025-10-06T10:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:04:00Z",
+    "updated_at": "2025-10-06T10:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ed267ba2-42de-4007-85da-442f8dffabfb",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "main course",
+    "term_lang": "en",
+    "translation": "danie główne",
+    "translation_lang": "pl",
+    "definition": "The biggest part of a meal.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "What is the main course today?",
+        "translation": "Jakie jest dziś danie główne?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:05:00Z",
+      "last_review_at": "2025-10-06T10:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:05:00Z",
+    "updated_at": "2025-10-06T10:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6e300a63-6257-4c43-83d4-bd90df4703f8",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "dessert",
+    "term_lang": "en",
+    "translation": "deser",
+    "translation_lang": "pl",
+    "definition": "A sweet dish after a meal.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Could I have the dessert menu?",
+        "translation": "Czy mogę kartę deserów?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:06:00Z",
+      "last_review_at": "2025-10-06T10:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:06:00Z",
+    "updated_at": "2025-10-06T10:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "043adf8f-a31d-4dcf-be9c-910bef899081",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "tip",
+    "term_lang": "en",
+    "translation": "napiwek",
+    "translation_lang": "pl",
+    "definition": "Extra money to thank for service.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Do we leave a tip here?",
+        "translation": "Czy zostawiamy tu napiwek?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:07:00Z",
+      "last_review_at": "2025-10-06T10:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:07:00Z",
+    "updated_at": "2025-10-06T10:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5acaf2bb-5d6c-4aa8-9311-1135a9567aee",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "Could I…?",
+    "term_lang": "en",
+    "translation": "Czy mógłbym…?",
+    "translation_lang": "pl",
+    "definition": "A polite way to ask for something.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Could I have some water?",
+        "translation": "Czy mógłbym prosić trochę wody?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:08:00Z",
+      "last_review_at": "2025-10-06T10:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:08:00Z",
+    "updated_at": "2025-10-06T10:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "39d4229e-5da9-4624-a2d7-3d32da5b9792",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "Can I…?",
+    "term_lang": "en",
+    "translation": "Czy mogę…?",
+    "translation_lang": "pl",
+    "definition": "A way to ask for permission.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Can I pay by card?",
+        "translation": "Czy mogę zapłacić kartą?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:09:00Z",
+      "last_review_at": "2025-10-06T10:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:09:00Z",
+    "updated_at": "2025-10-06T10:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "64d570f8-3cf6-460c-9479-1976a2887251",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "single room",
+    "term_lang": "en",
+    "translation": "pokój jednoosobowy",
+    "translation_lang": "pl",
+    "definition": "A hotel room for one person.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I’d like a single room.",
+        "translation": "Poproszę pokój jednoosobowy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:10:00Z",
+      "last_review_at": "2025-10-06T10:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:10:00Z",
+    "updated_at": "2025-10-06T10:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9eda6ea2-ad29-479b-b801-b25bbbe5812e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "double room",
+    "term_lang": "en",
+    "translation": "pokój dwuosobowy",
+    "translation_lang": "pl",
+    "definition": "A hotel room for two people.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We need a double room.",
+        "translation": "Potrzebujemy pokój dwuosobowy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:11:00Z",
+      "last_review_at": "2025-10-06T10:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:11:00Z",
+    "updated_at": "2025-10-06T10:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "500af0f1-10a5-4840-94cd-ece106fbf843",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "check in",
+    "term_lang": "en",
+    "translation": "zameldować się",
+    "translation_lang": "pl",
+    "definition": "To arrive and register at a hotel.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We check in at three.",
+        "translation": "Meldowaliśmy się o trzeciej."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:12:00Z",
+      "last_review_at": "2025-10-06T10:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:12:00Z",
+    "updated_at": "2025-10-06T10:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "26b7a346-9115-4b64-b928-5252f2b9bd9c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "check out",
+    "term_lang": "en",
+    "translation": "wymeldować się",
+    "translation_lang": "pl",
+    "definition": "To leave and pay at a hotel.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We check out at eleven.",
+        "translation": "Wymeldujemy się o jedenastej."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:13:00Z",
+      "last_review_at": "2025-10-06T10:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:13:00Z",
+    "updated_at": "2025-10-06T10:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a5bd97a6-b4a9-4695-82a6-2881022c8de4",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "booking confirmation",
+    "term_lang": "en",
+    "translation": "potwierdzenie rezerwacji",
+    "translation_lang": "pl",
+    "definition": "A document that shows your booking.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Here is my booking confirmation.",
+        "translation": "Oto moje potwierdzenie rezerwacji."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-04-restaurant-hotel",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:14:00Z",
+      "last_review_at": "2025-10-06T10:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:14:00Z",
+    "updated_at": "2025-10-06T10:14:00Z",
+    "deleted_at": null
+  }
+]

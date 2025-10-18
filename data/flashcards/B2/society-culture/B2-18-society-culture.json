@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "5b289280-e92b-4591-b75a-20373cbbcad8",
+    "user_id": null,
+    "term": "social mobility",
+    "term_lang": "en",
+    "translation": "mobilność społeczna",
+    "translation_lang": "pl",
+    "definition": "ability to move between social classes",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Education can improve social mobility.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b33997aa-f694-404b-b1f1-df38f7b66285",
+    "user_id": null,
+    "term": "gender pay gap",
+    "term_lang": "en",
+    "translation": "luka płacowa ze względu na płeć",
+    "translation_lang": "pl",
+    "definition": "difference in earnings between genders",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The gender pay gap is narrowing.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "82bcd138-9ce1-4fab-913a-ff87c596c0b4",
+    "user_id": null,
+    "term": "cultural appropriation",
+    "term_lang": "en",
+    "translation": "zawłaszczenie kulturowe",
+    "translation_lang": "pl",
+    "definition": "adopting elements of another culture disrespectfully",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The ad was criticised for cultural appropriation.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "eae4b7d5-07d6-46cc-9584-f993c45b2d36",
+    "user_id": null,
+    "term": "inclusion",
+    "term_lang": "en",
+    "translation": "inkluzywność",
+    "translation_lang": "pl",
+    "definition": "practice of ensuring equal access and respect",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The company promotes inclusion and diversity.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "09b75d4d-ae12-4d03-b581-de5a4e707fe5",
+    "user_id": null,
+    "term": "heritage",
+    "term_lang": "en",
+    "translation": "dziedzictwo",
+    "translation_lang": "pl",
+    "definition": "traditions and historical achievements",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The museum preserves local heritage.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b2c2e858-b2a4-4ab2-a4af-2aa814f21090",
+    "user_id": null,
+    "term": "grassroots movement",
+    "term_lang": "en",
+    "translation": "ruch oddolny",
+    "translation_lang": "pl",
+    "definition": "community-driven social effort",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A grassroots movement pushed for reform.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4717b332-bad4-433a-970d-39d76a82bea3",
+    "user_id": null,
+    "term": "public discourse",
+    "term_lang": "en",
+    "translation": "debata publiczna",
+    "translation_lang": "pl",
+    "definition": "discussion of issues by the public",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Social media shapes public discourse.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2b8993cb-4f96-441c-941a-94e96d1370b5",
+    "user_id": null,
+    "term": "civic engagement",
+    "term_lang": "en",
+    "translation": "zaangażowanie obywatelskie",
+    "translation_lang": "pl",
+    "definition": "active participation in public life",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Volunteering increases civic engagement.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9e748715-e4e3-42ff-82f5-bfbc7bdfd146",
+    "user_id": null,
+    "term": "stereotype",
+    "term_lang": "en",
+    "translation": "stereotyp",
+    "translation_lang": "pl",
+    "definition": "simplified and fixed idea about a group",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Stereotypes can lead to unfair treatment.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "10ce8d00-7db4-493e-8dc9-227a527e11fb",
+    "user_id": null,
+    "term": "multicultural",
+    "term_lang": "en",
+    "translation": "wielokulturowy",
+    "translation_lang": "pl",
+    "definition": "including people from many cultures",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Our city is increasingly multicultural.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6c4478b7-97ea-4940-8853-70abf106dc3e",
+    "user_id": null,
+    "term": "norms and values",
+    "term_lang": "en",
+    "translation": "normy i wartości",
+    "translation_lang": "pl",
+    "definition": "shared rules and beliefs",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Children learn norms and values at home.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "de6c8d2b-5e83-4922-a8bf-d4b4d3dafc5d",
+    "user_id": null,
+    "term": "rite of passage",
+    "term_lang": "en",
+    "translation": "rytuał przejścia",
+    "translation_lang": "pl",
+    "definition": "ceremony marking a major life event",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Graduation is a rite of passage.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "601ab6b9-f498-4c64-b8f9-221bd1a07f20",
+    "user_id": null,
+    "term": "taboo",
+    "term_lang": "en",
+    "translation": "temat tabu",
+    "translation_lang": "pl",
+    "definition": "prohibited or socially unacceptable topic",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Discussing money is still a taboo for some.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e788b50c-03d6-46ed-96eb-15f8fd63d996",
+    "user_id": null,
+    "term": "mainstream",
+    "term_lang": "en",
+    "translation": "główny nurt",
+    "translation_lang": "pl",
+    "definition": "ideas or activities accepted by most people",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The band moved from indie to mainstream.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1dd92b56-20fd-4342-a2c2-c319ce2ef5f2",
+    "user_id": null,
+    "term": "counterculture",
+    "term_lang": "en",
+    "translation": "kontrkultura",
+    "translation_lang": "pl",
+    "definition": "culture opposing mainstream values",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The movement began as a counterculture.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "society-culture",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  }
+]

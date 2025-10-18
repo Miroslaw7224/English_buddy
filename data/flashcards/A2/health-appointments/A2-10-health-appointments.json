@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "8d1c3d0e-d98e-4c1c-9dea-dcd5967dec67",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "have to",
+    "term_lang": "en",
+    "translation": "musieć (zewn. konieczność)",
+    "translation_lang": "pl",
+    "definition": "It is necessary because of rules/situation.",
+    "part_of_speech": "modal",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have to take this medicine.",
+        "translation": "Muszę brać to lekarstwo."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:30:00Z",
+      "last_review_at": "2025-10-06T10:30:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:30:00Z",
+    "updated_at": "2025-10-06T10:30:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c902fef3-1c45-4b93-b43a-9d93999d2521",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "must",
+    "term_lang": "en",
+    "translation": "musieć (silny nakaz)",
+    "translation_lang": "pl",
+    "definition": "Stronger obligation or speaker’s opinion.",
+    "part_of_speech": "modal",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You must rest now.",
+        "translation": "Musisz teraz odpocząć."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:31:00Z",
+      "last_review_at": "2025-10-06T10:31:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:31:00Z",
+    "updated_at": "2025-10-06T10:31:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "edcbd30c-ff1c-43e0-9dea-ce256eeeee8d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "mustn’t",
+    "term_lang": "en",
+    "translation": "nie wolno",
+    "translation_lang": "pl",
+    "definition": "Prohibition.",
+    "part_of_speech": "modal",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You mustn’t smoke here.",
+        "translation": "Nie wolno tu palić."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:32:00Z",
+      "last_review_at": "2025-10-06T10:32:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:32:00Z",
+    "updated_at": "2025-10-06T10:32:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "afca6b96-0c31-4eb9-b66c-62a40cc516aa",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "appointment",
+    "term_lang": "en",
+    "translation": "wizyta (u lekarza)",
+    "translation_lang": "pl",
+    "definition": "A time you arrange to meet a doctor.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I have an appointment at 3 p.m.",
+        "translation": "Mam wizytę o 15:00."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:33:00Z",
+      "last_review_at": "2025-10-06T10:33:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:33:00Z",
+    "updated_at": "2025-10-06T10:33:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "29201452-5d67-4002-bb31-2177a906e5ea",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "symptom",
+    "term_lang": "en",
+    "translation": "objaw",
+    "translation_lang": "pl",
+    "definition": "A sign of illness.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "What symptoms do you have?",
+        "translation": "Jakie masz objawy?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:34:00Z",
+      "last_review_at": "2025-10-06T10:34:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:34:00Z",
+    "updated_at": "2025-10-06T10:34:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "72b99109-a7d7-440b-a267-e5d48411a11e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "allergy",
+    "term_lang": "en",
+    "translation": "alergia",
+    "translation_lang": "pl",
+    "definition": "A bad reaction to something.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He has a pollen allergy.",
+        "translation": "On ma alergię na pyłki."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:35:00Z",
+      "last_review_at": "2025-10-06T10:35:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:35:00Z",
+    "updated_at": "2025-10-06T10:35:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0ee2d61e-837c-47f7-919f-51692298ec80",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "prescription",
+    "term_lang": "en",
+    "translation": "recepta",
+    "translation_lang": "pl",
+    "definition": "A note from a doctor for medicine.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Can I get a prescription?",
+        "translation": "Czy mogę dostać receptę?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:36:00Z",
+      "last_review_at": "2025-10-06T10:36:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:36:00Z",
+    "updated_at": "2025-10-06T10:36:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8ae47388-45f4-4154-9027-f536ddde205d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "take temperature",
+    "term_lang": "en",
+    "translation": "mierzyć temperaturę",
+    "translation_lang": "pl",
+    "definition": "To check how hot your body is.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Let me take your temperature.",
+        "translation": "Pozwól, że zmierzę temperaturę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:37:00Z",
+      "last_review_at": "2025-10-06T10:37:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:37:00Z",
+    "updated_at": "2025-10-06T10:37:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0e63c4b7-a0e4-4ca6-94cb-a53f889ca955",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "blood test",
+    "term_lang": "en",
+    "translation": "badanie krwi",
+    "translation_lang": "pl",
+    "definition": "A medical test of your blood.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She needs a blood test.",
+        "translation": "Ona potrzebuje badania krwi."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:38:00Z",
+      "last_review_at": "2025-10-06T10:38:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:38:00Z",
+    "updated_at": "2025-10-06T10:38:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c178e92e-25cb-4d6d-b83e-80d37a096c93",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "emergency",
+    "term_lang": "en",
+    "translation": "nagły wypadek",
+    "translation_lang": "pl",
+    "definition": "A serious, dangerous situation.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "In an emergency, call 112.",
+        "translation": "W nagłym wypadku zadzwoń na 112."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:39:00Z",
+      "last_review_at": "2025-10-06T10:39:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:39:00Z",
+    "updated_at": "2025-10-06T10:39:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "baefa634-ea1d-464d-8d38-a4504d3e38c8",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "painkiller",
+    "term_lang": "en",
+    "translation": "lek przeciwbólowy",
+    "translation_lang": "pl",
+    "definition": "Medicine that reduces pain.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Take a painkiller if needed.",
+        "translation": "Weź lek przeciwbólowy, jeśli trzeba."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:40:00Z",
+      "last_review_at": "2025-10-06T10:40:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:40:00Z",
+    "updated_at": "2025-10-06T10:40:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "73acce0d-4489-4e30-bde4-241015d83300",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "rest",
+    "term_lang": "en",
+    "translation": "odpoczywać",
+    "translation_lang": "pl",
+    "definition": "To relax and not work.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You must rest for two days.",
+        "translation": "Musisz odpoczywać przez dwa dni."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:41:00Z",
+      "last_review_at": "2025-10-06T10:41:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:41:00Z",
+    "updated_at": "2025-10-06T10:41:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "352881bd-dae0-43d6-bb81-1a9314cf1f87",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "follow instructions",
+    "term_lang": "en",
+    "translation": "stosować się do zaleceń",
+    "translation_lang": "pl",
+    "definition": "To do what you are told to do.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please follow the doctor’s instructions.",
+        "translation": "Proszę stosować się do zaleceń lekarza."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:42:00Z",
+      "last_review_at": "2025-10-06T10:42:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:42:00Z",
+    "updated_at": "2025-10-06T10:42:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "db468ce1-8388-497f-8d34-1023c66eeea8",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "recover",
+    "term_lang": "en",
+    "translation": "wyzdrowieć",
+    "translation_lang": "pl",
+    "definition": "To get better after illness.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He recovered quickly.",
+        "translation": "On szybko wyzdrowiał."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:43:00Z",
+      "last_review_at": "2025-10-06T10:43:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:43:00Z",
+    "updated_at": "2025-10-06T10:43:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dbb090d3-8896-4f04-afc8-5acfeeec7a2e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "prevention",
+    "term_lang": "en",
+    "translation": "profilaktyka",
+    "translation_lang": "pl",
+    "definition": "Actions to stop illness.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Prevention is important.",
+        "translation": "Profilaktyka jest ważna."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-10-health-appointments",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:44:00Z",
+      "last_review_at": "2025-10-06T10:44:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:44:00Z",
+    "updated_at": "2025-10-06T10:44:00Z",
+    "deleted_at": null
+  }
+]

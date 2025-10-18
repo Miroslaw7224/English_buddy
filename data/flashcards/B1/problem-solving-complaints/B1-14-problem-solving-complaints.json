@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "cf291755-2bf5-4c78-8078-0d92d433e6e7",
+    "user_id": null,
+    "term": "There seems to be a problem with...",
+    "term_lang": "en",
+    "translation": "Wygląda na to, że jest problem z...",
+    "translation_lang": "pl",
+    "definition": "a polite way to start a complaint",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There seems to be a problem with my order.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c73b5183-ad59-483e-b9e1-c892815fa355",
+    "user_id": null,
+    "term": "I ordered ..., but received ...",
+    "term_lang": "en",
+    "translation": "Zamówiłem/am ..., ale otrzymałem/am ...",
+    "translation_lang": "pl",
+    "definition": "to explain what went wrong",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I ordered a medium, but received a small.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a3218ccd-a259-421b-95cb-f0e42991f148",
+    "user_id": null,
+    "term": "could you look into this?",
+    "term_lang": "en",
+    "translation": "czy mogliby Państwo to sprawdzić?",
+    "translation_lang": "pl",
+    "definition": "a polite request for investigation",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Could you look into this as soon as possible?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6262a011-e275-47bd-a2ee-7203142cee2c",
+    "user_id": null,
+    "term": "refund",
+    "term_lang": "en",
+    "translation": "zwrot pieniędzy",
+    "translation_lang": "pl",
+    "definition": "money returned for a faulty product/service",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I'd like to request a refund.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "56b17c6f-08d5-4a45-8b3b-1808182f3361",
+    "user_id": null,
+    "term": "replacement",
+    "term_lang": "en",
+    "translation": "wymiana",
+    "translation_lang": "pl",
+    "definition": "a new product instead of a faulty one",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We can offer you a replacement.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "57fd0d25-db19-41d5-8844-73bd0c417deb",
+    "user_id": null,
+    "term": "apologize for the inconvenience",
+    "term_lang": "en",
+    "translation": "przepraszamy za niedogodności",
+    "translation_lang": "pl",
+    "definition": "a standard service apology",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We apologize for the inconvenience caused.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "81e73acf-5e44-43ab-89cc-2b363da58a9a",
+    "user_id": null,
+    "term": "faulty",
+    "term_lang": "en",
+    "translation": "wadliwy",
+    "translation_lang": "pl",
+    "definition": "not working correctly",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The device is faulty and needs repair.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1625d5c9-09e0-4558-90d0-13e76c2a9f74",
+    "user_id": null,
+    "term": "warranty",
+    "term_lang": "en",
+    "translation": "gwarancja",
+    "translation_lang": "pl",
+    "definition": "a promise to repair or replace a product",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Is the item still under warranty?",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "08e6cbe9-8885-46a7-bccd-02908a852fd7",
+    "user_id": null,
+    "term": "escalate the issue",
+    "term_lang": "en",
+    "translation": "eskalować sprawę",
+    "translation_lang": "pl",
+    "definition": "to move a problem to a higher level",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We will escalate the issue to our manager.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "973b33aa-913b-4cf6-8315-aa42c4675b1a",
+    "user_id": null,
+    "term": "response time",
+    "term_lang": "en",
+    "translation": "czas odpowiedzi",
+    "translation_lang": "pl",
+    "definition": "how quickly a company answers",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Our response time is under 24 hours.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "58c1deed-ee23-4e2c-b33a-69c2e9f24a83",
+    "user_id": null,
+    "term": "Goodwill gesture",
+    "term_lang": "en",
+    "translation": "gest dobrej woli",
+    "translation_lang": "pl",
+    "definition": "something given to keep the customer happy",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "As a goodwill gesture, we offer a discount.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d9ba0b1b-e9ad-44c6-8f8a-d3603fe11505",
+    "user_id": null,
+    "term": "track the shipment",
+    "term_lang": "en",
+    "translation": "śledzić przesyłkę",
+    "translation_lang": "pl",
+    "definition": "to follow a package's status",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You can track the shipment online.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f07e4c96-03be-4c7c-a868-7bde84c8f0b1",
+    "user_id": null,
+    "term": "return policy",
+    "term_lang": "en",
+    "translation": "polityka zwrotów",
+    "translation_lang": "pl",
+    "definition": "rules about giving products back",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please read our return policy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8c929f69-513f-4c6b-853d-2cef2ded271e",
+    "user_id": null,
+    "term": "resolve the issue",
+    "term_lang": "en",
+    "translation": "rozwiązać problem",
+    "translation_lang": "pl",
+    "definition": "to fix a problem",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We aim to resolve the issue today.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b9b42f0c-2e65-4562-b6cc-685056ad313d",
+    "user_id": null,
+    "term": "Thank you for bringing this to our attention.",
+    "term_lang": "en",
+    "translation": "Dziękujemy za zwrócenie na to uwagi.",
+    "translation_lang": "pl",
+    "definition": "a polite closing sentence",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Thank you for bringing this to our attention.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "14_problem-solving-complaints",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  }
+]

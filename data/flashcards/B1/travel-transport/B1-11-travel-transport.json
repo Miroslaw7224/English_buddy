@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "553cd2ee-b5ad-4a29-84e1-15e4553ebb08",
+    "user_id": null,
+    "term": "book a flight",
+    "term_lang": "en",
+    "translation": "zarezerwować lot",
+    "translation_lang": "pl",
+    "definition": "to make a reservation for a plane journey",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We booked a flight to London for next month.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "72956145-9e92-47f2-b6dd-262413f392b3",
+    "user_id": null,
+    "term": "check in",
+    "term_lang": "en",
+    "translation": "odprawić się",
+    "translation_lang": "pl",
+    "definition": "to register at an airport or hotel",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You can check in online 24 hours before departure.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c2dce0cb-a367-45ce-baa1-37e3d839b64a",
+    "user_id": null,
+    "term": "carry-on luggage",
+    "term_lang": "en",
+    "translation": "bagaż podręczny",
+    "translation_lang": "pl",
+    "definition": "small bag you take onto the plane",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Only one piece of carry-on luggage is allowed.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a952dc0b-611e-41cb-ad72-f2a3eaecae43",
+    "user_id": null,
+    "term": "delayed departure",
+    "term_lang": "en",
+    "translation": "opóźniony odlot",
+    "translation_lang": "pl",
+    "definition": "a flight that leaves later than planned",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Our delayed departure ruined the schedule.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "db412863-2eb4-4a33-a2b0-a455a0a02031",
+    "user_id": null,
+    "term": "miss a connection",
+    "term_lang": "en",
+    "translation": "spóźnić się na przesiadkę",
+    "translation_lang": "pl",
+    "definition": "to fail to catch the next flight/train",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We missed our connection in Frankfurt.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0b19bb58-92f6-4d78-aa61-4602d7decbf1",
+    "user_id": null,
+    "term": "get around",
+    "term_lang": "en",
+    "translation": "poruszać się (po mieście)",
+    "translation_lang": "pl",
+    "definition": "to travel in a place",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It's easy to get around by tram here.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5930757a-331b-43f8-9691-a4c03255165f",
+    "user_id": null,
+    "term": "public transport",
+    "term_lang": "en",
+    "translation": "transport publiczny",
+    "translation_lang": "pl",
+    "definition": "buses, trains, trams, etc.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Public transport is cheaper than taxis.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f22e3257-1486-4339-b8e1-60a36fb18f2f",
+    "user_id": null,
+    "term": "peak hours",
+    "term_lang": "en",
+    "translation": "godziny szczytu",
+    "translation_lang": "pl",
+    "definition": "the busiest times of the day",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Avoid travelling during peak hours.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5ef8154b-19a9-4f91-a11c-2dd2a4aae3a5",
+    "user_id": null,
+    "term": "single/return ticket",
+    "term_lang": "en",
+    "translation": "bilet w jedną stronę / w obie strony",
+    "translation_lang": "pl",
+    "definition": "a one-way or round-trip ticket",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A return ticket is often better value.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a9874f69-9300-459d-86cc-0f2176349e18",
+    "user_id": null,
+    "term": "platform",
+    "term_lang": "en",
+    "translation": "peron",
+    "translation_lang": "pl",
+    "definition": "the area to board a train",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The train to Kraków leaves from platform 3.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9e925751-8aaf-45bf-ac40-f5be5ea66b60",
+    "user_id": null,
+    "term": "schedule an itinerary",
+    "term_lang": "en",
+    "translation": "zaplanować plan podróży",
+    "translation_lang": "pl",
+    "definition": "to arrange your travel route and times",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We scheduled an itinerary with three cities.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f0203acf-9870-421e-b7af-ec62e6ff542b",
+    "user_id": null,
+    "term": "rent a car",
+    "term_lang": "en",
+    "translation": "wynająć samochód",
+    "translation_lang": "pl",
+    "definition": "to pay to use a car for a short time",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We rented a car for the weekend.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4fbebe6e-7b20-4985-9485-661cbc5bd38a",
+    "user_id": null,
+    "term": "go through security",
+    "term_lang": "en",
+    "translation": "przejść przez kontrolę bezpieczeństwa",
+    "translation_lang": "pl",
+    "definition": "to be checked before boarding",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We went through security quickly.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "07bb9d82-2839-4195-b61c-6f2ec90bfa3c",
+    "user_id": null,
+    "term": "travel insurance",
+    "term_lang": "en",
+    "translation": "ubezpieczenie podróżne",
+    "translation_lang": "pl",
+    "definition": "a policy that covers travel risks",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Always buy travel insurance for long trips.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "13eb91bd-9e50-415a-a569-c28c9c8c72c2",
+    "user_id": null,
+    "term": "scenic route",
+    "term_lang": "en",
+    "translation": "malownicza trasa",
+    "translation_lang": "pl",
+    "definition": "a way that has beautiful views",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Let's take the scenic route along the coast.",
+        "translation": null
+      }
+    ],
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "category": "11_travel-transport",
+    "deck_id": null,
+    "tags": [
+      "B1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:15:34Z",
+      "last_review_at": "2025-10-06T11:15:34Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:15:34Z",
+    "updated_at": "2025-10-06T11:15:34Z",
+    "deleted_at": null
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "d5c9fe1f-f007-40e5-b64b-3ea2bad22542",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "will",
+    "term_lang": "en",
+    "translation": "(operator przyszły)",
+    "translation_lang": "pl",
+    "definition": "Used for spontaneous decisions or predictions.",
+    "part_of_speech": "auxiliary",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I think it will rain.",
+        "translation": "Myślę, że będzie padać."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:00:00Z",
+      "last_review_at": "2025-10-06T10:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:00:00Z",
+    "updated_at": "2025-10-06T10:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f5f94cf2-d4c7-4a7f-9bad-9d18a2c74d6d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "going to",
+    "term_lang": "en",
+    "translation": "zamierzam/ma zamiar",
+    "translation_lang": "pl",
+    "definition": "Used for plans and intentions.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I am going to visit my aunt.",
+        "translation": "Zamierzam odwiedzić ciocię."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:01:00Z",
+      "last_review_at": "2025-10-06T10:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:01:00Z",
+    "updated_at": "2025-10-06T10:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d0c477da-7b0d-48e5-909b-31017fe860dd",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "plan",
+    "term_lang": "en",
+    "translation": "plan",
+    "translation_lang": "pl",
+    "definition": "An idea about what you will do.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Our plan is to study tonight.",
+        "translation": "Nasz plan to uczyć się dziś wieczorem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:02:00Z",
+      "last_review_at": "2025-10-06T10:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:02:00Z",
+    "updated_at": "2025-10-06T10:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e73a7ad3-a0c1-4927-a9a7-8c9c919d71cb",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "promise",
+    "term_lang": "en",
+    "translation": "obietnica",
+    "translation_lang": "pl",
+    "definition": "A statement that you will do something.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I promise I will call you.",
+        "translation": "Obiecuję, że do ciebie zadzwonię."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:03:00Z",
+      "last_review_at": "2025-10-06T10:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:03:00Z",
+    "updated_at": "2025-10-06T10:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "eca23b01-0276-429d-9341-e9d964a74e46",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "prediction",
+    "term_lang": "en",
+    "translation": "przewidywanie",
+    "translation_lang": "pl",
+    "definition": "A guess about the future.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My prediction is that we will win.",
+        "translation": "Moje przewidywanie: wygramy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:04:00Z",
+      "last_review_at": "2025-10-06T10:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:04:00Z",
+    "updated_at": "2025-10-06T10:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ac76c88d-02d8-496d-b62a-51de4810a2e0",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "tonight",
+    "term_lang": "en",
+    "translation": "dziś wieczorem",
+    "translation_lang": "pl",
+    "definition": "In the evening of this day.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We’re going to cook tonight.",
+        "translation": "Zamierzamy gotować dziś wieczorem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:05:00Z",
+      "last_review_at": "2025-10-06T10:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:05:00Z",
+    "updated_at": "2025-10-06T10:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c2f41809-9362-4970-8d44-01dee51925f6",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "tomorrow morning",
+    "term_lang": "en",
+    "translation": "jutro rano",
+    "translation_lang": "pl",
+    "definition": "In the morning of the next day.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She will leave tomorrow morning.",
+        "translation": "Ona wyjedzie jutro rano."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:06:00Z",
+      "last_review_at": "2025-10-06T10:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:06:00Z",
+    "updated_at": "2025-10-06T10:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7844dedf-9f37-4537-8f59-943cf4d16e51",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "decision",
+    "term_lang": "en",
+    "translation": "decyzja",
+    "translation_lang": "pl",
+    "definition": "A choice that you make.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Okay, I’ll help you. That’s my decision.",
+        "translation": "Dobrze, pomogę ci. To moja decyzja."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:07:00Z",
+      "last_review_at": "2025-10-06T10:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:07:00Z",
+    "updated_at": "2025-10-06T10:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ca0e03eb-487a-4331-88ee-7a9ecbda9389",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "intention",
+    "term_lang": "en",
+    "translation": "zamiar",
+    "translation_lang": "pl",
+    "definition": "A thing that you want to do.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He is going to start a course.",
+        "translation": "On zamierza zacząć kurs."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:08:00Z",
+      "last_review_at": "2025-10-06T10:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:08:00Z",
+    "updated_at": "2025-10-06T10:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ee25d72d-d8b7-43da-85ac-ed1d1bad2581",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "schedule",
+    "term_lang": "en",
+    "translation": "harmonogram",
+    "translation_lang": "pl",
+    "definition": "A plan of times and events.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We are going to follow the schedule.",
+        "translation": "Będziemy trzymać się harmonogramu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:09:00Z",
+      "last_review_at": "2025-10-06T10:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:09:00Z",
+    "updated_at": "2025-10-06T10:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b9e36aba-ac39-4c24-85f3-641c9e4f9bec",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "soon",
+    "term_lang": "en",
+    "translation": "wkrótce",
+    "translation_lang": "pl",
+    "definition": "After a short time.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The bus will arrive soon.",
+        "translation": "Autobus przyjedzie wkrótce."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:10:00Z",
+      "last_review_at": "2025-10-06T10:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:10:00Z",
+    "updated_at": "2025-10-06T10:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9cdea9a3-91fa-442b-8e1b-563abf10a30d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "later",
+    "term_lang": "en",
+    "translation": "później",
+    "translation_lang": "pl",
+    "definition": "After the present time.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I’m going to do it later.",
+        "translation": "Zrobię to później."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:11:00Z",
+      "last_review_at": "2025-10-06T10:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:11:00Z",
+    "updated_at": "2025-10-06T10:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f4714039-f339-4c5f-bc70-56c6145d5bf1",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "maybe",
+    "term_lang": "en",
+    "translation": "może",
+    "translation_lang": "pl",
+    "definition": "Shows that you are not sure.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Maybe I’ll join you.",
+        "translation": "Może dołączę do ciebie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:12:00Z",
+      "last_review_at": "2025-10-06T10:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:12:00Z",
+    "updated_at": "2025-10-06T10:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2dabf004-043e-460d-8465-52fb892fa5b8",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "definitely",
+    "term_lang": "en",
+    "translation": "zdecydowanie/na pewno",
+    "translation_lang": "pl",
+    "definition": "With certainty.",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We will definitely finish it.",
+        "translation": "Na pewno to skończymy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:13:00Z",
+      "last_review_at": "2025-10-06T10:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:13:00Z",
+    "updated_at": "2025-10-06T10:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c4e1a0c8-c9dc-401b-989c-ce96b67ae975",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "arrangement",
+    "term_lang": "en",
+    "translation": "ustalenie/umówienie",
+    "translation_lang": "pl",
+    "definition": "A plan you made with someone.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We are going to meet at six.",
+        "translation": "Jesteśmy umówieni na szóstą."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-02-future-will-goingto",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:14:00Z",
+      "last_review_at": "2025-10-06T10:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:14:00Z",
+    "updated_at": "2025-10-06T10:14:00Z",
+    "deleted_at": null
+  }
+]

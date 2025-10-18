@@ -1,0 +1,869 @@
+{
+  "pack_id": "b1_05_rev1_review_extra",
+  "title": "B1 05 Rev1 Review — Extra",
+  "level": "B1",
+  "shuffle": true,
+  "mode": "quiz",
+  "cards": [
+    {
+      "id": "3c6f235e-c037-4310-aaeb-e33f14adca36",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "apply for a job",
+      "back": "ubiegać się o pracę",
+      "hint": "Send an application.",
+      "examples": [
+        [
+          "I want to apply for a job.",
+          "Chcę ubiegać się o pracę."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'apply for a job'?",
+            "options": [
+              "ubiegać się o pracę",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'ubiegać się o pracę'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "529d7982-54f1-4257-bf61-bddc07f78b26",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "work remotely",
+      "back": "pracować zdalnie",
+      "hint": "Work from home.",
+      "examples": [
+        [
+          "I work remotely twice a week.",
+          "Pracuję zdalnie dwa razy w tygodniu."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'work remotely'?",
+            "options": [
+              "pracować zdalnie",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'pracować zdalnie'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "d2d367ce-859f-4a47-af24-5e4922fc3eab",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "meet a deadline",
+      "back": "dotrzymać terminu",
+      "hint": "Finish by a due date.",
+      "examples": [
+        [
+          "We must meet the deadline.",
+          "Musimy dotrzymać terminu."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'meet a deadline'?",
+            "options": [
+              "tak",
+              "dotrzymać terminu",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'dotrzymać terminu'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7cc71338-c664-434a-9d87-a413b1a72154",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "make an appointment",
+      "back": "umówić wizytę",
+      "hint": "Arrange a meeting/visit.",
+      "examples": [
+        [
+          "I need to make an appointment.",
+          "Muszę umówić wizytę."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'make an appointment'?",
+            "options": [
+              "tak",
+              "umówić wizytę",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'umówić wizytę'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "6bb67025-df59-464f-b469-1364ac2c2597",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "give a presentation",
+      "back": "wygłosić prezentację",
+      "hint": "Speak to an audience.",
+      "examples": [
+        [
+          "She will give a presentation.",
+          "Ona wygłosi prezentację."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'give a presentation'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "wygłosić prezentację",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wygłosić prezentację'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "768a3626-0a25-44e6-a09c-913a68eba5fa",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "take a break",
+      "back": "zrobić przerwę",
+      "hint": "Stop for rest.",
+      "examples": [
+        [
+          "Let's take a break.",
+          "Zróbmy przerwę."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'take a break'?",
+            "options": [
+              "zrobić przerwę",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'zrobić przerwę'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "70dea21a-2d8b-45ed-8b37-14922a1a4b35",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "solve a problem",
+      "back": "rozwiązać problem",
+      "hint": "Find a solution.",
+      "examples": [
+        [
+          "We solved the problem.",
+          "Rozwiązaliśmy problem."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'solve a problem'?",
+            "options": [
+              "tak",
+              "rozwiązać problem",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'rozwiązać problem'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3c7d7467-a09a-4c56-b4e7-249314e19683",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "save money",
+      "back": "oszczędzać pieniądze",
+      "hint": "Keep money for later.",
+      "examples": [
+        [
+          "I try to save money.",
+          "Staram się oszczędzać pieniądze."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'save money'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "oszczędzać pieniądze"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'oszczędzać pieniądze'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "879d9dcc-8888-4c90-8aaa-a119ccdec3cb",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "make a decision",
+      "back": "podjąć decyzję",
+      "hint": "Choose after thinking.",
+      "examples": [
+        [
+          "They made a decision.",
+          "Podjęli decyzję."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'make a decision'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "podjąć decyzję",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'podjąć decyzję'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fb2d5a82-70e3-45d0-84d0-3369e4a9cfea",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "raise an issue",
+      "back": "poruszyć kwestię",
+      "hint": "Bring up a topic.",
+      "examples": [
+        [
+          "He raised an issue in the meeting.",
+          "Poruszył kwestię na spotkaniu."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'raise an issue'?",
+            "options": [
+              "poruszyć kwestię",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'poruszyć kwestię'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "d0c7f1fd-0905-46b4-9aed-9404e724a0a8",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "cancel a booking",
+      "back": "odwołać rezerwację",
+      "hint": "Call off a reservation.",
+      "examples": [
+        [
+          "We need to cancel our booking.",
+          "Musimy odwołać rezerwację."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'cancel a booking'?",
+            "options": [
+              "odwołać rezerwację",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'odwołać rezerwację'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2b125d8b-f402-41c1-9ed0-9dd292e1229c",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "give feedback",
+      "back": "udzielić informacji zwrotnej",
+      "hint": "Comment on performance.",
+      "examples": [
+        [
+          "Please give feedback.",
+          "Proszę o informację zwrotną."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'give feedback'?",
+            "options": [
+              "udzielić informacji zwrotnej",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'udzielić informacji zwrotnej'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8dbc27a5-4843-4a0d-840a-15c8df16cb0f",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "set a goal",
+      "back": "wyznaczyć cel",
+      "hint": "Decide an aim.",
+      "examples": [
+        [
+          "Set a clear goal.",
+          "Wyznacz jasny cel."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'set a goal'?",
+            "options": [
+              "wyznaczyć cel",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'wyznaczyć cel'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "d19ecc03-defc-4603-87cf-5b7e228e0ce9",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "keep in touch",
+      "back": "utrzymywać kontakt",
+      "hint": "Stay in contact.",
+      "examples": [
+        [
+          "Let's keep in touch.",
+          "Pozostańmy w kontakcie."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "phrase",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'keep in touch'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "utrzymywać kontakt",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'utrzymywać kontakt'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "900182ad-8285-4a11-98fc-01a96758a518",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "look forward to",
+      "back": "nie móc się doczekać",
+      "hint": "Anticipate with pleasure.",
+      "examples": [
+        [
+          "I look forward to your reply.",
+          "Nie mogę się doczekać Twojej odpowiedzi."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'look forward to'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "samochód",
+              "nie móc się doczekać"
+            ],
+            "answer_index": 3,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'nie móc się doczekać'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "d082907c-305f-4788-9bc1-cc50e4123272",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "run out of",
+      "back": "skończyć się",
+      "hint": "Have no more left.",
+      "examples": [
+        [
+          "We ran out of milk.",
+          "Skończyło nam się mleko."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'run out of'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "skończyć się",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'skończyć się'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "8fe0adda-4ba4-4b68-963a-f052bc086eef",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "turn on",
+      "back": "włączyć",
+      "hint": "Start a device.",
+      "examples": [
+        [
+          "Turn on the TV.",
+          "Włącz telewizor."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'turn on'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "włączyć",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'włączyć'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30a523ef-bcd9-442e-bc96-2b08dc3e9926",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "pick up",
+      "back": "odebrać/podnieść",
+      "hint": "Collect or lift.",
+      "examples": [
+        [
+          "I'll pick up the package.",
+          "Odbiorę paczkę."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'pick up'?",
+            "options": [
+              "tak",
+              "odebrać/podnieść",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 1,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'odebrać/podnieść'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "79e7d556-1bd1-4d8b-8171-3e09530ce743",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "put off",
+      "back": "odłożyć, przełożyć",
+      "hint": "Postpone.",
+      "examples": [
+        [
+          "Don't put it off.",
+          "Nie odkładaj tego."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'put off'?",
+            "options": [
+              "tak",
+              "kolacja",
+              "odłożyć, przełożyć",
+              "samochód"
+            ],
+            "answer_index": 2,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'odłożyć, przełożyć'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fd531ac3-d84e-415d-8635-27fc60146e60",
+      "level": "B1",
+      "difficulty": "intermediate",
+      "topic": "B1 05 Rev1 Review",
+      "front": "look after",
+      "back": "opiekować się",
+      "hint": "Take care of.",
+      "examples": [
+        [
+          "She looks after her brother.",
+          "Ona opiekuje się bratem."
+        ]
+      ],
+      "tags": [
+        "b1",
+        "extra"
+      ],
+      "pos": "phrasal-verb",
+      "audio_url": null,
+      "validation": {
+        "source": "contextual",
+        "verified": true,
+        "notes": "Added extra card."
+      },
+      "quiz": {
+        "tasks": [
+          {
+            "type": "multiple_choice",
+            "prompt": "What is the Polish meaning of 'look after'?",
+            "options": [
+              "opiekować się",
+              "tak",
+              "kolacja",
+              "samochód"
+            ],
+            "answer_index": 0,
+            "feedback_correct": "Correct!",
+            "feedback_incorrect": "Not quite. The correct answer is 'opiekować się'."
+          }
+        ]
+      }
+    }
+  ]
+}

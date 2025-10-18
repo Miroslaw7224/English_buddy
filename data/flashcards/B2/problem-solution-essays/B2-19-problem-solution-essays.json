@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "2a6d076b-a5b6-4b83-aeac-c2410769da4d",
+    "user_id": null,
+    "term": "it is widely acknowledged that...",
+    "term_lang": "en",
+    "translation": "powszechnie wiadomo, że...",
+    "translation_lang": "pl",
+    "definition": "formal opening for stating a problem",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It is widely acknowledged that cities face congestion.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c8d500b1-d6b2-43bc-906e-056c86f712f5",
+    "user_id": null,
+    "term": "one major cause is...",
+    "term_lang": "en",
+    "translation": "główną przyczyną jest...",
+    "translation_lang": "pl",
+    "definition": "introducing a cause",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "One major cause is poor public transport.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4ecbf09d-06ea-4ccc-8cb5-c359235751cc",
+    "user_id": null,
+    "term": "this stems from...",
+    "term_lang": "en",
+    "translation": "to wynika z...",
+    "translation_lang": "pl",
+    "definition": "explaining origin of a problem",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This stems from years of underinvestment.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e2581fa2-4041-4079-b322-aea710cb5284",
+    "user_id": null,
+    "term": "a feasible remedy would be...",
+    "term_lang": "en",
+    "translation": "wykonalnym rozwiązaniem byłoby...",
+    "translation_lang": "pl",
+    "definition": "presenting a practical solution",
+    "part_of_speech": "sentence",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A feasible remedy would be carpool lanes.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "84c76fda-d84d-46c4-b76e-1d3315291e3c",
+    "user_id": null,
+    "term": "to mitigate",
+    "term_lang": "en",
+    "translation": "złagodzić",
+    "translation_lang": "pl",
+    "definition": "to make something less harmful",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We can mitigate noise with barriers.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4ac50e6f-c811-449a-8d6c-54e7f6b7a1e9",
+    "user_id": null,
+    "term": "to exacerbate",
+    "term_lang": "en",
+    "translation": "pogarszać",
+    "translation_lang": "pl",
+    "definition": "to make something worse",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "New roads may exacerbate traffic.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "db5d5230-1602-4c9a-ac09-254bb00c339b",
+    "user_id": null,
+    "term": "short-term vs long-term",
+    "term_lang": "en",
+    "translation": "krótkoterminowy vs długoterminowy",
+    "translation_lang": "pl",
+    "definition": "contrasting time horizons",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Short-term fixes rarely solve long-term issues.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8e7592b6-d03f-486e-ab41-f02986aee6d3",
+    "user_id": null,
+    "term": "stakeholders",
+    "term_lang": "en",
+    "translation": "interesariusze",
+    "translation_lang": "pl",
+    "definition": "people affected by or involved in a decision",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Stakeholders must be consulted early.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "98301d32-8c87-4a44-94fa-ddc433298764",
+    "user_id": null,
+    "term": "cost–benefit analysis",
+    "term_lang": "en",
+    "translation": "analiza kosztów i korzyści",
+    "translation_lang": "pl",
+    "definition": "comparing advantages and disadvantages financially",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "A cost–benefit analysis supports the plan.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "46a70db9-e7a7-401b-9384-b9f6f5fbb3c0",
+    "user_id": null,
+    "term": "implement",
+    "term_lang": "en",
+    "translation": "wdrożyć",
+    "translation_lang": "pl",
+    "definition": "to put a solution into effect",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We implemented a pilot scheme.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cc64486c-59df-48ad-8fdd-b8f256bb2a02",
+    "user_id": null,
+    "term": "pilot scheme",
+    "term_lang": "en",
+    "translation": "program pilotażowy",
+    "translation_lang": "pl",
+    "definition": "small-scale test of a solution",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The pilot scheme ran for six months.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8942caaf-e49a-4f45-9e4a-bb783b480fee",
+    "user_id": null,
+    "term": "unintended consequences",
+    "term_lang": "en",
+    "translation": "niezamierzone konsekwencje",
+    "translation_lang": "pl",
+    "definition": "results that were not planned",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There were unintended consequences of the policy.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "66eee114-0bfe-4296-b78a-7ee3e4963fbd",
+    "user_id": null,
+    "term": "measurable outcomes",
+    "term_lang": "en",
+    "translation": "mierzalne wyniki",
+    "translation_lang": "pl",
+    "definition": "results that can be quantified",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Define measurable outcomes before starting.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "84e1d2ac-c3ec-4460-a4fc-c6edbb922b4f",
+    "user_id": null,
+    "term": "scalable",
+    "term_lang": "en",
+    "translation": "skalowalny",
+    "translation_lang": "pl",
+    "definition": "able to grow effectively",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The solution is scalable to other cities.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4a1457bb-28b0-4b3b-b522-9a5cb5702c22",
+    "user_id": null,
+    "term": "in conclusion, ...",
+    "term_lang": "en",
+    "translation": "podsumowując, ...",
+    "translation_lang": "pl",
+    "definition": "signal phrase for final summary",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "In conclusion, a mix of measures is required.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "problem-solution-essays",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:35:28Z",
+      "last_review_at": "2025-10-06T11:35:28Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:35:28Z",
+    "updated_at": "2025-10-06T11:35:28Z",
+    "deleted_at": null
+  }
+]

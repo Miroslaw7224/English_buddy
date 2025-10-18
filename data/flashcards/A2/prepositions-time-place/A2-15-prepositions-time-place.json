@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "02a6b571-4c34-42c3-a0bb-ba7460283ded",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "in (months/years)",
+    "term_lang": "en",
+    "translation": "w (miesiącach/latach)",
+    "translation_lang": "pl",
+    "definition": "Used with months/years/parts of the day (except night).",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We meet in July / in 2026.",
+        "translation": "Spotykamy się w lipcu / w 2026 roku."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:00:00Z",
+      "last_review_at": "2025-10-06T11:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:00:00Z",
+    "updated_at": "2025-10-06T11:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "93dc1824-e8b1-4ea5-8a48-ffb1ace90da3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "on (days/dates)",
+    "term_lang": "en",
+    "translation": "w (dni/data)",
+    "translation_lang": "pl",
+    "definition": "Used with days and dates.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The exam is on Monday / on 5 May.",
+        "translation": "Egzamin jest w poniedziałek / 5 maja."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:01:00Z",
+      "last_review_at": "2025-10-06T11:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:01:00Z",
+    "updated_at": "2025-10-06T11:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6b444273-0b31-418a-8fad-040161ae6a13",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "at (clock times)",
+    "term_lang": "en",
+    "translation": "o (godzinach)",
+    "translation_lang": "pl",
+    "definition": "Used with exact times and night.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The train leaves at 7:30.",
+        "translation": "Pociąg odjeżdża o 7:30."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:02:00Z",
+      "last_review_at": "2025-10-06T11:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:02:00Z",
+    "updated_at": "2025-10-06T11:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4e0ea3a3-288f-4911-adb0-498ce96a4ccf",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "during",
+    "term_lang": "en",
+    "translation": "podczas",
+    "translation_lang": "pl",
+    "definition": "At some time in a period.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "No phones during the lesson.",
+        "translation": "Zakaz telefonów podczas lekcji."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:03:00Z",
+      "last_review_at": "2025-10-06T11:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:03:00Z",
+    "updated_at": "2025-10-06T11:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "27ad5022-6e29-450a-9b99-38a69f63f3f4",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "until / till",
+    "term_lang": "en",
+    "translation": "do (czasu)",
+    "translation_lang": "pl",
+    "definition": "Up to a time; not after.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I will wait until six.",
+        "translation": "Poczekam do szóstej."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:04:00Z",
+      "last_review_at": "2025-10-06T11:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:04:00Z",
+    "updated_at": "2025-10-06T11:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dfc5ad67-4f49-41f1-a90d-620d7802d9d0",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "by (deadline)",
+    "term_lang": "en",
+    "translation": "do (najpóźniej)",
+    "translation_lang": "pl",
+    "definition": "No later than a time.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Finish this by Friday.",
+        "translation": "Skończ to najpóźniej do piątku."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:05:00Z",
+      "last_review_at": "2025-10-06T11:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:05:00Z",
+    "updated_at": "2025-10-06T11:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e99c3daa-8e03-43ac-8b6c-85e416ae4d4e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "from … to …",
+    "term_lang": "en",
+    "translation": "od … do …",
+    "translation_lang": "pl",
+    "definition": "Start time/place to end time/place.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Open from 9 to 5.",
+        "translation": "Otwarte od 9 do 17."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:06:00Z",
+      "last_review_at": "2025-10-06T11:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:06:00Z",
+    "updated_at": "2025-10-06T11:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "345438c7-ae4b-4e14-b413-065517fd3903",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "between",
+    "term_lang": "en",
+    "translation": "pomiędzy",
+    "translation_lang": "pl",
+    "definition": "In the space separating two things/times.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The café is between two shops.",
+        "translation": "Kawiarnia jest między dwoma sklepami."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:07:00Z",
+      "last_review_at": "2025-10-06T11:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:07:00Z",
+    "updated_at": "2025-10-06T11:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f8d96b4b-8ed9-43f6-8564-5b493728f801",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "among",
+    "term_lang": "en",
+    "translation": "wśród",
+    "translation_lang": "pl",
+    "definition": "In the middle of many.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He feels happy among friends.",
+        "translation": "On czuje się szczęśliwy wśród przyjaciół."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:08:00Z",
+      "last_review_at": "2025-10-06T11:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:08:00Z",
+    "updated_at": "2025-10-06T11:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d860be5a-c4f3-4a22-aee4-22f7daf62686",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "next to",
+    "term_lang": "en",
+    "translation": "obok",
+    "translation_lang": "pl",
+    "definition": "Very close to; beside.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Sit next to me, please.",
+        "translation": "Usiądź obok mnie, proszę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:09:00Z",
+      "last_review_at": "2025-10-06T11:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:09:00Z",
+    "updated_at": "2025-10-06T11:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "523a42f1-6d5e-497e-837b-3644270cd788",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "opposite",
+    "term_lang": "en",
+    "translation": "naprzeciwko",
+    "translation_lang": "pl",
+    "definition": "On the other side of.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The bank is opposite the park.",
+        "translation": "Bank jest naprzeciwko parku."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:10:00Z",
+      "last_review_at": "2025-10-06T11:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:10:00Z",
+    "updated_at": "2025-10-06T11:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4cca8baa-14cc-4ae5-802f-aa83c78a07d1",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "behind",
+    "term_lang": "en",
+    "translation": "za",
+    "translation_lang": "pl",
+    "definition": "At the back of.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The car is behind the house.",
+        "translation": "Samochód jest za domem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:11:00Z",
+      "last_review_at": "2025-10-06T11:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:11:00Z",
+    "updated_at": "2025-10-06T11:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "34db5e87-95a4-449a-9d0e-d911ce2308dc",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "in front of",
+    "term_lang": "en",
+    "translation": "przed",
+    "translation_lang": "pl",
+    "definition": "At the front of.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Wait in front of the station.",
+        "translation": "Czekaj przed dworcem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:12:00Z",
+      "last_review_at": "2025-10-06T11:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:12:00Z",
+    "updated_at": "2025-10-06T11:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a700d9e1-5a13-4694-9aa1-0431c1ba6340",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "over / under",
+    "term_lang": "en",
+    "translation": "nad / pod",
+    "translation_lang": "pl",
+    "definition": "Higher than / lower than.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The lamp is over the table; the cat is under it.",
+        "translation": "Lampa jest nad stołem; kot jest pod nim."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:13:00Z",
+      "last_review_at": "2025-10-06T11:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:13:00Z",
+    "updated_at": "2025-10-06T11:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a90107be-f884-40ff-b9d7-07be5ea8e1e9",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "near / far from",
+    "term_lang": "en",
+    "translation": "blisko / daleko od",
+    "translation_lang": "pl",
+    "definition": "Short/long distance from.",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The school is near my home, not far from it.",
+        "translation": "Szkoła jest blisko mojego domu, niedaleko od niego."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-15-prepositions-time-place",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:14:00Z",
+      "last_review_at": "2025-10-06T11:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:14:00Z",
+    "updated_at": "2025-10-06T11:14:00Z",
+    "deleted_at": null
+  }
+]

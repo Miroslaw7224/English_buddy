@@ -1,0 +1,677 @@
+[
+  {
+    "word_id": "7b9179ce-de22-4fcf-8cf9-460a0f0a8d78",
+    "user_id": null,
+    "term": "nonetheless",
+    "term_lang": "en",
+    "translation": "niemniej jednak",
+    "translation_lang": "pl",
+    "definition": "despite what has just been said",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The method is costly; nonetheless, it delivers results.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7dd09a1b-d208-493d-8a9e-b9b6976ca8b5",
+    "user_id": null,
+    "term": "notwithstanding",
+    "term_lang": "en",
+    "translation": "niezależnie od / pomimo",
+    "translation_lang": "pl",
+    "definition": "in spite of",
+    "part_of_speech": "preposition",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Notwithstanding the risks, the board approved the plan.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7acfe65c-697b-4eb4-9068-170a6f008623",
+    "user_id": null,
+    "term": "consequently",
+    "term_lang": "en",
+    "translation": "w konsekwencji",
+    "translation_lang": "pl",
+    "definition": "as a result",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The team lacked data; consequently, they delayed release.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "dd74101f-5836-4c0e-bf84-eef565cc4563",
+    "user_id": null,
+    "term": "thereby",
+    "term_lang": "en",
+    "translation": "tym samym",
+    "translation_lang": "pl",
+    "definition": "by that means; as a result of that",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He simplified the code, thereby reducing bugs.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "15789e2b-95e0-48dc-970f-8fa32b99a8e8",
+    "user_id": null,
+    "term": "hence",
+    "term_lang": "en",
+    "translation": "stąd / dlatego",
+    "translation_lang": "pl",
+    "definition": "for this reason",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We lack evidence, hence the cautious tone.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b12cc01a-29ed-42f6-a797-9259f00c4cba",
+    "user_id": null,
+    "term": "register shift",
+    "term_lang": "en",
+    "translation": "zmiana rejestru",
+    "translation_lang": "pl",
+    "definition": "adjusting formality to context",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Switch to a formal register when addressing clients.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a5290e82-a1af-40e0-ba75-20b1c2bfb88f",
+    "user_id": null,
+    "term": "concise",
+    "term_lang": "en",
+    "translation": "zwięzły",
+    "translation_lang": "pl",
+    "definition": "expressed in few words, without loss of meaning",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Keep the email concise and to the point.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1f2fab95-20bb-46f0-af10-fe6506844997",
+    "user_id": null,
+    "term": "circumlocution",
+    "term_lang": "en",
+    "translation": "omówienie (około mówienie)",
+    "translation_lang": "pl",
+    "definition": "talking around a subject",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Avoid circumlocution in reports.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d75663fe-cd90-4f89-a5ff-0167a38c28a5",
+    "user_id": null,
+    "term": "euphemism",
+    "term_lang": "en",
+    "translation": "eufemizm",
+    "translation_lang": "pl",
+    "definition": "mild word replacing a harsh one",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He was laid off—a corporate euphemism for fired.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c3285e34-1eff-40b3-9bfa-1e98a23937e0",
+    "user_id": null,
+    "term": "jargon",
+    "term_lang": "en",
+    "translation": "żargon",
+    "translation_lang": "pl",
+    "definition": "specialised language of a group",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Limit technical jargon in customer messages.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "098f2f58-eead-49d2-9559-9019d23f8d62",
+    "user_id": null,
+    "term": "arguably",
+    "term_lang": "en",
+    "translation": "można argumentować, że",
+    "translation_lang": "pl",
+    "definition": "used to present a debatable claim",
+    "part_of_speech": "adverb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Arguably, the policy benefits small firms most.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e00c959a-6a5e-44c0-8611-74ea7545d5e1",
+    "user_id": null,
+    "term": "to some extent",
+    "term_lang": "en",
+    "translation": "do pewnego stopnia",
+    "translation_lang": "pl",
+    "definition": "limits agreement",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "To some extent, the data support the hypothesis.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "21f11646-1b13-417e-ad15-b4a3191151d7",
+    "user_id": null,
+    "term": "appears to",
+    "term_lang": "en",
+    "translation": "wydaje się, że",
+    "translation_lang": "pl",
+    "definition": "suggests without asserting strongly",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It appears to correlate with age.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "623b4b58-c27c-4f36-9e17-07c5103aa373",
+    "user_id": null,
+    "term": "tends to",
+    "term_lang": "en",
+    "translation": "ma tendencję do",
+    "translation_lang": "pl",
+    "definition": "describes a general tendency",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The system tends to overfit on small data.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "726cf2f6-f685-40ad-ae38-e912e382bb4f",
+    "user_id": null,
+    "term": "is likely to",
+    "term_lang": "en",
+    "translation": "prawdopodobnie",
+    "translation_lang": "pl",
+    "definition": "probability hedging",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Demand is likely to increase next quarter.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "rev-c1-1",
+    "deck_id": null,
+    "tags": [
+      "C1",
+      "REV"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  }
+]

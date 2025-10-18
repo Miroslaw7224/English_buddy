@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "43b0dbf2-739c-4409-a883-d24282ae0bb6",
+    "user_id": null,
+    "term": "carry out",
+    "term_lang": "en",
+    "translation": "przeprowadzić (np. badania)",
+    "translation_lang": "pl",
+    "definition": "to do or complete a task",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The team carried out a detailed survey.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bf0b0f38-60f1-4289-aa04-c5d800e5422a",
+    "user_id": null,
+    "term": "come across",
+    "term_lang": "en",
+    "translation": "natknąć się na",
+    "translation_lang": "pl",
+    "definition": "to find by chance",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I came across an interesting article.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a0fb6054-554a-4077-9aff-dc13fcd4c88f",
+    "user_id": null,
+    "term": "put up with",
+    "term_lang": "en",
+    "translation": "znosić, tolerować",
+    "translation_lang": "pl",
+    "definition": "to accept something unpleasant",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She won't put up with constant delays.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "984ccefe-d91d-4ff5-82ca-37cc321d6952",
+    "user_id": null,
+    "term": "let down",
+    "term_lang": "en",
+    "translation": "zawieść",
+    "translation_lang": "pl",
+    "definition": "to disappoint someone",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I'm sorry I let you down.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2a24a608-f44a-4e9f-8af8-d84dbcc7f97d",
+    "user_id": null,
+    "term": "figure out",
+    "term_lang": "en",
+    "translation": "rozgryźć, zrozumieć",
+    "translation_lang": "pl",
+    "definition": "to understand or solve",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We finally figured out the cause of the bug.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ad6c2569-8d38-4186-bd15-9a10975ff249",
+    "user_id": null,
+    "term": "make up for",
+    "term_lang": "en",
+    "translation": "wynagrodzić, zrekompensować",
+    "translation_lang": "pl",
+    "definition": "to compensate for something bad",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They made up for the delay with a discount.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f739d7bd-9191-4d71-9fbb-970c3d783466",
+    "user_id": null,
+    "term": "run into",
+    "term_lang": "en",
+    "translation": "wpaść na kogoś/coś",
+    "translation_lang": "pl",
+    "definition": "to meet unexpectedly or encounter a problem",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We ran into traffic on the way.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "63873fb1-e41a-4def-918d-44fd5d071008",
+    "user_id": null,
+    "term": "turn down",
+    "term_lang": "en",
+    "translation": "odrzucić (ofertę)",
+    "translation_lang": "pl",
+    "definition": "to refuse or reject",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He turned down the job offer.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e8afa072-c1e4-4173-82ec-2e18ab1dbd10",
+    "user_id": null,
+    "term": "bring up",
+    "term_lang": "en",
+    "translation": "poruszyć temat / wychować",
+    "translation_lang": "pl",
+    "definition": "to start discussing a topic; to raise a child",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She brought up the question of costs.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "99349d5c-0198-4279-a478-95e51b9bf973",
+    "user_id": null,
+    "term": "catch up (with)",
+    "term_lang": "en",
+    "translation": "nadrobić / dogonić",
+    "translation_lang": "pl",
+    "definition": "to reach the same level or get up to date",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Let's meet to catch up with the news.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2e93dcbf-df64-471e-a1c6-a29c20dc0a7a",
+    "user_id": null,
+    "term": "come up with",
+    "term_lang": "en",
+    "translation": "wymyślić, zaproponować",
+    "translation_lang": "pl",
+    "definition": "to think of an idea or solution",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He came up with a smart workaround.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8abab8a2-a2bb-4cc8-9233-a9ba1bdadc7f",
+    "user_id": null,
+    "term": "fall apart",
+    "term_lang": "en",
+    "translation": "rozpaść się",
+    "translation_lang": "pl",
+    "definition": "to break into pieces; fail completely",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The plan fell apart after the budget cuts.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4960ee88-568f-47f5-bc7a-38f8e567cdab",
+    "user_id": null,
+    "term": "get rid of",
+    "term_lang": "en",
+    "translation": "pozbyć się",
+    "translation_lang": "pl",
+    "definition": "to remove or throw away",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We need to get rid of old files.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3c261194-bee2-4f6b-983a-428ca366edc6",
+    "user_id": null,
+    "term": "go over",
+    "term_lang": "en",
+    "translation": "przejrzeć, omówić",
+    "translation_lang": "pl",
+    "definition": "to review or examine",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Let's go over the timeline once more.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e76943f4-1777-4beb-b901-130390a81e9b",
+    "user_id": null,
+    "term": "look into",
+    "term_lang": "en",
+    "translation": "zbadać, przyjrzeć się",
+    "translation_lang": "pl",
+    "definition": "to investigate",
+    "part_of_speech": "phrasal_verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "They will look into the complaint.",
+        "translation": null
+      }
+    ],
+    "difficulty": "upper-intermediate",
+    "cefr": "B2",
+    "category": "phrasal-verbs-2",
+    "deck_id": null,
+    "tags": [
+      "B2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T11:23:16Z",
+      "last_review_at": "2025-10-06T11:23:16Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T11:23:16Z",
+    "updated_at": "2025-10-06T11:23:16Z",
+    "deleted_at": null
+  }
+]

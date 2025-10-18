@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "c9a22823-0868-4695-bf1f-9fb194cd6291",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "prefer",
+    "term_lang": "en",
+    "translation": "woleć",
+    "translation_lang": "pl",
+    "definition": "To like one thing more than another.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I prefer tea to coffee.",
+        "translation": "Wolę herbatę od kawy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:30:00Z",
+      "last_review_at": "2025-10-06T10:30:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:30:00Z",
+    "updated_at": "2025-10-06T10:30:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7b1285a6-02e9-4356-83b4-7ab2cfdf0765",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "would like",
+    "term_lang": "en",
+    "translation": "chciałbym/chciałabym",
+    "translation_lang": "pl",
+    "definition": "A polite way to say what you want.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I would like a ticket, please.",
+        "translation": "Chciałbym bilet, proszę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:31:00Z",
+      "last_review_at": "2025-10-06T10:31:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:31:00Z",
+    "updated_at": "2025-10-06T10:31:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9000a6a5-f4b7-40da-84d6-00272bce867d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "interested in",
+    "term_lang": "en",
+    "translation": "zainteresowany czymś",
+    "translation_lang": "pl",
+    "definition": "Finding something enjoyable or exciting.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She is interested in art.",
+        "translation": "Ona interesuje się sztuką."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:32:00Z",
+      "last_review_at": "2025-10-06T10:32:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:32:00Z",
+    "updated_at": "2025-10-06T10:32:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "17a6c57a-60eb-460b-8d8a-999a7b2d94dd",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "boring/interesting",
+    "term_lang": "en",
+    "translation": "nudny/interesujący",
+    "translation_lang": "pl",
+    "definition": "Not exciting/holding attention.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The film was boring but the book was interesting.",
+        "translation": "Film był nudny, ale książka była interesująca."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:33:00Z",
+      "last_review_at": "2025-10-06T10:33:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:33:00Z",
+    "updated_at": "2025-10-06T10:33:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0d5a6d7a-0855-43d3-88b1-d06aefc45df4",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "series/show",
+    "term_lang": "en",
+    "translation": "serial/program",
+    "translation_lang": "pl",
+    "definition": "A TV program with episodes.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We watch a new series.",
+        "translation": "Oglądamy nowy serial."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:34:00Z",
+      "last_review_at": "2025-10-06T10:34:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:34:00Z",
+    "updated_at": "2025-10-06T10:34:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3c9ee5c2-b828-43d0-9807-573543ea95d3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "episode",
+    "term_lang": "en",
+    "translation": "odcinek",
+    "translation_lang": "pl",
+    "definition": "One part of a series.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I missed the last episode.",
+        "translation": "Przegapiłem ostatni odcinek."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:35:00Z",
+      "last_review_at": "2025-10-06T10:35:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:35:00Z",
+    "updated_at": "2025-10-06T10:35:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f2511cee-4300-474d-8dc8-bd472bf5ec7e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "news",
+    "term_lang": "en",
+    "translation": "wiadomości",
+    "translation_lang": "pl",
+    "definition": "Information about recent events.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I read the news online.",
+        "translation": "Czytam wiadomości w internecie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:36:00Z",
+      "last_review_at": "2025-10-06T10:36:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:36:00Z",
+    "updated_at": "2025-10-06T10:36:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a2fc5476-d62b-4403-b990-a5cd4684d922",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "hobby",
+    "term_lang": "en",
+    "translation": "hobby/zainteresowanie",
+    "translation_lang": "pl",
+    "definition": "An activity you do for fun.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My hobby is photography.",
+        "translation": "Moje hobby to fotografia."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:37:00Z",
+      "last_review_at": "2025-10-06T10:37:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:37:00Z",
+    "updated_at": "2025-10-06T10:37:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f5e0d5d3-c2d3-4a52-a188-a8047227e0fa",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "join",
+    "term_lang": "en",
+    "translation": "dołączyć",
+    "translation_lang": "pl",
+    "definition": "To become part of a group/activity.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Would you like to join us?",
+        "translation": "Chciałbyś do nas dołączyć?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:38:00Z",
+      "last_review_at": "2025-10-06T10:38:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:38:00Z",
+    "updated_at": "2025-10-06T10:38:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4007910b-a3e1-4ef7-b707-af992d8601ba",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "invite",
+    "term_lang": "en",
+    "translation": "zaprosić",
+    "translation_lang": "pl",
+    "definition": "To ask someone to come.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We invited friends to a movie night.",
+        "translation": "Zaprosiliśmy znajomych na wieczór filmowy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:39:00Z",
+      "last_review_at": "2025-10-06T10:39:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:39:00Z",
+    "updated_at": "2025-10-06T10:39:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a149bdd8-655d-4a88-82d3-3759a21ad7c2",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "attend a concert",
+    "term_lang": "en",
+    "translation": "uczestniczyć w koncercie",
+    "translation_lang": "pl",
+    "definition": "To go to a live music show.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We attended a concert on Saturday.",
+        "translation": "Byliśmy na koncercie w sobotę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:40:00Z",
+      "last_review_at": "2025-10-06T10:40:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:40:00Z",
+    "updated_at": "2025-10-06T10:40:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d72897dd-5a6d-49a5-99a3-5e1d93758df7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "recommend",
+    "term_lang": "en",
+    "translation": "polecić",
+    "translation_lang": "pl",
+    "definition": "To say something is good.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Can you recommend a good film?",
+        "translation": "Czy możesz polecić dobry film?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:41:00Z",
+      "last_review_at": "2025-10-06T10:41:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:41:00Z",
+    "updated_at": "2025-10-06T10:41:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d7ebb5e2-0601-4d1f-93de-565eae3d8ae6",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "ticket",
+    "term_lang": "en",
+    "translation": "bilet",
+    "translation_lang": "pl",
+    "definition": "A paper or code that lets you enter.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I bought tickets online.",
+        "translation": "Kupiłem bilety online."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:42:00Z",
+      "last_review_at": "2025-10-06T10:42:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:42:00Z",
+    "updated_at": "2025-10-06T10:42:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6fe6a04a-a1c0-4586-91cb-0675c19aa510",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "queue/line",
+    "term_lang": "en",
+    "translation": "kolejka",
+    "translation_lang": "pl",
+    "definition": "People standing and waiting.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We waited in a long queue.",
+        "translation": "Czekaliśmy w długiej kolejce."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:43:00Z",
+      "last_review_at": "2025-10-06T10:43:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:43:00Z",
+    "updated_at": "2025-10-06T10:43:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "46785aa1-a2f3-49f9-93fd-dcfb80dd799a",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "free time",
+    "term_lang": "en",
+    "translation": "czas wolny",
+    "translation_lang": "pl",
+    "definition": "Time when you are not working or studying.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "In my free time, I read.",
+        "translation": "W wolnym czasie czytam."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-08-hobbies-media",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:44:00Z",
+      "last_review_at": "2025-10-06T10:44:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:44:00Z",
+    "updated_at": "2025-10-06T10:44:00Z",
+    "deleted_at": null
+  }
+]

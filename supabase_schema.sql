@@ -217,7 +217,7 @@ CREATE POLICY "Users can update own daily lessons" ON user_daily_lessons
 -- Insert sample daily lessons for today
 INSERT INTO daily_lessons (title, description, type, duration, difficulty, points, date) VALUES
 ('Codzienna praktyka konwersacji', 'Ćwicz codzienne rozmowy po angielsku', 'chat', 5, 'beginner', 10, CURRENT_DATE),
-('Fiszki ze słownictwem', 'Powtórz i naucz się nowych słówek', 'words', 10, 'beginner', 15, CURRENT_DATE),
+('FISZKI ze słownictwem', 'Powtórz i naucz się nowych słówek', 'words', 10, 'beginner', 15, CURRENT_DATE),
 ('Quiz ze słuchania', 'Sprawdź swoje rozumienie ze słuchu', 'listening', 5, 'intermediate', 12, CURRENT_DATE),
 ('Ćwiczenie pisania', 'Ćwicz pisanie krótkich zdań', 'writing', 3, 'beginner', 8, CURRENT_DATE);
 

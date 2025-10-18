@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "54cb7a33-5d63-4775-9ab7-3b25c829bf59",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "could",
+    "term_lang": "en",
+    "translation": "mógłby/mogłaby",
+    "translation_lang": "pl",
+    "definition": "Polite request modal.",
+    "part_of_speech": "modal",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Could you open the window, please?",
+        "translation": "Czy mógłbyś otworzyć okno?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:00:00Z",
+      "last_review_at": "2025-10-06T11:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:00:00Z",
+    "updated_at": "2025-10-06T11:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "40125111-a397-4f6b-a58b-7929f6ea9fb5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "would",
+    "term_lang": "en",
+    "translation": "byłby/chciałby",
+    "translation_lang": "pl",
+    "definition": "Polite offers/requests; hypothetical.",
+    "part_of_speech": "modal",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Would you like some tea?",
+        "translation": "Czy chciałbyś herbaty?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:01:00Z",
+      "last_review_at": "2025-10-06T11:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:01:00Z",
+    "updated_at": "2025-10-06T11:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "898e9b90-1b72-4c90-bd5a-712e40c1e990",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "may I",
+    "term_lang": "en",
+    "translation": "czy mogę",
+    "translation_lang": "pl",
+    "definition": "Formal permission.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "May I come in?",
+        "translation": "Czy mogę wejść?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:02:00Z",
+      "last_review_at": "2025-10-06T11:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:02:00Z",
+    "updated_at": "2025-10-06T11:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a8de2aca-e471-483e-8da6-62988ae90a44",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "can you",
+    "term_lang": "en",
+    "translation": "czy możesz",
+    "translation_lang": "pl",
+    "definition": "Neutral request.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Can you help me?",
+        "translation": "Czy możesz mi pomóc?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:03:00Z",
+      "last_review_at": "2025-10-06T11:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:03:00Z",
+    "updated_at": "2025-10-06T11:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a5c7461b-7203-4bd9-a8ed-a9b3a976b1bc",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "would you mind …ing",
+    "term_lang": "en",
+    "translation": "czy miał(a)byś coś przeciw …",
+    "translation_lang": "pl",
+    "definition": "Very polite request.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Would you mind closing the door?",
+        "translation": "Czy miałbyś coś przeciwko zamknięciu drzwi?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:04:00Z",
+      "last_review_at": "2025-10-06T11:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:04:00Z",
+    "updated_at": "2025-10-06T11:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8e703ac6-e8c3-4e02-939b-ddb81c8d2fff",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "could you possibly",
+    "term_lang": "en",
+    "translation": "czy mógłbyś ewentualnie",
+    "translation_lang": "pl",
+    "definition": "Extra polite request.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Could you possibly send it today?",
+        "translation": "Czy mógłbyś ewentualnie wysłać to dziś?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:05:00Z",
+      "last_review_at": "2025-10-06T11:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:05:00Z",
+    "updated_at": "2025-10-06T11:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f7e18574-f775-4d94-8f4a-95629a4907c7",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "shall we",
+    "term_lang": "en",
+    "translation": "może byśmy (propozycja)",
+    "translation_lang": "pl",
+    "definition": "Polite suggestion including the speaker.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Shall we start?",
+        "translation": "Może zaczniemy?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:06:00Z",
+      "last_review_at": "2025-10-06T11:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:06:00Z",
+    "updated_at": "2025-10-06T11:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1576477e-3a8a-45c1-b680-ef5c12b5b497",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "let’s",
+    "term_lang": "en",
+    "translation": "zróbmy (propozycja)",
+    "translation_lang": "pl",
+    "definition": "Informal suggestion including the speaker.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Let’s take a break.",
+        "translation": "Zróbmy przerwę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:07:00Z",
+      "last_review_at": "2025-10-06T11:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:07:00Z",
+    "updated_at": "2025-10-06T11:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0a5f712a-012c-45f3-a9fb-773d67c480f2",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "how about …ing",
+    "term_lang": "en",
+    "translation": "co powiesz na …",
+    "translation_lang": "pl",
+    "definition": "Suggestion phrase.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "How about going for a walk?",
+        "translation": "Co powiesz na spacer?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:08:00Z",
+      "last_review_at": "2025-10-06T11:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:08:00Z",
+    "updated_at": "2025-10-06T11:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8cafa9e9-3516-4019-89ca-139cb53651b1",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "why don’t we",
+    "term_lang": "en",
+    "translation": "a może byśmy",
+    "translation_lang": "pl",
+    "definition": "Suggestion phrase.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Why don’t we order pizza?",
+        "translation": "A może zamówimy pizzę?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:09:00Z",
+      "last_review_at": "2025-10-06T11:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:09:00Z",
+    "updated_at": "2025-10-06T11:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e3e0d3cf-ec29-4c1d-81e7-1918106040a5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "should",
+    "term_lang": "en",
+    "translation": "powinien/powinna",
+    "translation_lang": "pl",
+    "definition": "Giving advice.",
+    "part_of_speech": "modal",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You should see a dentist.",
+        "translation": "Powinieneś iść do dentysty."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:10:00Z",
+      "last_review_at": "2025-10-06T11:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:10:00Z",
+    "updated_at": "2025-10-06T11:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "963c7b42-cd8e-40f4-ba48-c7ccf648f790",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "ought to (A2+)",
+    "term_lang": "en",
+    "translation": "powinieneś (bardziej formalnie)",
+    "translation_lang": "pl",
+    "definition": "Advice; slightly formal.",
+    "part_of_speech": "modal",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You ought to rest more.",
+        "translation": "Powinieneś więcej odpoczywać."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:11:00Z",
+      "last_review_at": "2025-10-06T11:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:11:00Z",
+    "updated_at": "2025-10-06T11:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3d23af8e-83c8-4ecd-b1b9-6cd8d048bf7d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "would rather (A2/B1)",
+    "term_lang": "en",
+    "translation": "wolałbym raczej",
+    "translation_lang": "pl",
+    "definition": "Preference structure.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I would rather stay at home.",
+        "translation": "Wolałbym raczej zostać w domu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:12:00Z",
+      "last_review_at": "2025-10-06T11:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:12:00Z",
+    "updated_at": "2025-10-06T11:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "649c6a55-d8bb-4890-aa5d-f9214a96c048",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "request",
+    "term_lang": "en",
+    "translation": "prośba",
+    "translation_lang": "pl",
+    "definition": "Asking politely for something.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Your request is reasonable.",
+        "translation": "Twoja prośba jest rozsądna."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:13:00Z",
+      "last_review_at": "2025-10-06T11:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:13:00Z",
+    "updated_at": "2025-10-06T11:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f67eb3e5-e13a-44bc-ba8b-b34c699a2e41",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "suggestion",
+    "term_lang": "en",
+    "translation": "propozycja",
+    "translation_lang": "pl",
+    "definition": "An idea for what to do.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "That’s a good suggestion.",
+        "translation": "To dobra propozycja."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-14-modals-requests-suggestions",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:14:00Z",
+      "last_review_at": "2025-10-06T11:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:14:00Z",
+    "updated_at": "2025-10-06T11:14:00Z",
+    "deleted_at": null
+  }
+]

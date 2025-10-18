@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "ad124955-224f-4735-a884-2bd06b6440c2",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "like + -ing",
+    "term_lang": "en",
+    "translation": "lubić + czasownik z -ing",
+    "translation_lang": "pl",
+    "definition": "To talk about general enjoyment.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I like reading in bed.",
+        "translation": "Lubię czytać w łóżku."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:30:00Z",
+      "last_review_at": "2025-10-06T11:30:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:30:00Z",
+    "updated_at": "2025-10-06T11:30:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "437bfe3a-7bf4-4d82-8f33-47426edd4910",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "love + -ing",
+    "term_lang": "en",
+    "translation": "kochać + -ing",
+    "translation_lang": "pl",
+    "definition": "To talk about strong enjoyment.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She loves swimming in the sea.",
+        "translation": "Ona kocha pływać w morzu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:31:00Z",
+      "last_review_at": "2025-10-06T11:31:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:31:00Z",
+    "updated_at": "2025-10-06T11:31:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a1058fb5-3432-4b17-a479-f4083a2ad1a3",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "hate + -ing",
+    "term_lang": "en",
+    "translation": "nienawidzić + -ing",
+    "translation_lang": "pl",
+    "definition": "To talk about strong dislike.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He hates waking up early.",
+        "translation": "On nienawidzi wstawać wcześnie."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:32:00Z",
+      "last_review_at": "2025-10-06T11:32:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:32:00Z",
+    "updated_at": "2025-10-06T11:32:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a916be82-b318-4263-a2bb-9f307fd82c21",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "enjoy + -ing",
+    "term_lang": "en",
+    "translation": "cieszyć się/lubić + -ing",
+    "translation_lang": "pl",
+    "definition": "To say you find something pleasant.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We enjoy cooking together.",
+        "translation": "Lubimy gotować razem."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:33:00Z",
+      "last_review_at": "2025-10-06T11:33:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:33:00Z",
+    "updated_at": "2025-10-06T11:33:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f84f28b2-a316-46e1-8201-6c3e1de319ed",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "prefer + -ing",
+    "term_lang": "en",
+    "translation": "woleć + -ing",
+    "translation_lang": "pl",
+    "definition": "To show preference.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I prefer walking to driving.",
+        "translation": "Wolę chodzić niż jeździć."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:34:00Z",
+      "last_review_at": "2025-10-06T11:34:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:34:00Z",
+    "updated_at": "2025-10-06T11:34:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5d8e70f9-757b-4389-9218-37442843b47f",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "want to + V",
+    "term_lang": "en",
+    "translation": "chcieć + bezokolicznik",
+    "translation_lang": "pl",
+    "definition": "To express a wish/intention.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I want to learn English.",
+        "translation": "Chcę uczyć się angielskiego."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:35:00Z",
+      "last_review_at": "2025-10-06T11:35:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:35:00Z",
+    "updated_at": "2025-10-06T11:35:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0e5bf2ef-7691-47fc-bc91-f5bea8db4754",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "need to + V",
+    "term_lang": "en",
+    "translation": "musieć/trzeba + bezokolicznik",
+    "translation_lang": "pl",
+    "definition": "To express necessity.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You need to rest.",
+        "translation": "Musisz odpocząć."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:36:00Z",
+      "last_review_at": "2025-10-06T11:36:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:36:00Z",
+    "updated_at": "2025-10-06T11:36:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1221a0bd-1977-4891-a608-a08c9547bdc0",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "would like to + V",
+    "term_lang": "en",
+    "translation": "chciałbym/chciałabym + bezokolicznik",
+    "translation_lang": "pl",
+    "definition": "Polite desire.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I would like to book a room.",
+        "translation": "Chciałbym zarezerwować pokój."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:37:00Z",
+      "last_review_at": "2025-10-06T11:37:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:37:00Z",
+    "updated_at": "2025-10-06T11:37:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0d9f7464-9cee-428a-894a-b0628e7a3035",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "try to + V",
+    "term_lang": "en",
+    "translation": "próbować + bezokolicznik",
+    "translation_lang": "pl",
+    "definition": "Attempt to do something difficult.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Try to finish today.",
+        "translation": "Spróbuj skończyć dziś."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:38:00Z",
+      "last_review_at": "2025-10-06T11:38:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:38:00Z",
+    "updated_at": "2025-10-06T11:38:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2ab37cd0-af52-427a-9e88-c3f7acbefcb1",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "try + -ing",
+    "term_lang": "en",
+    "translation": "spróbować + -ing (eksperyment)",
+    "translation_lang": "pl",
+    "definition": "Test a possible solution.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Try adding more salt.",
+        "translation": "Spróbuj dodać więcej soli."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:39:00Z",
+      "last_review_at": "2025-10-06T11:39:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:39:00Z",
+    "updated_at": "2025-10-06T11:39:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "d551e191-33c3-424d-81e4-07846efee42d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "start/begin + -ing/to",
+    "term_lang": "en",
+    "translation": "zacząć + -ing/lub + to",
+    "translation_lang": "pl",
+    "definition": "Both forms normally correct with little change in meaning.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She began to speak / speaking.",
+        "translation": "Ona zaczęła mówić."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:40:00Z",
+      "last_review_at": "2025-10-06T11:40:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:40:00Z",
+    "updated_at": "2025-10-06T11:40:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c82966e1-21d2-4f17-859f-60ce0ac14845",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "stop + -ing",
+    "term_lang": "en",
+    "translation": "przestać coś robić",
+    "translation_lang": "pl",
+    "definition": "Finish an activity.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "He stopped smoking.",
+        "translation": "On przestał palić."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:41:00Z",
+      "last_review_at": "2025-10-06T11:41:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:41:00Z",
+    "updated_at": "2025-10-06T11:41:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "47ac04c4-0c08-4f10-a4cf-c591834a879c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "stop to + V",
+    "term_lang": "en",
+    "translation": "zatrzymać się, żeby coś zrobić",
+    "translation_lang": "pl",
+    "definition": "Pause one action in order to do another.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We stopped to buy water.",
+        "translation": "Zatrzymaliśmy się, żeby kupić wodę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:42:00Z",
+      "last_review_at": "2025-10-06T11:42:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:42:00Z",
+    "updated_at": "2025-10-06T11:42:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6d2209bd-9494-4cee-9169-5092e9a742a1",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "learn to + V",
+    "term_lang": "en",
+    "translation": "uczyć się + bezokolicznik",
+    "translation_lang": "pl",
+    "definition": "Gain ability.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I’m learning to drive.",
+        "translation": "Uczę się prowadzić."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:43:00Z",
+      "last_review_at": "2025-10-06T11:43:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:43:00Z",
+    "updated_at": "2025-10-06T11:43:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f5201379-043b-4375-b433-7f4165aa54e9",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "go + -ing",
+    "term_lang": "en",
+    "translation": "iść + -ing (aktywności)",
+    "translation_lang": "pl",
+    "definition": "Used with activities (shopping, swimming…).",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Let’s go swimming.",
+        "translation": "Chodźmy popływać."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-16-gerunds-infinitives",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:44:00Z",
+      "last_review_at": "2025-10-06T11:44:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:44:00Z",
+    "updated_at": "2025-10-06T11:44:00Z",
+    "deleted_at": null
+  }
+]

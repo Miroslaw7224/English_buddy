@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "b3acf578-8f1a-4e1c-a6b4-90be18f74f43",
+    "user_id": null,
+    "term": "Not until ... did ...",
+    "term_lang": "en",
+    "translation": "Dopiero gdy ...",
+    "translation_lang": "pl",
+    "definition": "inversion for emphasis of time",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Not until midnight did the servers recover.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "94ff804b-13bf-49fa-bf77-4170d79526eb",
+    "user_id": null,
+    "term": "Hardly ... when ...",
+    "term_lang": "en",
+    "translation": "Ledwie ... gdy ...",
+    "translation_lang": "pl",
+    "definition": "inversion showing immediacy",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Hardly had we started when the alarm sounded.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "62b64b65-e29a-444f-816d-efeaf404820e",
+    "user_id": null,
+    "term": "No sooner ... than ...",
+    "term_lang": "en",
+    "translation": "Ledwo ... niż ...",
+    "translation_lang": "pl",
+    "definition": "inversion for rapid sequence",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "No sooner had it launched than users reported bugs.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5f59b8fd-1b3b-401b-9b0f-040f4397d5c7",
+    "user_id": null,
+    "term": "Seldom/Rarely ...",
+    "term_lang": "en",
+    "translation": "Rzadko ...",
+    "translation_lang": "pl",
+    "definition": "fronted adverbial inversion",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Seldom have we seen such clarity.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "996d8860-76f1-48c9-8312-f3b50a7eeb25",
+    "user_id": null,
+    "term": "Little did ... know",
+    "term_lang": "en",
+    "translation": "Nie wiedzieć, że ...",
+    "translation_lang": "pl",
+    "definition": "inversion to highlight lack of knowledge",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Little did they know it was a scam.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9d84f98c-c6e7-4a6f-a367-ca5eef7cee56",
+    "user_id": null,
+    "term": "Only then/after ... did ...",
+    "term_lang": "en",
+    "translation": "Dopiero wtedy/po ...",
+    "translation_lang": "pl",
+    "definition": "restrictive inversion",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Only after the audit did issues emerge.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0f848b19-788f-43f0-9a32-ffc83876f6a0",
+    "user_id": null,
+    "term": "Under no circumstances ...",
+    "term_lang": "en",
+    "translation": "W żadnych okolicznościach ...",
+    "translation_lang": "pl",
+    "definition": "negative inversion for prohibition",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Under no circumstances should data be shared.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "87181020-fafe-4690-9304-51ae2da3e1cd",
+    "user_id": null,
+    "term": "It is/was ... that ...",
+    "term_lang": "en",
+    "translation": "To jest/było ... które ...",
+    "translation_lang": "pl",
+    "definition": "cleft sentence for focus",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "It was the budget that delayed the project.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "3abf1363-fe82-4423-9709-e7d4c4a0a1e3",
+    "user_id": null,
+    "term": "What ... is/was ...",
+    "term_lang": "en",
+    "translation": "To, co ... to ...",
+    "translation_lang": "pl",
+    "definition": "pseudo-cleft structure",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "What we need is clearer criteria.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0b329f9e-f809-4c0a-b714-1bc73ce8f2c4",
+    "user_id": null,
+    "term": "So + adj + that ...",
+    "term_lang": "en",
+    "translation": "Tak + przymiotnik + że ...",
+    "translation_lang": "pl",
+    "definition": "emphatic cause–result",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "So complex was the task that we split it.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "32d2470a-9ed4-4317-a3b3-bfe6d8a7e3a5",
+    "user_id": null,
+    "term": "Only by ...ing ...",
+    "term_lang": "en",
+    "translation": "Tylko poprzez ...",
+    "translation_lang": "pl",
+    "definition": "fronted 'only' clause",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Only by iterating could we improve.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a64481b3-1181-42b2-a7f9-8e35041560f8",
+    "user_id": null,
+    "term": "Not only ... but (also) ...",
+    "term_lang": "en",
+    "translation": "Nie tylko ... ale (także) ...",
+    "translation_lang": "pl",
+    "definition": "correlative emphasis",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Not only was it late, but it was over budget.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b07e1a7f-1e26-4817-8635-d92d19c685ad",
+    "user_id": null,
+    "term": "Were it not for ...",
+    "term_lang": "en",
+    "translation": "Gdyby nie ...",
+    "translation_lang": "pl",
+    "definition": "formal conditional inversion",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Were it not for caching, the site would crash.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2e5e021d-6586-47ec-986b-7b183783d0b7",
+    "user_id": null,
+    "term": "Had ... (pp), ... would ...",
+    "term_lang": "en",
+    "translation": "Gdyby ... (Past Perfect) ...",
+    "translation_lang": "pl",
+    "definition": "elliptical third conditional",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Had we known, we would have acted sooner.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6eccd90a-1f11-4cf1-9952-bf25c0e9e7dc",
+    "user_id": null,
+    "term": "Should ... , ...",
+    "term_lang": "en",
+    "translation": "Jeśli by ... (formal)",
+    "translation_lang": "pl",
+    "definition": "inverted first conditional",
+    "part_of_speech": "grammar_form",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Should you need assistance, call support.",
+        "translation": null
+      }
+    ],
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "category": "complex-syntax-inversion",
+    "deck_id": null,
+    "tags": [
+      "C1"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 1,
+      "ease": 250,
+      "due_at": "2025-10-06T12:15:12Z",
+      "last_review_at": "2025-10-06T12:15:12Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": null,
+    "created_at": "2025-10-06T12:15:12Z",
+    "updated_at": "2025-10-06T12:15:12Z",
+    "deleted_at": null
+  }
+]

@@ -16,7 +16,11 @@ export default function FlashcardsPage() {
     setIsLoading(true);
     try {
       const loadedFlashcards = await loadFlashcards(level);
-      setFlashcards(loadedFlashcards);
+      
+      // Shuffle flashcards to mix topics (greetings, time-days, family, etc.)
+      const shuffled = [...loadedFlashcards].sort(() => Math.random() - 0.5);
+      
+      setFlashcards(shuffled);
     } catch (error) {
       console.error('Error loading flashcards:', error);
     } finally {

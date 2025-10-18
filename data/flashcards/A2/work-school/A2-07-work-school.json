@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "891ca7a5-e6a0-42e3-8d56-129120a32c8b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "colleague",
+    "term_lang": "en",
+    "translation": "kolega/koleżanka z pracy",
+    "translation_lang": "pl",
+    "definition": "A person you work with.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My colleagues are helpful.",
+        "translation": "Moi koledzy z pracy są pomocni."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:30:00Z",
+      "last_review_at": "2025-10-06T10:30:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:30:00Z",
+    "updated_at": "2025-10-06T10:30:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2819826d-e8b1-413e-bc3c-92a995c14010",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "boss/manager",
+    "term_lang": "en",
+    "translation": "szef/kierownik",
+    "translation_lang": "pl",
+    "definition": "The person in charge at work.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Our manager is fair.",
+        "translation": "Nasz kierownik jest sprawiedliwy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:31:00Z",
+      "last_review_at": "2025-10-06T10:31:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:31:00Z",
+    "updated_at": "2025-10-06T10:31:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b0fa80df-087d-40ec-993b-4c1b17231a33",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "deadline",
+    "term_lang": "en",
+    "translation": "termin (końcowy)",
+    "translation_lang": "pl",
+    "definition": "The latest time to finish something.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The deadline is on Friday.",
+        "translation": "Termin jest w piątek."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:32:00Z",
+      "last_review_at": "2025-10-06T10:32:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:32:00Z",
+    "updated_at": "2025-10-06T10:32:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a67eff5c-b07c-4bb5-b2c3-7efe59276915",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "meeting",
+    "term_lang": "en",
+    "translation": "spotkanie",
+    "translation_lang": "pl",
+    "definition": "A time when people discuss things.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We have a meeting at ten.",
+        "translation": "Mamy spotkanie o dziesiątej."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:33:00Z",
+      "last_review_at": "2025-10-06T10:33:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:33:00Z",
+    "updated_at": "2025-10-06T10:33:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "046d3013-8471-4946-ac07-797275caeaca",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "task",
+    "term_lang": "en",
+    "translation": "zadanie",
+    "translation_lang": "pl",
+    "definition": "A piece of work you have to do.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "This is my main task today.",
+        "translation": "To moje główne zadanie dziś."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:34:00Z",
+      "last_review_at": "2025-10-06T10:34:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:34:00Z",
+    "updated_at": "2025-10-06T10:34:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "76c1ef58-a8bf-4c45-bc10-44ba0e5b0d5e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "break",
+    "term_lang": "en",
+    "translation": "przerwa",
+    "translation_lang": "pl",
+    "definition": "A short rest from work or study.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Let’s take a break.",
+        "translation": "Zróbmy przerwę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:35:00Z",
+      "last_review_at": "2025-10-06T10:35:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:35:00Z",
+    "updated_at": "2025-10-06T10:35:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0618d98e-d4a1-4571-85ae-f51d1c451696",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "timetable/schedule",
+    "term_lang": "en",
+    "translation": "plan lekcji/harmonogram",
+    "translation_lang": "pl",
+    "definition": "A plan that shows times of classes.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "My timetable is full on Monday.",
+        "translation": "Mój plan lekcji jest pełny w poniedziałek."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:36:00Z",
+      "last_review_at": "2025-10-06T10:36:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:36:00Z",
+    "updated_at": "2025-10-06T10:36:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "afcccd4c-7c29-4799-a313-3d2abdec184e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "subject",
+    "term_lang": "en",
+    "translation": "przedmiot (szkolny)",
+    "translation_lang": "pl",
+    "definition": "Area of study like math or English.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "English is my favourite subject.",
+        "translation": "Angielski to mój ulubiony przedmiot."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:37:00Z",
+      "last_review_at": "2025-10-06T10:37:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:37:00Z",
+    "updated_at": "2025-10-06T10:37:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e118df2f-fb60-4d41-9c97-126efb2f5a3f",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "homework assignment",
+    "term_lang": "en",
+    "translation": "zadanie domowe",
+    "translation_lang": "pl",
+    "definition": "Work given by a teacher to do at home.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We have a homework assignment.",
+        "translation": "Mamy zadanie domowe."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:38:00Z",
+      "last_review_at": "2025-10-06T10:38:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:38:00Z",
+    "updated_at": "2025-10-06T10:38:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c25847d6-687b-4be6-8393-07454e5c9e1c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "exam",
+    "term_lang": "en",
+    "translation": "egzamin",
+    "translation_lang": "pl",
+    "definition": "An important test.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "The exam starts next week.",
+        "translation": "Egzamin zaczyna się w przyszłym tygodniu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:39:00Z",
+      "last_review_at": "2025-10-06T10:39:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:39:00Z",
+    "updated_at": "2025-10-06T10:39:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "eb47b322-a911-46cf-8896-85325c41fde9",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "prepare",
+    "term_lang": "en",
+    "translation": "przygotować (się)",
+    "translation_lang": "pl",
+    "definition": "To make ready.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I prepare for tests at the weekend.",
+        "translation": "Przygotowuję się do testów w weekend."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:40:00Z",
+      "last_review_at": "2025-10-06T10:40:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:40:00Z",
+    "updated_at": "2025-10-06T10:40:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "f8c6eda7-c267-4877-b7c1-c1715e11e282",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "attend",
+    "term_lang": "en",
+    "translation": "uczęszczać",
+    "translation_lang": "pl",
+    "definition": "To go to an event or class.",
+    "part_of_speech": "verb",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I attend evening classes.",
+        "translation": "Uczęszczam na zajęcia wieczorowe."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:41:00Z",
+      "last_review_at": "2025-10-06T10:41:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:41:00Z",
+    "updated_at": "2025-10-06T10:41:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7887c12a-de3e-43ae-9d5e-c2f1e828971b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "responsible for",
+    "term_lang": "en",
+    "translation": "odpowiedzialny za",
+    "translation_lang": "pl",
+    "definition": "In charge of something.",
+    "part_of_speech": "adjective",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She is responsible for clients.",
+        "translation": "Ona jest odpowiedzialna za klientów."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:42:00Z",
+      "last_review_at": "2025-10-06T10:42:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:42:00Z",
+    "updated_at": "2025-10-06T10:42:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "bd105049-85d3-43a5-b2c5-bff3eff76b9c",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "salary",
+    "term_lang": "en",
+    "translation": "pensja",
+    "translation_lang": "pl",
+    "definition": "Money you get for work.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "I get my salary monthly.",
+        "translation": "Dostaję pensję co miesiąc."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:43:00Z",
+      "last_review_at": "2025-10-06T10:43:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:43:00Z",
+    "updated_at": "2025-10-06T10:43:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7e7ec4f3-7ea2-47db-be35-3ed7d401a835",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "overtime",
+    "term_lang": "en",
+    "translation": "nadgodziny",
+    "translation_lang": "pl",
+    "definition": "Extra hours of work.",
+    "part_of_speech": "noun",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We sometimes do overtime.",
+        "translation": "Czasem robimy nadgodziny."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-07-work-school",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:44:00Z",
+      "last_review_at": "2025-10-06T10:44:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:44:00Z",
+    "updated_at": "2025-10-06T10:44:00Z",
+    "deleted_at": null
+  }
+]

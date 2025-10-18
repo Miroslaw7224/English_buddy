@@ -1,0 +1,662 @@
+[
+  {
+    "word_id": "2eef18c1-80d3-4803-ab70-99c2da6c14ca",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "some",
+    "term_lang": "en",
+    "translation": "trochę / kilka",
+    "translation_lang": "pl",
+    "definition": "Used in positive statements and offers.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We have some milk.",
+        "translation": "Mamy trochę mleka."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:00:00Z",
+      "last_review_at": "2025-10-06T11:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:00:00Z",
+    "updated_at": "2025-10-06T11:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "7fb545d2-2933-45b6-a299-94b54107cbad",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "any",
+    "term_lang": "en",
+    "translation": "żaden/jakiś (w pyt. i przecz.)",
+    "translation_lang": "pl",
+    "definition": "Used in questions/negatives or meaning 'any at all'.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Do you have any questions?",
+        "translation": "Czy masz jakieś pytania?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:01:00Z",
+      "last_review_at": "2025-10-06T11:01:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:01:00Z",
+    "updated_at": "2025-10-06T11:01:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0f5e3d10-4157-4088-a16c-8bcc8b208a9d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "much",
+    "term_lang": "en",
+    "translation": "dużo (niepoliczalne)",
+    "translation_lang": "pl",
+    "definition": "A large amount with uncountable nouns.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We don’t have much time.",
+        "translation": "Nie mamy dużo czasu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:02:00Z",
+      "last_review_at": "2025-10-06T11:02:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:02:00Z",
+    "updated_at": "2025-10-06T11:02:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "00e8c175-95bf-457e-8a50-66654446a774",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "many",
+    "term_lang": "en",
+    "translation": "wiele (policzalne)",
+    "translation_lang": "pl",
+    "definition": "A large number with countable nouns.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There are many books here.",
+        "translation": "Jest tu wiele książek."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:03:00Z",
+      "last_review_at": "2025-10-06T11:03:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:03:00Z",
+    "updated_at": "2025-10-06T11:03:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "6f1fd2f5-4f9c-4b15-bdc7-a115c8abbda4",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "a lot of / lots of",
+    "term_lang": "en",
+    "translation": "dużo",
+    "translation_lang": "pl",
+    "definition": "Large quantity (both types of nouns).",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "She has a lot of friends.",
+        "translation": "Ona ma dużo przyjaciół."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:04:00Z",
+      "last_review_at": "2025-10-06T11:04:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:04:00Z",
+    "updated_at": "2025-10-06T11:04:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1d61a17e-14ef-4420-966b-6a2f2300db2d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "plenty of",
+    "term_lang": "en",
+    "translation": "mnóstwo",
+    "translation_lang": "pl",
+    "definition": "More than enough.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There is plenty of space.",
+        "translation": "Jest mnóstwo miejsca."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:05:00Z",
+      "last_review_at": "2025-10-06T11:05:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:05:00Z",
+    "updated_at": "2025-10-06T11:05:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "e6df2c07-3a92-46b0-a26b-0ad727cfa788",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "a few / few",
+    "term_lang": "en",
+    "translation": "kilka / niewiele (policzalne)",
+    "translation_lang": "pl",
+    "definition": "Small number; 'few' = not enough.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We have a few apples, but few bananas.",
+        "translation": "Mamy kilka jabłek, ale niewiele bananów."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:06:00Z",
+      "last_review_at": "2025-10-06T11:06:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:06:00Z",
+    "updated_at": "2025-10-06T11:06:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "efc583cd-bfcd-4af5-af33-41b65eddaa13",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "a little / little",
+    "term_lang": "en",
+    "translation": "trochę / mało (niepoliczalne)",
+    "translation_lang": "pl",
+    "definition": "Small amount; 'little' = not enough.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There is a little water, but little time.",
+        "translation": "Jest trochę wody, ale mało czasu."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:07:00Z",
+      "last_review_at": "2025-10-06T11:07:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:07:00Z",
+    "updated_at": "2025-10-06T11:07:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "1b6fb7f9-14f7-468d-81af-3f28718655b8",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "too much",
+    "term_lang": "en",
+    "translation": "zbyt dużo (niepoliczalne)",
+    "translation_lang": "pl",
+    "definition": "More than is good/needed.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There is too much sugar in this tea.",
+        "translation": "W tej herbacie jest za dużo cukru."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:08:00Z",
+      "last_review_at": "2025-10-06T11:08:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:08:00Z",
+    "updated_at": "2025-10-06T11:08:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "b2d12a81-e861-4c9d-a3b5-f3c44d0b12bb",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "too many",
+    "term_lang": "en",
+    "translation": "zbyt wiele (policzalne)",
+    "translation_lang": "pl",
+    "definition": "More than is good/needed.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "There are too many emails today.",
+        "translation": "Dziś jest za dużo maili."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:09:00Z",
+      "last_review_at": "2025-10-06T11:09:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:09:00Z",
+    "updated_at": "2025-10-06T11:09:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "0607eae7-eaf7-4f33-96ff-f2e42612d2aa",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "enough",
+    "term_lang": "en",
+    "translation": "wystarczająco",
+    "translation_lang": "pl",
+    "definition": "As much/many as needed.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "We don’t have enough chairs.",
+        "translation": "Nie mamy wystarczająco krzeseł."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:10:00Z",
+      "last_review_at": "2025-10-06T11:10:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:10:00Z",
+    "updated_at": "2025-10-06T11:10:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c5e07d12-b1b9-4d8b-a00f-d9443c15a03f",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "both",
+    "term_lang": "en",
+    "translation": "oboje/oba",
+    "translation_lang": "pl",
+    "definition": "Two things together.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Both options are good.",
+        "translation": "Obie opcje są dobre."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:11:00Z",
+      "last_review_at": "2025-10-06T11:11:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:11:00Z",
+    "updated_at": "2025-10-06T11:11:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "5708b69a-5596-4508-94ea-e32c0a9d17a0",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "either",
+    "term_lang": "en",
+    "translation": "którykolwiek/jeden z dwóch",
+    "translation_lang": "pl",
+    "definition": "One of two; negative: 'either…or…'.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "You can choose either cake or ice cream.",
+        "translation": "Możesz wybrać ciasto albo lody."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:12:00Z",
+      "last_review_at": "2025-10-06T11:12:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:12:00Z",
+    "updated_at": "2025-10-06T11:12:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "4b6393a0-20a2-441e-a294-8ba30a17e6a1",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "neither",
+    "term_lang": "en",
+    "translation": "żaden z dwóch",
+    "translation_lang": "pl",
+    "definition": "Not one and not the other.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Neither answer is correct.",
+        "translation": "Żadna z dwóch odpowiedzi nie jest poprawna."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:13:00Z",
+      "last_review_at": "2025-10-06T11:13:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:13:00Z",
+    "updated_at": "2025-10-06T11:13:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "8a93df0c-1604-4a9e-ac4d-d3d3faed52e9",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "each",
+    "term_lang": "en",
+    "translation": "każdy (z osobna)",
+    "translation_lang": "pl",
+    "definition": "Every one in a group, individually.",
+    "part_of_speech": "determiner",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Each student has a book.",
+        "translation": "Każdy uczeń ma książkę."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A2",
+    "category": "A2-13-quantifiers",
+    "deck_id": null,
+    "tags": [
+      "A2"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:14:00Z",
+      "last_review_at": "2025-10-06T11:14:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:14:00Z",
+    "updated_at": "2025-10-06T11:14:00Z",
+    "deleted_at": null
+  }
+]

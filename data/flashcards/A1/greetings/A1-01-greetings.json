@@ -1,0 +1,677 @@
+[
+  {
+    "word_id": "e4b1e662-cc1a-4007-a3ab-302b0067dfc6",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "hello",
+    "term_lang": "en",
+    "translation": "cześć",
+    "translation_lang": "pl",
+    "definition": "A greeting used when you meet someone.",
+    "part_of_speech": "interjection",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Hello, how are you?",
+        "translation": "Cześć, jak się masz?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T09:00:00Z",
+      "last_review_at": "2025-10-06T09:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T09:00:00Z",
+    "updated_at": "2025-10-06T09:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2dd6f97e-8c81-4341-83b4-916660c4e060",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "hi",
+    "term_lang": "en",
+    "translation": "hej",
+    "translation_lang": "pl",
+    "definition": "An informal way to say hello.",
+    "part_of_speech": "interjection",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Hi! I’m Tom.",
+        "translation": "Hej! Jestem Tomek."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T10:00:00Z",
+      "last_review_at": "2025-10-06T10:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T10:00:00Z",
+    "updated_at": "2025-10-06T10:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "2d66d814-0a75-4649-a1ad-7536db921df0",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "good morning",
+    "term_lang": "en",
+    "translation": "dzień dobry (rano)",
+    "translation_lang": "pl",
+    "definition": "A polite greeting used in the morning.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Good morning, Mrs Smith.",
+        "translation": "Dzień dobry, pani Smith."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T11:00:00Z",
+      "last_review_at": "2025-10-06T11:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T11:00:00Z",
+    "updated_at": "2025-10-06T11:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a82c8b00-1ec6-4159-a44d-553638130264",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "good afternoon",
+    "term_lang": "en",
+    "translation": "dzień dobry (po południu)",
+    "translation_lang": "pl",
+    "definition": "A polite greeting used in the afternoon.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Good afternoon, everyone.",
+        "translation": "Dzień dobry, wszyscy."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T12:00:00Z",
+      "last_review_at": "2025-10-06T12:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T12:00:00Z",
+    "updated_at": "2025-10-06T12:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "156eeda5-443c-43e8-b0e9-3b37d94ff888",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "good evening",
+    "term_lang": "en",
+    "translation": "dobry wieczór",
+    "translation_lang": "pl",
+    "definition": "A polite greeting used in the evening.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Good evening, sir.",
+        "translation": "Dobry wieczór, proszę pana."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T13:00:00Z",
+      "last_review_at": "2025-10-06T13:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T13:00:00Z",
+    "updated_at": "2025-10-06T13:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "662aad84-bdf3-4d07-9abc-d234de7b093d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "goodbye",
+    "term_lang": "en",
+    "translation": "do widzenia",
+    "translation_lang": "pl",
+    "definition": "A polite way to say you are leaving.",
+    "part_of_speech": "interjection",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Goodbye! See you tomorrow.",
+        "translation": "Do widzenia! Do zobaczenia jutro."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T14:00:00Z",
+      "last_review_at": "2025-10-06T14:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T14:00:00Z",
+    "updated_at": "2025-10-06T14:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a9c67a20-cf77-4b24-8fff-fc875a16756b",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "bye",
+    "term_lang": "en",
+    "translation": "pa",
+    "translation_lang": "pl",
+    "definition": "A short, informal way to say goodbye.",
+    "part_of_speech": "interjection",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Bye! Have a nice day.",
+        "translation": "Pa! Miłego dnia."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T15:00:00Z",
+      "last_review_at": "2025-10-06T15:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T15:00:00Z",
+    "updated_at": "2025-10-06T15:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "ab3f490f-fd77-4878-8c2d-03acf585621e",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "see you",
+    "term_lang": "en",
+    "translation": "do zobaczenia",
+    "translation_lang": "pl",
+    "definition": "A friendly way to say you will meet again.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "See you later!",
+        "translation": "Do zobaczenia później!"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T16:00:00Z",
+      "last_review_at": "2025-10-06T16:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T16:00:00Z",
+    "updated_at": "2025-10-06T16:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "20f7f9c6-8e26-41db-a18f-3f1a97535834",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "please",
+    "term_lang": "en",
+    "translation": "proszę",
+    "translation_lang": "pl",
+    "definition": "A word used to make a request polite.",
+    "part_of_speech": "interjection",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Please open the window.",
+        "translation": "Proszę otworzyć okno."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T17:00:00Z",
+      "last_review_at": "2025-10-06T17:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T17:00:00Z",
+    "updated_at": "2025-10-06T17:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "cdce1458-0977-4bfe-b6ba-a50b42bcb06d",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "thank you",
+    "term_lang": "en",
+    "translation": "dziękuję",
+    "translation_lang": "pl",
+    "definition": "A phrase you say to show you are grateful.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Thank you for your help.",
+        "translation": "Dziękuję za pomoc."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T18:00:00Z",
+      "last_review_at": "2025-10-06T18:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T18:00:00Z",
+    "updated_at": "2025-10-06T18:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "9efe46cf-98dd-478f-ba3f-0eb73269cdf5",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "you’re welcome",
+    "term_lang": "en",
+    "translation": "proszę bardzo",
+    "translation_lang": "pl",
+    "definition": "A polite reply to 'thank you'.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "— Thank you! — You’re welcome.",
+        "translation": "— Dziękuję! — Proszę bardzo."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T19:00:00Z",
+      "last_review_at": "2025-10-06T19:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T19:00:00Z",
+    "updated_at": "2025-10-06T19:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "a60b32fc-0a4d-4bfe-bc53-98423e8feb87",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "excuse me",
+    "term_lang": "en",
+    "translation": "przepraszam (zaczepiając)",
+    "translation_lang": "pl",
+    "definition": "Used to get someone’s attention or pass by.",
+    "part_of_speech": "interjection",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Excuse me, where is the bank?",
+        "translation": "Przepraszam, gdzie jest bank?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T20:00:00Z",
+      "last_review_at": "2025-10-06T20:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T20:00:00Z",
+    "updated_at": "2025-10-06T20:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "c1f57844-bb60-4cf0-9830-9628fcbd5780",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "sorry",
+    "term_lang": "en",
+    "translation": "przepraszam (za coś)",
+    "translation_lang": "pl",
+    "definition": "Used to say you feel bad about something.",
+    "part_of_speech": "interjection",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Sorry, I’m late.",
+        "translation": "Przepraszam, spóźniłem się."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T21:00:00Z",
+      "last_review_at": "2025-10-06T21:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T21:00:00Z",
+    "updated_at": "2025-10-06T21:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "41693fcb-c417-44fc-856c-54f0e21823d0",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "what’s your name?",
+    "term_lang": "en",
+    "translation": "jak masz na imię?",
+    "translation_lang": "pl",
+    "definition": "A question to ask someone’s name.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "What’s your name?",
+        "translation": "Jak masz na imię?"
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T22:00:00Z",
+      "last_review_at": "2025-10-06T22:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T22:00:00Z",
+    "updated_at": "2025-10-06T22:00:00Z",
+    "deleted_at": null
+  },
+  {
+    "word_id": "128b9cd6-52e8-4274-8251-a2cec3a483ff",
+    "user_id": "11111111-1111-4111-8111-111111111111",
+    "term": "nice to meet you",
+    "term_lang": "en",
+    "translation": "miło cię poznać",
+    "translation_lang": "pl",
+    "definition": "A polite phrase used when you first meet someone.",
+    "part_of_speech": "phrase",
+    "ipa": null,
+    "lemma": null,
+    "inflections": [],
+    "examples": [
+      {
+        "text": "Nice to meet you, Anna.",
+        "translation": "Miło cię poznać, Anno."
+      }
+    ],
+    "difficulty": "beginner",
+    "cefr": "A1",
+    "category": "greetings",
+    "deck_id": null,
+    "tags": [
+      "basic",
+      "conversation"
+    ],
+    "audio_url": null,
+    "image_url": null,
+    "license": null,
+    "media_attribution": null,
+    "srs": {
+      "interval": 0,
+      "ease": 250,
+      "due_at": "2025-10-07T23:00:00Z",
+      "last_review_at": "2025-10-06T23:00:00Z",
+      "streak": 0,
+      "lapses": 0
+    },
+    "visibility": "private",
+    "status": "active",
+    "source": "in-house",
+    "created_at": "2025-10-06T23:00:00Z",
+    "updated_at": "2025-10-06T23:00:00Z",
+    "deleted_at": null
+  }
+]
